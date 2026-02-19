@@ -7,7 +7,7 @@
 session_start();
 
 // Admin password - should match leads.php
-define('ADMIN_PASSWORD', 'CHANGE_THIS_PASSWORD');
+define('ADMIN_PASSWORD', 'Silver@24');
 
 // Handle login
 if (isset($_POST['admin_password'])) {
