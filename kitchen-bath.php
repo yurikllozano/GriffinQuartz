@@ -323,12 +323,18 @@
 
         .application-card-image {
             height: 200px;
-            background-color: #f0f0f0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 4rem;
-            color: #FDB913;
+            overflow: hidden;
+        }
+
+        .application-card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .application-card:hover .application-card-image img {
+            transform: scale(1.05);
         }
 
         .application-card-content {
@@ -811,7 +817,7 @@
             <div class="applications-grid">
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-box-seam"></i>
+                        <img src="images/kitchen-island-waterfall.webp" alt="Luxury quartz kitchen island with waterfall edge" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Kitchen Islands</h3>
@@ -827,7 +833,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-grid-3x3"></i>
+                        <img src="images/kitchen-perimeter-countertops.webp" alt="Quartz perimeter countertops with backsplash" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Perimeter Countertops</h3>
@@ -843,7 +849,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-bricks"></i>
+                        <img src="images/kitchen-quartz-backsplash.webp" alt="Full-height quartz backsplash in luxury kitchen" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Quartz Backsplashes</h3>
@@ -859,7 +865,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-droplet-half"></i>
+                        <img src="images/kitchen-sink-cutout.webp" alt="Undermount sink with polished quartz countertop" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Sink & Cooktop Cutouts</h3>
@@ -901,7 +907,7 @@
             <div class="applications-grid">
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-moisture"></i>
+                        <img src="images/bathroom-vanity-tops.webp" alt="Luxury double vanity with quartz countertop" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Vanity Tops</h3>
@@ -917,7 +923,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-water"></i>
+                        <img src="images/bathroom-shower-surround.webp" alt="Quartz shower surround with glass enclosure" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Shower Surrounds</h3>
@@ -933,7 +939,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-heart-half"></i>
+                        <img src="images/bathroom-tub-surround.webp" alt="Freestanding tub with quartz surround" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Tub Surrounds</h3>
@@ -949,7 +955,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-stars"></i>
+                        <img src="images/bathroom-custom-features.webp" alt="Custom quartz bathroom features and shelving" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Custom Features</h3>
