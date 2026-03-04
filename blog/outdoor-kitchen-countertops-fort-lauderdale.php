@@ -10,7 +10,7 @@
     <meta name="keywords" content="outdoor kitchen countertops Fort Lauderdale, outdoor countertops pool area, weatherproof countertops Florida, outdoor granite countertops, quartz outdoor kitchen, Fort Lauderdale outdoor living">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale">
+    <link rel="canonical" href="https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -23,10 +23,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale">
+    <meta property="og:url" content="https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale">
     <meta property="og:title" content="Outdoor Kitchen Countertops for Fort Lauderdale Pool Areas">
     <meta property="og:description" content="Expert guide to outdoor kitchen countertops for Fort Lauderdale pool areas. Learn about UV-resistant materials and the best options for Florida's climate.">
-    <meta property="og:image" content="https://soflocountertops.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-11">
@@ -34,10 +34,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale">
+    <meta name="twitter:url" content="https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale">
     <meta name="twitter:title" content="Outdoor Kitchen Countertops for Fort Lauderdale Pool Areas">
     <meta name="twitter:description" content="Expert guide to outdoor kitchen countertops for Fort Lauderdale pool areas and outdoor living spaces.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,7 +53,7 @@
         "@type": "Article",
         "headline": "Outdoor Kitchen Countertops for Fort Lauderdale Pool Areas",
         "description": "Expert guide to outdoor kitchen countertops for Fort Lauderdale pool areas. Learn about UV-resistant materials, weather durability, and the best options for Florida's climate.",
-        "image": "https://soflocountertops.com/images/outdoor-kitchen-pool-firepit-dusk.webp",
+        "image": "https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp",
         "author": {
             "@type": "Organization",
             "name": "Griffin Quartz"
@@ -63,14 +63,14 @@
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "datePublished": "2025-01-11",
         "dateModified": "2025-01-11",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale"
+            "@id": "https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale"
         }
     }
     </script>
@@ -144,11 +144,11 @@
                     <h1>Outdoor Kitchen Countertops for Fort Lauderdale Pool Areas</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale&text=Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas%20https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale&media=https://soflocountertops.com/images/outdoor-kitchen-pool-firepit-dusk.webp&description=Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas%20https://soflocountertops.com/blog/outdoor-kitchen-countertops-fort-lauderdale" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale&text=Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas%20https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale&media=https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp&description=Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Outdoor%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Pool%20Areas%20https://griffinquartz.com/blog/outdoor-kitchen-countertops-fort-lauderdale" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

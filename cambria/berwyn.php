@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Berwyn quartz - swirly granite-like design of whites, ivories and creams with gold and silver hints. The ultimate versatile choice. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Berwyn, Berwyn quartz, granite look quartz, cream quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/berwyn">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/berwyn">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

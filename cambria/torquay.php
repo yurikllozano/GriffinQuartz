@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Torquay quartz - a classic Calacatta marble alternative with soft gray veining on white. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Torquay, Torquay quartz, Calacatta alternative, white marble quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/torquay">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/torquay">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

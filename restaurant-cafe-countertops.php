@@ -9,7 +9,7 @@
     <meta name="description" content="NSF certified quartz countertops for restaurants and cafés in South Florida. Bar tops, commercial kitchens, food prep surfaces, and dining areas. Fast installation, minimal downtime. Free estimates!">
     <meta name="keywords" content="restaurant countertops, cafe countertops, bar countertops, commercial kitchen countertops, food service countertops, NSF certified countertops, restaurant quartz, bar top installation, food prep countertops, restaurant countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/restaurant-cafe-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/restaurant-cafe-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Restaurant & Café Quartz Countertops | Food Service Specialists | Griffin Quartz">
     <meta property="og:description" content="NSF certified quartz surfaces for restaurants and cafés throughout South Florida. Bar tops, kitchens, and food prep areas.">
-    <meta property="og:url" content="https://soflocountertops.com/restaurant-cafe-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/restaurant-cafe-countertops">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -57,9 +57,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com"},
-            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://soflocountertops.com/commercial"},
-            {"@type": "ListItem", "position": 3, "name": "Restaurants & Cafés", "item": "https://soflocountertops.com/restaurant-cafe-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com"},
+            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://griffinquartz.com/commercial"},
+            {"@type": "ListItem", "position": 3, "name": "Restaurants & Cafés", "item": "https://griffinquartz.com/restaurant-cafe-countertops"}
         ]
     }
     </script>

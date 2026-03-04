@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Everleigh quartz - #4 best-selling design with cool gray and warm sand-honey tones. Statement meets subtlety. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Everleigh, Everleigh quartz, popular Cambria, warm gray quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/everleigh">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/everleigh">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

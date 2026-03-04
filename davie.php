@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Davie, countertop installation Davie FL, kitchen countertops Davie, bathroom countertops Davie, quartz fabrication Davie, countertop company Broward County, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/davie">
+    <link rel="canonical" href="https://griffinquartz.com/davie">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/davie">
+    <meta property="og:url" content="https://griffinquartz.com/davie">
     <meta property="og:title" content="Quartz Countertops Davie FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Davie. Serving Rolling Hills, Flamingo Gardens area & family communities. 200+ colors, FREE estimates.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -44,13 +44,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/davie#localbusiness",
+        "@id": "https://griffinquartz.com/davie#localbusiness",
         "name": "Griffin Quartz - Davie",
         "description": "Premium quartz countertop fabrication and installation in Davie, FL. Serving Rolling Hills, Flamingo Gardens area, and family communities.",
-        "url": "https://soflocountertops.com/davie",
+        "url": "https://griffinquartz.com/davie",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

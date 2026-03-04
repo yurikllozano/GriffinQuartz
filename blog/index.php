@@ -89,7 +89,7 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
     <meta name="keywords" content="quartz countertops blog, countertop guides South Florida, kitchen countertop tips, quartz installation guide, Fort Lauderdale countertops, Miami quartz countertops">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/<?= $category_slug ? '?category=' . htmlspecialchars($category_slug) : '' ?>">
+    <link rel="canonical" href="https://griffinquartz.com/blog/<?= $category_slug ? '?category=' . htmlspecialchars($category_slug) : '' ?>">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -102,10 +102,10 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/blog/">
+    <meta property="og:url" content="https://griffinquartz.com/blog/">
     <meta property="og:title" content="<?= htmlspecialchars($page_title) ?> | Griffin Quartz">
     <meta property="og:description" content="Expert guides on quartz countertops for South Florida homes. Learn about installation, costs, colors, and design trends.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -124,13 +124,13 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Blog",
-                "item": "https://soflocountertops.com/blog/"
+                "item": "https://griffinquartz.com/blog/"
             }
         ]
     }
@@ -143,13 +143,13 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
         "@type": "Blog",
         "name": "Griffin Quartz Blog",
         "description": "Expert guides and tips on quartz countertops for South Florida homes",
-        "url": "https://soflocountertops.com/blog/",
+        "url": "https://griffinquartz.com/blog/",
         "publisher": {
             "@type": "Organization",
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         }
     }

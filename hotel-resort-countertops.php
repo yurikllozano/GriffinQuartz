@@ -9,7 +9,7 @@
     <meta name="description" content="Luxury quartz countertops for hotels and resorts in South Florida. Lobby reception, guest room vanities, spa facilities, and pool bars. Volume pricing for multi-room projects. Free estimates!">
     <meta name="keywords" content="hotel countertops, resort countertops, hotel quartz countertops, hospitality countertops, guest room vanities, hotel lobby countertops, spa countertops, pool bar countertops, hotel bathroom countertops, resort quartz installation South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/hotel-resort-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/hotel-resort-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Hotel & Resort Quartz Countertops | Hospitality Specialists | Griffin Quartz">
     <meta property="og:description" content="Luxury quartz surfaces for hotels and resorts throughout South Florida. Guest rooms, lobbies, spas, and restaurants.">
-    <meta property="og:url" content="https://soflocountertops.com/hotel-resort-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/hotel-resort-countertops">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/hotel-lobby-white-marble-reception-palms.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/hotel-lobby-white-marble-reception-palms.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -57,9 +57,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com"},
-            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://soflocountertops.com/commercial"},
-            {"@type": "ListItem", "position": 3, "name": "Hotels & Resorts", "item": "https://soflocountertops.com/hotel-resort-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com"},
+            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://griffinquartz.com/commercial"},
+            {"@type": "ListItem", "position": 3, "name": "Hotels & Resorts", "item": "https://griffinquartz.com/hotel-resort-countertops"}
         ]
     }
     </script>

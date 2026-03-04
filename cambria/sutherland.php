@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Sutherland quartz - calming blue tones that pair beautifully with wood accents. 2025 trending design. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Sutherland, Sutherland quartz, blue quartz countertops, calming quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/sutherland">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/sutherland">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

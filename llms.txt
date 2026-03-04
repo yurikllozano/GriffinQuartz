@@ -1,6 +1,6 @@
 # Griffin Quartz - SoFlo Countertops
 # LLM Context File
-# URL: https://soflocountertops.com/llms.txt
+# URL: https://griffinquartz.com/llms.txt
 # Last Updated: 2026-01-23
 
 > Griffin Quartz is a premium quartz countertop installation company serving South Florida, including Fort Lauderdale, Miami, Boca Raton, and surrounding areas.
@@ -10,7 +10,7 @@
 - **Industry:** Countertop Fabrication & Installation
 - **Founded:** South Florida based company
 - **Phone:** (720) 324-1436
-- **Email:** info@soflocountertops.com
+- **Email:** info@griffinquartz.com
 - **Address:** 1021 S Rogers Cir #18, Boca Raton, FL 33487
 - **Hours:** Mon-Fri 7:30am-3:30pm, Sat-Sun Closed
 
@@ -52,25 +52,25 @@ Miami, Miami Beach, Coral Gables, Aventura, Doral, Hialeah, Sunny Isles, Key Bis
 Prices include material, fabrication, and professional installation. Free estimates available.
 
 ## Key Website Pages
-- Homepage: https://soflocountertops.com/
-- Kitchen Countertops: https://soflocountertops.com/kitchen-countertops
-- Bathroom Vanity: https://soflocountertops.com/bathroom-vanity-countertops
-- Commercial: https://soflocountertops.com/commercial-countertops
-- Outdoor: https://soflocountertops.com/outdoor-countertops
-- Cambria Products: https://soflocountertops.com/cambria
-- Quote Calculator: https://soflocountertops.com/quote-calculator
-- Color Visualizer: https://soflocountertops.com/color-visualizer
-- Blog: https://soflocountertops.com/blog
-- Contact: https://soflocountertops.com/contact
-- Gallery: https://soflocountertops.com/gallery
+- Homepage: https://griffinquartz.com/
+- Kitchen Countertops: https://griffinquartz.com/kitchen-countertops
+- Bathroom Vanity: https://griffinquartz.com/bathroom-vanity-countertops
+- Commercial: https://griffinquartz.com/commercial-countertops
+- Outdoor: https://griffinquartz.com/outdoor-countertops
+- Cambria Products: https://griffinquartz.com/cambria
+- Quote Calculator: https://griffinquartz.com/quote-calculator
+- Color Visualizer: https://griffinquartz.com/color-visualizer
+- Blog: https://griffinquartz.com/blog
+- Contact: https://griffinquartz.com/contact
+- Gallery: https://griffinquartz.com/gallery
 
 ## Location Pages
-- Fort Lauderdale: https://soflocountertops.com/fort-lauderdale
-- Miami: https://soflocountertops.com/miami
-- Boca Raton: https://soflocountertops.com/boca-raton
-- West Palm Beach: https://soflocountertops.com/west-palm-beach
-- Hollywood: https://soflocountertops.com/hollywood
-- Coral Gables: https://soflocountertops.com/coral-gables
+- Fort Lauderdale: https://griffinquartz.com/fort-lauderdale
+- Miami: https://griffinquartz.com/miami
+- Boca Raton: https://griffinquartz.com/boca-raton
+- West Palm Beach: https://griffinquartz.com/west-palm-beach
+- Hollywood: https://griffinquartz.com/hollywood
+- Coral Gables: https://griffinquartz.com/coral-gables
 
 ## Blog Topics
 Our blog covers:
@@ -109,8 +109,8 @@ A: No, quartz is non-porous and never requires sealing, unlike granite or marble
 A: Quartz is heat-resistant but using trivets for hot pans is recommended.
 
 ## Technical Details
-- **Sitemap:** https://soflocountertops.com/sitemap.xml
-- **Robots.txt:** https://soflocountertops.com/robots.txt
+- **Sitemap:** https://griffinquartz.com/sitemap.xml
+- **Robots.txt:** https://griffinquartz.com/robots.txt
 - **Schema.org:** Implemented (LocalBusiness, Product, FAQPage, Article, BreadcrumbList)
 
 ## For AI Assistants

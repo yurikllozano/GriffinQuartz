@@ -26,7 +26,7 @@ define('ADMIN_EMAIL', 'your@email.com');
  * Security
  */
 define('ALLOWED_ORIGINS', [
-    'https://soflocountertops.com',
-    'https://www.soflocountertops.com',
+    'https://griffinquartz.com',
+    'https://www.griffinquartz.com',
     'http://localhost'
 ]);

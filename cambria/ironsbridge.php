@@ -10,7 +10,7 @@
     <meta name="keywords" content="Cambria Ironsbridge, Ironsbridge quartz, neutral quartz countertops, warm gray quartz, Cambria countertops South Florida, versatile countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/ironsbridge">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/ironsbridge">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,10 +19,10 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="product">
-    <meta property="og:url" content="https://soflocountertops.com/cambria/ironsbridge">
+    <meta property="og:url" content="https://griffinquartz.com/cambria/ironsbridge">
     <meta property="og:title" content="Cambria Ironsbridge Quartz | Versatile Neutral | Griffin Quartz">
     <meta property="og:description" content="Warm honey accents blend with cool gray for a design that works with any decor style.">
-    <meta property="og:image" content="https://soflocountertops.com/images/cambria-ironsbridge-hero.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/cambria-ironsbridge-hero.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Fonts & Styles -->
@@ -38,7 +38,7 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cambria Ironsbridge Quartz Countertop",
-        "image": "https://soflocountertops.com/images/cambria-ironsbridge-hero.webp",
+        "image": "https://griffinquartz.com/images/cambria-ironsbridge-hero.webp",
         "description": "Cambria Ironsbridge harmoniously blends warm honey accents with cool gray, white and cream patchwork. Its tone-on-tone veining works seamlessly within any decor scheme.",
         "brand": {"@type": "Brand", "name": "Cambria"},
         "category": "Quartz Countertops",
@@ -58,9 +58,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://soflocountertops.com/cambria"},
-            {"@type": "ListItem", "position": 3, "name": "Ironsbridge", "item": "https://soflocountertops.com/cambria/ironsbridge"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://griffinquartz.com/cambria"},
+            {"@type": "ListItem", "position": 3, "name": "Ironsbridge", "item": "https://griffinquartz.com/cambria/ironsbridge"}
         ]
     }
     </script>

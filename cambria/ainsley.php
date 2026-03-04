@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Ainsley quartz - soft white with fine gray veining for an airy, open feel. Perfect for bright spaces. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Ainsley, Ainsley quartz, light white quartz, airy quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/ainsley">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/ainsley">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Inverness Gold quartz - rich golden streaks on pristine white. Companion to the #1 best seller. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Inverness Gold, Inverness Gold quartz, gold veined quartz, white gold quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/inverness-gold">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/inverness-gold">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

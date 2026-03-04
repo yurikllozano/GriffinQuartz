@@ -9,7 +9,7 @@
     <meta name="description" content="Contact Griffin Quartz for quartz countertop installation in South Florida. Visit our Boca Raton showroom, call (720) 324-1436, or request a free estimate online.">
     <meta name="keywords" content="contact Griffin Quartz, quartz countertop estimate, Boca Raton countertop showroom, South Florida countertop installation, free countertop quote">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/contact">
+    <link rel="canonical" href="https://griffinquartz.com/contact">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -18,16 +18,16 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/contact">
+    <meta property="og:url" content="https://griffinquartz.com/contact">
     <meta property="og:title" content="Contact Griffin Quartz | Free Estimates South Florida">
     <meta property="og:description" content="Get a free quote for quartz countertop installation. Visit our Boca Raton showroom or call (720) 324-1436.">
-    <meta property="og:image" content="https://soflocountertops.com/images/backyard-outdoor-kitchen-firepit-evening.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/backyard-outdoor-kitchen-firepit-evening.webp">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Contact Griffin Quartz | Free Estimates South Florida">
     <meta name="twitter:description" content="Get a free quote for quartz countertop installation. Visit our Boca Raton showroom or call (720) 324-1436.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/backyard-outdoor-kitchen-firepit-evening.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/backyard-outdoor-kitchen-firepit-evening.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -48,8 +48,8 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Contact", "item": "https://soflocountertops.com/contact"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Contact", "item": "https://griffinquartz.com/contact"}
         ]
     }
     </script>
@@ -61,9 +61,9 @@
         "@type": "LocalBusiness",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
-        "url": "https://soflocountertops.com",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
-        "email": "info@soflocountertops.com",
+        "email": "info@griffinquartz.com",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "1021 S Rogers Cir #18",
@@ -339,7 +339,7 @@
             <p class="hero-description">Ready to transform your space with stunning quartz countertops? Contact us today for a free consultation and estimate. We serve all of South Florida.</p>
             <div class="hero-cta">
                 <a href="tel:17203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
-                <a href="mailto:info@soflocountertops.com" class="btn btn-secondary"><i class="bi bi-envelope"></i> Email Us</a>
+                <a href="mailto:info@griffinquartz.com" class="btn btn-secondary"><i class="bi bi-envelope"></i> Email Us</a>
             </div>
             <p class="hero-trust"><i class="bi bi-clock"></i> Mon-Fri 7:30am-3:30pm &nbsp;|&nbsp; Sat-Sun Closed</p>
         </div>
@@ -364,7 +364,7 @@
                     </div>
                     <h3>Email Us</h3>
                     <p>Send us your questions or project details</p>
-                    <a href="mailto:info@soflocountertops.com">info@soflocountertops.com</a>
+                    <a href="mailto:info@griffinquartz.com">info@griffinquartz.com</a>
                 </div>
 
                 <div class="contact-card">

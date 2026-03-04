@@ -9,7 +9,7 @@
     <meta name="description" content="Custom quartz installations for unique commercial projects in South Florida. Yacht interiors, private jets, luxury vehicles, museums, galleries, and architectural features. Expert fabrication for challenging projects. Free estimates!">
     <meta name="keywords" content="specialty countertops, custom quartz installation, yacht countertops, luxury vehicle countertops, museum countertops, gallery countertops, architectural quartz, custom commercial countertops, specialty installation South Florida, unique quartz projects">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/specialty-installation-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/specialty-installation-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,7 +19,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Specialty Quartz Installations | Custom Project Specialists | Griffin Quartz">
     <meta property="og:description" content="Expert fabrication for unique commercial quartz projects throughout South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/specialty-installation-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/specialty-installation-countertops">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">

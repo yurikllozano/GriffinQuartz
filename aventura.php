@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Aventura, countertop installation Aventura FL, kitchen countertops Aventura, bathroom countertops Aventura, quartz fabrication Aventura, high-rise condo countertops, Aventura condo renovation, luxury countertops Aventura, countertop company near me, quartz installer Miami-Dade County">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/aventura">
+    <link rel="canonical" href="https://griffinquartz.com/aventura">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/aventura">
+    <meta property="og:url" content="https://griffinquartz.com/aventura">
     <meta property="og:title" content="Quartz Countertops Aventura FL | High-Rise Condo Specialists | Griffin Quartz">
     <meta property="og:description" content="Transform your Aventura high-rise with luxury quartz countertops. COI & elevator logistics experts. 200+ colors, FREE estimates, fast installation.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/aventura">
+    <meta name="twitter:url" content="https://griffinquartz.com/aventura">
     <meta name="twitter:title" content="Quartz Countertops Aventura FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertop installation in Aventura. High-rise condo specialists with 200+ colors, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/aventura#localbusiness",
+        "@id": "https://griffinquartz.com/aventura#localbusiness",
         "name": "Griffin Quartz - Aventura",
         "description": "Premium quartz countertop installation serving Aventura, FL. Specializing in luxury high-rise condo countertops with COI compliance and elevator logistics expertise.",
-        "url": "https://soflocountertops.com/aventura",
+        "url": "https://griffinquartz.com/aventura",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

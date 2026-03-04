@@ -199,7 +199,7 @@ function stripRelatedArticles($content) {
     <?php endif; ?>
     <meta name="author" content="<?= e($post['author']) ?>">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/blog/<?= e($post['slug']) ?>">
+    <link rel="canonical" href="https://griffinquartz.com/blog/<?= e($post['slug']) ?>">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -208,10 +208,10 @@ function stripRelatedArticles($content) {
 
     <!-- Open Graph -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/<?= e($post['slug']) ?>">
+    <meta property="og:url" content="https://griffinquartz.com/blog/<?= e($post['slug']) ?>">
     <meta property="og:title" content="<?= e($og_title) ?>">
     <meta property="og:description" content="<?= e($og_desc) ?>">
-    <meta property="og:image" content="https://soflocountertops.com<?= e($featured_image) ?>">
+    <meta property="og:image" content="https://griffinquartz.com<?= e($featured_image) ?>">
     <meta property="article:published_time" content="<?= date('c', strtotime($publish_date)) ?>">
     <meta property="article:modified_time" content="<?= date('c', strtotime($post['updated_at'])) ?>">
     <meta property="article:author" content="<?= e($post['author']) ?>">
@@ -220,7 +220,7 @@ function stripRelatedArticles($content) {
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="<?= e($og_title) ?>">
     <meta name="twitter:description" content="<?= e($og_desc) ?>">
-    <meta name="twitter:image" content="https://soflocountertops.com<?= e($featured_image) ?>">
+    <meta name="twitter:image" content="https://griffinquartz.com<?= e($featured_image) ?>">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -239,19 +239,19 @@ function stripRelatedArticles($content) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Blog",
-                "item": "https://soflocountertops.com/blog/"
+                "item": "https://griffinquartz.com/blog/"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": <?= json_encode($post['title']) ?>,
-                "item": "https://soflocountertops.com/blog/<?= e($post['slug']) ?>"
+                "item": "https://griffinquartz.com/blog/<?= e($post['slug']) ?>"
             }
         ]
     }
@@ -264,7 +264,7 @@ function stripRelatedArticles($content) {
         "@type": "BlogPosting",
         "headline": <?= json_encode($post['title']) ?>,
         "description": <?= json_encode($seo_desc) ?>,
-        "image": "https://soflocountertops.com<?= e($featured_image) ?>",
+        "image": "https://griffinquartz.com<?= e($featured_image) ?>",
         "datePublished": "<?= date('c', strtotime($publish_date)) ?>",
         "dateModified": "<?= date('c', strtotime($post['updated_at'])) ?>",
         "author": {
@@ -276,12 +276,12 @@ function stripRelatedArticles($content) {
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://soflocountertops.com/blog/<?= e($post['slug']) ?>"
+            "@id": "https://griffinquartz.com/blog/<?= e($post['slug']) ?>"
         }
     }
     </script>
@@ -335,11 +335,11 @@ function stripRelatedArticles($content) {
                     <h1><?= e($post['title']) ?></h1>
                     <div class="blog-share-buttons" style="margin-top: 1.5rem;">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/<?= e($post['slug']) ?>" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/<?= e($post['slug']) ?>&text=<?= urlencode($post['title']) ?>" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=<?= urlencode($post['title'] . ' https://soflocountertops.com/blog/' . $post['slug']) ?>" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/<?= e($post['slug']) ?>&media=https://soflocountertops.com<?= e($featured_image) ?>&description=<?= urlencode($post['title']) ?>" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=<?= urlencode('Check this out: ' . $post['title'] . ' https://soflocountertops.com/blog/' . $post['slug']) ?>" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/<?= e($post['slug']) ?>" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/<?= e($post['slug']) ?>&text=<?= urlencode($post['title']) ?>" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=<?= urlencode($post['title'] . ' https://griffinquartz.com/blog/' . $post['slug']) ?>" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/<?= e($post['slug']) ?>&media=https://griffinquartz.com<?= e($featured_image) ?>&description=<?= urlencode($post['title']) ?>" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=<?= urlencode('Check this out: ' . $post['title'] . ' https://griffinquartz.com/blog/' . $post['slug']) ?>" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

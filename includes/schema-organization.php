@@ -9,20 +9,20 @@
 {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "@id": "https://soflocountertops.com/#organization",
+    "@id": "https://griffinquartz.com/#organization",
     "name": "Griffin Quartz",
     "alternateName": ["SoFlo Countertops", "Griffin Quartz Countertops"],
-    "url": "https://soflocountertops.com",
+    "url": "https://griffinquartz.com",
     "logo": {
         "@type": "ImageObject",
-        "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "width": 200,
         "height": 60
     },
-    "image": "https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp",
+    "image": "https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp",
     "description": "South Florida's premier quartz countertop installation company. Serving Fort Lauderdale, Miami, Boca Raton, and surrounding areas with premium Cambria, Silestone, and Caesarstone countertops.",
     "telephone": "+1-720-324-1436",
-    "email": "info@soflocountertops.com",
+    "email": "info@griffinquartz.com",
     "address": {
         "@type": "PostalAddress",
         "streetAddress": "1021 S Rogers Cir #18",

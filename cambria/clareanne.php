@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Clareanne quartz - delicate metallic gold and silver veining for luxury spaces. 2025 trending design. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Clareanne, Clareanne quartz, metallic quartz countertops, gold veining quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/clareanne">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/clareanne">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

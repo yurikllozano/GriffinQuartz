@@ -9,7 +9,7 @@
     <meta name="description" content="Transform your kitchen and bathroom with premium quartz countertops. Expert installation for islands, vanities, backsplashes & more. Serving Boca Raton, Fort Lauderdale, Miami. Free estimates!">
     <meta name="keywords" content="quartz countertops near me, quartz countertop installation, kitchen quartz countertops, bathroom quartz countertops, quartz countertops Boca Raton, quartz countertops Fort Lauderdale, quartz countertops Miami, quartz vanity tops, kitchen island countertops, Calacatta quartz, white quartz countertops, marble-look quartz, quartz vs granite, quartz countertop cost, Cambria quartz, Silestone countertops, Caesarstone, MSI quartz, waterfall edge countertops, quartz backsplash, undermount sink cutout, South Florida countertops, Palm Beach County countertops, Broward County countertops">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/kitchen-bath">
+    <link rel="canonical" href="https://griffinquartz.com/kitchen-bath">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Quartz Countertops for Kitchens & Bathrooms | Griffin Quartz">
     <meta property="og:description" content="Transform your kitchen and bathroom with premium quartz countertops. Expert installation in South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/kitchen-bath">
+    <meta property="og:url" content="https://griffinquartz.com/kitchen-bath">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/modern-kitchen-gray-quartz-wood-slats.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/modern-kitchen-gray-quartz-wood-slats.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
@@ -31,7 +31,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Quartz Countertops for Kitchens & Bathrooms | Griffin Quartz">
     <meta name="twitter:description" content="Transform your kitchen and bathroom with premium quartz countertops. Expert installation in South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/modern-kitchen-gray-quartz-wood-slats.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/modern-kitchen-gray-quartz-wood-slats.webp">
 
     <!-- Geo Meta Tags for Local SEO -->
     <meta name="geo.region" content="US-FL">
@@ -44,10 +44,10 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#business",
+        "@id": "https://griffinquartz.com/#business",
         "name": "Griffin Quartz",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "url": "https://soflocountertops.com",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
         "address": {
@@ -129,13 +129,13 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com"
+                "item": "https://griffinquartz.com"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Kitchen & Bath Countertops",
-                "item": "https://soflocountertops.com/kitchen-bath"
+                "item": "https://griffinquartz.com/kitchen-bath"
             }
         ]
     }

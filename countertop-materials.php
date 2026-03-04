@@ -10,7 +10,7 @@
     <meta name="keywords" content="countertop materials, stone countertops South Florida, quartz countertops, quartzite countertops, marble countertops, granite countertops, semi-precious stone countertops, countertop comparison, Boca Raton countertops, Miami countertops, Fort Lauderdale countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/countertop-materials">
+    <link rel="canonical" href="https://griffinquartz.com/countertop-materials">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/countertop-materials">
+    <meta property="og:url" content="https://griffinquartz.com/countertop-materials">
     <meta property="og:title" content="Countertop Materials South Florida | Complete Stone Guide | Griffin Quartz">
     <meta property="og:description" content="Discover the perfect countertop material for your South Florida home. Compare quartz, quartzite, marble, granite, and semi-precious stone. FREE estimates available.">
-    <meta property="og:image" content="https://soflocountertops.com/images/kitchen-calacatta-gold-globe-pendants.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/kitchen-calacatta-gold-globe-pendants.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Countertop Materials South Florida | Griffin Quartz">
     <meta name="twitter:description" content="Compare premium stone countertop materials. Quartz, quartzite, marble, granite, and semi-precious stone. Expert installation across South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/kitchen-calacatta-gold-globe-pendants.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/kitchen-calacatta-gold-globe-pendants.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -54,13 +54,13 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Countertop Materials",
-                "item": "https://soflocountertops.com/countertop-materials"
+                "item": "https://griffinquartz.com/countertop-materials"
             }
         ]
     }
@@ -79,35 +79,35 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Quartz Countertops",
-                "url": "https://soflocountertops.com/quartz-countertops",
+                "url": "https://griffinquartz.com/quartz-countertops",
                 "description": "Engineered stone countertops offering non-porous surfaces, consistent colors, and low maintenance for South Florida homes."
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Quartzite Countertops",
-                "url": "https://soflocountertops.com/quartzite-countertops",
+                "url": "https://griffinquartz.com/quartzite-countertops",
                 "description": "Natural metamorphic stone with superior heat resistance and stunning marble-like veining patterns."
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Marble Countertops",
-                "url": "https://soflocountertops.com/marble-countertops",
+                "url": "https://griffinquartz.com/marble-countertops",
                 "description": "Timeless luxury natural stone with elegant veining, perfect for creating sophisticated South Florida interiors."
             },
             {
                 "@type": "ListItem",
                 "position": 4,
                 "name": "Granite Countertops",
-                "url": "https://soflocountertops.com/granite-countertops",
+                "url": "https://griffinquartz.com/granite-countertops",
                 "description": "Classic natural stone with unique patterns, excellent heat resistance, and exceptional durability."
             },
             {
                 "@type": "ListItem",
                 "position": 5,
                 "name": "Semi-Precious Stone Countertops",
-                "url": "https://soflocountertops.com/semi-precious-stone-countertops",
+                "url": "https://griffinquartz.com/semi-precious-stone-countertops",
                 "description": "Extraordinary luxury surfaces featuring agate, amethyst, and onyx with stunning backlit options."
             }
         ]

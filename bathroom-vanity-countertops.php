@@ -10,7 +10,7 @@
     <meta name="keywords" content="bathroom vanity countertops, quartz vanity tops, bathroom countertops South Florida, double vanity countertops, single vanity quartz, vessel sink countertops, bathroom remodel countertops, marble look vanity, custom vanity tops, bathroom quartz installation">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/bathroom-vanity-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/bathroom-vanity-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/bathroom-vanity-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/bathroom-vanity-countertops">
     <meta property="og:title" content="Luxury Bathroom Vanity Countertops | Quartz Vanity Tops | Griffin Quartz">
     <meta property="og:description" content="Design your dream bathroom vanity with premium quartz. Interactive calculator, 200+ colors, FREE estimates. Serving all of South Florida.">
-    <meta property="og:image" content="https://soflocountertops.com/images/bathroom-spa-calacatta-walnut-tub.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Bathroom Vanity Countertops | Griffin Quartz South Florida">
     <meta name="twitter:description" content="Luxury quartz vanity tops for your bathroom renovation. Custom designs, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/bathroom-spa-calacatta-walnut-tub.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,15 +46,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier quartz bathroom vanity countertop installation company specializing in luxury vanities, shower surrounds, and tub decks.",
-        "url": "https://soflocountertops.com/bathroom-vanity-countertops",
+        "url": "https://griffinquartz.com/bathroom-vanity-countertops",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -98,7 +98,7 @@
         "@context": "https://schema.org",
         "@type": "Service",
         "serviceType": "Bathroom Vanity Countertop Installation",
-        "provider": {"@id": "https://soflocountertops.com/#organization"},
+        "provider": {"@id": "https://griffinquartz.com/#organization"},
         "areaServed": ["Miami-Dade County", "Broward County", "Palm Beach County"],
         "description": "Premium quartz bathroom vanity countertop installation including single vanities, double vanities, vessel sink cutouts, shower surrounds, and tub decks for South Florida homes."
     }
@@ -109,9 +109,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://soflocountertops.com/our-services"},
-            {"@type": "ListItem", "position": 3, "name": "Bathroom Vanity Countertops", "item": "https://soflocountertops.com/bathroom-vanity-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://griffinquartz.com/our-services"},
+            {"@type": "ListItem", "position": 3, "name": "Bathroom Vanity Countertops", "item": "https://griffinquartz.com/bathroom-vanity-countertops"}
         ]
     }
     </script>

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Weybourne quartz - soft, airy blend of classic pillowy marble tones with subtle gray veins. Timeless elegance. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Weybourne, Weybourne quartz, soft marble quartz, creamy quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/weybourne">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/weybourne">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

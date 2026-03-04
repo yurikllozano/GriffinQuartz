@@ -9,7 +9,7 @@
     <meta name="description" content="Durable quartz countertops for educational facilities in South Florida. Science labs, cafeterias, administrative offices, and restrooms. Chemical-resistant and easy to maintain. Free estimates!">
     <meta name="keywords" content="school countertops, university countertops, educational facility countertops, science lab countertops, cafeteria countertops, school quartz countertops, classroom countertops, education countertops South Florida, laboratory countertops">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/educational-facility-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/educational-facility-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,7 +19,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Educational Facility Quartz Countertops | School Specialists | Griffin Quartz">
     <meta property="og:description" content="Durable, chemical-resistant quartz surfaces for schools and universities throughout South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/educational-facility-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/educational-facility-countertops">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">

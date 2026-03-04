@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops cost Fort Lauderdale, quartz countertop prices 2025, Fort Lauderdale kitchen countertops cost, Cambria pricing Fort Lauderdale, Silestone cost Florida, countertop installation prices Broward County">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025">
+    <link rel="canonical" href="https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -23,10 +23,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025">
+    <meta property="og:url" content="https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025">
     <meta property="og:title" content="Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide">
     <meta property="og:description" content="Complete 2025 pricing guide for quartz countertops in Fort Lauderdale. Compare brands, understand cost factors, and get accurate quotes.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-08">
@@ -34,10 +34,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025">
+    <meta name="twitter:url" content="https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025">
     <meta name="twitter:title" content="Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide">
     <meta name="twitter:description" content="Complete 2025 pricing guide for quartz countertops in Fort Lauderdale. Budget to premium options explained.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,7 +53,7 @@
         "@type": "Article",
         "headline": "Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide",
         "description": "Comprehensive 2025 pricing guide for quartz countertops in Fort Lauderdale, covering budget to premium options, brand comparisons, and cost factors.",
-        "image": "https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp",
+        "image": "https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp",
         "author": {
             "@type": "Organization",
             "name": "Griffin Quartz"
@@ -63,14 +63,14 @@
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "datePublished": "2025-01-08",
         "dateModified": "2025-01-08",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025"
+            "@id": "https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025"
         }
     }
     </script>
@@ -144,11 +144,11 @@
                     <h1>Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025&text=Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide%20https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025&media=https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp&description=Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide%20https://soflocountertops.com/blog/quartz-countertops-cost-fort-lauderdale-2025" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025&text=Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide%20https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025&media=https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp&description=Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Cost%20of%20Quartz%20Countertops%20in%20Fort%20Lauderdale%3A%202025%20Price%20Guide%20https://griffinquartz.com/blog/quartz-countertops-cost-fort-lauderdale-2025" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

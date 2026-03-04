@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertop installation Fort Lauderdale, countertop installation process, Fort Lauderdale kitchen installation, quartz installation timeline">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale">
+    <link rel="canonical" href="https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -23,10 +23,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale">
+    <meta property="og:url" content="https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale">
     <meta property="og:title" content="Quartz Countertop Installation Process in Fort Lauderdale | Griffin Quartz">
     <meta property="og:description" content="Complete guide to quartz countertop installation in Fort Lauderdale. Learn about our step-by-step process from consultation to final inspection.">
-    <meta property="og:image" content="https://soflocountertops.com/images/installation-team-penthouse-slab.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/installation-team-penthouse-slab.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,7 +42,7 @@
         "@type": "Article",
         "headline": "Quartz Countertop Installation Process in Fort Lauderdale",
         "description": "Complete guide to quartz countertop installation in Fort Lauderdale. Learn about our step-by-step process from consultation to final inspection.",
-        "image": "https://soflocountertops.com/images/installation-team-penthouse-slab.webp",
+        "image": "https://griffinquartz.com/images/installation-team-penthouse-slab.webp",
         "author": {
             "@type": "Organization",
             "name": "Griffin Quartz"
@@ -52,7 +52,7 @@
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "datePublished": "2025-01-07",
@@ -129,11 +129,11 @@
                     <h1>Quartz Countertop Installation Process in Fort Lauderdale: Your Complete Step-by-Step Guide</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale&text=Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale%20https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale&media=https://soflocountertops.com/images/installation-team-penthouse-slab.webp&description=Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale%20https://soflocountertops.com/blog/quartz-installation-process-fort-lauderdale" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale&text=Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale%20https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale&media=https://griffinquartz.com/images/installation-team-penthouse-slab.webp&description=Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Quartz%20Countertop%20Installation%20Process%20in%20Fort%20Lauderdale%20https://griffinquartz.com/blog/quartz-installation-process-fort-lauderdale" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

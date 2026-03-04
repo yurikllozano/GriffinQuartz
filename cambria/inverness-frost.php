@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Inverness Frost - the #1 best-selling Cambria design. Intricate off-white veining on cool white. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Inverness Frost, Inverness Frost quartz, best selling Cambria, white quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/inverness-frost">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/inverness-frost">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertop services, quartz installation South Florida, residential countertops, commercial quartz counters, quartz fabrication, custom quartz work, kitchen countertop installation, bathroom vanity quartz, countertop consultation, quartz countertop repair, countertop removal, South Florida countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/our-services">
+    <link rel="canonical" href="https://griffinquartz.com/our-services">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/our-services">
+    <meta property="og:url" content="https://griffinquartz.com/our-services">
     <meta property="og:title" content="Quartz Countertop Services | Residential & Commercial | Griffin Quartz">
     <meta property="og:description" content="Full-service quartz countertop installation, fabrication & consultation for South Florida homes and businesses. Kitchen, bath, commercial spaces. FREE estimates.">
-    <meta property="og:image" content="https://soflocountertops.com/images/rooftop-outdoor-kitchen-sunset-skyline.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/rooftop-outdoor-kitchen-sunset-skyline.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Quartz Countertop Services | Griffin Quartz South Florida">
     <meta name="twitter:description" content="Complete quartz services: residential, commercial, fabrication & consultation. Expert installation throughout South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/rooftop-outdoor-kitchen-sunset-skyline.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/rooftop-outdoor-kitchen-sunset-skyline.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -49,15 +49,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier quartz countertop service provider offering residential installation, commercial fabrication, custom work, and expert consultation.",
-        "url": "https://soflocountertops.com/our-services",
+        "url": "https://griffinquartz.com/our-services",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -107,7 +107,7 @@
         "@context": "https://schema.org",
         "@type": "Service",
         "serviceType": "Quartz Countertop Services",
-        "provider": {"@id": "https://soflocountertops.com/#organization"},
+        "provider": {"@id": "https://griffinquartz.com/#organization"},
         "areaServed": ["Miami-Dade County", "Broward County", "Palm Beach County"],
         "description": "Complete quartz countertop services including residential installation, commercial fabrication, custom work, and expert consultation for South Florida.",
         "hasOfferCatalog": {
@@ -145,8 +145,8 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Our Services", "item": "https://soflocountertops.com/our-services"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Our Services", "item": "https://griffinquartz.com/our-services"}
         ]
     }
     </script>

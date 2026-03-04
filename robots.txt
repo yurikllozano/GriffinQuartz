@@ -1,4 +1,4 @@
-# robots.txt for soflocountertops.com
+# robots.txt for griffinquartz.com
 
 User-agent: *
 Allow: /
@@ -35,7 +35,7 @@ Disallow: /api/
 Disallow: /database/
 
 # Sitemap
-Sitemap: https://soflocountertops.com/sitemap.xml
+Sitemap: https://griffinquartz.com/sitemap.xml
 
 # LLM Context
-# For AI assistants, see: https://soflocountertops.com/llms.txt
+# For AI assistants, see: https://griffinquartz.com/llms.txt

@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Boca Raton, countertop showroom Boca Raton FL, kitchen countertops Boca Raton, bathroom countertops Boca Raton, quartz fabrication Boca Raton, granite countertops Boca Raton, marble countertops Boca Raton, countertop company Palm Beach County, luxury countertops Boca Raton, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/boca-raton">
+    <link rel="canonical" href="https://griffinquartz.com/boca-raton">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/boca-raton">
+    <meta property="og:url" content="https://griffinquartz.com/boca-raton">
     <meta property="og:title" content="Quartz Countertops Boca Raton FL | Showroom & Installation | Griffin Quartz">
     <meta property="og:description" content="Visit our Boca Raton showroom for South Florida's largest quartz selection. 200+ colors, FREE estimates, factory-direct pricing on luxury countertops.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/boca-raton">
+    <meta name="twitter:url" content="https://griffinquartz.com/boca-raton">
     <meta name="twitter:title" content="Quartz Countertops Boca Raton FL | Griffin Quartz Showroom">
     <meta name="twitter:description" content="Visit our Boca Raton showroom for 200+ premium quartz colors. Factory-direct pricing, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/boca-raton#localbusiness",
+        "@id": "https://griffinquartz.com/boca-raton#localbusiness",
         "name": "Griffin Quartz - Boca Raton Showroom & Headquarters",
         "description": "Griffin Quartz headquarters and showroom in Boca Raton, FL. Premium quartz countertop fabrication and installation serving Palm Beach County's finest luxury estates and country club communities.",
-        "url": "https://soflocountertops.com/boca-raton",
+        "url": "https://griffinquartz.com/boca-raton",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

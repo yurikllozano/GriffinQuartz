@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Miami, countertop installation Miami FL, kitchen countertops Miami, bathroom countertops Miami, quartz fabrication Miami, granite countertops Miami, marble countertops Miami, countertop company Miami-Dade, quartz installer South Florida">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/miami">
+    <link rel="canonical" href="https://griffinquartz.com/miami">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/miami">
+    <meta property="og:url" content="https://griffinquartz.com/miami">
     <meta property="og:title" content="Quartz Countertops Miami FL | Premium Installation | Griffin Quartz">
     <meta property="og:description" content="Transform your Miami home with luxury quartz countertops. 200+ colors, FREE estimates, fast 1-week installation. Factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/miami">
+    <meta name="twitter:url" content="https://griffinquartz.com/miami">
     <meta name="twitter:title" content="Quartz Countertops Miami FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertop installation in Miami. 200+ colors, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/miami#localbusiness",
+        "@id": "https://griffinquartz.com/miami#localbusiness",
         "name": "Griffin Quartz - Miami",
         "description": "Premium quartz countertop installation serving Miami, FL. Specializing in luxury kitchen and bathroom countertops with factory-direct pricing.",
-        "url": "https://soflocountertops.com/miami",
+        "url": "https://griffinquartz.com/miami",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

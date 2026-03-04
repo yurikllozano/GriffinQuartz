@@ -30,11 +30,11 @@
                     <h1>How to Clean Quartz Countertops: The Complete Care Guide</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/how-to-clean-quartz-countertops" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/how-to-clean-quartz-countertops&text=How%20to%20Clean%20Quartz%20Countertops" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=How%20to%20Clean%20Quartz%20Countertops%20https://soflocountertops.com/blog/how-to-clean-quartz-countertops" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/how-to-clean-quartz-countertops&media=https://soflocountertops.com/images/kitchen-calacatta-gold-globe-pendants.webp&description=How%20to%20Clean%20Quartz%20Countertops" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20How%20to%20Clean%20Quartz%20Countertops%20https://soflocountertops.com/blog/how-to-clean-quartz-countertops" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/how-to-clean-quartz-countertops" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/how-to-clean-quartz-countertops&text=How%20to%20Clean%20Quartz%20Countertops" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=How%20to%20Clean%20Quartz%20Countertops%20https://griffinquartz.com/blog/how-to-clean-quartz-countertops" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/how-to-clean-quartz-countertops&media=https://griffinquartz.com/images/kitchen-calacatta-gold-globe-pendants.webp&description=How%20to%20Clean%20Quartz%20Countertops" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20How%20to%20Clean%20Quartz%20Countertops%20https://griffinquartz.com/blog/how-to-clean-quartz-countertops" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

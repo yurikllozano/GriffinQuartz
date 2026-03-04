@@ -10,7 +10,7 @@
     <meta name="keywords" content="bathroom vanity countertops Fort Lauderdale, bathroom countertops 2025, quartz vanity tops Fort Lauderdale, master bath renovation Fort Lauderdale, powder room countertops, spa bathroom design, Harbor Beach bathroom remodel, Las Olas bathroom vanity">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025">
+    <link rel="canonical" href="https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025">
+    <meta property="og:url" content="https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025">
     <meta property="og:title" content="Bathroom Vanity Countertops: Fort Lauderdale Design Trends 2025">
     <meta property="og:description" content="Discover the latest bathroom vanity countertop trends for Fort Lauderdale homes in 2025. Expert tips on materials, colors, and designs for spa-like bathrooms.">
-    <meta property="og:image" content="https://soflocountertops.com/images/bathroom-spa-calacatta-walnut-tub.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-10">
@@ -36,10 +36,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025">
+    <meta name="twitter:url" content="https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025">
     <meta name="twitter:title" content="Bathroom Vanity Countertops: Fort Lauderdale Design Trends 2025">
     <meta name="twitter:description" content="Explore 2025 bathroom vanity trends for Fort Lauderdale. Quartz, marble-look, colors, and spa-inspired designs.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/bathroom-spa-calacatta-walnut-tub.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,26 +55,26 @@
         "@type": "BlogPosting",
         "headline": "Bathroom Vanity Countertops: Fort Lauderdale Design Trends 2025",
         "description": "Discover the latest bathroom vanity countertop trends for Fort Lauderdale homes in 2025, including material choices, color trends, and spa-inspired designs.",
-        "image": "https://soflocountertops.com/images/bathroom-spa-calacatta-walnut-tub.webp",
-        "url": "https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025",
+        "image": "https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp",
+        "url": "https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025",
         "datePublished": "2025-01-10",
         "dateModified": "2025-01-10",
         "author": {
             "@type": "Organization",
             "name": "Griffin Quartz Team",
-            "url": "https://soflocountertops.com"
+            "url": "https://griffinquartz.com"
         },
         "publisher": {
             "@type": "Organization",
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025"
+            "@id": "https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025"
         },
         "keywords": "bathroom vanity countertops Fort Lauderdale, bathroom countertops 2025, quartz vanity tops, master bath renovation, spa bathroom design"
     }
@@ -127,13 +127,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#localbusiness",
+        "@id": "https://griffinquartz.com/#localbusiness",
         "name": "Griffin Quartz",
         "description": "Premium quartz countertop installation serving Fort Lauderdale, FL. Specializing in bathroom vanities, kitchen countertops, and luxury home renovations.",
-        "url": "https://soflocountertops.com",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -183,11 +183,11 @@
                     <h1>Bathroom Vanity Countertops: Fort Lauderdale Design Trends 2025</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025&text=Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025%20https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025&media=https://soflocountertops.com/images/bathroom-spa-calacatta-walnut-tub.webp&description=Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025%20https://soflocountertops.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025&text=Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025%20https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025&media=https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp&description=Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Bathroom%20Vanity%20Countertops%3A%20Fort%20Lauderdale%20Design%20Trends%202025%20https://griffinquartz.com/blog/bathroom-vanity-countertops-fort-lauderdale-2025" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

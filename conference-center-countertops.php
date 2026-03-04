@@ -9,7 +9,7 @@
     <meta name="description" content="Premium quartz countertops for conference centers and event venues in South Florida. Registration desks, catering stations, breakout rooms, and VIP lounges. Professional installation. Free estimates!">
     <meta name="keywords" content="conference center countertops, event venue countertops, convention center countertops, registration desk countertops, catering countertops, banquet hall countertops, conference countertops South Florida, event space quartz">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/conference-center-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/conference-center-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,7 +19,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Conference Center Quartz Countertops | Event Venue Specialists | Griffin Quartz">
     <meta property="og:description" content="Premium quartz surfaces for conference centers and event venues throughout South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/conference-center-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/conference-center-countertops">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">

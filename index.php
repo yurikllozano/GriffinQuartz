@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops South Florida, quartz countertops Boca Raton, quartz countertops Fort Lauderdale, quartz countertops Miami, quartz countertops West Palm Beach, countertop installation near me, kitchen countertops South Florida, bathroom countertops Palm Beach County, granite countertops Fort Lauderdale, marble countertops Miami, quartz fabrication South Florida, countertop company Boca Raton">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/">
+    <link rel="canonical" href="https://griffinquartz.com/">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/">
+    <meta property="og:url" content="https://griffinquartz.com/">
     <meta property="og:title" content="Quartz Countertops South Florida | #1 Installation in Boca Raton, Miami, Fort Lauderdale">
     <meta property="og:description" content="South Florida's premier quartz countertop installers. 200+ colors, FREE estimates, fast installation. Serving Boca Raton, Fort Lauderdale, Miami & West Palm Beach.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/">
+    <meta name="twitter:url" content="https://griffinquartz.com/">
     <meta name="twitter:title" content="Quartz Countertops South Florida | Griffin Quartz">
     <meta name="twitter:description" content="South Florida's premier quartz countertop installers. 200+ colors, FREE estimates, fast installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,15 +51,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier quartz countertop installation company. Specializing in luxury quartz, granite, and marble countertops for kitchens, bathrooms, and commercial spaces.",
-        "url": "https://soflocountertops.com",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

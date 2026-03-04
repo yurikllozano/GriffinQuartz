@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Doral, countertop installation Doral FL, kitchen countertops Doral, bathroom countertops Doral, quartz fabrication Doral, countertop company Miami-Dade, luxury countertops Trump National Doral, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/doral">
+    <link rel="canonical" href="https://griffinquartz.com/doral">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/doral">
+    <meta property="og:url" content="https://griffinquartz.com/doral">
     <meta property="og:title" content="Quartz Countertops Doral FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Doral. Serving Trump National, Doral Isles & luxury communities. 200+ colors, FREE estimates, factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -44,13 +44,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/doral#localbusiness",
+        "@id": "https://griffinquartz.com/doral#localbusiness",
         "name": "Griffin Quartz - Doral",
         "description": "Premium quartz countertop fabrication and installation in Doral, FL. Serving Trump National Doral, Doral Isles, and luxury communities throughout Western Miami-Dade.",
-        "url": "https://soflocountertops.com/doral",
+        "url": "https://griffinquartz.com/doral",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

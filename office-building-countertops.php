@@ -9,7 +9,7 @@
     <meta name="description" content="Premium quartz countertops for office buildings in South Florida. Reception desks, break rooms, conference rooms, and executive suites. Professional installation with minimal business disruption. Free estimates!">
     <meta name="keywords" content="office building countertops, reception desk countertops, office quartz countertops, corporate countertops, break room countertops, conference room countertops, executive office countertops, commercial office countertops South Florida, office building quartz installation, corporate quartz surfaces">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/office-building-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/office-building-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Office Building Quartz Countertops | Professional Installation | Griffin Quartz">
     <meta property="og:description" content="Premium quartz surfaces for corporate offices throughout South Florida. Reception desks, break rooms, and executive suites.">
-    <meta property="og:url" content="https://soflocountertops.com/office-building-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/office-building-countertops">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/commercial-office-lobby-modern.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/commercial-office-lobby-modern.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -60,9 +60,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com"},
-            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://soflocountertops.com/commercial"},
-            {"@type": "ListItem", "position": 3, "name": "Office Buildings", "item": "https://soflocountertops.com/office-building-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com"},
+            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://griffinquartz.com/commercial"},
+            {"@type": "ListItem", "position": 3, "name": "Office Buildings", "item": "https://griffinquartz.com/office-building-countertops"}
         ]
     }
     </script>

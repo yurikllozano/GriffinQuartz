@@ -10,7 +10,7 @@
     <meta name="keywords" content="Fort Lauderdale condo kitchen renovation, condo kitchen remodel Fort Lauderdale, high-rise kitchen renovation, Galt Ocean Mile condo renovation, Las Olas condo kitchen, Intracoastal condo renovation, HOA kitchen renovation approval">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation">
+    <link rel="canonical" href="https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation">
+    <meta property="og:url" content="https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation">
     <meta property="og:title" content="Fort Lauderdale Condo Kitchen Renovations: Complete Guide">
     <meta property="og:description" content="Navigate HOA requirements, permits, and space optimization for your Fort Lauderdale condo kitchen renovation. Expert tips from local specialists.">
-    <meta property="og:image" content="https://soflocountertops.com/images/kitchen-highrise-condo-intracoastal.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/kitchen-highrise-condo-intracoastal.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-13">
@@ -36,10 +36,10 @@
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation">
+    <meta name="twitter:url" content="https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation">
     <meta name="twitter:title" content="Fort Lauderdale Condo Kitchen Renovations: Complete Guide">
     <meta name="twitter:description" content="Navigate HOA requirements, permits, and space optimization for your Fort Lauderdale condo kitchen renovation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/kitchen-highrise-condo-intracoastal.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/kitchen-highrise-condo-intracoastal.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,25 +55,25 @@
         "@type": "BlogPosting",
         "headline": "Fort Lauderdale Condo Kitchen Renovations: Complete Guide",
         "description": "Complete guide to Fort Lauderdale condo kitchen renovations covering HOA requirements, permits, space optimization, material selection, and timeline considerations for high-rise living.",
-        "image": "https://soflocountertops.com/images/kitchen-highrise-condo-intracoastal.webp",
+        "image": "https://griffinquartz.com/images/kitchen-highrise-condo-intracoastal.webp",
         "author": {
             "@type": "Organization",
             "name": "Griffin Quartz",
-            "url": "https://soflocountertops.com"
+            "url": "https://griffinquartz.com"
         },
         "publisher": {
             "@type": "Organization",
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "datePublished": "2025-01-13",
         "dateModified": "2025-01-13",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation"
+            "@id": "https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation"
         },
         "keywords": "Fort Lauderdale condo kitchen renovation, condo kitchen remodel, high-rise kitchen renovation, HOA renovation approval"
     }
@@ -126,13 +126,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#localbusiness",
+        "@id": "https://griffinquartz.com/#localbusiness",
         "name": "Griffin Quartz",
         "description": "Premium quartz countertop installation serving Fort Lauderdale condominiums and high-rise residences. Specialists in condo renovations with full HOA coordination.",
-        "url": "https://soflocountertops.com",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -188,11 +188,11 @@
                     <h1>Fort Lauderdale Condo Kitchen Renovations: Complete Guide</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation&text=Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide%20https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation&media=https://soflocountertops.com/images/kitchen-highrise-condo-intracoastal.webp&description=Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide%20https://soflocountertops.com/blog/fort-lauderdale-condo-kitchen-renovation" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation&text=Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide%20https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation&media=https://griffinquartz.com/images/kitchen-highrise-condo-intracoastal.webp&description=Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Fort%20Lauderdale%20Condo%20Kitchen%20Renovations%3A%20Complete%20Guide%20https://griffinquartz.com/blog/fort-lauderdale-condo-kitchen-renovation" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

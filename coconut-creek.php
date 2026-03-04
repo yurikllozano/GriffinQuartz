@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Coconut Creek, countertop installation Coconut Creek FL, kitchen countertops Coconut Creek, bathroom countertops Coconut Creek, quartz fabrication Coconut Creek, granite countertops Coconut Creek, marble countertops Coconut Creek, countertop company Broward County, Wynmoor countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/coconut-creek">
+    <link rel="canonical" href="https://griffinquartz.com/coconut-creek">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/coconut-creek">
+    <meta property="og:url" content="https://griffinquartz.com/coconut-creek">
     <meta property="og:title" content="Quartz Countertops Coconut Creek FL | Premium Installation | Griffin Quartz">
     <meta property="og:description" content="Transform your Coconut Creek home with luxury quartz countertops. 200+ colors, FREE estimates, fast 1-week installation.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/coconut-creek">
+    <meta name="twitter:url" content="https://griffinquartz.com/coconut-creek">
     <meta name="twitter:title" content="Quartz Countertops Coconut Creek FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertop installation in Coconut Creek. 200+ colors, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/coconut-creek#localbusiness",
+        "@id": "https://griffinquartz.com/coconut-creek#localbusiness",
         "name": "Griffin Quartz - Coconut Creek",
         "description": "Premium quartz countertop installation serving Coconut Creek, FL. Kitchen and bathroom countertops with factory-direct pricing.",
-        "url": "https://soflocountertops.com/coconut-creek",
+        "url": "https://griffinquartz.com/coconut-creek",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

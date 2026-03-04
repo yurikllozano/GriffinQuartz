@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Skara Brae quartz - bold translucent taupe veins on bone-white backdrop. A statement design with dramatic movement. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Skara Brae, Skara Brae quartz, bold veined quartz, taupe quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/skara-brae">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/skara-brae">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

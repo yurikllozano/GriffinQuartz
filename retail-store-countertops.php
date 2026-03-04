@@ -9,7 +9,7 @@
     <meta name="description" content="Premium quartz countertops for retail stores in South Florida. Checkout counters, display cases, POS stations, and customer service desks. Durable surfaces for high-traffic retail environments. Free estimates!">
     <meta name="keywords" content="retail countertops, store countertops, checkout counter quartz, display case countertops, POS countertops, retail quartz countertops, cash wrap counters, customer service counter, retail countertops South Florida, commercial retail surfaces">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/retail-store-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/retail-store-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Retail Store Quartz Countertops | Retail Specialists | Griffin Quartz">
     <meta property="og:description" content="Premium quartz surfaces for retail stores throughout South Florida. Checkout counters, displays, and customer service areas.">
-    <meta property="og:url" content="https://soflocountertops.com/retail-store-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/retail-store-countertops">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/commercial-retail-marble-counter.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/commercial-retail-marble-counter.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -57,9 +57,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com"},
-            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://soflocountertops.com/commercial"},
-            {"@type": "ListItem", "position": 3, "name": "Retail Stores", "item": "https://soflocountertops.com/retail-store-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com"},
+            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://griffinquartz.com/commercial"},
+            {"@type": "ListItem", "position": 3, "name": "Retail Stores", "item": "https://griffinquartz.com/retail-store-countertops"}
         ]
     }
     </script>

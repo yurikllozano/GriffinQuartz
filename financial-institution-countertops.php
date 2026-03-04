@@ -9,7 +9,7 @@
     <meta name="description" content="Premium quartz countertops for banks and financial institutions in South Florida. Teller lines, customer service desks, private offices, and ATM surrounds. Professional installation. Free estimates!">
     <meta name="keywords" content="bank countertops, financial institution countertops, teller counter quartz, credit union countertops, bank branch countertops, financial office countertops, bank countertops South Florida, teller line installation">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/financial-institution-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/financial-institution-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,7 +19,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Financial Institution Quartz Countertops | Bank Specialists | Griffin Quartz">
     <meta property="og:description" content="Premium quartz surfaces for banks and credit unions throughout South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/financial-institution-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/financial-institution-countertops">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">

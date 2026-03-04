@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Weston, countertop installation Weston FL, kitchen countertops Weston, bathroom countertops Weston, quartz fabrication Weston, countertop company Broward County, luxury countertops Weston Hills, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/weston">
+    <link rel="canonical" href="https://griffinquartz.com/weston">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/weston">
+    <meta property="og:url" content="https://griffinquartz.com/weston">
     <meta property="og:title" content="Quartz Countertops Weston FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Weston. Serving Weston Hills, Windmill Ranch & luxury communities. 200+ colors, FREE estimates, factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -44,13 +44,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/weston#localbusiness",
+        "@id": "https://griffinquartz.com/weston#localbusiness",
         "name": "Griffin Quartz - Weston",
         "description": "Premium quartz countertop fabrication and installation in Weston, FL. Serving Weston Hills, Windmill Ranch Estates, Savanna, and luxury communities.",
-        "url": "https://soflocountertops.com/weston",
+        "url": "https://griffinquartz.com/weston",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

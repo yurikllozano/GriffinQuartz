@@ -9,7 +9,7 @@
     <meta name="description" content="Hygienic quartz countertops for medical clinics in South Florida. Non-porous, antimicrobial surfaces for exam rooms, dental offices, labs, and reception areas.DERA and HIPAA compliant installation. Free estimates!">
     <meta name="keywords" content="medical clinic countertops, healthcare countertops, dental office countertops, medical office quartz, exam room countertops, lab countertops, hygienic countertops, antimicrobial countertops, medical countertops South Florida, dental countertops">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/medical-clinic-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/medical-clinic-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Medical Clinic Quartz Countertops | Healthcare Specialists | Griffin Quartz">
     <meta property="og:description" content="Hygienic, non-porous quartz surfaces for medical and dental facilities throughout South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/medical-clinic-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/medical-clinic-countertops">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/commercial-retail-marble-counter.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/commercial-retail-marble-counter.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -57,9 +57,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com"},
-            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://soflocountertops.com/commercial"},
-            {"@type": "ListItem", "position": 3, "name": "Medical Clinics", "item": "https://soflocountertops.com/medical-clinic-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com"},
+            {"@type": "ListItem", "position": 2, "name": "Commercial", "item": "https://griffinquartz.com/commercial"},
+            {"@type": "ListItem", "position": 3, "name": "Medical Clinics", "item": "https://griffinquartz.com/medical-clinic-countertops"}
         ]
     }
     </script>

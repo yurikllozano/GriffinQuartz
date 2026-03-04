@@ -10,7 +10,7 @@
     <meta name="keywords" content="outdoor kitchen countertops, pool bar countertops, BBQ island countertops, outdoor quartz countertops, patio countertops South Florida, Dekton outdoor, weather resistant countertops, outdoor kitchen installation, pool area countertops, outdoor dining countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/outdoor-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/outdoor-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/outdoor-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/outdoor-countertops">
     <meta property="og:title" content="Luxury Outdoor Kitchen Countertops | Pool Bar & BBQ | Griffin Quartz">
     <meta property="og:description" content="Design your dream outdoor kitchen with premium countertops. Interactive calculator, UV-resistant materials, FREE estimates. Serving all of South Florida.">
-    <meta property="og:image" content="https://soflocountertops.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Outdoor Kitchen Countertops | Griffin Quartz South Florida">
     <meta name="twitter:description" content="Premium outdoor countertops for pool bars, BBQ islands & patio kitchens. Weather-durable, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,15 +46,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier outdoor kitchen countertop installation company specializing in pool bars, BBQ islands, and weather-resistant outdoor surfaces.",
-        "url": "https://soflocountertops.com/outdoor-countertops",
+        "url": "https://griffinquartz.com/outdoor-countertops",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -106,7 +106,7 @@
         "@context": "https://schema.org",
         "@type": "Service",
         "serviceType": "Outdoor Kitchen Countertop Installation",
-        "provider": {"@id": "https://soflocountertops.com/#organization"},
+        "provider": {"@id": "https://griffinquartz.com/#organization"},
         "areaServed": ["Miami-Dade County", "Broward County", "Palm Beach County"],
         "description": "Premium outdoor kitchen countertop installation including pool bars, BBQ islands, outdoor kitchens, and covered patio surfaces using UV-resistant quartz and Dekton materials.",
         "offers": {
@@ -122,9 +122,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://soflocountertops.com/our-services"},
-            {"@type": "ListItem", "position": 3, "name": "Outdoor Countertops", "item": "https://soflocountertops.com/outdoor-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://griffinquartz.com/our-services"},
+            {"@type": "ListItem", "position": 3, "name": "Outdoor Countertops", "item": "https://griffinquartz.com/outdoor-countertops"}
         ]
     }
     </script>

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Brittanicca Warm quartz - the warm-toned version of the iconic Brittanicca with cozy veining. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Brittanicca Warm, Brittanicca Warm quartz, warm marble quartz, warm veined countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/brittanicca-warm">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/brittanicca-warm">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

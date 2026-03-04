@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Warwick quartz - traditional veining with speckles and flecks. Classic Series favorite. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Warwick, Warwick quartz, traditional quartz countertops, classic quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/warwick">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/warwick">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

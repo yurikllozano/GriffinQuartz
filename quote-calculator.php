@@ -9,7 +9,7 @@
     <meta name="description" content="Get an instant estimate for your quartz countertop project. Enter your dimensions and preferences to see pricing. Free quotes for Boca Raton, Fort Lauderdale, Miami & South Florida.">
     <meta name="keywords" content="quartz countertop cost calculator, countertop price estimator, quartz pricing South Florida, countertop quote, kitchen countertop cost">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/quote-calculator">
+    <link rel="canonical" href="https://griffinquartz.com/quote-calculator">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,7 +19,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Instant Quartz Countertop Quote Calculator | Griffin Quartz">
     <meta property="og:description" content="Get instant pricing for your quartz countertop project. Enter dimensions and see your estimate in seconds.">
-    <meta property="og:url" content="https://soflocountertops.com/quote-calculator">
+    <meta property="og:url" content="https://griffinquartz.com/quote-calculator">
     <meta property="og:type" content="website">
 
     <!-- Fonts and Styles -->

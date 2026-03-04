@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Blackbrook quartz - deep black with subtle movement for modern luxury. 2025 trending design. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Blackbrook, Blackbrook quartz, black quartz countertops, dark quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/blackbrook">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/blackbrook">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

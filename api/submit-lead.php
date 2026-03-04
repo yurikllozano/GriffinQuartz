@@ -173,7 +173,7 @@ try {
 function sendEmailNotification($formType, $name, $email, $phone, $project, $message, $leadId) {
     $to = ADMIN_EMAIL;
     $subject = "[" . SITE_NAME . "] New " . ucfirst($formType) . " Lead #$leadId";
-    $fromEmail = defined('FROM_EMAIL') ? FROM_EMAIL : 'noreply@soflocountertops.com';
+    $fromEmail = defined('FROM_EMAIL') ? FROM_EMAIL : 'noreply@griffinquartz.com';
     $fromName = defined('FROM_NAME') ? FROM_NAME : SITE_NAME;
 
     // Build HTML email for better deliverability

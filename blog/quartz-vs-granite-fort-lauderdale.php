@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz vs granite Fort Lauderdale, quartz countertops Fort Lauderdale, granite countertops Fort Lauderdale, countertops humid climate, coastal countertops Florida">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale">
+    <link rel="canonical" href="https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale">
+    <meta property="og:url" content="https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale">
     <meta property="og:title" content="Quartz vs Granite: Which Is Better for Fort Lauderdale's Climate?">
     <meta property="og:description" content="Compare quartz vs granite countertops for Fort Lauderdale's humid, salt-air climate. Expert guide on durability, maintenance, and cost.">
-    <meta property="og:image" content="https://soflocountertops.com/images/quartz-samples-gold-hardware-luxury.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/quartz-samples-gold-hardware-luxury.webp">
     <meta property="article:published_time" content="2025-01-14">
     <meta property="article:author" content="Griffin Quartz Team">
 
@@ -36,7 +36,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Quartz vs Granite: Which Is Better for Fort Lauderdale's Climate?">
     <meta name="twitter:description" content="Compare quartz vs granite countertops for Fort Lauderdale's humid, salt-air climate.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/quartz-samples-gold-hardware-luxury.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/quartz-samples-gold-hardware-luxury.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,7 +52,7 @@
         "@type": "BlogPosting",
         "headline": "Quartz vs Granite: Which Is Better for Fort Lauderdale's Climate?",
         "description": "Compare quartz vs granite countertops for Fort Lauderdale's humid, salt-air climate. Expert guide on durability, maintenance, and cost.",
-        "image": "https://soflocountertops.com/images/quartz-samples-gold-hardware-luxury.webp",
+        "image": "https://griffinquartz.com/images/quartz-samples-gold-hardware-luxury.webp",
         "author": {
             "@type": "Organization",
             "name": "Griffin Quartz"
@@ -62,14 +62,14 @@
             "name": "Griffin Quartz",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+                "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
             }
         },
         "datePublished": "2025-01-14",
         "dateModified": "2025-01-14",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale"
+            "@id": "https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale"
         },
         "keywords": "quartz vs granite Fort Lauderdale, quartz countertops, granite countertops, humid climate countertops"
     }
@@ -124,7 +124,7 @@
         "@type": "LocalBusiness",
         "name": "Griffin Quartz",
         "description": "Premium quartz countertop installation serving Fort Lauderdale and South Florida",
-        "url": "https://soflocountertops.com",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
         "address": {
@@ -184,11 +184,11 @@
                     <h1>Quartz vs Granite: Which Is Better for Fort Lauderdale's Climate?</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale&text=Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F%20https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale&media=https://soflocountertops.com/images/quartz-samples-gold-hardware-luxury.webp&description=Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F%20https://soflocountertops.com/blog/quartz-vs-granite-fort-lauderdale" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale&text=Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F%20https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale&media=https://griffinquartz.com/images/quartz-samples-gold-hardware-luxury.webp&description=Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Quartz%20vs%20Granite%3A%20Which%20Is%20Better%20for%20Fort%20Lauderdale%27s%20Climate%3F%20https://griffinquartz.com/blog/quartz-vs-granite-fort-lauderdale" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

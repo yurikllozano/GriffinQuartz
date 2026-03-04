@@ -11,8 +11,8 @@
     <meta property="og:title" content="South Florida Quartz Countertop Installation | Griffin Quartz Service Areas">
     <meta property="og:description" content="Premium quartz countertop installation across Miami-Dade, Broward, and Palm Beach counties. Expert fabrication and installation for your home or business.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/locations">
-    <meta property="og:image" content="https://soflocountertops.com/images/map-miami-beach-area.webp">
+    <meta property="og:url" content="https://griffinquartz.com/locations">
+    <meta property="og:image" content="https://griffinquartz.com/images/map-miami-beach-area.webp">
 
     <!-- Fonts & Styles -->
     <!-- Favicon -->
@@ -33,7 +33,7 @@
         "@type": "LocalBusiness",
         "name": "Griffin Quartz",
         "description": "Premium quartz countertop fabrication and installation serving all of South Florida",
-        "url": "https://soflocountertops.com",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
         "address": {

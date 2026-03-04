@@ -10,7 +10,7 @@
     <meta name="keywords" content="Cambria Ella, Ella quartz, soft white quartz, delicate veined quartz, Cambria countertops South Florida, classic kitchen countertops, marble alternative">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/ella">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/ella">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,10 +19,10 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="product">
-    <meta property="og:url" content="https://soflocountertops.com/cambria/ella">
+    <meta property="og:url" content="https://griffinquartz.com/cambria/ella">
     <meta property="og:title" content="Cambria Ella Quartz | Timeless Elegance | Griffin Quartz">
     <meta property="og:description" content="Soft white base with delicate gray veining. The perfect choice for classic and timeless kitchen designs.">
-    <meta property="og:image" content="https://soflocountertops.com/images/cambria-ella-hero.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/cambria-ella-hero.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Fonts & Styles -->
@@ -38,7 +38,7 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cambria Ella Quartz Countertop",
-        "image": "https://soflocountertops.com/images/cambria-ella-hero.webp",
+        "image": "https://griffinquartz.com/images/cambria-ella-hero.webp",
         "description": "Cambria Ella features a soft white base with delicate gray veining, offering a subtle and elegant look ideal for classic and timeless kitchen and bathroom designs.",
         "brand": {"@type": "Brand", "name": "Cambria"},
         "category": "Quartz Countertops",
@@ -58,9 +58,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://soflocountertops.com/cambria"},
-            {"@type": "ListItem", "position": 3, "name": "Ella", "item": "https://soflocountertops.com/cambria/ella"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://griffinquartz.com/cambria"},
+            {"@type": "ListItem", "position": 3, "name": "Ella", "item": "https://griffinquartz.com/cambria/ella"}
         ]
     }
     </script>

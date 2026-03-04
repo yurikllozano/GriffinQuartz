@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Oakleigh quartz - white backdrop with bold black and warm gold veins. Engaging natural pattern. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Oakleigh, Oakleigh quartz, black gold quartz, bold veined quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/oakleigh">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/oakleigh">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Lakedale quartz - warm tan and cool gray hues on bright white with charcoal speckles. #3 best-selling Cambria design. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Lakedale, Lakedale quartz, popular Cambria, white marble quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/lakedale">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/lakedale">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Blackpool quartz - deep ebony with silken matte finish. Bold, dramatic statement. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Blackpool, Blackpool quartz, black quartz countertops, matte black quartz, Cambria countertops South Florida, dark countertops">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/blackpool">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/blackpool">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Coral Springs, countertop installation Coral Springs FL, kitchen countertops Coral Springs, bathroom countertops Coral Springs, quartz fabrication Coral Springs, granite countertops Coral Springs, marble countertops Coral Springs, countertop company Broward County, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/coral-springs">
+    <link rel="canonical" href="https://griffinquartz.com/coral-springs">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/coral-springs">
+    <meta property="og:url" content="https://griffinquartz.com/coral-springs">
     <meta property="og:title" content="Quartz Countertops Coral Springs FL | Premium Installation | Griffin Quartz">
     <meta property="og:description" content="Transform your Coral Springs home with luxury quartz countertops. 200+ colors, FREE estimates, fast 1-week installation. Factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/coral-springs">
+    <meta name="twitter:url" content="https://griffinquartz.com/coral-springs">
     <meta name="twitter:title" content="Quartz Countertops Coral Springs FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertop installation in Coral Springs. 200+ colors, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/coral-springs#localbusiness",
+        "@id": "https://griffinquartz.com/coral-springs#localbusiness",
         "name": "Griffin Quartz - Coral Springs",
         "description": "Premium quartz countertop installation serving Coral Springs, FL. Specializing in luxury kitchen and bathroom countertops with factory-direct pricing.",
-        "url": "https://soflocountertops.com/coral-springs",
+        "url": "https://griffinquartz.com/coral-springs",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

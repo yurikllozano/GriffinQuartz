@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Delgatie quartz - subtle white-on-white elegance with warm cross veining. Serene and sophisticated. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Delgatie, Delgatie quartz, warm neutral quartz, white quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/delgatie">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/delgatie">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

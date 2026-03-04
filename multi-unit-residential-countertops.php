@@ -9,7 +9,7 @@
     <meta name="description" content="Volume quartz countertops for apartments and condos in South Florida. New construction, renovations, and unit turns. Consistent quality across all units. Volume pricing available. Free estimates!">
     <meta name="keywords" content="apartment countertops, condo countertops, multi-unit countertops, multifamily countertops, apartment renovation countertops, condo quartz countertops, property management countertops, multi-unit residential South Florida, apartment quartz installation">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/multi-unit-residential-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/multi-unit-residential-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,7 +19,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Multi-Unit Residential Quartz Countertops | Apartment & Condo Specialists | Griffin Quartz">
     <meta property="og:description" content="Volume quartz countertops for apartments and condos throughout South Florida.">
-    <meta property="og:url" content="https://soflocountertops.com/multi-unit-residential-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/multi-unit-residential-countertops">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">

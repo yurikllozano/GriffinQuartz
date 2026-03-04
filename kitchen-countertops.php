@@ -10,7 +10,7 @@
     <meta name="keywords" content="kitchen countertops, quartz kitchen countertops, kitchen island countertops, quartz countertops South Florida, waterfall edge countertops, kitchen remodel countertops, quartz kitchen island, perimeter countertops, breakfast bar countertops, kitchen backsplash quartz">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/kitchen-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/kitchen-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/kitchen-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/kitchen-countertops">
     <meta property="og:title" content="Luxury Kitchen Countertops | Quartz Kitchen Islands | Griffin Quartz">
     <meta property="og:description" content="Design your dream kitchen with premium quartz countertops. Interactive calculator, 200+ colors, waterfall edges available. FREE estimates in South Florida.">
-    <meta property="og:image" content="https://soflocountertops.com/images/kitchen-miami-penthouse-brown-veined.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/kitchen-miami-penthouse-brown-veined.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Kitchen Countertops | Griffin Quartz South Florida">
     <meta name="twitter:description" content="Luxury quartz kitchen countertops for your renovation. Custom islands, waterfall edges, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/kitchen-miami-penthouse-brown-veined.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/kitchen-miami-penthouse-brown-veined.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,15 +46,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier quartz kitchen countertop installation company specializing in luxury kitchen islands, waterfall edges, and custom countertops.",
-        "url": "https://soflocountertops.com/kitchen-countertops",
+        "url": "https://griffinquartz.com/kitchen-countertops",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -106,7 +106,7 @@
         "@context": "https://schema.org",
         "@type": "Service",
         "serviceType": "Kitchen Countertop Installation",
-        "provider": {"@id": "https://soflocountertops.com/#organization"},
+        "provider": {"@id": "https://griffinquartz.com/#organization"},
         "areaServed": ["Miami-Dade County", "Broward County", "Palm Beach County"],
         "description": "Premium quartz kitchen countertop installation including kitchen islands, perimeter counters, waterfall edges, backsplashes, and breakfast bars for South Florida homes.",
         "offers": {
@@ -122,9 +122,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://soflocountertops.com/our-services"},
-            {"@type": "ListItem", "position": 3, "name": "Kitchen Countertops", "item": "https://soflocountertops.com/kitchen-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://griffinquartz.com/our-services"},
+            {"@type": "ListItem", "position": 3, "name": "Kitchen Countertops", "item": "https://griffinquartz.com/kitchen-countertops"}
         ]
     }
     </script>

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Summerhill quartz - cream backdrop with bold veining and natural shimmer. A stunning granite alternative. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Summerhill, Summerhill quartz, coastal quartz, cream quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/summerhill">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/summerhill">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

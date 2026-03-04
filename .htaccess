@@ -10,13 +10,17 @@ RewriteBase /
 # Handle root URL - serve index.php
 RewriteRule ^/?$ index.php [L]
 
-# Redirect www to non-www (optional - uncomment if needed)
-# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+# 301 Redirect soflocountertops.com to griffinquartz.com
+RewriteCond %{HTTP_HOST} ^(www\.)?soflocountertops\.com$ [NC]
+RewriteRule ^(.*)$ https://griffinquartz.com/$1 [R=301,L]
 
-# Force HTTPS (optional - uncomment if SSL is configured)
-# RewriteCond %{HTTPS} off
-# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# Redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.griffinquartz\.com$ [NC]
+RewriteRule ^(.*)$ https://griffinquartz.com/$1 [R=301,L]
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # 301 Redirect .html URLs to clean URLs (SEO-friendly)
 # Example: /quartz-brands.html redirects to /quartz-brands

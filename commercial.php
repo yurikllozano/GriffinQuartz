@@ -9,7 +9,7 @@
     <meta name="description" content="Trusted by 10,000+ Florida businesses. Commercial quartz countertops for restaurants, hotels, medical offices, retail & corporate spaces. Fast turnaround, precision fabrication, expert installation. Serving Boca Raton to Miami. Free estimates!">
     <meta name="keywords" content="commercial quartz countertops, commercial countertops South Florida, restaurant countertops, hotel countertops, office countertops, medical office countertops, bar countertops, commercial countertop installation, quartz countertops Boca Raton, quartz countertops Fort Lauderdale, quartz countertops Miami, commercial kitchen countertops, reception desk quartz, retail countertops, healthcare countertops, dental office countertops, hospitality countertops, corporate countertops, multi-unit countertop installation, commercial quartz fabrication, NSF certified countertops, food-safe countertops, hygienic countertops, durable commercial surfaces, scratch resistant countertops, stain resistant countertops">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/commercial">
+    <link rel="canonical" href="https://griffinquartz.com/commercial">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,9 +19,9 @@
     <!-- Open Graph -->
     <meta property="og:title" content="Commercial Quartz Countertops | Trusted by 10,000+ Florida Businesses | Griffin Quartz">
     <meta property="og:description" content="Precision fabrication & expert installation for restaurants, hotels, medical offices, and corporate spaces throughout South Florida. Fast turnaround without sacrificing quality.">
-    <meta property="og:url" content="https://soflocountertops.com/commercial">
+    <meta property="og:url" content="https://griffinquartz.com/commercial">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://soflocountertops.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
@@ -31,7 +31,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Commercial Quartz Countertops | Trusted by 10,000+ Florida Businesses | Griffin Quartz">
     <meta name="twitter:description" content="Precision fabrication & expert installation for restaurants, hotels, medical offices, and corporate spaces throughout South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
 
     <!-- Geo Meta Tags for Local SEO -->
     <meta name="geo.region" content="US-FL">
@@ -44,10 +44,10 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#business",
+        "@id": "https://griffinquartz.com/#business",
         "name": "Griffin Quartz",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "url": "https://soflocountertops.com",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "url": "https://griffinquartz.com",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
         "address": {
@@ -162,13 +162,13 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com"
+                "item": "https://griffinquartz.com"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Commercial Services",
-                "item": "https://soflocountertops.com/commercial"
+                "item": "https://griffinquartz.com/commercial"
             }
         ]
     }

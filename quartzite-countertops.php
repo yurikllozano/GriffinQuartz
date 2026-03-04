@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartzite countertops, natural quartzite, quartzite kitchen countertops, quartzite bathroom vanity, quartzite vs quartz, quartzite countertops South Florida, quartzite countertops Boca Raton, quartzite countertops Miami, quartzite countertops Fort Lauderdale, Taj Mahal quartzite, Super White quartzite">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/quartzite-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/quartzite-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/quartzite-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/quartzite-countertops">
     <meta property="og:title" content="Quartzite Countertops South Florida | Natural Stone | Griffin Quartz">
     <meta property="og:description" content="Premium natural quartzite countertops for South Florida homes. Superior hardness, heat resistance, and stunning natural beauty. FREE estimates.">
-    <meta property="og:image" content="https://soflocountertops.com/images/kitchen-modern-waterfall-island-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/kitchen-modern-waterfall-island-gold.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Quartzite Countertops South Florida | Griffin Quartz">
     <meta name="twitter:description" content="Premium natural quartzite countertops. Superior hardness, heat resistance, stunning natural patterns. Serving all of South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/kitchen-modern-waterfall-island-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/kitchen-modern-waterfall-island-gold.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -54,19 +54,19 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Countertop Materials",
-                "item": "https://soflocountertops.com/our-services"
+                "item": "https://griffinquartz.com/our-services"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Quartzite Countertops",
-                "item": "https://soflocountertops.com/quartzite-countertops"
+                "item": "https://griffinquartz.com/quartzite-countertops"
             }
         ]
     }

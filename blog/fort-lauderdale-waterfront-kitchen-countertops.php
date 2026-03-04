@@ -10,7 +10,7 @@
     <meta name="keywords" content="kitchen countertops Fort Lauderdale, waterfront kitchen countertops, quartz countertops Fort Lauderdale, coastal kitchen design, Fort Lauderdale countertop installation">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops">
     <meta property="og:title" content="Best Kitchen Countertops for Fort Lauderdale Waterfront Homes">
     <meta property="og:description" content="Discover the best kitchen countertops for Fort Lauderdale waterfront homes. Expert tips on humidity-resistant quartz and granite for coastal living.">
-    <meta property="og:image" content="https://soflocountertops.com/images/kitchen-waterfront-palms-orchids.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/kitchen-waterfront-palms-orchids.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,16 +43,16 @@
         "@context": "https://schema.org",
         "@type": "BlogPosting",
         "headline": "Best Kitchen Countertops for Fort Lauderdale Waterfront Homes",
-        "image": "https://soflocountertops.com/images/kitchen-waterfront-palms-orchids.webp",
+        "image": "https://griffinquartz.com/images/kitchen-waterfront-palms-orchids.webp",
         "author": {"@type": "Organization", "name": "Griffin Quartz"},
         "publisher": {
             "@type": "Organization",
             "name": "Griffin Quartz",
-            "logo": {"@type": "ImageObject", "url": "https://soflocountertops.com/images/griffin-quartz-logo.webp"}
+            "logo": {"@type": "ImageObject", "url": "https://griffinquartz.com/images/griffin-quartz-logo.webp"}
         },
         "datePublished": "2025-01-15",
         "dateModified": "2025-01-15",
-        "mainEntityOfPage": {"@type": "WebPage", "@id": "https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops"}
+        "mainEntityOfPage": {"@type": "WebPage", "@id": "https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops"}
     }
     </script>
 
@@ -92,7 +92,7 @@
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "Griffin Quartz",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "telephone": "+1-720-324-1436",
         "address": {
             "@type": "PostalAddress",
@@ -133,11 +133,11 @@
                     <h1>Best Kitchen Countertops for Fort Lauderdale Waterfront Homes</h1>
                     <div class="blog-share-buttons">
                         <span class="blog-share-label">Share</span>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="https://twitter.com/intent/tweet?url=https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops&text=Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
-                        <a href="https://api.whatsapp.com/send?text=Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes%20https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
-                        <a href="https://pinterest.com/pin/create/button/?url=https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops&media=https://soflocountertops.com/images/kitchen-waterfront-palms-orchids.webp&description=Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
-                        <a href="sms:?body=Check%20this%20out%3A%20Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes%20https://soflocountertops.com/blog/fort-lauderdale-waterfront-kitchen-countertops" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops" target="_blank" rel="noopener" class="blog-share-btn facebook" title="Share on Facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="https://twitter.com/intent/tweet?url=https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops&text=Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes" target="_blank" rel="noopener" class="blog-share-btn twitter" title="Share on X"><i class="bi bi-twitter-x"></i></a>
+                        <a href="https://api.whatsapp.com/send?text=Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes%20https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops" target="_blank" rel="noopener" class="blog-share-btn whatsapp" title="Share on WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                        <a href="https://pinterest.com/pin/create/button/?url=https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops&media=https://griffinquartz.com/images/kitchen-waterfront-palms-orchids.webp&description=Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes" target="_blank" rel="noopener" class="blog-share-btn pinterest" title="Share on Pinterest"><i class="bi bi-pinterest"></i></a>
+                        <a href="sms:?body=Check%20this%20out%3A%20Best%20Kitchen%20Countertops%20for%20Fort%20Lauderdale%20Waterfront%20Homes%20https://griffinquartz.com/blog/fort-lauderdale-waterfront-kitchen-countertops" class="blog-share-btn sms" title="Share via SMS"><i class="bi bi-chat-dots"></i></a>
                     </div>
                 </div>
             </div>

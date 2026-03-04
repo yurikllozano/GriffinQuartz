@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Palm Beach Gardens, countertop installation Palm Beach Gardens FL, kitchen countertops Palm Beach Gardens, bathroom countertops Palm Beach Gardens, quartz fabrication Palm Beach Gardens, granite countertops Palm Beach Gardens, marble countertops Palm Beach Gardens, countertop company Palm Beach County, luxury countertops PGA National, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/palm-beach-gardens">
+    <link rel="canonical" href="https://griffinquartz.com/palm-beach-gardens">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/palm-beach-gardens">
+    <meta property="og:url" content="https://griffinquartz.com/palm-beach-gardens">
     <meta property="og:title" content="Quartz Countertops Palm Beach Gardens FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Palm Beach Gardens. Serving PGA National, The Bear's Club & luxury estates. 200+ colors, FREE estimates, factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/palm-beach-gardens">
+    <meta name="twitter:url" content="https://griffinquartz.com/palm-beach-gardens">
     <meta name="twitter:title" content="Quartz Countertops Palm Beach Gardens FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertops for Palm Beach Gardens homes. 200+ colors, factory-direct pricing, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/palm-beach-gardens#localbusiness",
+        "@id": "https://griffinquartz.com/palm-beach-gardens#localbusiness",
         "name": "Griffin Quartz - Palm Beach Gardens",
         "description": "Premium quartz countertop fabrication and installation in Palm Beach Gardens, FL. Serving PGA National, The Bear's Club, Mirasol, and luxury estates throughout Northern Palm Beach County.",
-        "url": "https://soflocountertops.com/palm-beach-gardens",
+        "url": "https://griffinquartz.com/palm-beach-gardens",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

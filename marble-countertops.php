@@ -10,7 +10,7 @@
     <meta name="keywords" content="marble countertops, Carrara marble, Calacatta marble, marble kitchen countertops, marble bathroom vanity, marble countertops South Florida, marble countertops Boca Raton, marble countertops Miami, marble countertops Fort Lauderdale, Italian marble, white marble countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/marble-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/marble-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/marble-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/marble-countertops">
     <meta property="og:title" content="Marble Countertops South Florida | Luxury Natural Stone | Griffin Quartz">
     <meta property="og:description" content="Exquisite marble countertops for South Florida homes. Timeless elegance with Carrara, Calacatta & Statuario marble. FREE estimates.">
-    <meta property="og:image" content="https://soflocountertops.com/images/bathroom-penthouse-marble-tub-city.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/bathroom-penthouse-marble-tub-city.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Marble Countertops South Florida | Griffin Quartz">
     <meta name="twitter:description" content="Exquisite marble countertops. Timeless elegance with Italian marble varieties. Serving all of South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/bathroom-penthouse-marble-tub-city.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/bathroom-penthouse-marble-tub-city.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -54,19 +54,19 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Countertop Materials",
-                "item": "https://soflocountertops.com/our-services"
+                "item": "https://griffinquartz.com/our-services"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Marble Countertops",
-                "item": "https://soflocountertops.com/marble-countertops"
+                "item": "https://griffinquartz.com/marble-countertops"
             }
         ]
     }

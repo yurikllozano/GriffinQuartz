@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Sunny Isles Beach, countertop installation Sunny Isles FL, kitchen countertops Sunny Isles, bathroom countertops Sunny Isles, luxury condo countertops, Acqualina countertops, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/sunny-isles">
+    <link rel="canonical" href="https://griffinquartz.com/sunny-isles">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/sunny-isles">
+    <meta property="og:url" content="https://griffinquartz.com/sunny-isles">
     <meta property="og:title" content="Quartz Countertops Sunny Isles Beach FL | Installation | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Sunny Isles Beach. Serving luxury high-rises, Acqualina & oceanfront residences. 200+ colors, FREE estimates.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -44,13 +44,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/sunny-isles#localbusiness",
+        "@id": "https://griffinquartz.com/sunny-isles#localbusiness",
         "name": "Griffin Quartz - Sunny Isles Beach",
         "description": "Premium quartz countertop fabrication and installation in Sunny Isles Beach, FL. Serving luxury high-rise condos, Acqualina, Porsche Design Tower, and oceanfront residences.",
-        "url": "https://soflocountertops.com/sunny-isles",
+        "url": "https://griffinquartz.com/sunny-isles",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

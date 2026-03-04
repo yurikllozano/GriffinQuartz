@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Colton quartz - clean white with subtle movement for timeless appeal. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Colton, Colton quartz, clean white quartz, subtle quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/colton">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/colton">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Winterbourne quartz - creamy white with subtle understated patterns. Perfect for contemporary designs. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Winterbourne, Winterbourne quartz, white quartz countertops, contemporary quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/winterbourne">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/winterbourne">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

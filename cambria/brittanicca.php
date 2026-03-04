@@ -10,7 +10,7 @@
     <meta name="keywords" content="Cambria Brittanicca, Brittanicca quartz, marble look quartz, white quartz countertops, Cambria countertops South Florida, gray veined quartz, kitchen countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/brittanicca">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/brittanicca">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="product">
-    <meta property="og:url" content="https://soflocountertops.com/cambria/brittanicca">
+    <meta property="og:url" content="https://griffinquartz.com/cambria/brittanicca">
     <meta property="og:title" content="Cambria Brittanicca Quartz | Stunning Marble Alternative | Griffin Quartz">
     <meta property="og:description" content="Dramatic gray veining flowing across a bright white background. The ultimate marble alternative with superior durability.">
-    <meta property="og:image" content="https://soflocountertops.com/images/cambria-brittanicca-hero.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/cambria-brittanicca-hero.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Cambria Brittanicca Quartz | Griffin Quartz South Florida">
     <meta name="twitter:description" content="The ultimate marble alternative - Cambria Brittanicca quartz countertops.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/cambria-brittanicca-hero.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-brittanicca-hero.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,7 +44,7 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Cambria Brittanicca Quartz Countertop",
-        "image": "https://soflocountertops.com/images/cambria-brittanicca-hero.webp",
+        "image": "https://griffinquartz.com/images/cambria-brittanicca-hero.webp",
         "description": "Cambria Brittanicca features dramatic gray veining flowing across a bright white background, creating the ultimate marble alternative with superior durability and zero maintenance.",
         "brand": {
             "@type": "Brand",
@@ -82,9 +82,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://soflocountertops.com/cambria"},
-            {"@type": "ListItem", "position": 3, "name": "Brittanicca", "item": "https://soflocountertops.com/cambria/brittanicca"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://griffinquartz.com/cambria"},
+            {"@type": "ListItem", "position": 3, "name": "Brittanicca", "item": "https://griffinquartz.com/cambria/brittanicca"}
         ]
     }
     </script>

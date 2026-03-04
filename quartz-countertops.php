@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops, engineered quartz, quartz kitchen countertops, quartz bathroom vanity, Cambria quartz, Caesarstone, Silestone, quartz countertops South Florida, quartz countertops Boca Raton, quartz countertops Miami, quartz countertops Fort Lauderdale">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/quartz-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/quartz-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/quartz-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/quartz-countertops">
     <meta property="og:title" content="Quartz Countertops South Florida | Engineered Stone | Griffin Quartz">
     <meta property="og:description" content="Premium engineered quartz countertops for South Florida homes. Non-porous, stain-resistant surfaces from top brands. FREE estimates.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Quartz Countertops South Florida | Griffin Quartz">
     <meta name="twitter:description" content="Premium engineered quartz countertops. Non-porous, stain-resistant, low maintenance. Serving all of South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -54,19 +54,19 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Countertop Materials",
-                "item": "https://soflocountertops.com/our-services"
+                "item": "https://griffinquartz.com/our-services"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Quartz Countertops",
-                "item": "https://soflocountertops.com/quartz-countertops"
+                "item": "https://griffinquartz.com/quartz-countertops"
             }
         ]
     }

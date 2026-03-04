@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Jupiter, countertop installation Jupiter FL, kitchen countertops Jupiter, bathroom countertops Jupiter, quartz fabrication Jupiter, granite countertops Jupiter, countertop company Palm Beach County, luxury countertops Admirals Cove, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/jupiter">
+    <link rel="canonical" href="https://griffinquartz.com/jupiter">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,10 +25,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/jupiter">
+    <meta property="og:url" content="https://griffinquartz.com/jupiter">
     <meta property="og:title" content="Quartz Countertops Jupiter FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Jupiter. Serving Admirals Cove, Jonathan's Landing & waterfront estates. 200+ colors, FREE estimates, factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -44,13 +44,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/jupiter#localbusiness",
+        "@id": "https://griffinquartz.com/jupiter#localbusiness",
         "name": "Griffin Quartz - Jupiter",
         "description": "Premium quartz countertop fabrication and installation in Jupiter, FL. Serving Admirals Cove, Jonathan's Landing, Jupiter Country Club, and waterfront estates.",
-        "url": "https://soflocountertops.com/jupiter",
+        "url": "https://griffinquartz.com/jupiter",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

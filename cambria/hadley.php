@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Hadley quartz - popular marble-look design with timeless appeal. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Hadley, Hadley quartz, marble look quartz, classic quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/hadley">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/hadley">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

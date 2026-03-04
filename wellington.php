@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Wellington, countertop installation Wellington FL, kitchen countertops Wellington, bathroom countertops Wellington, quartz fabrication Wellington, granite countertops Wellington, marble countertops Wellington, countertop company Palm Beach County, luxury countertops equestrian estates, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/wellington">
+    <link rel="canonical" href="https://griffinquartz.com/wellington">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/wellington">
+    <meta property="og:url" content="https://griffinquartz.com/wellington">
     <meta property="og:title" content="Quartz Countertops Wellington FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Wellington. Serving equestrian estates & polo communities. 200+ colors, FREE estimates, factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/wellington">
+    <meta name="twitter:url" content="https://griffinquartz.com/wellington">
     <meta name="twitter:title" content="Quartz Countertops Wellington FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertops for Wellington homes. 200+ colors, factory-direct pricing, FREE estimates, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/wellington#localbusiness",
+        "@id": "https://griffinquartz.com/wellington#localbusiness",
         "name": "Griffin Quartz - Wellington",
         "description": "Premium quartz countertop fabrication and installation in Wellington, FL. Serving Wellington's equestrian estates, polo communities, and luxury homes throughout Western Palm Beach County.",
-        "url": "https://soflocountertops.com/wellington",
+        "url": "https://griffinquartz.com/wellington",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

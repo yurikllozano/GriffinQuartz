@@ -9,7 +9,7 @@
     <meta name="description" content="Interactive quartz color visualizer and wall color palette tool. See how countertops look in real spaces and discover complementary wall colors. Serving South Florida.">
     <meta name="keywords" content="quartz color visualizer, countertop color picker, wall color palette, kitchen design tool, quartz colors South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/color-visualizer">
+    <link rel="canonical" href="https://griffinquartz.com/color-visualizer">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

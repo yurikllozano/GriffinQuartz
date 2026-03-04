@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Sandgate quartz - warm neutral with soft veining for soothing environments. 2025 trending design. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Sandgate, Sandgate quartz, warm neutral quartz, beige quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/sandgate">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/sandgate">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

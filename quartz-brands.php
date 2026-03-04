@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Boca Raton, quartz countertops South Florida, Cambria dealer Florida, Silestone countertops Fort Lauderdale, Caesarstone Miami, quartz kitchen countertops Palm Beach, HanStone quartz Broward County, quartz bathroom vanity tops, engineered quartz surfaces Florida">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/quartz-brands">
+    <link rel="canonical" href="https://griffinquartz.com/quartz-brands">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -23,10 +23,10 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/quartz-brands">
+    <meta property="og:url" content="https://griffinquartz.com/quartz-brands">
     <meta property="og:title" content="Premium Quartz Countertop Brands | Griffin Quartz South Florida">
     <meta property="og:description" content="South Florida's largest selection of premium quartz countertops. 8 world-class brands, 200+ colors in stock. Cambria, Silestone, Caesarstone & more. Visit our Boca Raton showroom.">
-    <meta property="og:image" content="https://soflocountertops.com/images/quartz-brands-hero.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/quartz-brands-hero.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:image:alt" content="Premium quartz countertop brands at Griffin Quartz showroom in Boca Raton, Florida">
@@ -37,7 +37,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Premium Quartz Countertop Brands | Griffin Quartz">
     <meta name="twitter:description" content="8 world-class quartz brands, 200+ colors in stock. South Florida's premier quartz countertop destination. Visit our Boca Raton showroom.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/quartz-brands-hero.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/quartz-brands-hero.webp">
     <meta name="twitter:image:alt" content="Premium quartz countertop brands at Griffin Quartz">
 
     <!-- Fonts & Styles -->
@@ -54,18 +54,18 @@
         "@type": "CollectionPage",
         "name": "Premium Quartz Countertop Brands in South Florida",
         "description": "South Florida's largest selection of premium quartz countertop brands including Cambria, Silestone, Caesarstone, and more. Visit our Boca Raton showroom.",
-        "url": "https://soflocountertops.com/quartz-brands",
+        "url": "https://griffinquartz.com/quartz-brands",
         "mainEntity": {
             "@type": "ItemList",
             "itemListElement": [
-                {"@type": "ListItem", "position": 1, "name": "Cambria Quartz Countertops", "url": "https://soflocountertops.com/cambria"},
-                {"@type": "ListItem", "position": 2, "name": "Silestone by Cosentino Countertops", "url": "https://soflocountertops.com/quartz-brands#silestone"},
-                {"@type": "ListItem", "position": 3, "name": "Caesarstone Quartz Countertops", "url": "https://soflocountertops.com/quartz-brands#caesarstone"},
-                {"@type": "ListItem", "position": 4, "name": "Viatera by LX Hausys Countertops", "url": "https://soflocountertops.com/quartz-brands#viatera"},
-                {"@type": "ListItem", "position": 5, "name": "HanStone Quartz Countertops", "url": "https://soflocountertops.com/quartz-brands#hanstone"},
-                {"@type": "ListItem", "position": 6, "name": "Compac Quartz Countertops", "url": "https://soflocountertops.com/quartz-brands#compac"},
-                {"@type": "ListItem", "position": 7, "name": "Corian Quartz Countertops", "url": "https://soflocountertops.com/quartz-brands#corian"},
-                {"@type": "ListItem", "position": 8, "name": "Wilsonart Quartz Countertops", "url": "https://soflocountertops.com/quartz-brands#wilsonart"}
+                {"@type": "ListItem", "position": 1, "name": "Cambria Quartz Countertops", "url": "https://griffinquartz.com/cambria"},
+                {"@type": "ListItem", "position": 2, "name": "Silestone by Cosentino Countertops", "url": "https://griffinquartz.com/quartz-brands#silestone"},
+                {"@type": "ListItem", "position": 3, "name": "Caesarstone Quartz Countertops", "url": "https://griffinquartz.com/quartz-brands#caesarstone"},
+                {"@type": "ListItem", "position": 4, "name": "Viatera by LX Hausys Countertops", "url": "https://griffinquartz.com/quartz-brands#viatera"},
+                {"@type": "ListItem", "position": 5, "name": "HanStone Quartz Countertops", "url": "https://griffinquartz.com/quartz-brands#hanstone"},
+                {"@type": "ListItem", "position": 6, "name": "Compac Quartz Countertops", "url": "https://griffinquartz.com/quartz-brands#compac"},
+                {"@type": "ListItem", "position": 7, "name": "Corian Quartz Countertops", "url": "https://griffinquartz.com/quartz-brands#corian"},
+                {"@type": "ListItem", "position": 8, "name": "Wilsonart Quartz Countertops", "url": "https://griffinquartz.com/quartz-brands#wilsonart"}
             ]
         },
         "provider": {
@@ -166,8 +166,8 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Quartz Brands", "item": "https://soflocountertops.com/quartz-brands"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Quartz Brands", "item": "https://griffinquartz.com/quartz-brands"}
         ]
     }
     </script>

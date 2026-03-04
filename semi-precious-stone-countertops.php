@@ -10,7 +10,7 @@
     <meta name="keywords" content="semi-precious stone countertops, agate countertops, amethyst countertops, tiger eye countertops, onyx countertops, backlit countertops, luxury countertops South Florida, exotic stone countertops Boca Raton, semi-precious countertops Miami, crystal countertops Fort Lauderdale">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/semi-precious-stone-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/semi-precious-stone-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/semi-precious-stone-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/semi-precious-stone-countertops">
     <meta property="og:title" content="Semi-Precious Stone Countertops South Florida | Exotic Luxury | Griffin Quartz">
     <meta property="og:description" content="Extraordinary semi-precious stone countertops. Agate, amethyst, tiger eye & onyx with backlit options. Ultimate luxury for South Florida homes.">
-    <meta property="og:image" content="https://soflocountertops.com/images/bathroom-calacatta-vessel-backlit.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/bathroom-calacatta-vessel-backlit.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Semi-Precious Stone Countertops South Florida | Griffin Quartz">
     <meta name="twitter:description" content="Extraordinary semi-precious stone countertops. Agate, amethyst, tiger eye & onyx. Ultimate luxury for South Florida homes.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/bathroom-calacatta-vessel-backlit.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/bathroom-calacatta-vessel-backlit.webp">
 
     <!-- Geographic Meta Tags -->
     <meta name="geo.region" content="US-FL">
@@ -54,19 +54,19 @@
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://soflocountertops.com/"
+                "item": "https://griffinquartz.com/"
             },
             {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Countertop Materials",
-                "item": "https://soflocountertops.com/our-services"
+                "item": "https://griffinquartz.com/our-services"
             },
             {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Semi-Precious Stone Countertops",
-                "item": "https://soflocountertops.com/semi-precious-stone-countertops"
+                "item": "https://griffinquartz.com/semi-precious-stone-countertops"
             }
         ]
     }

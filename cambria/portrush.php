@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Portrush quartz - bold navy, gray and black veins with gold flakes on creamy white. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Portrush, Portrush quartz, bold veining quartz, gold flake quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/portrush">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/portrush">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

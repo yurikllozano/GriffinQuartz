@@ -7,7 +7,7 @@
     <meta name="description" content="Cambria Ivybridge quartz - nature-inspired earthy green tones for 2025. Pairs beautifully with wood accents. Professional installation in South Florida. FREE estimates.">
     <meta name="keywords" content="Cambria Ivybridge, Ivybridge quartz, green quartz countertops, earthy quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://soflocountertops.com/cambria/ivybridge">
+    <link rel="canonical" href="https://griffinquartz.com/cambria/ivybridge">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">

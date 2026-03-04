@@ -10,7 +10,7 @@
     <meta name="keywords" content="Cambria quartz, Cambria countertops, Cambria quartz South Florida, Brittanicca quartz, Ironsbridge quartz, American made quartz, premium quartz countertops, Cambria dealer Florida, Cambria installation">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/cambria">
+    <link rel="canonical" href="https://griffinquartz.com/cambria">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/cambria">
+    <meta property="og:url" content="https://griffinquartz.com/cambria">
     <meta property="og:title" content="Cambria Quartz Countertops | Premium American-Made Surfaces | Griffin Quartz">
     <meta property="og:description" content="Discover Cambria's stunning quartz designs - from Brittanicca to Ironsbridge. American-made, lifetime warranty, professional installation in South Florida.">
-    <meta property="og:image" content="https://soflocountertops.com/images/cambria-quartz-hero.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/cambria-quartz-hero.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Cambria Quartz Countertops | Griffin Quartz South Florida">
     <meta name="twitter:description" content="Premium American-made Cambria quartz countertops. Professional installation throughout South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/cambria-quartz-hero.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-quartz-hero.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,15 +43,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier Cambria quartz countertop dealer and installation company.",
-        "url": "https://soflocountertops.com/cambria",
+        "url": "https://griffinquartz.com/cambria",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",
@@ -89,9 +89,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Quartz Brands", "item": "https://soflocountertops.com/quartz-brands"},
-            {"@type": "ListItem", "position": 3, "name": "Cambria", "item": "https://soflocountertops.com/cambria"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Quartz Brands", "item": "https://griffinquartz.com/quartz-brands"},
+            {"@type": "ListItem", "position": 3, "name": "Cambria", "item": "https://griffinquartz.com/cambria"}
         ]
     }
     </script>

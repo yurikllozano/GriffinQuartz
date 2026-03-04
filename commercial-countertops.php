@@ -10,7 +10,7 @@
     <meta name="keywords" content="commercial countertops, restaurant countertops, office quartz countertops, hotel countertops, healthcare countertops, NSF certified countertops, ADA compliant countertops, commercial quartz installation, bulk countertops South Florida, multi-family countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/commercial-countertops">
+    <link rel="canonical" href="https://griffinquartz.com/commercial-countertops">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -19,17 +19,17 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/commercial-countertops">
+    <meta property="og:url" content="https://griffinquartz.com/commercial-countertops">
     <meta property="og:title" content="Commercial Countertops | Restaurant & Office Quartz | Griffin Quartz">
     <meta property="og:description" content="Transform your commercial space with premium quartz countertops. NSF certified, ADA compliant, bulk pricing available. Serving all of South Florida.">
-    <meta property="og:image" content="https://soflocountertops.com/images/commercial-office-coffee-bar-marble.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/commercial-office-coffee-bar-marble.webp">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Commercial Countertops | Griffin Quartz South Florida">
     <meta name="twitter:description" content="Premium quartz countertops for restaurants, hotels, offices, and healthcare. NSF certified, expert installation.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/commercial-office-coffee-bar-marble.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/commercial-office-coffee-bar-marble.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,15 +46,15 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/#organization",
+        "@id": "https://griffinquartz.com/#organization",
         "name": "Griffin Quartz",
         "alternateName": "SoFlo Countertops",
         "description": "South Florida's premier commercial quartz countertop installation company specializing in restaurants, hotels, offices, healthcare facilities, and multi-family developments.",
-        "url": "https://soflocountertops.com/commercial-countertops",
+        "url": "https://griffinquartz.com/commercial-countertops",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
-        "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
+        "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$$",
         "address": {
             "@type": "PostalAddress",
@@ -106,7 +106,7 @@
         "@context": "https://schema.org",
         "@type": "Service",
         "serviceType": "Commercial Countertop Installation",
-        "provider": {"@id": "https://soflocountertops.com/#organization"},
+        "provider": {"@id": "https://griffinquartz.com/#organization"},
         "areaServed": ["Miami-Dade County", "Broward County", "Palm Beach County"],
         "description": "Premium commercial quartz countertop installation for restaurants, hotels, offices, retail, healthcare facilities, and multi-family developments. NSF certified and ADA compliant options available.",
         "offers": {
@@ -122,9 +122,9 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://soflocountertops.com/our-services"},
-            {"@type": "ListItem", "position": 3, "name": "Commercial Countertops", "item": "https://soflocountertops.com/commercial-countertops"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Services", "item": "https://griffinquartz.com/our-services"},
+            {"@type": "ListItem", "position": 3, "name": "Commercial Countertops", "item": "https://griffinquartz.com/commercial-countertops"}
         ]
     }
     </script>

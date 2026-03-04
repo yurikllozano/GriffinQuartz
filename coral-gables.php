@@ -10,7 +10,7 @@
     <meta name="keywords" content="quartz countertops Coral Gables, countertop installation Coral Gables FL, kitchen countertops Coral Gables, bathroom countertops Coral Gables, quartz fabrication Coral Gables, granite countertops Coral Gables, marble countertops Coral Gables, Mediterranean home countertops, luxury countertops Miami-Dade, Miracle Mile countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
-    <link rel="canonical" href="https://soflocountertops.com/coral-gables">
+    <link rel="canonical" href="https://griffinquartz.com/coral-gables">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -25,19 +25,19 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/coral-gables">
+    <meta property="og:url" content="https://griffinquartz.com/coral-gables">
     <meta property="og:title" content="Quartz Countertops Coral Gables FL | The City Beautiful | Griffin Quartz">
     <meta property="og:description" content="Transform your Coral Gables Mediterranean estate with luxury quartz countertops. 200+ colors, FREE estimates, architectural compliance expertise. Factory-direct pricing.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://soflocountertops.com/coral-gables">
+    <meta name="twitter:url" content="https://griffinquartz.com/coral-gables">
     <meta name="twitter:title" content="Quartz Countertops Coral Gables FL | Griffin Quartz">
     <meta name="twitter:description" content="Premium quartz countertops for Coral Gables' historic homes. 200+ colors, FREE estimates, bilingual service.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,13 +51,13 @@
     {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "@id": "https://soflocountertops.com/coral-gables#localbusiness",
+        "@id": "https://griffinquartz.com/coral-gables#localbusiness",
         "name": "Griffin Quartz - Coral Gables",
         "description": "Premium quartz countertop installation serving Coral Gables, FL. Specializing in luxury Mediterranean estate kitchens and bathrooms with factory-direct pricing and bilingual service.",
-        "url": "https://soflocountertops.com/coral-gables",
+        "url": "https://griffinquartz.com/coral-gables",
         "telephone": "+1-720-324-1436",
         "email": "info@griffinquartz.com",
-        "image": "https://soflocountertops.com/images/griffin-quartz-logo.webp",
+        "image": "https://griffinquartz.com/images/griffin-quartz-logo.webp",
         "priceRange": "$$-$$$",
         "address": {
             "@type": "PostalAddress",

@@ -9,7 +9,7 @@
     <meta name="description" content="Explore stunning quartz countertop designs for coastal kitchens, spa bathrooms, outdoor living spaces & more. 100+ photos of luxury countertop installations in South Florida homes. Find your style today.">
     <meta name="keywords" content="quartz countertop gallery, kitchen design ideas, coastal kitchen countertops, modern kitchen inspiration, bathroom vanity ideas, outdoor kitchen designs, waterfall island countertops, Calacatta quartz, white quartz countertops, luxury kitchen photos, South Florida kitchen remodel, Mediterranean kitchen design, spa bathroom countertops, penthouse kitchen, beachfront kitchen">
     <meta name="robots" content="index, follow, max-image-preview:large">
-    <link rel="canonical" href="https://soflocountertops.com/gallery">
+    <link rel="canonical" href="https://griffinquartz.com/gallery">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -18,10 +18,10 @@
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://soflocountertops.com/gallery">
+    <meta property="og:url" content="https://griffinquartz.com/gallery">
     <meta property="og:title" content="Quartz Countertop Inspiration Gallery | 100+ Design Ideas">
     <meta property="og:description" content="Explore stunning quartz countertop designs for kitchens, bathrooms & outdoor spaces. Find inspiration for your South Florida home.">
-    <meta property="og:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
@@ -29,7 +29,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Quartz Countertop Inspiration Gallery | Griffin Quartz">
     <meta name="twitter:description" content="100+ stunning quartz countertop designs for kitchens, bathrooms & outdoor spaces in South Florida.">
-    <meta name="twitter:image" content="https://soflocountertops.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
 
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,8 +44,8 @@
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://soflocountertops.com/"},
-            {"@type": "ListItem", "position": 2, "name": "Inspiration Gallery", "item": "https://soflocountertops.com/gallery"}
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Inspiration Gallery", "item": "https://griffinquartz.com/gallery"}
         ]
     }
     </script>
@@ -57,11 +57,11 @@
         "@type": "ImageGallery",
         "name": "Griffin Quartz Countertop Inspiration Gallery",
         "description": "Browse over 100 stunning quartz countertop installations including coastal kitchens, spa bathrooms, outdoor entertaining spaces, and luxury penthouse designs in South Florida.",
-        "url": "https://soflocountertops.com/gallery",
+        "url": "https://griffinquartz.com/gallery",
         "publisher": {
             "@type": "Organization",
             "name": "Griffin Quartz",
-            "logo": "https://soflocountertops.com/images/griffin-quartz-logo.webp"
+            "logo": "https://griffinquartz.com/images/griffin-quartz-logo.webp"
         }
     }
     </script>
