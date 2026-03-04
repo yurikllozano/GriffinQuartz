@@ -206,6 +206,11 @@
     <link rel="stylesheet" href="styles.css">
 
     <style>
+        /* Prevent horizontal scroll */
+        html, body {
+            overflow-x: hidden;
+        }
+
         /* Kitchen & Bath Page Styles */
         .page-hero {
             position: relative;
