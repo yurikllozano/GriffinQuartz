@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Granite Countertops South Florida | Natural Stone Installation | Griffin Quartz</title>
-    <meta name="description" content="Premium granite countertops in South Florida. Durable natural stone with unique patterns. Heat-resistant, scratch-resistant kitchen & bathroom surfaces. FREE estimates in Boca Raton, Miami, Fort Lauderdale. Call (720) 324-1436.">
+    <title>Granite Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="Premium granite countertops in South Florida. Durable natural stone with unique patterns. Heat-resistant kitchen & bath surfaces. FREE estimates.">
     <meta name="keywords" content="granite countertops, natural granite, granite kitchen countertops, granite bathroom vanity, granite countertops South Florida, granite countertops Boca Raton, granite countertops Miami, granite countertops Fort Lauderdale, black granite, white granite, granite vs quartz">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Granite Countertops South Florida | Natural Stone | Griffin Quartz">
     <meta property="og:description" content="Premium natural granite countertops for South Florida homes. Durable, heat-resistant, with unique natural patterns. FREE estimates.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-black-gold-veined-dramatic.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -588,7 +590,7 @@
             <p class="hero-description">Discover the timeless appeal of natural granite. Formed deep within the earth over millions of years, granite offers unmatched durability, heat resistance, and one-of-a-kind patterns that bring nature's artistry to your South Florida home.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -874,7 +876,7 @@
             <h2>Ready for Beautiful Granite Countertops?</h2>
             <p>Contact Griffin Quartz today for a free consultation and explore our collection of natural granite slabs. We'll help you find the perfect stone to transform your South Florida home.</p>
             <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
         </div>
     </section>
 

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Brittanicca Warm Quartz Countertops South Florida | Warm Marble Look | Griffin Quartz</title>
-    <meta name="description" content="Cambria Brittanicca Warm quartz - the warm-toned version of the iconic Brittanicca with cozy veining. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Brittanicca Warm Quartz | Griffin Quartz</title>
+    <meta name="description" content="Cambria Brittanicca Warm quartz - warm-toned version of iconic Brittanicca with cozy veining. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Brittanicca Warm, Brittanicca Warm quartz, warm marble quartz, warm veined countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/brittanicca-warm">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

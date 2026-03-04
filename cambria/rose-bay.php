@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Rose Bay Quartz Countertops South Florida | Soft Blush Tones | Griffin Quartz</title>
-    <meta name="description" content="Cambria Rose Bay quartz - unique soft pink/blush undertones for distinctive elegance. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
+    <title>Cambria Rose Bay Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Rose Bay quartz - soft pink/blush undertones for distinctive elegance. South Florida installation. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Rose Bay, Rose Bay quartz, blush quartz, pink quartz countertops, unique Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/rose-bay">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

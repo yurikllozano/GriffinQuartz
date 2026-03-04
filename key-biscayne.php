@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Key Biscayne FL | Installation | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertops in Key Biscayne, FL. Serving luxury island homes, Ocean Club, Grand Bay & waterfront estates. 200+ colors, factory-direct pricing, expert installation. Free estimates. Call (720) 324-1436.">
+    <title>Quartz Countertops Key Biscayne FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertops in Key Biscayne, FL. Luxury island homes, Ocean Club & waterfront estates. 200+ colors, factory-direct pricing. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops Key Biscayne, countertop installation Key Biscayne FL, kitchen countertops Key Biscayne, bathroom countertops Key Biscayne, luxury countertops Ocean Club, island home countertops, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Key Biscayne FL | Installation | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Key Biscayne. Serving luxury island homes, Ocean Club & waterfront estates. 200+ colors, FREE estimates.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -110,7 +112,7 @@
             <p class="hero-description">Elevate your Key Biscayne home with premium quartz countertops from Griffin Quartz. Serving Ocean Club, Grand Bay, and the island's finest residences with over 200 stunning colors and expert installation.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Schedule Free Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; Trusted by Key Biscayne Residents</p>
         </div>
@@ -238,7 +240,7 @@
             <p>Schedule a complimentary in-home consultation or visit our Boca Raton showroom to explore South Florida's largest quartz selection.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Free In-Home Consultations | 200+ Quartz Colors | Island Specialists</p>
         </div>

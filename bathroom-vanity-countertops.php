@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Bathroom Vanity Countertops South Florida | Quartz Vanity Tops | Griffin Quartz</title>
-    <meta name="description" content="Transform your bathroom with luxury quartz vanity countertops. Custom single & double vanities, vessel sink cutouts, and spa-inspired designs. FREE estimates in South Florida. Call (720) 324-1436.">
+    <title>Bathroom Vanity Countertops | Griffin Quartz</title>
+    <meta name="description" content="Luxury quartz vanity countertops. Custom single & double vanities, vessel sink cutouts, spa-inspired designs. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="bathroom vanity countertops, quartz vanity tops, bathroom countertops South Florida, double vanity countertops, single vanity quartz, vessel sink countertops, bathroom remodel countertops, marble look vanity, custom vanity tops, bathroom quartz installation">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Luxury Bathroom Vanity Countertops | Quartz Vanity Tops | Griffin Quartz">
     <meta property="og:description" content="Design your dream bathroom vanity with premium quartz. Interactive calculator, 200+ colors, FREE estimates. Serving all of South Florida.">
     <meta property="og:image" content="https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -1139,7 +1141,7 @@
             </div>
             <div class="hero-form-wrapper">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form class="contact-form" id="heroQuoteForm">
                     <div class="form-group">
                         <label for="hero-name">Name</label>
@@ -1553,7 +1555,7 @@
             <p>Get a free in-home consultation and precise quote for your bathroom vanity project. Our experts will help you select the perfect quartz color and design.</p>
             <div class="cta-buttons">
                 <a href="#calculator" class="btn btn-primary">Design Your Vanity</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
         </div>
     </section>

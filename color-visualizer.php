@@ -6,7 +6,7 @@
 
     <!-- SEO Meta Tags -->
     <title>Quartz Color Visualizer & Design Studio | Griffin Quartz</title>
-    <meta name="description" content="Interactive quartz color visualizer and wall color palette tool. See how countertops look in real spaces and discover complementary wall colors. Serving South Florida.">
+    <meta name="description" content="Interactive quartz color visualizer and wall color palette tool. See how countertops look in real spaces. Serving South Florida.">
     <meta name="keywords" content="quartz color visualizer, countertop color picker, wall color palette, kitchen design tool, quartz colors South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/color-visualizer">
@@ -484,7 +484,7 @@
             <h2>Ready to Bring Your Vision to Life?</h2>
             <p>Our design experts can help you choose the perfect quartz and wall colors for your space.</p>
             <div class="cta-buttons">
-                <a href="tel:7203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
                 <a href="quote-calculator" class="btn btn-outline">Get Instant Quote</a>
             </div>
         </div>

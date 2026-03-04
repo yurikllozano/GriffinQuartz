@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Commercial Quartz Countertops South Florida | Restaurants, Hotels, Offices, Medical | Griffin Quartz</title>
-    <meta name="description" content="Trusted by 10,000+ Florida businesses. Commercial quartz countertops for restaurants, hotels, medical offices, retail & corporate spaces. Fast turnaround, precision fabrication, expert installation. Serving Boca Raton to Miami. Free estimates!">
+    <title>Commercial Quartz Countertops FL | Griffin Quartz</title>
+    <meta name="description" content="Trusted by 10,000+ Florida businesses. Commercial quartz for restaurants, hotels, offices & retail. Fast turnaround, expert installation. Free estimates!">
     <meta name="keywords" content="commercial quartz countertops, commercial countertops South Florida, restaurant countertops, hotel countertops, office countertops, medical office countertops, bar countertops, commercial countertop installation, quartz countertops Boca Raton, quartz countertops Fort Lauderdale, quartz countertops Miami, commercial kitchen countertops, reception desk quartz, retail countertops, healthcare countertops, dental office countertops, hospitality countertops, corporate countertops, multi-unit countertop installation, commercial quartz fabrication, NSF certified countertops, food-safe countertops, hygienic countertops, durable commercial surfaces, scratch resistant countertops, stain resistant countertops">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/commercial">
@@ -1214,7 +1214,7 @@
             <h1>Commercial Quartz Countertops in South Florida</h1>
             <p class="hero-description">Precision fabrication & expert installation for restaurants, hotels, medical offices, and corporate spaces. Your time matters—we move fast.</p>
             <div class="hero-cta">
-                <a href="tel:7203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
                 <a href="#contact" class="btn btn-secondary">Get FREE Estimate</a>
             </div>
         </div>
@@ -1483,7 +1483,7 @@
             <h2>Hospitality & Office Excellence</h2>
             <p>First impressions matter. Our quartz surfaces elevate lobbies, reception areas, and guest spaces with timeless elegance that withstands years of heavy use.</p>
             <p>From boutique hotels to corporate headquarters, we deliver consistent quality across every surface. Our multi-unit experience means we understand the importance of matching materials and maintaining schedules across large projects.</p>
-            <a href="tel:7203241436" class="btn btn-primary">Call Our Commercial Team</a>
+            <a href="tel:+17203241436" class="btn btn-primary">Call Our Commercial Team</a>
         </div>
         <div class="split-image" style="background-image: url('images/commercial-lobby-white-marble-reception.webp');"></div>
     </section>
@@ -1748,7 +1748,7 @@
                     <h2>Get Your FREE Estimate Today!</h2>
                     <p>Request your free quartz consultation. Our commercial team will contact you within 24 hours to discuss your project requirements and provide a competitive quote.</p>
                     <div class="contact-info">
-                        <a href="tel:7203241436"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                        <a href="tel:+17203241436"><i class="bi bi-telephone"></i> (720) 324-1436</a>
                         <a href="mailto:info@griffinquartz.com"><i class="bi bi-envelope"></i> info@griffinquartz.com</a>
                         <a href="https://www.google.com/maps?q=1021+S+Rogers+Cir+%2318,+Boca+Raton,+FL+33487" target="_blank"><i class="bi bi-geo-alt"></i> 1021 S Rogers Cir #18, Boca Raton, FL</a>
                     </div>
@@ -1870,7 +1870,7 @@
             <h2>Ready to Discuss Your Commercial Project?</h2>
             <p>Contact our commercial team for a consultation and competitive quote for your business.</p>
             <div class="cta-buttons">
-                <a href="tel:7203241436" class="btn btn-dark"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-dark"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
                 <a href="quartz-brands" class="btn btn-outline-dark"><i class="bi bi-palette"></i> Explore Product Selection</a>
             </div>
         </div>

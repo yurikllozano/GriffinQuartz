@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Design your dream countertop space with our interactive Blueprint Maker. Draw custom layouts, add sink cutouts, select edge profiles, choose colors, and get instant cost estimates.">
+    <meta name="description" content="Design your countertop space with our interactive Blueprint Maker. Draw layouts, add sink cutouts, select edges & get instant estimates.">
     <meta name="keywords" content="countertop design tool, kitchen blueprint maker, quartz countertop planner, space designer, countertop calculator, edge profiles, sink cutout">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">

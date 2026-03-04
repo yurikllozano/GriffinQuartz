@@ -84,8 +84,8 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title><?= htmlspecialchars($page_title) ?> | Expert Tips & Guides | Griffin Quartz South Florida</title>
-    <meta name="description" content="Expert guides on quartz countertops for South Florida homes. Learn about installation, costs, colors, maintenance, and design trends from Griffin Quartz professionals.">
+    <title><?= htmlspecialchars($page_title) ?> | Griffin Quartz</title>
+    <meta name="description" content="Expert guides on quartz countertops for South Florida homes. Installation, costs, colors, maintenance and design trends from Griffin Quartz.">
     <meta name="keywords" content="quartz countertops blog, countertop guides South Florida, kitchen countertop tips, quartz installation guide, Fort Lauderdale countertops, Miami quartz countertops">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -106,6 +106,8 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
     <meta property="og:title" content="<?= htmlspecialchars($page_title) ?> | Griffin Quartz">
     <meta property="og:description" content="Expert guides on quartz countertops for South Florida homes. Learn about installation, costs, colors, and design trends.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

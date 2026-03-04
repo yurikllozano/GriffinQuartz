@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Outdoor Kitchen Countertops South Florida | Pool Bar & BBQ Quartz | Griffin Quartz</title>
-    <meta name="description" content="Premium outdoor kitchen countertops for South Florida patios, pool bars & BBQ islands. UV-resistant quartz & Dekton options. Weather-durable, easy cleaning. FREE estimates. Call (720) 324-1436.">
+    <title>Outdoor Kitchen Countertops South FL | Griffin Quartz</title>
+    <meta name="description" content="Outdoor kitchen countertops for South Florida. Pool bars, BBQ islands, patios. UV-resistant quartz & Dekton. Weather-durable. FREE estimates.">
     <meta name="keywords" content="outdoor kitchen countertops, pool bar countertops, BBQ island countertops, outdoor quartz countertops, patio countertops South Florida, Dekton outdoor, weather resistant countertops, outdoor kitchen installation, pool area countertops, outdoor dining countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Luxury Outdoor Kitchen Countertops | Pool Bar & BBQ | Griffin Quartz">
     <meta property="og:description" content="Design your dream outdoor kitchen with premium countertops. Interactive calculator, UV-resistant materials, FREE estimates. Serving all of South Florida.">
     <meta property="og:image" content="https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -1280,7 +1282,7 @@
             </div>
             <div class="hero-form-wrapper">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form class="contact-form" id="heroQuoteForm">
                     <div class="form-group">
                         <label for="hero-name">Name</label>
@@ -1769,7 +1771,7 @@
             <p>Get a free on-site consultation and precise quote for your outdoor kitchen project. Our experts will help you select the perfect material for your specific environment.</p>
             <div class="cta-buttons">
                 <a href="#calculator" class="btn btn-primary">Design Your Outdoor Space</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
         </div>
     </section>

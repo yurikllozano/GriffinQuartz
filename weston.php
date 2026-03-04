@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Weston FL | Installation & Showroom | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertops in Weston, FL. Serving Weston Hills, Windmill Ranch, Savanna & luxury communities. 200+ colors, factory-direct pricing, 1-week installation. Free estimates. Call (720) 324-1436.">
+    <title>Quartz Countertops Weston FL | Griffin Quartz</title>
+    <meta name="description" content="Premium quartz countertops in Weston, FL. Serving Weston Hills & luxury communities. 200+ colors, factory-direct pricing. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops Weston, countertop installation Weston FL, kitchen countertops Weston, bathroom countertops Weston, quartz fabrication Weston, countertop company Broward County, luxury countertops Weston Hills, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Weston FL | Installation & Showroom | Griffin Quartz">
     <meta property="og:description" content="Premium quartz countertops in Weston. Serving Weston Hills, Windmill Ranch & luxury communities. 200+ colors, FREE estimates, factory-direct pricing.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -110,7 +112,7 @@
             <p class="hero-description">Elevate your Weston home with premium quartz countertops from Griffin Quartz. Serving Weston Hills, Windmill Ranch, Savanna, and the area's finest communities with over 200 stunning colors and factory-direct pricing.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Schedule Free Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; Trusted by Weston Homeowners</p>
         </div>
@@ -238,7 +240,7 @@
             <p>Schedule a complimentary in-home consultation or visit our Boca Raton showroom to explore South Florida's largest quartz selection.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Free In-Home Consultations | 200+ Quartz Colors | 1-Week Installation</p>
         </div>

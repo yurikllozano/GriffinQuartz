@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn how to clean and polish onyx countertops with our step-by-step guide. Expert tips on sealing, daily care, and professional onyx polishing to keep your surfaces stunning.">
-    <title>Step-by-Step Guide to Clean and Polish Onyx Countertops | Griffin Quartz Blog</title>
+    <meta name="description" content="How to clean and polish onyx countertops. Step-by-step guide on sealing, daily care and professional polishing to keep surfaces stunning.">
+    <title>How to Clean and Polish Onyx Countertops | Griffin Quartz</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">

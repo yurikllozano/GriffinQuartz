@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Specialty Quartz Installations South Florida | Custom Commercial Projects | Griffin Quartz</title>
-    <meta name="description" content="Custom quartz installations for unique commercial projects in South Florida. Yacht interiors, private jets, luxury vehicles, museums, galleries, and architectural features. Expert fabrication for challenging projects. Free estimates!">
+    <title>Specialty Quartz Installations | Griffin Quartz</title>
+    <meta name="description" content="Custom quartz installations for unique projects: yacht interiors, private jets, museums & architectural features. Expert fabrication. Free estimates!">
     <meta name="keywords" content="specialty countertops, custom quartz installation, yacht countertops, luxury vehicle countertops, museum countertops, gallery countertops, architectural quartz, custom commercial countertops, specialty installation South Florida, unique quartz projects">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/specialty-installation-countertops">
@@ -131,11 +131,11 @@
                 <div class="hero-badge">Custom Project Specialists</div>
                 <h1>Specialty Quartz Installations in South Florida</h1>
                 <p>When your project demands more than standard installation, Griffin Quartz delivers. From yacht galleys to museum displays, we have the expertise and precision fabrication capabilities to tackle unique and challenging quartz projects.</p>
-                <a href="tel:7203241436" class="btn btn-primary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary">Call (720) 324-1436</a>
             </div>
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form action="/#contact-form" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>

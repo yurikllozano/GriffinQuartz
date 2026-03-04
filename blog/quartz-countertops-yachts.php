@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Quartz countertops for yachts combine luxury and durability for marine environments. Learn about lightweight options, marine-grade installation, and why quartz is the top choice for yacht interiors.">
-    <title>Quartz Countertops for Yachts: The Perfect Blend of Luxury and Durability | Griffin Quartz Blog</title>
+    <meta name="description" content="Quartz countertops for yachts: luxury and durability for marine environments. Lightweight options and marine-grade installation for yacht interiors.">
+    <title>Quartz Countertops for Yachts | Griffin Quartz</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">

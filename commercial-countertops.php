@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Commercial Countertops South Florida | Restaurant & Office Quartz | Griffin Quartz</title>
-    <meta name="description" content="Premium commercial quartz countertops for restaurants, hotels, offices, and healthcare facilities. NSF certified, ADA compliant, bulk pricing available. FREE estimates in South Florida. Call (720) 324-1436.">
+    <title>Commercial Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="Commercial quartz countertops for restaurants, hotels, offices & healthcare. NSF certified, ADA compliant, bulk pricing. FREE estimates.">
     <meta name="keywords" content="commercial countertops, restaurant countertops, office quartz countertops, hotel countertops, healthcare countertops, NSF certified countertops, ADA compliant countertops, commercial quartz installation, bulk countertops South Florida, multi-family countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Commercial Countertops | Restaurant & Office Quartz | Griffin Quartz">
     <meta property="og:description" content="Transform your commercial space with premium quartz countertops. NSF certified, ADA compliant, bulk pricing available. Serving all of South Florida.">
     <meta property="og:image" content="https://griffinquartz.com/images/commercial-office-coffee-bar-marble.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -1233,7 +1235,7 @@
             </div>
             <div class="hero-form-wrapper">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form class="contact-form" id="heroQuoteForm">
                     <div class="form-group">
                         <label for="hero-name">Name</label>
@@ -1728,7 +1730,7 @@
             <p>Get a customized proposal for your commercial countertop project. Our commercial team will conduct a site assessment, review your specifications, and deliver a comprehensive quote.</p>
             <div class="cta-buttons">
                 <a href="#calculator" class="btn btn-primary">Get Commercial Quote</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
         </div>
     </section>

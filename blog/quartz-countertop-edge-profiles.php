@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore countertop edge profiles from eased to waterfall. Learn which quartz countertop edges work best for your kitchen. Free consultation in South Florida.">
-    <title>Quartz Countertop Edge Profiles: Complete Guide | Griffin Quartz Blog</title>
+    <meta name="description" content="Countertop edge profiles from eased to waterfall. Which quartz countertop edges work best for your kitchen. Free South Florida consultation.">
+    <title>Quartz Countertop Edge Profiles Guide | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

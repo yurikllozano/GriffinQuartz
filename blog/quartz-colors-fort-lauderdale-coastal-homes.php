@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>How to Choose Quartz Colors for Fort Lauderdale Coastal Homes | Griffin Quartz</title>
-    <meta name="description" content="Discover the best quartz countertop colors for Fort Lauderdale coastal homes. Expert guide on whites, blues, warm tones, and veining patterns for waterfront properties.">
+    <title>Quartz Colors for Coastal Homes | Griffin Quartz</title>
+    <meta name="description" content="Best quartz countertop colors for Fort Lauderdale coastal homes. Whites, blues, warm tones and veining patterns for waterfront properties.">
     <meta name="keywords" content="quartz countertop colors Fort Lauderdale, coastal quartz colors, Fort Lauderdale kitchen countertops, waterfront home countertops, Calacatta quartz Florida, beach house countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -27,6 +27,8 @@
     <meta property="og:title" content="How to Choose Quartz Colors for Fort Lauderdale Coastal Homes">
     <meta property="og:description" content="Expert guide on selecting the perfect quartz countertop colors for Fort Lauderdale's coastal aesthetic. Learn about whites, blues, warm tones, and trending patterns.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-coastal-calacatta-palms-flowers.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-12">

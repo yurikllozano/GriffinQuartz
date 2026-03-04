@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Ridgegate Quartz Countertops South Florida | Mid-Tone Neutral | Griffin Quartz</title>
-    <meta name="description" content="Cambria Ridgegate quartz - the perfect mid-tone alternative to white or gray. Warm without being too warm. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Ridgegate Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Ridgegate quartz - perfect mid-tone alternative to white or gray. Warm without being too warm. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Ridgegate, Ridgegate quartz, neutral quartz countertops, mid-tone quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/ridgegate">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

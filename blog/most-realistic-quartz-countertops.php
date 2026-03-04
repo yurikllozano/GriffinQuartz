@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the most realistic quartz countertops that look like marble in 2025. Compare Silestone, Cambria, Caesarstone, Vadara &amp; MSI. Expert guide from Griffin Quartz.">
-    <title>The Ultimate Guide to the Most Realistic Quartz Countertops in 2025 | Griffin Quartz Blog</title>
+    <meta name="description" content="Most realistic quartz countertops that look like marble in 2025. Compare Silestone, Cambria, Caesarstone &amp; MSI. Expert guide.">
+    <title>Most Realistic Quartz Countertops Guide | Griffin Quartz</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">

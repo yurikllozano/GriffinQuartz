@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops South Florida | Engineered Stone Installation | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertops in South Florida. Engineered stone surfaces from Cambria, Caesarstone & Silestone. Non-porous, stain-resistant, low maintenance. FREE estimates in Boca Raton, Miami, Fort Lauderdale. Call (720) 324-1436.">
+    <title>Quartz Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="Premium quartz countertops in South Florida. Cambria, Caesarstone & Silestone. Non-porous, stain-resistant, low maintenance. FREE estimates.">
     <meta name="keywords" content="quartz countertops, engineered quartz, quartz kitchen countertops, quartz bathroom vanity, Cambria quartz, Caesarstone, Silestone, quartz countertops South Florida, quartz countertops Boca Raton, quartz countertops Miami, quartz countertops Fort Lauderdale">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Quartz Countertops South Florida | Engineered Stone | Griffin Quartz">
     <meta property="og:description" content="Premium engineered quartz countertops for South Florida homes. Non-porous, stain-resistant surfaces from top brands. FREE estimates.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -573,7 +575,7 @@
             <p class="hero-description">Experience the perfect blend of natural beauty and engineered durability. Quartz countertops offer stunning aesthetics, superior performance, and virtually maintenance-free living for South Florida homes and businesses.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -830,7 +832,7 @@
             <h2>Ready for Beautiful Quartz Countertops?</h2>
             <p>Contact Griffin Quartz today for a free consultation and discover why quartz is the preferred choice for South Florida homeowners. We'll help you select the perfect color and style for your space.</p>
             <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
         </div>
     </section>
 

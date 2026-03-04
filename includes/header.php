@@ -228,7 +228,7 @@ $homeLink = '/';
                         <li><a href="<?php echo $prefix; ?>blog/">Blog</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a href="tel:7203241436" class="nav-link phone-link">720-324-1436</a></li>
+                <li class="nav-item"><a href="tel:+17203241436" class="nav-link phone-link">(720) 324-1436</a></li>
             </ul>
         </nav>
 

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Looking to buy quartz slabs? Our ultimate 2025 buying guide covers types, costs, where to buy, and how to choose the perfect slab for your home.">
-    <title>Quartz Slabs for Sale: The Ultimate 2025 Buying Guide | Griffin Quartz Blog</title>
+    <title>Quartz Slabs for Sale: Buying Guide | Griffin Quartz</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">

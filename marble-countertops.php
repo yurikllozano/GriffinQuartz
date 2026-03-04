@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Marble Countertops South Florida | Luxury Natural Stone Installation | Griffin Quartz</title>
-    <meta name="description" content="Exquisite marble countertops in South Florida. Timeless elegance with Carrara, Calacatta & Statuario marble. Luxury kitchen & bathroom installations. FREE estimates in Boca Raton, Miami, Fort Lauderdale. Call (720) 324-1436.">
+    <title>Marble Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="Exquisite marble countertops in South Florida. Carrara, Calacatta & Statuario marble for luxury kitchens & bathrooms. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="marble countertops, Carrara marble, Calacatta marble, marble kitchen countertops, marble bathroom vanity, marble countertops South Florida, marble countertops Boca Raton, marble countertops Miami, marble countertops Fort Lauderdale, Italian marble, white marble countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Marble Countertops South Florida | Luxury Natural Stone | Griffin Quartz">
     <meta property="og:description" content="Exquisite marble countertops for South Florida homes. Timeless elegance with Carrara, Calacatta & Statuario marble. FREE estimates.">
     <meta property="og:image" content="https://griffinquartz.com/images/bathroom-penthouse-marble-tub-city.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -588,7 +590,7 @@
             <p class="hero-description">Experience the unparalleled elegance of natural marble. For centuries, marble has been the material of choice for the world's most beautiful spaces. Bring this timeless luxury to your South Florida home with our expert marble installation.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -856,7 +858,7 @@
             <h2>Ready for Timeless Marble Elegance?</h2>
             <p>Contact Griffin Quartz today for a free consultation and explore our collection of premium marble slabs. We'll help you select the perfect marble to create the luxurious space you've always dreamed of.</p>
             <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
         </div>
     </section>
 

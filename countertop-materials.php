@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Countertop Materials South Florida | Stone Countertops Guide | Griffin Quartz</title>
-    <meta name="description" content="Compare premium countertop materials for South Florida homes: quartz, quartzite, marble, granite, and semi-precious stone. Expert installation in Boca Raton, Miami, Fort Lauderdale. FREE estimates. Call (720) 324-1436.">
+    <title>Countertop Materials Guide | Griffin Quartz</title>
+    <meta name="description" content="Compare countertop materials: quartz, quartzite, marble, granite & semi-precious stone. Expert installation in South Florida. FREE estimates.">
     <meta name="keywords" content="countertop materials, stone countertops South Florida, quartz countertops, quartzite countertops, marble countertops, granite countertops, semi-precious stone countertops, countertop comparison, Boca Raton countertops, Miami countertops, Fort Lauderdale countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Countertop Materials South Florida | Complete Stone Guide | Griffin Quartz">
     <meta property="og:description" content="Discover the perfect countertop material for your South Florida home. Compare quartz, quartzite, marble, granite, and semi-precious stone. FREE estimates available.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-calacatta-gold-globe-pendants.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -774,7 +776,7 @@
             <p class="hero-description">Discover the perfect stone surface for your kitchen, bathroom, or outdoor living space. From engineered quartz to exotic semi-precious stone, we offer South Florida's finest selection of premium countertop materials with expert fabrication and installation.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -1299,7 +1301,7 @@
             <p>Schedule a free consultation with our stone experts. We'll help you compare materials, explore color options, and create a custom solution that fits your lifestyle and budget. Serving all of South Florida including Boca Raton, Miami, Fort Lauderdale, and beyond.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
             </div>
         </div>
     </section>

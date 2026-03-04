@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertop Services South Florida | Residential & Commercial Installation | Griffin Quartz</title>
-    <meta name="description" content="Complete quartz countertop services in South Florida. Residential kitchen & bathroom installation, commercial fabrication, custom work, and expert consultation. FREE estimates for Boca Raton, Fort Lauderdale, Miami & Palm Beach. Call (720) 324-1436.">
+    <title>Countertop Services South Florida | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertop services in South Florida. Residential, commercial & custom fabrication. Expert consultation. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertop services, quartz installation South Florida, residential countertops, commercial quartz counters, quartz fabrication, custom quartz work, kitchen countertop installation, bathroom vanity quartz, countertop consultation, quartz countertop repair, countertop removal, South Florida countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Quartz Countertop Services | Residential & Commercial | Griffin Quartz">
     <meta property="og:description" content="Full-service quartz countertop installation, fabrication & consultation for South Florida homes and businesses. Kitchen, bath, commercial spaces. FREE estimates.">
     <meta property="og:image" content="https://griffinquartz.com/images/rooftop-outdoor-kitchen-sunset-skyline.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -763,7 +765,7 @@
             <p class="hero-description">Expert fabrication, installation, and consultation for South Florida homes and businesses. From kitchen remodels to commercial projects, we deliver precision craftsmanship and exceptional service.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; Serving All of South Florida</p>
         </div>
@@ -948,7 +950,7 @@
                 <h3>Ready to Transform Your Home?</h3>
                 <p>Schedule a free in-home consultation with our residential quartz experts and discover the perfect surfaces for your South Florida home.</p>
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-outline">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-outline">Call (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -1094,7 +1096,7 @@
                 <h3>Discuss Your Commercial Project</h3>
                 <p>Contact our commercial team for volume pricing, project management, and flexible scheduling that works around your business hours.</p>
                 <a href="/#contact-form" class="btn btn-primary">Request Commercial Quote</a>
-                <a href="tel:17203241436" class="btn btn-outline">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-outline">Call (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -1241,7 +1243,7 @@
                 <h3>Custom Fabrication Expertise</h3>
                 <p>From intricate edge profiles to complex installations, our fabrication team brings your vision to life with precision and craftsmanship.</p>
                 <a href="/#contact-form" class="btn btn-primary">Discuss Your Project</a>
-                <a href="tel:17203241436" class="btn btn-outline">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-outline">Call (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -1352,7 +1354,7 @@
                 <h3>Start Your Project Today</h3>
                 <p>Ready to explore quartz countertops for your home or business? Schedule a free consultation and let our experts guide you through the process.</p>
                 <a href="/#contact-form" class="btn btn-primary">Schedule FREE Consultation</a>
-                <a href="tel:17203241436" class="btn btn-outline">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-outline">Call (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -1449,7 +1451,7 @@
             <h3>Ready to Transform Your Space with Quartz?</h3>
             <p>Contact Griffin Quartz today for a free consultation and discover why South Florida homeowners and businesses trust us for their quartz countertop projects.</p>
             <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
         </div>
     </section>
 

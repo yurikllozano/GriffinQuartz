@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertop Installation Process in Fort Lauderdale | Griffin Quartz</title>
-    <meta name="description" content="Complete guide to quartz countertop installation in Fort Lauderdale. Learn about our step-by-step process from consultation to final inspection. 1-2 week timeline.">
+    <title>Quartz Installation Process Fort Lauderdale | Griffin Quartz</title>
+    <meta name="description" content="Guide to quartz countertop installation in Fort Lauderdale. Step-by-step process from consultation to final inspection. 1-2 week timeline.">
     <meta name="keywords" content="quartz countertop installation Fort Lauderdale, countertop installation process, Fort Lauderdale kitchen installation, quartz installation timeline">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -27,6 +27,8 @@
     <meta property="og:title" content="Quartz Countertop Installation Process in Fort Lauderdale | Griffin Quartz">
     <meta property="og:description" content="Complete guide to quartz countertop installation in Fort Lauderdale. Learn about our step-by-step process from consultation to final inspection.">
     <meta property="og:image" content="https://griffinquartz.com/images/installation-team-penthouse-slab.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

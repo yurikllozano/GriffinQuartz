@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Quartz Countertops for Kitchens & Bathrooms | South Florida Installation | Griffin Quartz</title>
-    <meta name="description" content="Transform your kitchen and bathroom with premium quartz countertops. Expert installation for islands, vanities, backsplashes & more. Serving Boca Raton, Fort Lauderdale, Miami. Free estimates!">
+    <title>Kitchen & Bathroom Countertops | Griffin Quartz</title>
+    <meta name="description" content="Premium quartz countertops for kitchens and bathrooms. Islands, vanities & backsplashes. Serving Boca Raton, Fort Lauderdale & Miami. Free estimates!">
     <meta name="keywords" content="quartz countertops near me, quartz countertop installation, kitchen quartz countertops, bathroom quartz countertops, quartz countertops Boca Raton, quartz countertops Fort Lauderdale, quartz countertops Miami, quartz vanity tops, kitchen island countertops, Calacatta quartz, white quartz countertops, marble-look quartz, quartz vs granite, quartz countertop cost, Cambria quartz, Silestone countertops, Caesarstone, MSI quartz, waterfall edge countertops, quartz backsplash, undermount sink cutout, South Florida countertops, Palm Beach County countertops, Broward County countertops">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/kitchen-bath">
@@ -1289,7 +1289,7 @@
             <h2>Ready to Transform Your Kitchen or Bathroom?</h2>
             <p>Get a free in-home consultation and estimate. We'll help you find the perfect quartz for your space.</p>
             <div class="cta-buttons">
-                <a href="tel:7203241436" class="btn btn-dark"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-dark"><i class="bi bi-telephone"></i> Call (720) 324-1436</a>
                 <a href="quote-calculator" class="btn btn-outline-dark"><i class="bi bi-calculator"></i> Get Instant Quote</a>
             </div>
         </div>

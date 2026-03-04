@@ -6,7 +6,7 @@
 
     <!-- Primary SEO Meta Tags -->
     <title>Contact Us | Griffin Quartz South Florida | Free Estimates</title>
-    <meta name="description" content="Contact Griffin Quartz for quartz countertop installation in South Florida. Visit our Boca Raton showroom, call (720) 324-1436, or request a free estimate online.">
+    <meta name="description" content="Contact Griffin Quartz for countertop installation in South Florida. Visit our Boca Raton showroom or request a free estimate online.">
     <meta name="keywords" content="contact Griffin Quartz, quartz countertop estimate, Boca Raton countertop showroom, South Florida countertop installation, free countertop quote">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/contact">
@@ -22,6 +22,8 @@
     <meta property="og:title" content="Contact Griffin Quartz | Free Estimates South Florida">
     <meta property="og:description" content="Get a free quote for quartz countertop installation. Visit our Boca Raton showroom or call (720) 324-1436.">
     <meta property="og:image" content="https://griffinquartz.com/images/backyard-outdoor-kitchen-firepit-evening.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -338,7 +340,7 @@
             <h1>Contact Us</h1>
             <p class="hero-description">Ready to transform your space with stunning quartz countertops? Contact us today for a free consultation and estimate. We serve all of South Florida.</p>
             <div class="hero-cta">
-                <a href="tel:17203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
                 <a href="mailto:info@griffinquartz.com" class="btn btn-secondary"><i class="bi bi-envelope"></i> Email Us</a>
             </div>
             <p class="hero-trust"><i class="bi bi-clock"></i> Mon-Fri 7:30am-3:30pm &nbsp;|&nbsp; Sat-Sun Closed</p>
@@ -355,7 +357,7 @@
                     </div>
                     <h3>Call Us</h3>
                     <p>Speak directly with our countertop experts</p>
-                    <a href="tel:17203241436">(720) 324-1436</a>
+                    <a href="tel:+17203241436">(720) 324-1436</a>
                 </div>
 
                 <div class="contact-card">

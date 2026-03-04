@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Bathroom Vanity Countertops Fort Lauderdale | 2025 Design Trends | Griffin Quartz</title>
-    <meta name="description" content="Discover 2025 bathroom vanity countertop trends for Fort Lauderdale homes. Explore quartz, marble-look, and porcelain options with expert installation. Free estimates for Harbor Beach, Las Olas, Coral Ridge.">
+    <title>Bathroom Vanity Countertops Fort Lauderdale | Griffin Quartz</title>
+    <meta name="description" content="2025 bathroom vanity countertop trends for Fort Lauderdale homes. Quartz, marble-look and porcelain options with expert installation. Free estimates.">
     <meta name="keywords" content="bathroom vanity countertops Fort Lauderdale, bathroom countertops 2025, quartz vanity tops Fort Lauderdale, master bath renovation Fort Lauderdale, powder room countertops, spa bathroom design, Harbor Beach bathroom remodel, Las Olas bathroom vanity">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Bathroom Vanity Countertops: Fort Lauderdale Design Trends 2025">
     <meta property="og:description" content="Discover the latest bathroom vanity countertop trends for Fort Lauderdale homes in 2025. Expert tips on materials, colors, and designs for spa-like bathrooms.">
     <meta property="og:image" content="https://griffinquartz.com/images/bathroom-spa-calacatta-walnut-tub.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-10">

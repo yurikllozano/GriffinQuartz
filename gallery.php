@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertop Inspiration Gallery | Kitchen, Bathroom & Outdoor Design Ideas | South Florida</title>
-    <meta name="description" content="Explore stunning quartz countertop designs for coastal kitchens, spa bathrooms, outdoor living spaces & more. 100+ photos of luxury countertop installations in South Florida homes. Find your style today.">
+    <title>Countertop Inspiration Gallery | Griffin Quartz</title>
+    <meta name="description" content="Stunning quartz countertop designs for kitchens, bathrooms & outdoor spaces. 100+ photos of luxury installations in South Florida. Find your style.">
     <meta name="keywords" content="quartz countertop gallery, kitchen design ideas, coastal kitchen countertops, modern kitchen inspiration, bathroom vanity ideas, outdoor kitchen designs, waterfall island countertops, Calacatta quartz, white quartz countertops, luxury kitchen photos, South Florida kitchen remodel, Mediterranean kitchen design, spa bathroom countertops, penthouse kitchen, beachfront kitchen">
     <meta name="robots" content="index, follow, max-image-preview:large">
     <link rel="canonical" href="https://griffinquartz.com/gallery">
@@ -480,7 +480,7 @@
             <p class="hero-description">Explore stunning quartz countertop installations across South Florida. From coastal kitchens to spa-like bathrooms and resort-style outdoor spaces, discover the design that speaks to you.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-images"></i> 8 Design Collections &nbsp;|&nbsp; <i class="bi bi-star-fill"></i> South Florida's #1 Choice</p>
         </div>
@@ -1226,7 +1226,7 @@
             <h2>Ready to Create Your Dream Space?</h2>
             <p>Our design experts will help you find the perfect quartz countertop to match your style. Schedule a free consultation today.</p>
             <a href="/#contact-form" class="btn btn-dark">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-outline-dark"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-outline-dark"><i class="bi bi-telephone"></i> (720) 324-1436</a>
         </div>
     </section>
 

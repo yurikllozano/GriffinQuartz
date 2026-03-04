@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Outdoor Kitchen Countertops Fort Lauderdale | Pool Area Guide | Griffin Quartz</title>
-    <meta name="description" content="Expert guide to outdoor kitchen countertops for Fort Lauderdale pool areas. Learn about UV-resistant materials, weather durability, and the best options for Florida's climate.">
+    <title>Outdoor Kitchen Countertops Fort Lauderdale | Griffin Quartz</title>
+    <meta name="description" content="Outdoor kitchen countertops for Fort Lauderdale pool areas. UV-resistant materials, weather durability and best options for Florida's climate.">
     <meta name="keywords" content="outdoor kitchen countertops Fort Lauderdale, outdoor countertops pool area, weatherproof countertops Florida, outdoor granite countertops, quartz outdoor kitchen, Fort Lauderdale outdoor living">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -27,6 +27,8 @@
     <meta property="og:title" content="Outdoor Kitchen Countertops for Fort Lauderdale Pool Areas">
     <meta property="og:description" content="Expert guide to outdoor kitchen countertops for Fort Lauderdale pool areas. Learn about UV-resistant materials and the best options for Florida's climate.">
     <meta property="og:image" content="https://griffinquartz.com/images/outdoor-kitchen-pool-firepit-dusk.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-11">

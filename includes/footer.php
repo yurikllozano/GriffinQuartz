@@ -39,7 +39,7 @@ $prefix = ($basePath === '.' || $basePath === '') ? '' : $basePath . '/';
             </div>
             <div class="footer-col">
                 <h4>Contact Griffin Quartz</h4>
-                <p><strong>Phone:</strong> <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p><strong>Phone:</strong> <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <p><strong>Email:</strong> <a href="mailto:info@griffinquartz.com">info@griffinquartz.com</a></p>
                 <p style="margin-top: 1rem;"><a href="<?php echo $prefix; ?>#contact-form" class="btn btn-primary btn-sm">Get FREE Quote</a></p>
             </div>

@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Griffin Quartz serves all of South Florida with premium quartz countertop installation. Find service areas in Miami-Dade, Broward, and Palm Beach counties including Miami, Fort Lauderdale, Boca Raton, and West Palm Beach.">
+    <meta name="description" content="Griffin Quartz serves South Florida with quartz countertop installation. Service areas in Miami-Dade, Broward & Palm Beach counties.">
     <meta name="keywords" content="quartz countertops South Florida, countertop installation Miami, Fort Lauderdale quartz, Boca Raton countertops, West Palm Beach kitchen counters">
-    <title>Quartz Countertop Installation Locations | South Florida Service Areas | Griffin Quartz</title>
+    <title>Service Areas in South Florida | Griffin Quartz</title>
 
     <!-- Open Graph -->
     <meta property="og:title" content="South Florida Quartz Countertop Installation | Griffin Quartz Service Areas">
@@ -13,6 +13,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://griffinquartz.com/locations">
     <meta property="og:image" content="https://griffinquartz.com/images/map-miami-beach-area.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Fonts & Styles -->
     <!-- Favicon -->
@@ -814,7 +816,7 @@
             <p>We serve many additional communities throughout South Florida. Contact us today to confirm service availability in your area and receive your free, no-obligation estimate.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
         </div>
     </section>

@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Premium Quartz Countertop Brands in South Florida | Cambria, Silestone, Caesarstone | Boca Raton</title>
-    <meta name="description" content="Shop 8 premium quartz countertop brands at Griffin Quartz in Boca Raton, FL. Authorized dealer for Cambria, Silestone, Caesarstone, Viatera, HanStone & more. 200+ colors in stock. FREE estimates for Palm Beach, Broward & Miami-Dade.">
+    <title>Quartz Countertop Brands South Florida | Griffin Quartz</title>
+    <meta name="description" content="8 premium quartz brands at Griffin Quartz: Cambria, Silestone, Caesarstone & more. 200+ colors in stock. FREE estimates in South Florida.">
     <meta name="keywords" content="quartz countertops Boca Raton, quartz countertops South Florida, Cambria dealer Florida, Silestone countertops Fort Lauderdale, Caesarstone Miami, quartz kitchen countertops Palm Beach, HanStone quartz Broward County, quartz bathroom vanity tops, engineered quartz surfaces Florida">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -1310,14 +1310,14 @@
                     </div>
                 </div>
 
-                <a href="tel:17203241436" class="btn-hero-primary" aria-label="Call Griffin Quartz at 720-324-1436">
+                <a href="tel:+17203241436" class="btn-hero-primary" aria-label="Call Griffin Quartz at 720-324-1436">
                     Call (720) 324-1436
                 </a>
             </div>
 
             <div class="hero-form-card">
                 <h2>Get Your FREE Quote Today!</h2>
-                <p class="form-phone">Call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-phone">Call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form action="/#contact-form" method="get" aria-label="Request a free quote">
                     <div class="form-group">
                         <label for="hero-name">Name</label>
@@ -1626,7 +1626,7 @@
                 <p>See and touch our full quartz collection in person at 1021 S Rogers Cir #18, Boca Raton. Our design experts will help you compare brands, select the perfect color, and plan your project—serving Palm Beach, Broward, and Miami-Dade counties.</p>
                 <div class="showroom-cta-buttons">
                     <a href="/#contact-form" class="btn btn-primary" aria-label="Schedule a visit to our Boca Raton quartz showroom">Schedule Showroom Visit</a>
-                    <a href="tel:17203241436" class="btn btn-secondary" aria-label="Call Griffin Quartz at 720-324-1436">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary" aria-label="Call Griffin Quartz at 720-324-1436">Call (720) 324-1436</a>
                 </div>
                 <div class="showroom-features" role="list" aria-label="Showroom features">
                     <span class="showroom-feature" role="listitem"><i class="bi bi-geo-alt-fill" aria-hidden="true"></i> Full Slab Display</span>
@@ -1700,7 +1700,7 @@
                         </span>
                     </button>
                     <div class="faq-answer-wrapper" id="faq-answer-4" role="region" aria-labelledby="faq-question-4">
-                        <p class="faq-answer">Yes! Visit our Boca Raton showroom at 1021 S Rogers Cir #18 to see full slabs and take home free samples from any of our 8 quartz brands. We have over 200 colors and patterns to choose from. Call <a href="tel:7203241436">(720) 324-1436</a> to schedule a visit.</p>
+                        <p class="faq-answer">Yes! Visit our Boca Raton showroom at 1021 S Rogers Cir #18 to see full slabs and take home free samples from any of our 8 quartz brands. We have over 200 colors and patterns to choose from. Call <a href="tel:+17203241436">(720) 324-1436</a> to schedule a visit.</p>
                     </div>
                 </div>
 
@@ -1797,7 +1797,7 @@
                 </nav>
                 <div class="footer-col">
                     <h4>Contact Us</h4>
-                    <p><a href="tel:7203241436" aria-label="Call Griffin Quartz">(720) 324-1436</a></p>
+                    <p><a href="tel:+17203241436" aria-label="Call Griffin Quartz">(720) 324-1436</a></p>
                     <p><a href="mailto:info@griffinquartz.com" aria-label="Email Griffin Quartz">info@griffinquartz.com</a></p>
                 </div>
             </div>

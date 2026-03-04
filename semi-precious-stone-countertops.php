@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Semi-Precious Stone Countertops South Florida | Exotic Luxury Surfaces | Griffin Quartz</title>
-    <meta name="description" content="Extraordinary semi-precious stone countertops in South Florida. Agate, amethyst, tiger eye & onyx surfaces. Backlit options available. Ultimate luxury for discerning homeowners. FREE estimates in Boca Raton, Miami, Fort Lauderdale. Call (720) 324-1436.">
+    <title>Semi-Precious Stone Countertops | Griffin Quartz</title>
+    <meta name="description" content="Semi-precious stone countertops in South Florida. Agate, amethyst, tiger eye & onyx with backlit options. Ultimate luxury. FREE estimates.">
     <meta name="keywords" content="semi-precious stone countertops, agate countertops, amethyst countertops, tiger eye countertops, onyx countertops, backlit countertops, luxury countertops South Florida, exotic stone countertops Boca Raton, semi-precious countertops Miami, crystal countertops Fort Lauderdale">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Semi-Precious Stone Countertops South Florida | Exotic Luxury | Griffin Quartz">
     <meta property="og:description" content="Extraordinary semi-precious stone countertops. Agate, amethyst, tiger eye & onyx with backlit options. Ultimate luxury for South Florida homes.">
     <meta property="og:image" content="https://griffinquartz.com/images/bathroom-calacatta-vessel-backlit.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -596,7 +598,7 @@
     <!-- Hero Section -->
     <section class="material-hero">
         <div class="hero-background">
-            <img src="images/Semi-Precious Stones Countertop.jpg" alt="Stunning backlit semi-precious stone countertops in South Florida" loading="eager">
+            <img src="images/semi-precious-stones-countertop.webp" alt="Stunning backlit semi-precious stone countertops in South Florida" loading="eager">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -605,7 +607,7 @@
             <p class="hero-description">Transform your space into a work of art with extraordinary semi-precious stone surfaces. From luminous backlit agate to dramatic amethyst, these rare natural materials create breathtaking focal points that elevate luxury to an entirely new level.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -915,7 +917,7 @@
             <h2>Ready for Extraordinary Luxury?</h2>
             <p>Contact Griffin Quartz today for a private consultation and explore our collection of rare semi-precious stone slabs. We'll help you select the perfect material to create a truly extraordinary space.</p>
             <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
         </div>
     </section>
 

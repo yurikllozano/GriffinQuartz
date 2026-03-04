@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Office Building Quartz Countertops South Florida | Reception Desks, Break Rooms, Conference Rooms | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertops for office buildings in South Florida. Reception desks, break rooms, conference rooms, and executive suites. Professional installation with minimal business disruption. Free estimates!">
+    <title>Office Building Countertops FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertops for office buildings in South Florida. Reception desks, break rooms & conference rooms. Minimal disruption. Free estimates!">
     <meta name="keywords" content="office building countertops, reception desk countertops, office quartz countertops, corporate countertops, break room countertops, conference room countertops, executive office countertops, commercial office countertops South Florida, office building quartz installation, corporate quartz surfaces">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/office-building-countertops">
@@ -22,6 +22,8 @@
     <meta property="og:url" content="https://griffinquartz.com/office-building-countertops">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://griffinquartz.com/images/commercial-office-lobby-modern.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -192,11 +194,11 @@
                 <div class="hero-badge">Corporate & Office Specialists</div>
                 <h1>Office Building Quartz Countertops in South Florida</h1>
                 <p>Elevate your corporate environment with premium quartz surfaces. From impressive reception desks to functional break rooms, we deliver professional results with minimal disruption to your business operations.</p>
-                <a href="tel:7203241436" class="btn btn-primary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary">Call (720) 324-1436</a>
             </div>
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form action="/#contact-form" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>

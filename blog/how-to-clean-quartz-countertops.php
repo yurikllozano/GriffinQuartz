@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn how to clean quartz countertops the right way. Expert tips on daily care, stain removal, and the best quartz cleaner products from South Florida's trusted installer.">
-    <title>How to Clean Quartz Countertops: Complete Care Guide | Griffin Quartz Blog</title>
+    <meta name="description" content="How to clean quartz countertops the right way. Expert tips on daily care, stain removal and the best cleaner products.">
+    <title>How to Clean Quartz Countertops | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

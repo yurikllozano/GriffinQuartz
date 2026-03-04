@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartzite Countertops South Florida | Natural Stone Installation | Griffin Quartz</title>
-    <meta name="description" content="Stunning quartzite countertops in South Florida. Natural stone beauty with superior hardness. Heat-resistant, scratch-resistant surfaces. FREE estimates in Boca Raton, Miami, Fort Lauderdale. Call (720) 324-1436.">
+    <title>Quartzite Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="Stunning quartzite countertops in South Florida. Natural stone with superior hardness and heat resistance. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="quartzite countertops, natural quartzite, quartzite kitchen countertops, quartzite bathroom vanity, quartzite vs quartz, quartzite countertops South Florida, quartzite countertops Boca Raton, quartzite countertops Miami, quartzite countertops Fort Lauderdale, Taj Mahal quartzite, Super White quartzite">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Quartzite Countertops South Florida | Natural Stone | Griffin Quartz">
     <meta property="og:description" content="Premium natural quartzite countertops for South Florida homes. Superior hardness, heat resistance, and stunning natural beauty. FREE estimates.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-modern-waterfall-island-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -588,7 +590,7 @@
             <p class="hero-description">Discover the extraordinary beauty and unmatched durability of natural quartzite. Formed deep within the earth under intense heat and pressure, quartzite delivers stunning marble-like aesthetics with superior hardness for South Florida homes.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
         </div>
     </section>
@@ -874,7 +876,7 @@
             <h2>Ready for Stunning Quartzite Countertops?</h2>
             <p>Contact Griffin Quartz today for a free consultation and explore our collection of natural quartzite slabs. We'll help you find the perfect stone to transform your South Florida home.</p>
             <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-            <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+            <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
         </div>
     </section>
 

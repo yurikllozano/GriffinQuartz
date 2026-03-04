@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Best Kitchen Countertops for Fort Lauderdale Waterfront Homes | Griffin Quartz</title>
-    <meta name="description" content="Discover the best kitchen countertops for Fort Lauderdale waterfront homes. Expert tips on humidity-resistant quartz and granite for coastal living. Free quotes!">
+    <title>Waterfront Kitchen Countertops | Griffin Quartz</title>
+    <meta name="description" content="Best kitchen countertops for Fort Lauderdale waterfront homes. Humidity-resistant quartz and granite for coastal living. Free quotes!">
     <meta name="keywords" content="kitchen countertops Fort Lauderdale, waterfront kitchen countertops, quartz countertops Fort Lauderdale, coastal kitchen design, Fort Lauderdale countertop installation">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Best Kitchen Countertops for Fort Lauderdale Waterfront Homes">
     <meta property="og:description" content="Discover the best kitchen countertops for Fort Lauderdale waterfront homes. Expert tips on humidity-resistant quartz and granite for coastal living.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-waterfront-palms-orchids.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

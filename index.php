@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops South Florida | #1 Boca Raton, Miami, Fort Lauderdale Installation | Griffin Quartz</title>
-    <meta name="description" content="South Florida's premier quartz countertop installers. Serving Boca Raton, Fort Lauderdale, Miami, West Palm Beach & all of Palm Beach County. 200+ colors, FREE estimates, fast 1-week installation. Call (720) 324-1436.">
+    <title>Quartz Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="South Florida's premier quartz countertop installers. Boca Raton, Fort Lauderdale, Miami & West Palm Beach. 200+ colors, FREE estimates.">
     <meta name="keywords" content="quartz countertops South Florida, quartz countertops Boca Raton, quartz countertops Fort Lauderdale, quartz countertops Miami, quartz countertops West Palm Beach, countertop installation near me, kitchen countertops South Florida, bathroom countertops Palm Beach County, granite countertops Fort Lauderdale, marble countertops Miami, quartz fabrication South Florida, countertop company Boca Raton">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops South Florida | #1 Installation in Boca Raton, Miami, Fort Lauderdale">
     <meta property="og:description" content="South Florida's premier quartz countertop installers. 200+ colors, FREE estimates, fast installation. Serving Boca Raton, Fort Lauderdale, Miami & West Palm Beach.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -99,7 +101,7 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "100",
+            "reviewCount": "6",
             "bestRating": "5",
             "worstRating": "1"
         },
@@ -150,7 +152,7 @@
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "100"
+            "reviewCount": "6"
         },
         "review": [
             {
@@ -251,12 +253,12 @@
                 <h2>Where Elegance Meets Expert Craftsmanship</h2>
                 <p class="hero-description">Transform your space with <strong>premium quartz surfaces</strong> from Griffin Quartz. Serving <a href="boca-raton">Boca Raton</a>, <a href="fort-lauderdale">Fort Lauderdale</a>, <a href="west-palm-beach">West Palm Beach</a>, and all of <strong>South Florida</strong>, we deliver <strong>bespoke quartz installations</strong> that define luxury living.</p>
                 <div class="hero-cta">
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="hero-form-wrapper">
                 <h3>Get Your FREE Quote Today!</h3>
-                <p class="form-subtitle">Call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form class="contact-form" id="quoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
@@ -364,7 +366,7 @@
                 </a>
                 <a href="semi-precious-stone-countertops" class="material-card">
                     <div class="material-image">
-                        <img src="images/Semi-Precious Stones Countertop.jpg" alt="Backlit semi-precious stone countertop" loading="lazy">
+                        <img src="images/semi-precious-stones-countertop.webp" alt="Backlit semi-precious stone countertop" loading="lazy">
                         <div class="material-overlay"></div>
                     </div>
                     <div class="material-content">

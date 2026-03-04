@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Hollywood FL | Installation & Fabrication | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertop installation in Hollywood, FL. Factory-direct pricing on Cambria, Silestone & Caesarstone. Free in-home estimates, 1-week installation. Call (720) 324-1436.">
+    <title>Quartz Countertops Hollywood FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertop installation in Hollywood, FL. Factory-direct Cambria, Silestone & Caesarstone. Free estimates. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops Hollywood, countertop installation Hollywood FL, kitchen countertops Hollywood, bathroom countertops Hollywood, quartz fabrication Hollywood, granite countertops Hollywood, marble countertops Hollywood, countertop company near me, quartz installer Broward County, Hollywood Beach countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Hollywood FL | Premium Installation | Griffin Quartz">
     <meta property="og:description" content="Transform your Hollywood home with luxury quartz countertops. 200+ colors, FREE estimates, fast 1-week installation. Factory-direct pricing.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -180,7 +182,7 @@
             <p class="hero-description">Experience the Griffin Quartz difference in Hollywood. Factory-direct pricing on 200+ premium quartz colors with expert installation in as little as one week. From beachfront condos to family homes, we serve all of Hollywood and Broward County.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Schedule Free Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; 100+ Hollywood Projects Completed</p>
         </div>
@@ -439,7 +441,7 @@
             <p>Schedule your free in-home consultation and discover why homeowners throughout Broward County trust Griffin Quartz for their countertop projects.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Open 7 Days a Week | Free In-Home Consultations | 1-Week Installation</p>
         </div>

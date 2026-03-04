@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Montgomery Quartz Countertops South Florida | Top Seller | Griffin Quartz</title>
-    <meta name="description" content="Cambria Montgomery quartz - a top-selling design with elegant movement and sophisticated appeal. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
+    <title>Cambria Montgomery Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Montgomery quartz - top-selling design with elegant movement and sophisticated appeal. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Montgomery, Montgomery quartz, popular Cambria, quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/montgomery">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

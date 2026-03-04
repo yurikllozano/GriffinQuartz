@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover the key differences between quartz vs granite countertops. Compare durability, cost, maintenance and appearance. Free South Florida consultation available.">
-    <title>Quartz vs Granite vs Marble: Which Countertop is Best? | Griffin Quartz Blog</title>
+    <meta name="description" content="Key differences between quartz vs granite countertops. Compare durability, cost, maintenance and appearance. Free South Florida consultation.">
+    <title>Quartz vs Granite vs Marble Comparison | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

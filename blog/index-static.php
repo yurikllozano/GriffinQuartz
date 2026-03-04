@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertop Blog | Expert Tips & Guides | Griffin Quartz South Florida</title>
-    <meta name="description" content="Expert guides on quartz countertops for South Florida homes. Learn about installation, costs, colors, maintenance, and design trends from Griffin Quartz professionals.">
+    <title>Quartz Countertop Blog | Tips & Guides | Griffin Quartz</title>
+    <meta name="description" content="Expert guides on quartz countertops for South Florida homes. Installation, costs, colors, maintenance and design trends from Griffin Quartz.">
     <meta name="keywords" content="quartz countertops blog, countertop guides South Florida, kitchen countertop tips, quartz installation guide, Fort Lauderdale countertops, Miami quartz countertops">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -27,6 +27,8 @@
     <meta property="og:title" content="Quartz Countertop Blog | Expert Tips & Guides | Griffin Quartz">
     <meta property="og:description" content="Expert guides on quartz countertops for South Florida homes. Learn about installation, costs, colors, and design trends.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -238,7 +240,7 @@
                 </div>
                 <div class="footer-col">
                     <h4>Contact Us</h4>
-                    <p><a href="tel:7203241436">(720) 324-1436</a></p>
+                    <p><a href="tel:+17203241436">(720) 324-1436</a></p>
                     <p><a href="mailto:info@griffinquartz.com">info@griffinquartz.com</a></p>
                 </div>
             </div>

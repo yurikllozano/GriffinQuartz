@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Cambria Ella Quartz Countertops South Florida | Soft White Elegance | Griffin Quartz</title>
-    <meta name="description" content="Cambria Ella quartz countertops - soft white with delicate gray veining. Timeless elegance for classic kitchens. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
+    <title>Cambria Ella Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Ella quartz - soft white with delicate gray veining. Timeless elegance for classic kitchens. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Ella, Ella quartz, soft white quartz, delicate veined quartz, Cambria countertops South Florida, classic kitchen countertops, marble alternative">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Cambria Ella Quartz | Timeless Elegance | Griffin Quartz">
     <meta property="og:description" content="Soft white base with delicate gray veining. The perfect choice for classic and timeless kitchen designs.">
     <meta property="og:image" content="https://griffinquartz.com/images/cambria-ella-hero.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Fonts & Styles -->
@@ -260,7 +262,7 @@
 
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
 
@@ -460,7 +462,7 @@
                     <button type="submit" class="btn btn-primary btn-full">Get FREE Quote</button>
                 </form>
 
-                <p style="margin-top: 1rem; font-size: 0.875rem; color: rgba(255,255,255,0.7);">Or call us directly at <a href="tel:17203241436" style="color: var(--color-accent);">(720) 324-1436</a></p>
+                <p style="margin-top: 1rem; font-size: 0.875rem; color: rgba(255,255,255,0.7);">Or call us directly at <a href="tel:+17203241436" style="color: var(--color-accent);">(720) 324-1436</a></p>
             </div>
         </div>
     </section>

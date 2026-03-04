@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn about Griffin Quartz, South Florida's trusted family-owned quartz countertop company. 20+ years of experience serving Boca Raton, Fort Lauderdale, Miami, and beyond.">
-    <title>About Griffin Quartz | Family-Owned Quartz Countertop Company | South Florida</title>
+    <meta name="description" content="Griffin Quartz: South Florida's trusted family-owned quartz countertop company. 20+ years serving Boca Raton, Fort Lauderdale & Miami.">
+    <title>About Griffin Quartz | South Florida Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
@@ -82,7 +82,7 @@
                 <h3>Experience the Griffin Quartz Difference</h3>
                 <p>Visit our showroom or request a free in-home consultation today.</p>
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
         </div>
     </section>

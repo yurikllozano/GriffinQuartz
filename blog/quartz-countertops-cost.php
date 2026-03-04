@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn how much quartz countertops cost in South Florida. Get pricing information for kitchen and bathroom quartz installation in Miami, Fort Lauderdale, and Boca Raton.">
-    <title>How Much Are Quartz Countertops in South Florida | Griffin Quartz Blog</title>
+    <meta name="description" content="How much quartz countertops cost in South Florida. Pricing for kitchen and bathroom installation in Miami, Fort Lauderdale and Boca Raton.">
+    <title>Quartz Countertops Cost South Florida | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore stunning quartz countertop colors from white to black. Find the perfect quartz that looks like marble for your South Florida home. Free color consultation!">
-    <title>Quartz Countertop Colors: Complete Selection Guide 2026 | Griffin Quartz Blog</title>
+    <meta name="description" content="Stunning quartz countertop colors from white to black. Find quartz that looks like marble for your South Florida home. Free consultation!">
+    <title>Quartz Countertop Colors: Selection Guide | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

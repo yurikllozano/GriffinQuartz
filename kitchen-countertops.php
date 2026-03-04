@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Kitchen Countertops South Florida | Quartz Kitchen Islands | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz kitchen countertops for South Florida homes. Custom kitchen islands, waterfall edges, and expert installation. Heat-resistant, stain-proof, and food-safe. FREE estimates. Call (720) 324-1436.">
+    <title>Kitchen Countertops South Florida | Griffin Quartz</title>
+    <meta name="description" content="Premium quartz kitchen countertops for South Florida. Custom islands, waterfall edges, expert installation. Stain-proof & food-safe. FREE estimates.">
     <meta name="keywords" content="kitchen countertops, quartz kitchen countertops, kitchen island countertops, quartz countertops South Florida, waterfall edge countertops, kitchen remodel countertops, quartz kitchen island, perimeter countertops, breakfast bar countertops, kitchen backsplash quartz">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Luxury Kitchen Countertops | Quartz Kitchen Islands | Griffin Quartz">
     <meta property="og:description" content="Design your dream kitchen with premium quartz countertops. Interactive calculator, 200+ colors, waterfall edges available. FREE estimates in South Florida.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-miami-penthouse-brown-veined.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter Card -->
@@ -1252,7 +1254,7 @@
             </div>
             <div class="hero-form-wrapper">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form class="contact-form" id="heroQuoteForm">
                     <div class="form-group">
                         <label for="hero-name">Name</label>
@@ -1721,7 +1723,7 @@
             <p>Get a free in-home consultation and precise quote for your kitchen countertop project. Our design experts will help you select the perfect quartz color and layout.</p>
             <div class="cta-buttons">
                 <a href="#calculator" class="btn btn-primary">Design Your Kitchen</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
         </div>
     </section>

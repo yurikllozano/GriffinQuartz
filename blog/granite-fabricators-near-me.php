@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Find the top granite countertops fabricators near you in South Florida. Learn what to look for in a fabricator and why Griffin Quartz is the #1 choice for granite and quartz countertops.">
-    <title>Top Granite Countertops Fabricators Near Me | Griffin Quartz Blog</title>
+    <meta name="description" content="Top granite fabricators in South Florida. What to look for in a fabricator and why Griffin Quartz is the #1 choice for countertops.">
+    <title>Top Granite Countertop Fabricators Near Me | Griffin Quartz</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">

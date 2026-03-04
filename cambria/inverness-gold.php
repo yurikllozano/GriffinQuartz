@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Inverness Gold Quartz Countertops South Florida | Golden Elegance | Griffin Quartz</title>
-    <meta name="description" content="Cambria Inverness Gold quartz - rich golden streaks on pristine white. Companion to the #1 best seller. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Inverness Gold Quartz | Griffin Quartz</title>
+    <meta name="description" content="Cambria Inverness Gold quartz - rich golden streaks on pristine white. Companion to the #1 best seller. South Florida installation.">
     <meta name="keywords" content="Cambria Inverness Gold, Inverness Gold quartz, gold veined quartz, white gold quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/inverness-gold">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

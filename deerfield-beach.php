@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Deerfield Beach FL | Installation & Fabrication | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertop installation in Deerfield Beach, FL. Factory-direct pricing on Cambria, Silestone & Caesarstone. Free estimates, 1-week installation. Call (720) 324-1436.">
+    <title>Quartz Countertops Deerfield Beach FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertop installation in Deerfield Beach, FL. Factory-direct Cambria, Silestone & Caesarstone. Free estimates. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops Deerfield Beach, countertop installation Deerfield Beach FL, kitchen countertops Deerfield Beach, bathroom countertops Deerfield Beach, quartz fabrication Deerfield Beach, granite countertops Deerfield Beach, marble countertops Deerfield Beach, countertop company near me, quartz installer Broward County">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Deerfield Beach FL | Premium Installation | Griffin Quartz">
     <meta property="og:description" content="Transform your Deerfield Beach home with luxury quartz countertops. 200+ colors, FREE estimates, fast 1-week installation.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -136,7 +138,7 @@
             <p class="hero-description">From oceanfront high-rises to Century Village, we specialize in Deerfield Beach installations. Humidity-resistant quartz, condo building expertise, and just 10 minutes from our showroom.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Get Your FREE Quote</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated | Condo Installation Experts</p>
         </div>
@@ -386,7 +388,7 @@
             <p>Schedule your free consultation and discover why homeowners throughout Deerfield Beach trust Griffin Quartz.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Open 7 Days a Week | Condo Installation Experts | 10 Minutes from Deerfield Beach</p>
         </div>

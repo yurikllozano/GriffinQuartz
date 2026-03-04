@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Medical Clinic Quartz Countertops South Florida | Healthcare, Dental, Labs | Griffin Quartz</title>
-    <meta name="description" content="Hygienic quartz countertops for medical clinics in South Florida. Non-porous, antimicrobial surfaces for exam rooms, dental offices, labs, and reception areas.DERA and HIPAA compliant installation. Free estimates!">
+    <title>Medical Clinic Countertops FL | Griffin Quartz</title>
+    <meta name="description" content="Hygienic quartz countertops for medical clinics in South Florida. Non-porous surfaces for exam rooms & dental offices. HIPAA compliant. Free estimates!">
     <meta name="keywords" content="medical clinic countertops, healthcare countertops, dental office countertops, medical office quartz, exam room countertops, lab countertops, hygienic countertops, antimicrobial countertops, medical countertops South Florida, dental countertops">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/medical-clinic-countertops">
@@ -22,6 +22,8 @@
     <meta property="og:url" content="https://griffinquartz.com/medical-clinic-countertops">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://griffinquartz.com/images/commercial-retail-marble-counter.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -169,11 +171,11 @@
                 <div class="hero-badge">Healthcare Specialists</div>
                 <h1>Medical Clinic Quartz Countertops in South Florida</h1>
                 <p>Hygienic, non-porous quartz surfaces designed for healthcare environments. From exam rooms to dental operatories, we provide countertops that meet the stringent cleanliness standards your practice demands.</p>
-                <a href="tel:7203241436" class="btn btn-primary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary">Call (720) 324-1436</a>
             </div>
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form action="/#contact-form" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>

@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide | Griffin Quartz</title>
-    <meta name="description" content="Discover 2025 quartz countertops cost in Fort Lauderdale. Budget $40-60/sqft to premium $150+/sqft pricing, brand comparisons, and factors affecting your quote. Free estimates available.">
+    <title>Quartz Countertops Cost Fort Lauderdale | Griffin Quartz</title>
+    <meta name="description" content="2025 quartz countertops cost in Fort Lauderdale. Budget to premium pricing, brand comparisons, and factors affecting your quote. Free estimates.">
     <meta name="keywords" content="quartz countertops cost Fort Lauderdale, quartz countertop prices 2025, Fort Lauderdale kitchen countertops cost, Cambria pricing Fort Lauderdale, Silestone cost Florida, countertop installation prices Broward County">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -27,6 +27,8 @@
     <meta property="og:title" content="Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide">
     <meta property="og:description" content="Complete 2025 pricing guide for quartz countertops in Fort Lauderdale. Compare brands, understand cost factors, and get accurate quotes.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-08">

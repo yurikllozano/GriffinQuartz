@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Coral Gables FL | The City Beautiful | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertops for Coral Gables' historic Mediterranean estates. Factory-direct pricing on Cambria, Silestone & Caesarstone. Bilingual service, architectural compliance. Free estimates. Call (720) 324-1436.">
+    <title>Quartz Countertops Coral Gables FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertops for Coral Gables' historic Mediterranean estates. Factory-direct pricing, bilingual service. Free estimates. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops Coral Gables, countertop installation Coral Gables FL, kitchen countertops Coral Gables, bathroom countertops Coral Gables, quartz fabrication Coral Gables, granite countertops Coral Gables, marble countertops Coral Gables, Mediterranean home countertops, luxury countertops Miami-Dade, Miracle Mile countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Coral Gables FL | The City Beautiful | Griffin Quartz">
     <meta property="og:description" content="Transform your Coral Gables Mediterranean estate with luxury quartz countertops. 200+ colors, FREE estimates, architectural compliance expertise. Factory-direct pricing.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -181,7 +183,7 @@
             <p class="hero-description">Griffin Quartz brings world-class craftsmanship to Coral Gables' distinguished Mediterranean homes. Factory-direct pricing on 200+ premium quartz colors with bilingual service and expert installation that honors your home's architectural heritage.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Schedule Free Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; Servicio en Espanol Disponible</p>
         </div>
@@ -440,7 +442,7 @@
             <p>Schedule your free in-home consultation and discover why The City Beautiful's most distinguished homeowners trust Griffin Quartz for their countertop projects.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Open 7 Days a Week | Bilingual Service | White-Glove Installation</p>
         </div>

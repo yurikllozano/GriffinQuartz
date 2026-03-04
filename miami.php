@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Miami FL | Luxury Installation & Fabrication | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertop installation in Miami, FL. Factory-direct pricing on Cambria, Silestone & Caesarstone. 200+ colors, free estimates, 1-week installation. Call (720) 324-1436.">
+    <title>Quartz Countertops Miami FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertop installation in Miami, FL. Factory-direct pricing on Cambria, Silestone & Caesarstone. 200+ colors, free estimates. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops Miami, countertop installation Miami FL, kitchen countertops Miami, bathroom countertops Miami, quartz fabrication Miami, granite countertops Miami, marble countertops Miami, countertop company Miami-Dade, quartz installer South Florida">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Miami FL | Premium Installation | Griffin Quartz">
     <meta property="og:description" content="Transform your Miami home with luxury quartz countertops. 200+ colors, FREE estimates, fast 1-week installation. Factory-direct pricing.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -180,7 +182,7 @@
             <p class="hero-description">From Brickell penthouses to Coconut Grove estates, Griffin Quartz delivers stunning quartz surfaces with factory-direct pricing. 200+ premium colors, expert installation, and bilingual service throughout Miami-Dade County.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Schedule Free Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; 150+ Miami Projects Completed</p>
         </div>
@@ -439,7 +441,7 @@
             <p>Schedule your free in-home consultation and discover why homeowners throughout Miami-Dade County trust Griffin Quartz for their countertop projects.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Open 7 Days a Week | Bilingual Service | 1-Week Installation</p>
         </div>

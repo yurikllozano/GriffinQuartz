@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Sutherland Quartz Countertops South Florida | Calming Blue Tones | Griffin Quartz</title>
-    <meta name="description" content="Cambria Sutherland quartz - calming blue tones that pair beautifully with wood accents. 2025 trending design. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Sutherland Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Sutherland quartz - calming blue tones that pair beautifully with wood accents. 2025 trending. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Sutherland, Sutherland quartz, blue quartz countertops, calming quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/sutherland">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Weybourne Quartz Countertops South Florida | Soft Marble Tones | Griffin Quartz</title>
-    <meta name="description" content="Cambria Weybourne quartz - soft, airy blend of classic pillowy marble tones with subtle gray veins. Timeless elegance. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Weybourne Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Weybourne quartz - airy blend of pillowy marble tones with subtle gray veins. Timeless elegance. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Weybourne, Weybourne quartz, soft marble quartz, creamy quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/weybourne">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

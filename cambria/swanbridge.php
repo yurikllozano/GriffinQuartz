@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Swanbridge Quartz Countertops South Florida | Soft Marble Look | Griffin Quartz</title>
-    <meta name="description" content="Cambria Swanbridge quartz countertops - soft, gentle movement for any room. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
+    <title>Cambria Swanbridge Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Swanbridge quartz - soft, gentle movement for any room. South Florida installation. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Swanbridge, Swanbridge quartz, soft marble quartz, gentle veining, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/swanbridge">
@@ -52,7 +52,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

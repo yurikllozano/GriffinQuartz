@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Boca Raton FL | Showroom & Installation | Griffin Quartz</title>
-    <meta name="description" content="Visit Griffin Quartz headquarters in Boca Raton, FL. Premium quartz countertop showroom featuring 200+ colors from Cambria, Silestone & Caesarstone. Factory-direct pricing, free estimates, 1-week installation. Call (720) 324-1436.">
+    <title>Quartz Countertops Boca Raton FL | Griffin Quartz</title>
+    <meta name="description" content="Griffin Quartz showroom in Boca Raton, FL. 200+ quartz colors from Cambria, Silestone & Caesarstone. Factory-direct pricing, free estimates.">
     <meta name="keywords" content="quartz countertops Boca Raton, countertop showroom Boca Raton FL, kitchen countertops Boca Raton, bathroom countertops Boca Raton, quartz fabrication Boca Raton, granite countertops Boca Raton, marble countertops Boca Raton, countertop company Palm Beach County, luxury countertops Boca Raton, quartz installer near me">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Boca Raton FL | Showroom & Installation | Griffin Quartz">
     <meta property="og:description" content="Visit our Boca Raton showroom for South Florida's largest quartz selection. 200+ colors, FREE estimates, factory-direct pricing on luxury countertops.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -180,7 +182,7 @@
             <p class="hero-description">Welcome to Griffin Quartz headquarters. Explore South Florida's largest quartz showroom featuring 200+ premium colors. Factory-direct pricing on Cambria, Silestone, and Caesarstone for Boca Raton's most distinguished estates and country club communities.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Schedule Free Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary"><i class="bi bi-telephone"></i> (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated &nbsp;|&nbsp; 200+ Boca Raton Projects Completed</p>
         </div>
@@ -439,7 +441,7 @@
             <p>Visit our headquarters to explore South Florida's largest quartz selection, or schedule a complimentary in-home consultation. Discover why Boca Raton's most discerning homeowners trust Griffin Quartz.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Get FREE Estimate</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Open 7 Days a Week | Free Showroom Consultations | 1-Week Installation</p>
         </div>

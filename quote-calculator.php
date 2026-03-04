@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Quartz Countertop Quote Calculator | Instant Pricing | Griffin Quartz</title>
-    <meta name="description" content="Get an instant estimate for your quartz countertop project. Enter your dimensions and preferences to see pricing. Free quotes for Boca Raton, Fort Lauderdale, Miami & South Florida.">
+    <title>Countertop Quote Calculator | Griffin Quartz</title>
+    <meta name="description" content="Instant estimate for your quartz countertop project. Enter dimensions and preferences for pricing. Free quotes in South Florida.">
     <meta name="keywords" content="quartz countertop cost calculator, countertop price estimator, quartz pricing South Florida, countertop quote, kitchen countertop cost">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/quote-calculator">
@@ -510,7 +510,7 @@
                         </div>
 
                         <div class="result-actions">
-                            <a href="tel:7203241436" class="btn btn-primary btn-block">
+                            <a href="tel:+17203241436" class="btn btn-primary btn-block">
                                 <i class="bi bi-telephone"></i> Call for Exact Quote
                             </a>
                             <button type="button" class="btn btn-outline btn-block" id="emailQuoteBtn">

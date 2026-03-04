@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Everleigh Quartz Countertops South Florida | #4 Best Seller | Griffin Quartz</title>
-    <meta name="description" content="Cambria Everleigh quartz - #4 best-selling design with cool gray and warm sand-honey tones. Statement meets subtlety. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Everleigh Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Everleigh quartz - #4 best-seller with cool gray and warm sand-honey tones. Statement meets subtlety. South Florida installation.">
     <meta name="keywords" content="Cambria Everleigh, Everleigh quartz, popular Cambria, warm gray quartz, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/everleigh">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

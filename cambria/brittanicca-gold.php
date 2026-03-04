@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Cambria Brittanicca Gold Quartz Countertops South Florida | Warm Marble Look | Griffin Quartz</title>
-    <meta name="description" content="Cambria Brittanicca Gold quartz countertops - warm copper-gold veining on creamy white. Professional installation in South Florida. FREE estimates. Call (720) 324-1436.">
+    <title>Cambria Brittanicca Gold Quartz | Griffin Quartz</title>
+    <meta name="description" content="Cambria Brittanicca Gold quartz - warm copper-gold veining on creamy white. South Florida installation. FREE estimates. Call (720) 324-1436.">
     <meta name="keywords" content="Cambria Brittanicca Gold, Brittanicca Gold quartz, warm marble look quartz, gold veined quartz, Cambria countertops South Florida, luxury quartz countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -23,6 +23,8 @@
     <meta property="og:title" content="Cambria Brittanicca Gold Quartz | Warm Luxury | Griffin Quartz">
     <meta property="og:description" content="Flowing copper-gold and greige veins on a warm white backdrop. Luxurious warmth for your kitchen or bathroom.">
     <meta property="og:image" content="https://griffinquartz.com/images/cambria-brittanicca-gold-hero.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
     <!-- Fonts & Styles -->
@@ -341,7 +343,7 @@
 
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
 
@@ -540,7 +542,7 @@
                     <button type="submit" class="btn btn-primary btn-full">Get FREE Quote</button>
                 </form>
 
-                <p style="margin-top: 1rem; font-size: 0.875rem; color: rgba(255,255,255,0.7);">Or call us directly at <a href="tel:17203241436" style="color: var(--color-accent);">(720) 324-1436</a></p>
+                <p style="margin-top: 1rem; font-size: 0.875rem; color: rgba(255,255,255,0.7);">Or call us directly at <a href="tel:+17203241436" style="color: var(--color-accent);">(720) 324-1436</a></p>
             </div>
         </div>
     </section>

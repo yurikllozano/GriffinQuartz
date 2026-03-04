@@ -212,6 +212,8 @@ function stripRelatedArticles($content) {
     <meta property="og:title" content="<?= e($og_title) ?>">
     <meta property="og:description" content="<?= e($og_desc) ?>">
     <meta property="og:image" content="https://griffinquartz.com<?= e($featured_image) ?>">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="article:published_time" content="<?= date('c', strtotime($publish_date)) ?>">
     <meta property="article:modified_time" content="<?= date('c', strtotime($post['updated_at'])) ?>">
     <meta property="article:author" content="<?= e($post['author']) ?>">

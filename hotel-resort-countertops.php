@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Hotel & Resort Quartz Countertops South Florida | Lobbies, Guest Rooms, Spas | Griffin Quartz</title>
-    <meta name="description" content="Luxury quartz countertops for hotels and resorts in South Florida. Lobby reception, guest room vanities, spa facilities, and pool bars. Volume pricing for multi-room projects. Free estimates!">
+    <title>Hotel & Resort Countertops FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertops for hotels and resorts in South Florida. Lobby, guest room vanities, spas & pool bars. Volume pricing. Free estimates!">
     <meta name="keywords" content="hotel countertops, resort countertops, hotel quartz countertops, hospitality countertops, guest room vanities, hotel lobby countertops, spa countertops, pool bar countertops, hotel bathroom countertops, resort quartz installation South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/hotel-resort-countertops">
@@ -22,6 +22,8 @@
     <meta property="og:url" content="https://griffinquartz.com/hotel-resort-countertops">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://griffinquartz.com/images/hotel-lobby-white-marble-reception-palms.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -169,11 +171,11 @@
                 <div class="hero-badge">Hospitality Specialists</div>
                 <h1>Hotel & Resort Quartz Countertops in South Florida</h1>
                 <p>Create unforgettable guest experiences with luxury quartz surfaces. From grand lobby reception desks to elegant guest room vanities, we deliver the quality and consistency your hospitality brand demands.</p>
-                <a href="tel:7203241436" class="btn btn-primary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary">Call (720) 324-1436</a>
             </div>
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form action="/#contact-form" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>

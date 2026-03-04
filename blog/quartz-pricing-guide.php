@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Complete 2025 quartz countertop pricing guide. Learn about costs per square foot, installation fees, and how to budget for your quartz countertop project.">
-    <title>How Much Is Quartz Countertops? 2025 Pricing Guide | Griffin Quartz Blog</title>
+    <title>Quartz Countertops Pricing Guide | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Educational Facility Quartz Countertops South Florida | Schools, Universities, Labs | Griffin Quartz</title>
-    <meta name="description" content="Durable quartz countertops for educational facilities in South Florida. Science labs, cafeterias, administrative offices, and restrooms. Chemical-resistant and easy to maintain. Free estimates!">
+    <title>Educational Facility Countertops | Griffin Quartz</title>
+    <meta name="description" content="Durable quartz countertops for educational facilities in South Florida. Science labs, cafeterias & offices. Chemical-resistant. Free estimates!">
     <meta name="keywords" content="school countertops, university countertops, educational facility countertops, science lab countertops, cafeteria countertops, school quartz countertops, classroom countertops, education countertops South Florida, laboratory countertops">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/educational-facility-countertops">
@@ -130,11 +130,11 @@
                 <div class="hero-badge">Education Specialists</div>
                 <h1>Educational Facility Quartz Countertops in South Florida</h1>
                 <p>Durable, chemical-resistant quartz surfaces built for the demanding environments of schools, colleges, and universities. From science labs to cafeterias, we deliver surfaces that stand up to student use while maintaining safety and cleanliness.</p>
-                <a href="tel:7203241436" class="btn btn-primary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-primary">Call (720) 324-1436</a>
             </div>
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
-                <p class="form-subtitle">Or call <a href="tel:7203241436">(720) 324-1436</a></p>
+                <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
                 <form action="/#contact-form" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>

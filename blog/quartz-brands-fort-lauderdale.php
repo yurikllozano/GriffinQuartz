@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Top Quartz Brands Available in Fort Lauderdale | Griffin Quartz</title>
-    <meta name="description" content="Compare top quartz brands in Fort Lauderdale: Cambria, Silestone, Caesarstone, and MSI Q Quartz. Learn about warranties, colors, and pricing at Griffin Quartz showroom.">
+    <title>Top Quartz Brands in Fort Lauderdale | Griffin Quartz</title>
+    <meta name="description" content="Top quartz brands in Fort Lauderdale: Cambria, Silestone, Caesarstone and MSI Q Quartz. Warranties, colors and pricing at Griffin Quartz.">
     <meta name="keywords" content="quartz brands Fort Lauderdale, Cambria Fort Lauderdale, Silestone Fort Lauderdale, Caesarstone Florida, MSI Q Quartz, quartz countertops Fort Lauderdale, quartz showroom Broward County">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -27,6 +27,8 @@
     <meta property="og:title" content="Top Quartz Brands Available in Fort Lauderdale | Griffin Quartz">
     <meta property="og:description" content="Compare top quartz brands in Fort Lauderdale: Cambria, Silestone, Caesarstone, and MSI Q Quartz. Find the perfect brand for your kitchen or bathroom.">
     <meta property="og:image" content="https://griffinquartz.com/images/modern-kitchen-gray-quartz-wood-slats.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-06">

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Discover quartz countertops cost in 2026. Get detailed pricing per square foot, brand comparisons, and factors affecting your quote. Free estimates in South Florida.">
-    <title>How Much Do Quartz Countertops Cost? 2026 Pricing Guide | Griffin Quartz Blog</title>
+    <meta name="description" content="Quartz countertops cost in 2026. Pricing per square foot, brand comparisons, and factors affecting your quote. Free South Florida estimates.">
+    <title>Quartz Countertops Cost: Pricing Guide | Griffin Quartz</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

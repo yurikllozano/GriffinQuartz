@@ -6,7 +6,7 @@
 
     <!-- Primary SEO Meta Tags -->
     <title>Quartz vs Granite Fort Lauderdale: Best for Humid Climate</title>
-    <meta name="description" content="Compare quartz vs granite countertops for Fort Lauderdale's humid, salt-air climate. Expert guide on durability, maintenance, and cost. Get a free estimate today.">
+    <meta name="description" content="Quartz vs granite countertops for Fort Lauderdale's humid, salt-air climate. Guide on durability, maintenance and cost. Free estimate today.">
     <meta name="keywords" content="quartz vs granite Fort Lauderdale, quartz countertops Fort Lauderdale, granite countertops Fort Lauderdale, countertops humid climate, coastal countertops Florida">
     <meta name="robots" content="index, follow">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz vs Granite: Which Is Better for Fort Lauderdale's Climate?">
     <meta property="og:description" content="Compare quartz vs granite countertops for Fort Lauderdale's humid, salt-air climate. Expert guide on durability, maintenance, and cost.">
     <meta property="og:image" content="https://griffinquartz.com/images/quartz-samples-gold-hardware-luxury.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="article:published_time" content="2025-01-14">
     <meta property="article:author" content="Griffin Quartz Team">
 

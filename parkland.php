@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops Parkland FL | Luxury Installation | Griffin Quartz</title>
-    <meta name="description" content="Premium quartz countertop installation in Parkland, FL. Luxury homes deserve luxury surfaces. Cambria, Silestone & Caesarstone. Free estimates, fast installation. Call (720) 324-1436.">
+    <title>Quartz Countertops Parkland FL | Griffin Quartz</title>
+    <meta name="description" content="Quartz countertop installation in Parkland, FL. Luxury homes deserve luxury surfaces. Cambria, Silestone & Caesarstone. Free estimates.">
     <meta name="keywords" content="quartz countertops Parkland, countertop installation Parkland FL, kitchen countertops Parkland, bathroom countertops Parkland, luxury countertops Parkland, quartz fabrication Parkland, granite countertops Parkland, marble countertops Parkland, Heron Bay countertops, Parkland Golf countertops">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Quartz Countertops Parkland FL | Luxury Home Specialists | Griffin Quartz">
     <meta property="og:description" content="Transform your Parkland luxury home with premium quartz countertops. 200+ colors, FREE estimates, expert craftsmanship.">
     <meta property="og:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
@@ -136,7 +138,7 @@
             <p class="hero-description">Your Parkland estate deserves nothing less than perfection. Experience rare Calacatta patterns, exclusive designer selections, and master craftsmanship trusted by Heron Bay's most prestigious residences.</p>
             <div class="hero-cta">
                 <a href="/#contact-form" class="btn btn-primary">Request Private Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
             </div>
             <p class="hero-trust"><i class="bi bi-star-fill"></i> 5-Star Rated | Trusted by Parkland's Elite</p>
         </div>
@@ -386,7 +388,7 @@
             <p>Discover why Parkland's most distinguished homeowners trust Griffin Quartz for their countertop projects. Schedule your private consultation today.</p>
             <div class="cta-buttons">
                 <a href="/#contact-form" class="btn btn-primary btn-lg">Request Private Consultation</a>
-                <a href="tel:17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
+                <a href="tel:+17203241436" class="btn btn-secondary btn-lg">Call (720) 324-1436</a>
             </div>
             <p class="cta-note">Complimentary In-Home Consultations | White-Glove Service | Factory-Direct Pricing</p>
         </div>

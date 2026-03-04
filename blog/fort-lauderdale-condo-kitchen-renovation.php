@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Fort Lauderdale Condo Kitchen Renovations: Complete Guide | Griffin Quartz</title>
-    <meta name="description" content="Complete guide to Fort Lauderdale condo kitchen renovations. Learn about HOA requirements, permits, space optimization, and countertop selection for high-rise condos. Free estimates.">
+    <title>Condo Kitchen Renovations Fort Lauderdale | Griffin Quartz</title>
+    <meta name="description" content="Fort Lauderdale condo kitchen renovation guide. HOA requirements, permits, space optimization and countertop selection. Free estimates.">
     <meta name="keywords" content="Fort Lauderdale condo kitchen renovation, condo kitchen remodel Fort Lauderdale, high-rise kitchen renovation, Galt Ocean Mile condo renovation, Las Olas condo kitchen, Intracoastal condo renovation, HOA kitchen renovation approval">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="author" content="Griffin Quartz">
@@ -29,6 +29,8 @@
     <meta property="og:title" content="Fort Lauderdale Condo Kitchen Renovations: Complete Guide">
     <meta property="og:description" content="Navigate HOA requirements, permits, and space optimization for your Fort Lauderdale condo kitchen renovation. Expert tips from local specialists.">
     <meta property="og:image" content="https://griffinquartz.com/images/kitchen-highrise-condo-intracoastal.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
     <meta property="article:published_time" content="2025-01-13">

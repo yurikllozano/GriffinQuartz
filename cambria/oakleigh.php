@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Oakleigh Quartz Countertops South Florida | Bold Black & Gold Veining | Griffin Quartz</title>
-    <meta name="description" content="Cambria Oakleigh quartz - white backdrop with bold black and warm gold veins. Engaging natural pattern. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Oakleigh Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Oakleigh quartz - white backdrop with bold black and warm gold veins. Engaging natural pattern. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Oakleigh, Oakleigh quartz, black gold quartz, bold veined quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/oakleigh">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">

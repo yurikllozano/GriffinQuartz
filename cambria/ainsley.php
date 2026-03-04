@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cambria Ainsley Quartz Countertops South Florida | Airy White Elegance | Griffin Quartz</title>
-    <meta name="description" content="Cambria Ainsley quartz - soft white with fine gray veining for an airy, open feel. Perfect for bright spaces. Professional installation in South Florida. FREE estimates.">
+    <title>Cambria Ainsley Quartz Countertops | Griffin Quartz</title>
+    <meta name="description" content="Cambria Ainsley quartz - soft white with fine gray veining for an airy, open feel. Perfect for bright spaces. South Florida installation. FREE estimates.">
     <meta name="keywords" content="Cambria Ainsley, Ainsley quartz, light white quartz, airy quartz countertops, Cambria countertops South Florida">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://griffinquartz.com/cambria/ainsley">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="product-cta">
                     <a href="#quote" class="btn btn-primary">Get FREE Quote</a>
-                    <a href="tel:17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
+                    <a href="tel:+17203241436" class="btn btn-secondary">Call (720) 324-1436</a>
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
