@@ -23,7 +23,7 @@ $homeLink = '/';
             </div>
         </div>
         <div class="lead-popup-image">
-            <img src="<?php echo $prefix; ? loading="lazy">images/kitchen-calacatta-gold-globe-pendants.webp" alt="Luxury calacatta gold kitchen countertop" width="800" height="533" loading="lazy">
+            <img src="<?php echo $prefix; ?>images/kitchen-calacatta-gold-globe-pendants.webp" alt="Luxury calacatta gold kitchen countertop" width="800" height="533" loading="lazy">
         </div>
         <div class="lead-popup-form-wrapper">
             <form id="leadPopupForm" class="lead-popup-form">
@@ -62,7 +62,7 @@ $homeLink = '/';
 <!-- Header -->
 <header class="header">
     <div class="container">
-        <a href="<?php echo $homeLink; ?>" class="logo"><img src="<?php echo $prefix; ? loading="lazy">images/griffin-quartz-logo.webp" alt="Griffin Quartz" width="800" height="330" loading="eager"></a>
+        <a href="<?php echo $homeLink; ?>" class="logo"><img src="<?php echo $prefix; ?>images/griffin-quartz-logo.webp" alt="Griffin Quartz" width="800" height="330" loading="eager"></a>
 
         <nav class="nav" id="mainNav">
             <ul class="nav-list">
