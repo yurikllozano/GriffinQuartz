@@ -388,7 +388,7 @@
             <div class="sale-content">
                 <div class="sale-text">
                     <p class="sale-label">Secure Lowest Prices on Countertops</p>
-                    <h2>New Year, New Quartz</h2>
+                    <h2>St. Patrick's Day Sale</h2>
                     <p class="sale-subtitle">Select Quartz and Granite Slabs Up to 50% OFF</p>
                     <a href="#contact-form" class="btn btn-primary">Lock In the Lowest Price Here</a>
 

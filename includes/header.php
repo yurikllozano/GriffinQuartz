@@ -56,7 +56,7 @@ $homeLink = '/';
 
 <!-- Announcement Bar -->
 <div class="announcement-bar">
-    <p>New Year, New Quartz—<strong>Up to 50% OFF</strong> Select Slabs. Fast Installation in as Little as 1 Week! <a href="<?php echo $prefix; ?>#contact-form"><strong>EXPLORE SALE</strong></a></p>
+    <p>&#9752; St. Patrick's Day Sale—<strong>Up to 50% OFF</strong> Select Slabs. Fast Installation in as Little as 1 Week! <a href="<?php echo $prefix; ?>#contact-form"><strong>EXPLORE SALE</strong></a></p>
 </div>
 
 <!-- Header -->

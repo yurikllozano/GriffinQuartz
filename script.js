@@ -76,9 +76,8 @@ function initCountdown() {
     const countdown = document.getElementById('countdown');
     if (!countdown) return;
     
-    // Set end date to 30 days from now (or adjust as needed)
-    const endDate = new Date();
-    endDate.setDate(endDate.getDate() + 30);
+    // St. Patrick's Day Sale ends March 17, 2026
+    const endDate = new Date('2026-03-17T23:59:59');
     
     function updateCountdown() {
         const now = new Date().getTime();
