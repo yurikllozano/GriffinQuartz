@@ -5762,9 +5762,9 @@ h1, h2, h3, h4, h5, h6 {
 .blog-hero {
     position: relative;
     width: 100%;
-    height: 35vh;
-    min-height: 280px;
-    max-height: 380px;
+    height: 60vh;
+    min-height: 450px;
+    max-height: 650px;
     overflow: hidden;
 }
 
@@ -5929,8 +5929,8 @@ h1, h2, h3, h4, h5, h6 {
 /* Blog Article Responsive */
 @media (max-width: 768px) {
     .blog-hero {
-        height: 30vh;
-        min-height: 220px;
+        height: 50vh;
+        min-height: 350px;
     }
 
     .blog-hero-overlay {
