@@ -58,7 +58,7 @@
 <?php $basePath = '..'; include '../includes/header.php'; ?>
     <article class="blog-article">
         <div class="blog-hero">
-            <img src="../images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Elegant kitchen with Calacatta Gold quartz countertops and warm wood cabinets" class="blog-hero-image" loading="eager">
+            <img src="../images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Elegant kitchen with Calacatta Gold quartz countertops and warm wood cabinets" class="blog-hero-image" loading="eager" width="533" height="800">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Sep 20, 2025</span>

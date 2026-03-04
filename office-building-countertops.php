@@ -187,7 +187,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-bg">
-            <img src="images/commercial-office-lobby-modern.webp" alt="Office building quartz countertops reception desk South Florida">
+            <img src="images/commercial-office-lobby-modern.webp" alt="Office building quartz countertops reception desk South Florida" width="800" height="800" loading="lazy">
         </div>
         <div class="hero-container">
             <div class="hero-content">
@@ -290,7 +290,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Office break room quartz countertops">
+                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Office break room quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>

@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-hadley-kitchen.webp" alt="Cambria Hadley quartz countertop" loading="eager">
+            <img src="../images/cambria-hadley-kitchen.webp" alt="Cambria Hadley quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/hadley.jpg" alt="Cambria Hadley sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/hadley.webp" alt="Cambria Hadley sample" width="724" height="500" loading="lazy"></div>
                 <div class="swatch-label"><h3>Hadley</h3><p>Cambria Marble Look</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Popular Marble-Look Designs</h2></div>
             <div class="related-grid">
-                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.jpg" alt="Brittanicca"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
-                <a href="torquay" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-torquay.jpg" alt="Torquay"></div><div class="related-card-content"><h3>Torquay</h3></div></a>
-                <a href="swanbridge" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-swanbridge.jpg" alt="Swanbridge"></div><div class="related-card-content"><h3>Swanbridge</h3></div></a>
-                <a href="ella" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ella.jpg" alt="Ella"></div><div class="related-card-content"><h3>Ella</h3></div></a>
+                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.webp" alt="Brittanicca" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
+                <a href="torquay" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-torquay.webp" alt="Torquay" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Torquay</h3></div></a>
+                <a href="swanbridge" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-swanbridge.webp" alt="Swanbridge" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Swanbridge</h3></div></a>
+                <a href="ella" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ella.webp" alt="Ella" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Ella</h3></div></a>
             </div>
         </div>
     </section>

@@ -598,7 +598,7 @@
     <!-- Hero Section -->
     <section class="material-hero">
         <div class="hero-background">
-            <img src="images/semi-precious-stones-countertop.webp" alt="Stunning backlit semi-precious stone countertops in South Florida" loading="eager">
+            <img src="images/semi-precious-stones-countertop.webp" alt="Stunning backlit semi-precious stone countertops in South Florida" loading="eager" width="1232" height="928">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -730,7 +730,7 @@
 
             <div class="applications-grid">
                 <div class="application-card">
-                    <img src="images/waterfront-bar-black-gold-quartz-palms.webp" alt="Semi-precious stone bar top">
+                    <img src="images/waterfront-bar-black-gold-quartz-palms.webp" alt="Semi-precious stone bar top" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Bar Tops & Entertainment</h3>
                         <p>Create an unforgettable entertainment space with a backlit semi-precious stone bar that wows your guests and elevates every gathering.</p>
@@ -738,7 +738,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-penthouse-backlit-mirrors-city.webp" alt="Semi-precious stone bathroom vanity">
+                    <img src="images/bathroom-penthouse-backlit-mirrors-city.webp" alt="Semi-precious stone bathroom vanity" width="800" height="400" loading="lazy">
                     <div class="overlay">
                         <h3>Bathroom Vanities</h3>
                         <p>Transform your bathroom into a spa-like sanctuary with illuminated semi-precious stone vanities that glow with natural beauty.</p>
@@ -746,7 +746,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Semi-precious stone accent wall">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Semi-precious stone accent wall" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Feature Walls</h3>
                         <p>Make a dramatic statement with a backlit semi-precious stone feature wall that becomes the centerpiece of any room.</p>
@@ -754,7 +754,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-spa-calacatta-walnut-tub.webp" alt="Semi-precious stone accent piece">
+                    <img src="images/bathroom-spa-calacatta-walnut-tub.webp" alt="Semi-precious stone accent piece" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Accent Pieces</h3>
                         <p>Incorporate semi-precious stone as tabletops, shelving, or decorative elements that add luxury touches throughout your home.</p>

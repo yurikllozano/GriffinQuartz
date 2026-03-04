@@ -174,7 +174,7 @@ function stripRelatedArticles($content) {
     // Pattern 8: Remove groups of bare anchor tags with images that look like related article cards
     // This catches orphaned related article links without wrapper divs
     $content = preg_replace(
-        '/(?:<a[^>]*href="[^"]*(?:\/blog\/|blog\/)[^"]*"[^>]*>\s*<img[^>]*>\s*(?:<[^>]+>[^<]*<\/[^>]+>\s*)*<\/a>\s*){2,}/i',
+        '/(?:<a[^>]*href="[^"]*(?:\/blog\/|blog\/)[^"]*"[^>]*>\s*<img[^ loading="lazy">]*>\s*(?:<[^>]+>[^<]*<\/[^>]+>\s*)*<\/a>\s*){2,}/i',
         '',
         $content
     );
@@ -330,7 +330,7 @@ function stripRelatedArticles($content) {
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero" style="display: flex; align-items: center; justify-content: center;">
-            <img src="<?= e($featured_image) ?>" alt="<?= e($post['featured_image_alt'] ?: $post['title']) ?>" class="blog-hero-image" loading="eager">
+            <img src="<?= e($featured_image) ? loading="lazy">" alt="<?= e($post['featured_image_alt'] ?: $post['title']) ?>" class="blog-hero-image" loading="eager">
             <div class="blog-hero-overlay" style="align-items: center; justify-content: center; text-align: center;">
                 <div class="blog-hero-content" style="text-align: center; padding-bottom: 0;">
                     <span class="blog-meta">By <?= e($post['author']) ?> | <?= date('M j, Y', strtotime($publish_date)) ?></span>
@@ -395,7 +395,7 @@ function stripRelatedArticles($content) {
                         $rel_date = $rel['publish_date'] ? date('M j, Y', strtotime($rel['publish_date'])) : '';
                     ?>
                     <a href="/blog/<?= e($rel['slug']) ?>" class="blog-related__card">
-                        <img src="<?= e($rel_image) ?>" alt="<?= e($rel['title']) ?>" class="blog-related__image" loading="lazy">
+                        <img src="<?= e($rel_image) ? loading="lazy">" alt="<?= e($rel['title']) ?>" class="blog-related__image" loading="lazy">
                         <div class="blog-related__content">
                             <h3 class="blog-related__title"><?= e($rel['title']) ?></h3>
                             <?php if ($rel_date): ?>

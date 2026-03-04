@@ -581,7 +581,7 @@
     <!-- Hero Section -->
     <section class="material-hero">
         <div class="hero-background">
-            <img src="images/kitchen-black-gold-veined-dramatic.webp" alt="Stunning granite countertops in South Florida kitchen" loading="eager">
+            <img src="images/kitchen-black-gold-veined-dramatic.webp" alt="Stunning granite countertops in South Florida kitchen" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -648,7 +648,7 @@
 
             <div class="applications-grid">
                 <div class="application-card">
-                    <img src="images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Granite kitchen countertops South Florida">
+                    <img src="images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Granite kitchen countertops South Florida" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>Granite's heat resistance and durability make it perfect for busy kitchens. Handle hot pots, prep food, and enjoy worry-free cooking.</p>
@@ -656,7 +656,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Granite bathroom vanity countertops">
+                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Granite bathroom vanity countertops" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Bathroom Vanities</h3>
                         <p>Create elegant bathroom spaces with granite vanity tops that resist moisture and add natural sophistication.</p>
@@ -664,7 +664,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/backyard-outdoor-kitchen-firepit-evening.webp" alt="Outdoor granite countertops">
+                    <img src="images/backyard-outdoor-kitchen-firepit-evening.webp" alt="Outdoor granite countertops" width="800" height="603" loading="lazy">
                     <div class="overlay">
                         <h3>Outdoor Kitchens</h3>
                         <p>Granite's UV resistance and durability make it an excellent choice for South Florida's outdoor living lifestyle.</p>
@@ -672,7 +672,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial granite countertops">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial granite countertops" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Commercial Spaces</h3>
                         <p>Restaurants, bars, and hotels benefit from granite's durability and impressive appearance in high-traffic areas.</p>

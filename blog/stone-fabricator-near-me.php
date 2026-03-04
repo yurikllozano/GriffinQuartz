@@ -18,7 +18,7 @@
 <?php $basePath = '..'; include '../includes/header.php'; ?>
     <article class="blog-article">
         <div class="blog-hero">
-            <img src="../images/fabrication-hands-polishing-quartz.webp" alt="Skilled fabricator polishing a quartz countertop slab by hand in a stone fabrication workshop" class="blog-hero-image" loading="eager">
+            <img src="../images/fabrication-hands-polishing-quartz.webp" alt="Skilled fabricator polishing a quartz countertop slab by hand in a stone fabrication workshop" class="blog-hero-image" loading="eager" width="800" height="533">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Aug 9, 2025</span>

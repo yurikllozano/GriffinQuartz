@@ -51,7 +51,7 @@
                     <!-- Pantone Style Card Overlaid -->
                     <div class="preview-container">
                         <div class="inspiration-photo-large">
-                            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Inspiration photo" id="inspirationImg">
+                            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Inspiration photo" id="inspirationImg" width="800" height="800" loading="lazy">
                         </div>
                         <div class="pantone-card-overlay" id="pantoneCard">
                             <div class="pantone-swatch" id="pantoneSwatch" style="background: #F8F8F8;"></div>
@@ -374,7 +374,7 @@
                 <!-- Room 1 -->
                 <div class="palette-room-card">
                     <div class="room-image-wrap">
-                        <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Modern Elegance Kitchen">
+                        <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Modern Elegance Kitchen" width="800" height="800" loading="lazy">
                         <div class="room-style-tag">Modern Elegance</div>
                     </div>
                     <div class="room-palette-bar">
@@ -390,7 +390,7 @@
                 <!-- Room 2 -->
                 <div class="palette-room-card">
                     <div class="room-image-wrap">
-                        <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Dramatic Spa Bathroom">
+                        <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Dramatic Spa Bathroom" width="800" height="800" loading="lazy">
                         <div class="room-style-tag">Dramatic Spa</div>
                     </div>
                     <div class="room-palette-bar">
@@ -406,7 +406,7 @@
                 <!-- Room 3 -->
                 <div class="palette-room-card">
                     <div class="room-image-wrap">
-                        <img src="images/coastal-kitchen-marble-island-coffered-ceiling.webp" alt="Coastal Retreat Kitchen">
+                        <img src="images/coastal-kitchen-marble-island-coffered-ceiling.webp" alt="Coastal Retreat Kitchen" width="800" height="603" loading="lazy">
                         <div class="room-style-tag">Coastal Retreat</div>
                     </div>
                     <div class="room-palette-bar">
@@ -422,7 +422,7 @@
                 <!-- Room 4 -->
                 <div class="palette-room-card">
                     <div class="room-image-wrap">
-                        <img src="images/mediterranean-kitchen-quartz-arched-window.webp" alt="Mediterranean Villa Kitchen">
+                        <img src="images/mediterranean-kitchen-quartz-arched-window.webp" alt="Mediterranean Villa Kitchen" width="800" height="800" loading="lazy">
                         <div class="room-style-tag">Mediterranean Villa</div>
                     </div>
                     <div class="room-palette-bar">
@@ -438,7 +438,7 @@
                 <!-- Room 5 -->
                 <div class="palette-room-card">
                     <div class="room-image-wrap">
-                        <img src="images/outdoor-kitchen-white-marble-waterfall-modern.webp" alt="Outdoor Oasis">
+                        <img src="images/outdoor-kitchen-white-marble-waterfall-modern.webp" alt="Outdoor Oasis" width="800" height="800" loading="lazy">
                         <div class="room-style-tag">Outdoor Oasis</div>
                     </div>
                     <div class="room-palette-bar">

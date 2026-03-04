@@ -164,7 +164,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Premium quartz countertops installation in Coral Springs Florida home" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Premium quartz countertops installation in Coral Springs Florida home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -250,19 +250,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with quartz island in Coral Springs" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with quartz island in Coral Springs" loading="lazy" width="800" height="603">
                     <h3>Kitchen Countertops</h3>
                     <p>The kitchen is the heart of every <strong>Coral Springs home</strong>. We create stunning kitchen islands, perimeter countertops, breakfast bars, and waterfall edges. Our <strong>CNC precision fabrication</strong> ensures seamless installations with perfect sink and cooktop cutouts.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Kitchen Solutions</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Elegant bathroom vanity with quartz in Coral Springs" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Elegant bathroom vanity with quartz in Coral Springs" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Transform your <strong>Coral Springs bathroom</strong> into a spa-like retreat. From single vanities to double sink configurations, our quartz surfaces bring elegance and <strong>moisture resistance</strong> to your most private spaces.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Bathroom Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen with quartz countertops in Coral Springs" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen with quartz countertops in Coral Springs" loading="lazy" width="800" height="533">
                     <h3>Outdoor Kitchens</h3>
                     <p><strong>Coral Springs outdoor living</strong> deserves premium surfaces. Our UV-stable quartz options stand up to Florida sunshine while providing a stunning backdrop for your poolside entertaining area.</p>
                     <a href="our-services" class="btn btn-outline">Outdoor Options</a>

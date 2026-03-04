@@ -102,7 +102,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Key Biscayne island home" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Key Biscayne island home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -155,19 +155,19 @@
             <h2 class="section-title">Quartz Countertop Services in Key Biscayne</h2>
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Key Biscayne" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Key Biscayne" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Key Biscayne kitchen</strong> with expansive quartz islands, waterfall edges, and seamless countertops designed for island living.</p>
                     <a href="kitchen-countertops" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Key Biscayne" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Key Biscayne" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Key Biscayne bathroom</strong> with elegant quartz vanity tops that resist humidity in spa-like master baths.</p>
                     <a href="bathroom-vanity-countertops" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Key Biscayne" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Key Biscayne" loading="lazy" width="800" height="800">
                     <h3>Outdoor Kitchens</h3>
                     <p>Griffin Quartz creates stunning <strong>outdoor kitchen surfaces</strong> perfect for Key Biscayne's year-round entertaining lifestyle.</p>
                     <a href="outdoor-countertops" class="btn btn-outline">Outdoor Options</a>

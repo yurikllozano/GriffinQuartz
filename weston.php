@@ -102,7 +102,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Weston Florida home" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Weston Florida home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -155,19 +155,19 @@
             <h2 class="section-title">Quartz Countertop Services in Weston</h2>
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Weston" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Weston" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Weston kitchen</strong> into a culinary masterpiece with expansive islands, waterfall edges, and seamless perimeter countertops.</p>
                     <a href="kitchen-countertops" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Weston" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Weston" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Weston bathroom</strong> with elegant quartz vanity tops, from powder rooms to master bath configurations.</p>
                     <a href="bathroom-vanity-countertops" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Weston" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Weston" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Weston businesses</strong> including Cleveland Clinic facilities, restaurants, and offices.</p>
                     <a href="commercial-countertops" class="btn btn-outline">Commercial Services</a>

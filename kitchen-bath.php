@@ -788,7 +788,7 @@
     <!-- Hero Section -->
     <section class="page-hero">
         <div class="hero-background">
-            <img src="images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Quartz countertops installation South Florida - kitchen and bathroom countertop experts serving Boca Raton, Fort Lauderdale, Miami" loading="eager">
+            <img src="images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Quartz countertops installation South Florida - kitchen and bathroom countertop experts serving Boca Raton, Fort Lauderdale, Miami" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -1033,42 +1033,42 @@
             <div class="gallery-grid" data-filter="all">
                 <!-- Kitchen Images -->
                 <div class="gallery-item" data-category="kitchen">
-                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Calacatta Gold quartz kitchen countertops installation in Boca Raton FL" loading="lazy">
+                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Calacatta Gold quartz kitchen countertops installation in Boca Raton FL" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Calacatta Gold Kitchen</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="kitchen">
-                    <img src="images/kitchen-black-marble-gold-herringbone.webp" alt="Black marble-look quartz countertops with waterfall edge Fort Lauderdale" loading="lazy">
+                    <img src="images/kitchen-black-marble-gold-herringbone.webp" alt="Black marble-look quartz countertops with waterfall edge Fort Lauderdale" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Black & Gold Kitchen</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="kitchen">
-                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="White quartz kitchen island countertop installation Delray Beach FL" loading="lazy">
+                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="White quartz kitchen island countertop installation Delray Beach FL" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Coastal Kitchen</h4>
                         <span>Delray Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="kitchen">
-                    <img src="images/kitchen-beachfront-ocean-view-globes.webp" alt="Luxury quartz countertops in oceanfront Miami Beach kitchen remodel" loading="lazy">
+                    <img src="images/kitchen-beachfront-ocean-view-globes.webp" alt="Luxury quartz countertops in oceanfront Miami Beach kitchen remodel" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Oceanfront Kitchen</h4>
                         <span>Miami Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="kitchen">
-                    <img src="images/kitchen-calacatta-walnut-leather-stools.webp" alt="Cambria quartz countertop installation Parkland FL kitchen" loading="lazy">
+                    <img src="images/kitchen-calacatta-walnut-leather-stools.webp" alt="Cambria quartz countertop installation Parkland FL kitchen" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Modern Transitional</h4>
                         <span>Parkland</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="kitchen">
-                    <img src="images/kitchen-green-cabinets-cream-quartz.webp" alt="Custom quartz kitchen countertops West Palm Beach installation" loading="lazy">
+                    <img src="images/kitchen-green-cabinets-cream-quartz.webp" alt="Custom quartz kitchen countertops West Palm Beach installation" loading="lazy" width="800" height="500">
                     <div class="gallery-item-overlay">
                         <h4>Designer Kitchen</h4>
                         <span>West Palm Beach</span>
@@ -1077,42 +1077,42 @@
 
                 <!-- Bathroom Images -->
                 <div class="gallery-item" data-category="bathroom">
-                    <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Calacatta quartz vanity top and tub surround installation Boca Raton" loading="lazy">
+                    <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Calacatta quartz vanity top and tub surround installation Boca Raton" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Spa Master Bath</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="bathroom">
-                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double sink quartz vanity countertop Coral Springs FL bathroom remodel" loading="lazy">
+                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double sink quartz vanity countertop Coral Springs FL bathroom remodel" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Double Vanity Suite</h4>
                         <span>Coral Springs</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="bathroom">
-                    <img src="images/bathroom-penthouse-gray-quartz-ocean.webp" alt="Gray quartz bathroom countertops Fort Lauderdale penthouse installation" loading="lazy">
+                    <img src="images/bathroom-penthouse-gray-quartz-ocean.webp" alt="Gray quartz bathroom countertops Fort Lauderdale penthouse installation" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Penthouse Bath</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="bathroom">
-                    <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Floating quartz vanity top installation Hollywood FL bathroom" loading="lazy">
+                    <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Floating quartz vanity top installation Hollywood FL bathroom" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Floating Vanity</h4>
                         <span>Hollywood</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="bathroom">
-                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="White quartz bathroom vanity and shower surround Delray Beach" loading="lazy">
+                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="White quartz bathroom vanity and shower surround Delray Beach" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Zen Spa Bath</h4>
                         <span>Delray Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="bathroom">
-                    <img src="images/bathroom-white-quartz-orchids-coastal.webp" alt="Luxury quartz bathroom countertops Palm Beach FL coastal home" loading="lazy">
+                    <img src="images/bathroom-white-quartz-orchids-coastal.webp" alt="Luxury quartz bathroom countertops Palm Beach FL coastal home" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Coastal Master</h4>
                         <span>Palm Beach</span>

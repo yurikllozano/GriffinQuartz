@@ -243,7 +243,7 @@
     <!-- Hero Section -->
     <section class="hero" id="contact-form">
         <div class="hero-background">
-            <img src="images/waterfront-marble-bar-illuminated-sunset.webp" alt="Luxury waterfront marble bar with illuminated countertops at sunset in South Florida" loading="eager">
+            <img src="images/waterfront-marble-bar-illuminated-sunset.webp" alt="Luxury waterfront marble bar with illuminated countertops at sunset in South Florida" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-container">
@@ -322,7 +322,7 @@
             <div class="materials-grid">
                 <a href="quartz-countertops" class="material-card">
                     <div class="material-image">
-                        <img src="images/kitchen-beachfront-pool-palms.webp" alt="Luxury beachfront kitchen with quartz countertops and pool view" loading="lazy">
+                        <img src="images/kitchen-beachfront-pool-palms.webp" alt="Luxury beachfront kitchen with quartz countertops and pool view" loading="lazy" width="800" height="603">
                         <div class="material-overlay"></div>
                     </div>
                     <div class="material-content">
@@ -333,7 +333,7 @@
                 </a>
                 <a href="quartzite-countertops" class="material-card">
                     <div class="material-image">
-                        <img src="images/bathroom-spa-quartzite-floating-ocean.webp" alt="Natural quartzite countertop bathroom" loading="lazy">
+                        <img src="images/bathroom-spa-quartzite-floating-ocean.webp" alt="Natural quartzite countertop bathroom" loading="lazy" width="800" height="400">
                         <div class="material-overlay"></div>
                     </div>
                     <div class="material-content">
@@ -344,7 +344,7 @@
                 </a>
                 <a href="granite-countertops" class="material-card">
                     <div class="material-image">
-                        <img src="images/kitchen-black-gold-veined-dramatic.webp" alt="Dramatic granite countertop with gold veining" loading="lazy">
+                        <img src="images/kitchen-black-gold-veined-dramatic.webp" alt="Dramatic granite countertop with gold veining" loading="lazy" width="800" height="603">
                         <div class="material-overlay"></div>
                     </div>
                     <div class="material-content">
@@ -355,7 +355,7 @@
                 </a>
                 <a href="marble-countertops" class="material-card">
                     <div class="material-image">
-                        <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Luxury Calacatta marble kitchen countertop" loading="lazy">
+                        <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Luxury Calacatta marble kitchen countertop" loading="lazy" width="800" height="533">
                         <div class="material-overlay"></div>
                     </div>
                     <div class="material-content">
@@ -366,7 +366,7 @@
                 </a>
                 <a href="semi-precious-stone-countertops" class="material-card">
                     <div class="material-image">
-                        <img src="images/semi-precious-stones-countertop.webp" alt="Backlit semi-precious stone countertop" loading="lazy">
+                        <img src="images/semi-precious-stones-countertop.webp" alt="Backlit semi-precious stone countertop" loading="lazy" width="1232" height="928">
                         <div class="material-overlay"></div>
                     </div>
                     <div class="material-content">
@@ -413,7 +413,7 @@
                     <p class="sale-note"><strong>Secure Your Savings</strong> by Requesting a Free Estimate!</p>
                 </div>
                 <div class="sale-image">
-                    <img src="images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Modern kitchen with gray quartz countertops and wood slat accents" loading="lazy">
+                    <img src="images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Modern kitchen with gray quartz countertops and wood slat accents" loading="lazy" width="800" height="800">
                 </div>
             </div>
         </div>
@@ -424,7 +424,7 @@
         <div class="container">
             <div class="team-content">
                 <div class="team-image">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white kitchen with marble countertops, gold fixtures, and arched windows in South Florida" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white kitchen with marble countertops, gold fixtures, and arched windows in South Florida" loading="lazy" width="800" height="800">
                 </div>
                 <div class="team-text">
                     <h2>Master Craftsmen Dedicated to Perfection</h2>
@@ -444,25 +444,25 @@
             <p class="section-subtitle">Showcasing South Florida's Finest Quartz Projects</p>
             <div class="projects-grid">
                 <div class="project-item">
-                    <img src="images/waterfront-marble-bar-illuminated-sunset.webp" alt="Waterfront marble bar with illuminated countertops at sunset" loading="lazy">
+                    <img src="images/waterfront-marble-bar-illuminated-sunset.webp" alt="Waterfront marble bar with illuminated countertops at sunset" loading="lazy" width="800" height="800">
                 </div>
                 <div class="project-item">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white kitchen with arched windows and gold fixtures" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white kitchen with arched windows and gold fixtures" loading="lazy" width="800" height="800">
                 </div>
                 <div class="project-item">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen with marble countertops and pool" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen with marble countertops and pool" loading="lazy" width="800" height="533">
                 </div>
                 <div class="project-item">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with marble island and glass pendants" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with marble island and glass pendants" loading="lazy" width="800" height="603">
                 </div>
                 <div class="project-item">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom with black marble and gold fixtures" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom with black marble and gold fixtures" loading="lazy" width="800" height="800">
                 </div>
                 <div class="project-item">
-                    <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Rooftop outdoor kitchen with ocean sunset view" loading="lazy">
+                    <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Rooftop outdoor kitchen with ocean sunset view" loading="lazy" width="800" height="800">
                 </div>
                 <div class="project-item">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with black and gold quartz" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with black and gold quartz" loading="lazy" width="800" height="800">
                 </div>
             </div>
         </div>
@@ -479,7 +479,7 @@
                     <a href="#contact-form" class="btn btn-primary">Request Private Consultation</a>
                 </div>
                 <div class="savings-image">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern luxury kitchen with marble island and glass pendant lights" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern luxury kitchen with marble island and glass pendant lights" loading="lazy" width="800" height="603">
                 </div>
             </div>
         </div>
@@ -497,7 +497,7 @@
             <!-- Kitchen Countertops -->
             <a href="kitchen-countertops" class="luxury-showcase-card">
                 <div class="luxury-showcase-image">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Modern kitchen with quartz countertops and gold fixtures" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Modern kitchen with quartz countertops and gold fixtures" loading="lazy" width="800" height="800">
                     <div class="luxury-showcase-overlay"></div>
                 </div>
                 <div class="luxury-showcase-content">
@@ -516,7 +516,7 @@
             <!-- Bathroom Vanity Countertops -->
             <a href="bathroom-vanity-countertops" class="luxury-showcase-card">
                 <div class="luxury-showcase-image">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Bathroom with marble vanity countertop" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Bathroom with marble vanity countertop" loading="lazy" width="800" height="800">
                     <div class="luxury-showcase-overlay"></div>
                 </div>
                 <div class="luxury-showcase-content">
@@ -535,7 +535,7 @@
             <!-- Outdoor Countertops -->
             <a href="outdoor-countertops" class="luxury-showcase-card">
                 <div class="luxury-showcase-image">
-                    <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Outdoor kitchen with quartz countertops" loading="lazy">
+                    <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Outdoor kitchen with quartz countertops" loading="lazy" width="800" height="800">
                     <div class="luxury-showcase-overlay"></div>
                 </div>
                 <div class="luxury-showcase-content">
@@ -554,7 +554,7 @@
             <!-- Commercial Countertops -->
             <a href="commercial-countertops" class="luxury-showcase-card">
                 <div class="luxury-showcase-image">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with quartz countertops" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with quartz countertops" loading="lazy" width="800" height="800">
                     <div class="luxury-showcase-overlay"></div>
                 </div>
                 <div class="luxury-showcase-content">
@@ -582,7 +582,7 @@
         <div class="container">
             <div class="about-content">
                 <div class="about-image">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Luxury outdoor kitchen with marble countertops, fireplace and pool view" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Luxury outdoor kitchen with marble countertops, fireplace and pool view" loading="lazy" width="800" height="533">
                 </div>
                 <div class="about-text">
                     <h2>The Griffin Quartz Story</h2>
@@ -675,7 +675,7 @@
         <div class="container">
             <div class="difference-content">
                 <div class="difference-image">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Modern bathroom with floating wooden vanity and ocean view" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Modern bathroom with floating wooden vanity and ocean view" loading="lazy" width="800" height="800">
                 </div>
                 <div class="difference-text">
                     <h2>The Griffin Quartz Difference</h2>
@@ -734,28 +734,28 @@
             <div class="process-grid">
                 <div class="process-card">
                     <div class="process-image">
-                        <img src="images/jewelry-store-white-marble-display-counter.webp" alt="Hands measuring a quartz slab with tape measure" loading="lazy">
+                        <img src="images/jewelry-store-white-marble-display-counter.webp" alt="Hands measuring a quartz slab with tape measure" loading="lazy" width="800" height="800">
                     </div>
                     <h3>Schedule Your Free Estimate</h3>
                     <p>We'll meet you at your home or job site to measure your space using 3D laser technology and help you explore our quartz offerings—no charge.</p>
                 </div>
                 <div class="process-card">
                     <div class="process-image">
-                        <img src="images/hotel-lobby-white-marble-planters-tropical.webp" alt="Polished white quartz slab with dark veining" loading="lazy">
+                        <img src="images/hotel-lobby-white-marble-planters-tropical.webp" alt="Polished white quartz slab with dark veining" loading="lazy" width="800" height="800">
                     </div>
                     <h3>Choose Your Quartz Slab</h3>
                     <p>We carry a wide variety of designer quartz materials. You'll get expert guidance based on your style, budget, and how you use the space.</p>
                 </div>
                 <div class="process-card">
                     <div class="process-image">
-                        <img src="images/tropical-restaurant-bar-black-quartz-beams.webp" alt="Stylish interior with marble backsplash and quartz countertop" loading="lazy">
+                        <img src="images/tropical-restaurant-bar-black-quartz-beams.webp" alt="Stylish interior with marble backsplash and quartz countertop" loading="lazy" width="800" height="800">
                     </div>
                     <h3>Precision Fabrication</h3>
                     <p>We fabricate your selected slab <strong>in-house</strong>, using CNC machinery and hand-polishing for a flawless, long-lasting result.</p>
                 </div>
                 <div class="process-card">
                     <div class="process-image">
-                        <img src="images/outdoor-kitchen-marble-island-firepit-twilight.webp" alt="Contemporary kitchen with large white quartz island" loading="lazy">
+                        <img src="images/outdoor-kitchen-marble-island-firepit-twilight.webp" alt="Contemporary kitchen with large white quartz island" loading="lazy" width="800" height="800">
                     </div>
                     <h3>Professional Installation</h3>
                     <p>Installations are completed <strong>in one day</strong> in most cases, with minimal mess, tight seams, and finishing details that exceed expectations.</p>
@@ -769,15 +769,15 @@
         <div class="container">
             <div class="explore-cta-grid">
                 <a href="kitchen-bath" class="explore-cta-card">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern luxury kitchen with marble island" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern luxury kitchen with marble island" loading="lazy" width="800" height="603">
                     <h3>Explore Quartz for Kitchen & Bath</h3>
                 </a>
                 <a href="locations" class="explore-cta-card">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Luxury outdoor kitchen with pool view" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Luxury outdoor kitchen with pool view" loading="lazy" width="800" height="533">
                     <h3>Explore Quartz Installation Locations</h3>
                 </a>
                 <a href="quartz-brands" class="explore-cta-card">
-                    <img src="images/quartz-samples-gold-hardware-luxury.webp" alt="Premium quartz samples with gold hardware" loading="lazy">
+                    <img src="images/quartz-samples-gold-hardware-luxury.webp" alt="Premium quartz samples with gold hardware" loading="lazy" width="800" height="603">
                     <h3>Explore Quartz Product Selection</h3>
                 </a>
             </div>
@@ -790,28 +790,28 @@
             <h2 class="section-title">Featured Articles</h2>
             <div class="blog-grid">
                 <a href="blog/quartz-countertops-cost-fort-lauderdale-2025" class="blog-card">
-                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Quartz countertop cost guide for Fort Lauderdale homeowners" loading="lazy">
+                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Quartz countertop cost guide for Fort Lauderdale homeowners" loading="lazy" width="800" height="533">
                     <div class="blog-card-content">
                         <span class="blog-meta">By Yurik Lozano • Jan 2025</span>
                         <h3>Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide</h3>
                     </div>
                 </a>
                 <a href="blog/quartz-colors-fort-lauderdale-coastal-homes" class="blog-card">
-                    <img src="images/kitchen-coastal-blue-tile-backsplash.webp" alt="Choosing quartz colors for Fort Lauderdale coastal homes" loading="lazy">
+                    <img src="images/kitchen-coastal-blue-tile-backsplash.webp" alt="Choosing quartz colors for Fort Lauderdale coastal homes" loading="lazy" width="800" height="800">
                     <div class="blog-card-content">
                         <span class="blog-meta">By Yurik Lozano • Jan 2025</span>
                         <h3>How to Choose Quartz Colors for Fort Lauderdale Coastal Homes</h3>
                     </div>
                 </a>
                 <a href="blog/fort-lauderdale-condo-kitchen-renovation" class="blog-card">
-                    <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Fort Lauderdale condo kitchen renovation guide" loading="lazy">
+                    <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Fort Lauderdale condo kitchen renovation guide" loading="lazy" width="800" height="533">
                     <div class="blog-card-content">
                         <span class="blog-meta">By Yurik Lozano • Jan 2025</span>
                         <h3>Fort Lauderdale Condo Kitchen Renovations: Complete Guide</h3>
                     </div>
                 </a>
                 <a href="blog/quartz-brands-fort-lauderdale" class="blog-card">
-                    <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Top quartz countertop brands in Fort Lauderdale" loading="lazy">
+                    <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Top quartz countertop brands in Fort Lauderdale" loading="lazy" width="800" height="448">
                     <div class="blog-card-content">
                         <span class="blog-meta">By Yurik Lozano • Jan 2025</span>
                         <h3>Top Quartz Brands Available in Fort Lauderdale</h3>
@@ -833,53 +833,53 @@
             <div class="marquee-track">
                 <!-- First set of logos -->
                 <div class="partner-logo">
-                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone® by Cosentino Logo">
+                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone® by Cosentino Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-cambria.webp" alt="Cambria® Quartz Logo">
+                    <img src="images/logo-cambria.webp" alt="Cambria® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-caesarstone.webp" alt="Caesarstone® Quartz Logo">
+                    <img src="images/logo-caesarstone.webp" alt="Caesarstone® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-compac-quartz.webp" alt="Compac® Quartz Logo">
+                    <img src="images/logo-compac-quartz.webp" alt="Compac® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera® by LX Hausys Logo">
+                    <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera® by LX Hausys Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-corian-design.webp" alt="Corian® Design Logo">
+                    <img src="images/logo-corian-design.webp" alt="Corian® Design Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-hanstone-quartz.webp" alt="HanStone® Quartz Logo">
+                    <img src="images/logo-hanstone-quartz.webp" alt="HanStone® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-wilsonart.webp" alt="Wilsonart® Engineered Surfaces Logo">
+                    <img src="images/logo-wilsonart.webp" alt="Wilsonart® Engineered Surfaces Logo" width="800" height="400" loading="lazy">
                 </div>
                 <!-- Duplicate set for seamless loop -->
                 <div class="partner-logo">
-                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone® by Cosentino Logo">
+                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone® by Cosentino Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-cambria.webp" alt="Cambria® Quartz Logo">
+                    <img src="images/logo-cambria.webp" alt="Cambria® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-caesarstone.webp" alt="Caesarstone® Quartz Logo">
+                    <img src="images/logo-caesarstone.webp" alt="Caesarstone® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-compac-quartz.webp" alt="Compac® Quartz Logo">
+                    <img src="images/logo-compac-quartz.webp" alt="Compac® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera® by LX Hausys Logo">
+                    <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera® by LX Hausys Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-corian-design.webp" alt="Corian® Design Logo">
+                    <img src="images/logo-corian-design.webp" alt="Corian® Design Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-hanstone-quartz.webp" alt="HanStone® Quartz Logo">
+                    <img src="images/logo-hanstone-quartz.webp" alt="HanStone® Quartz Logo" width="800" height="400" loading="lazy">
                 </div>
                 <div class="partner-logo">
-                    <img src="images/logo-wilsonart.webp" alt="Wilsonart® Engineered Surfaces Logo">
+                    <img src="images/logo-wilsonart.webp" alt="Wilsonart® Engineered Surfaces Logo" width="800" height="400" loading="lazy">
                 </div>
             </div>
         </div>

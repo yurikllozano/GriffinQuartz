@@ -128,7 +128,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz countertops in Parkland Florida estate home" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz countertops in Parkland Florida estate home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -214,19 +214,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Grand kitchen with quartz island in Parkland luxury home" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Grand kitchen with quartz island in Parkland luxury home" loading="lazy" width="800" height="603">
                     <h3>Grand Kitchen Islands</h3>
                     <p><strong>Parkland kitchens</strong> deserve statement pieces. We specialize in expansive islands with <strong>dramatic waterfall edges</strong>, book-matched slab patterns, and integrated features that become the heart of your home.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Spa-like master bathroom in Parkland estate" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Spa-like master bathroom in Parkland estate" loading="lazy" width="800" height="800">
                     <h3>Spa-Inspired Bathrooms</h3>
                     <p>Transform your master suite into a <strong>private retreat</strong>. From sweeping double vanities to custom shower benches and tub surrounds, we create cohesive bathroom designs that rival five-star resorts.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Bathroom Designs</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor entertainment area in Parkland home" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor entertainment area in Parkland home" loading="lazy" width="800" height="533">
                     <h3>Outdoor Entertainment</h3>
                     <p><strong>Parkland outdoor living</strong> is legendary. Our UV-stable quartz and premium porcelain surfaces stand up to Florida sunshine while providing stunning surfaces for your outdoor kitchen and bar areas.</p>
                     <a href="our-services" class="btn btn-outline">Outdoor Living</a>

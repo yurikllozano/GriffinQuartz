@@ -172,7 +172,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white quartz kitchen countertops with gold fixtures in Boynton Beach Florida home" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white quartz kitchen countertops with gold fixtures in Boynton Beach Florida home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -258,19 +258,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Boynton Beach" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Boynton Beach" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Boynton Beach kitchen</strong> with stunning quartz surfaces. We specialize in kitchen islands, perimeter countertops, waterfall edges, and integrated backsplashes. Our <strong>precision fabrication</strong> ensures seamless seams and perfect cutouts for sinks and cooktops.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Boynton Beach" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Boynton Beach" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Boynton Beach bathroom</strong> with elegant quartz vanity tops. From single sink vanities to expansive double sink configurations, we create custom pieces that combine beauty with the <strong>moisture resistance</strong> essential for bathroom environments.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Boynton Beach restaurant" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Boynton Beach restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Boynton Beach businesses</strong> including restaurants, hotels, medical offices, and retail spaces. Our commercial-grade quartz surfaces withstand heavy use while maintaining their luxurious appearance.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

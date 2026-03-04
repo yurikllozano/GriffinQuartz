@@ -1206,7 +1206,7 @@
     <!-- Hero Section -->
     <section class="service-hero" id="quote-form">
         <div class="hero-background">
-            <img src="images/commercial-office-coffee-bar-marble.webp" alt="Luxury commercial countertop installation in South Florida office" loading="eager">
+            <img src="images/commercial-office-coffee-bar-marble.webp" alt="Luxury commercial countertop installation in South Florida office" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-container">
@@ -1535,7 +1535,7 @@
         <div class="container">
             <div class="content-grid">
                 <div class="content-image">
-                    <img src="images/commercial-lobby-tropical-palms.webp" alt="Modern commercial lobby with quartz countertops">
+                    <img src="images/commercial-lobby-tropical-palms.webp" alt="Modern commercial lobby with quartz countertops" width="800" height="800" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Why Quartz is Ideal for Commercial Spaces</h2>
@@ -1552,7 +1552,7 @@
 
             <div class="content-grid reverse" style="margin-top: 5rem;">
                 <div class="content-image">
-                    <img src="images/commercial-retail-marble-counter.webp" alt="Retail counter with luxury quartz surface">
+                    <img src="images/commercial-retail-marble-counter.webp" alt="Retail counter with luxury quartz surface" width="800" height="800" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Built for High-Traffic Environments</h2>
@@ -1602,42 +1602,42 @@
             </div>
             <div class="project-types-grid">
                 <div class="project-type-card">
-                    <img src="images/commercial-office-coffee-bar-marble.webp" alt="Restaurant bar countertop">
+                    <img src="images/commercial-office-coffee-bar-marble.webp" alt="Restaurant bar countertop" width="800" height="800" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Restaurants & Bars</h3>
                         <p>NSF-certified countertops for commercial kitchens, bars, dining areas, and food prep stations. Built to withstand the demands of food service.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/commercial-office-lobby-modern.webp" alt="Hotel lobby countertop">
+                    <img src="images/commercial-office-lobby-modern.webp" alt="Hotel lobby countertop" width="800" height="800" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Hotels & Hospitality</h3>
                         <p>Elegant surfaces for lobbies, reception desks, guest suites, spas, and common areas. Consistent quality across all guest touchpoints.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/commercial-lobby-tropical-palms.webp" alt="Office building countertop">
+                    <img src="images/commercial-lobby-tropical-palms.webp" alt="Office building countertop" width="800" height="800" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Office Buildings</h3>
                         <p>Professional-grade countertops for reception areas, break rooms, executive kitchens, and conference rooms. Impress clients and employees alike.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/commercial-retail-marble-counter.webp" alt="Retail store countertop">
+                    <img src="images/commercial-retail-marble-counter.webp" alt="Retail store countertop" width="800" height="800" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Retail Spaces</h3>
                         <p>Stunning display surfaces, checkout counters, and customer service areas. Create memorable shopping experiences with premium materials.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/kitchen-highrise-marina-view-white.webp" alt="Healthcare facility countertop">
+                    <img src="images/kitchen-highrise-marina-view-white.webp" alt="Healthcare facility countertop" width="800" height="533" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Healthcare Facilities</h3>
                         <p>Hygienic, non-porous surfaces for medical offices, labs, exam rooms, and pharmacies. Easy to sanitize and maintain health code compliance.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Multi-family development countertop">
+                    <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Multi-family development countertop" width="800" height="533" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Multi-Family Developments</h3>
                         <p>Bulk pricing for apartment complexes, condominiums, and townhome communities. Coordinated delivery schedules for phased construction.</p>

@@ -128,7 +128,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Oceanfront quartz countertops in Deerfield Beach Florida" loading="eager">
+            <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Oceanfront quartz countertops in Deerfield Beach Florida" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -214,19 +214,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with quartz countertops in Deerfield Beach" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with quartz countertops in Deerfield Beach" loading="lazy" width="800" height="603">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Deerfield Beach kitchen</strong> with stunning quartz surfaces. From compact condo kitchens to sprawling chef's kitchens, we create beautiful, functional spaces with precision fabrication and expert installation.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Elegant bathroom vanity in Deerfield Beach home" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Elegant bathroom vanity in Deerfield Beach home" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Upgrade your <strong>Deerfield Beach bathroom</strong> with moisture-resistant quartz vanities. Perfect for the humidity of coastal Florida, our surfaces combine elegance with practical durability.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Bathroom Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/outdoor-kitchen-marble-island-firepit-twilight.webp" alt="Outdoor kitchen in Deerfield Beach home" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-island-firepit-twilight.webp" alt="Outdoor kitchen in Deerfield Beach home" loading="lazy" width="800" height="800">
                     <h3>Outdoor Kitchens</h3>
                     <p><strong>Deerfield Beach outdoor living</strong> deserves premium surfaces. Our weather-resistant quartz options withstand Florida's elements while providing beautiful entertainment spaces.</p>
                     <a href="our-services" class="btn btn-outline">Outdoor Options</a>

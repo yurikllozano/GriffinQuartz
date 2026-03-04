@@ -566,7 +566,7 @@
     <!-- Hero Section -->
     <section class="material-hero">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Beautiful quartz countertops in modern South Florida kitchen" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Beautiful quartz countertops in modern South Florida kitchen" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -633,7 +633,7 @@
 
             <div class="applications-grid">
                 <div class="application-card">
-                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="Quartz kitchen countertops South Florida">
+                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="Quartz kitchen countertops South Florida" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>The most popular application for quartz. Create stunning kitchen islands, perimeter counters, and breakfast bars that withstand daily cooking demands.</p>
@@ -641,7 +641,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="Quartz bathroom vanity countertops">
+                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="Quartz bathroom vanity countertops" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Bathroom Vanities</h3>
                         <p>Quartz's moisture resistance makes it ideal for bathroom vanities, shower surrounds, and tub decks in humid South Florida bathrooms.</p>
@@ -649,7 +649,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/modern-outdoor-kitchen-quartz-firepit.webp" alt="Outdoor quartz countertops">
+                    <img src="images/modern-outdoor-kitchen-quartz-firepit.webp" alt="Outdoor quartz countertops" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Outdoor Kitchens</h3>
                         <p>Select UV-stable quartz colors designed for outdoor use. Perfect for South Florida's outdoor living lifestyle.</p>
@@ -657,7 +657,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Commercial Spaces</h3>
                         <p>Restaurants, hotels, offices, and retail spaces benefit from quartz's durability and easy maintenance in high-traffic environments.</p>
@@ -673,11 +673,11 @@
         <div class="container">
             <h2>Premium Quartz Brands We Offer</h2>
             <div class="brands-grid">
-                <img src="images/logo-cambria.webp" alt="Cambria Quartz">
-                <img src="images/logo-caesarstone.webp" alt="Caesarstone">
-                <img src="images/logo-silestone.webp" alt="Silestone">
-                <img src="images/logo-viatera.webp" alt="Viatera">
-                <img src="images/logo-compac-quartz.webp" alt="Compac">
+                <img src="images/logo-cambria.webp" alt="Cambria Quartz" width="800" height="400" loading="lazy">
+                <img src="images/logo-caesarstone.webp" alt="Caesarstone" width="800" height="400" loading="lazy">
+                <img src="images/logo-silestone.webp" alt="Silestone" width="200" height="60" loading="lazy">
+                <img src="images/logo-viatera.webp" alt="Viatera" width="200" height="60" loading="lazy">
+                <img src="images/logo-compac-quartz.webp" alt="Compac" width="800" height="400" loading="lazy">
             </div>
         </div>
     </section>

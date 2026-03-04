@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-winterbourne-kitchen.webp" alt="Cambria Winterbourne quartz countertop" loading="eager">
+            <img src="../images/cambria-winterbourne-kitchen.webp" alt="Cambria Winterbourne quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/winterbourne.jpg" alt="Cambria Winterbourne sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/winterbourne.webp" width="724" height="500" alt="Cambria Winterbourne sample" loading="lazy"></div>
                 <div class="swatch-label"><h3>Winterbourne</h3><p>Cambria Contemporary</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Subtle White Designs</h2></div>
             <div class="related-grid">
-                <a href="ella" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ella.jpg" alt="Ella"></div><div class="related-card-content"><h3>Ella</h3></div></a>
-                <a href="colton" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-colton.jpg" alt="Colton"></div><div class="related-card-content"><h3>Colton</h3></div></a>
-                <a href="ainsley" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ainsley.jpg" alt="Ainsley"></div><div class="related-card-content"><h3>Ainsley</h3></div></a>
-                <a href="swanbridge" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-swanbridge.jpg" alt="Swanbridge"></div><div class="related-card-content"><h3>Swanbridge</h3></div></a>
+                <a href="ella" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ella.webp" alt="Ella" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Ella</h3></div></a>
+                <a href="colton" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-colton.webp" alt="Colton" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Colton</h3></div></a>
+                <a href="ainsley" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ainsley.webp" alt="Ainsley" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Ainsley</h3></div></a>
+                <a href="swanbridge" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-swanbridge.webp" alt="Swanbridge" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Swanbridge</h3></div></a>
             </div>
         </div>
     </section>

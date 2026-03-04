@@ -139,7 +139,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Outdoor kitchen with quartz countertops next to Fort Lauderdale pool area at dusk" class="blog-hero-image" loading="eager">
+            <img src="../images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Outdoor kitchen with quartz countertops next to Fort Lauderdale pool area at dusk" class="blog-hero-image" loading="eager" width="800" height="533">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 11, 2025</span>

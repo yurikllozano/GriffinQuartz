@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-montgomery-kitchen.webp" alt="Cambria Montgomery quartz countertop" loading="eager">
+            <img src="../images/cambria-montgomery-kitchen.webp" alt="Cambria Montgomery quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/montgomery.jpg" alt="Cambria Montgomery sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/montgomery.webp" alt="Cambria Montgomery sample" width="724" height="500" loading="lazy"></div>
                 <div class="swatch-label"><h3>Montgomery</h3><p>Cambria Signature Collection</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Popular Designs</h2></div>
             <div class="related-grid">
-                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.jpg" alt="Brittanicca"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
-                <a href="summerhill" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-summerhill.jpg" alt="Summerhill"></div><div class="related-card-content"><h3>Summerhill</h3></div></a>
-                <a href="berwyn" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-berwyn.jpg" alt="Berwyn"></div><div class="related-card-content"><h3>Berwyn</h3></div></a>
-                <a href="skara-brae" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-skara-brae.jpg" alt="Skara Brae"></div><div class="related-card-content"><h3>Skara Brae</h3></div></a>
+                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.webp" alt="Brittanicca" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
+                <a href="summerhill" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-summerhill.webp" alt="Summerhill" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Summerhill</h3></div></a>
+                <a href="berwyn" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-berwyn.webp" alt="Berwyn" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Berwyn</h3></div></a>
+                <a href="skara-brae" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-skara-brae.webp" alt="Skara Brae" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Skara Brae</h3></div></a>
             </div>
         </div>
     </section>

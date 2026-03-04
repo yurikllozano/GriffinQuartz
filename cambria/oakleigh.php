@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-oakleigh-kitchen.webp" alt="Cambria Oakleigh quartz countertop" loading="eager">
+            <img src="../images/cambria-oakleigh-kitchen.webp" alt="Cambria Oakleigh quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/oakleigh.jpg" alt="Cambria Oakleigh sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/oakleigh.webp" alt="Cambria Oakleigh sample" width="724" height="500" loading="lazy"></div>
                 <div class="swatch-label"><h3>Oakleigh</h3><p>Cambria Bold Veined</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Bold Veined Designs</h2></div>
             <div class="related-grid">
-                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.jpg" alt="Brittanicca"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
-                <a href="portrush" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-portrush.jpg" alt="Portrush"></div><div class="related-card-content"><h3>Portrush</h3></div></a>
-                <a href="inverness-gold" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-inverness-gold.jpg" alt="Inverness Gold"></div><div class="related-card-content"><h3>Inverness Gold</h3></div></a>
-                <a href="skara-brae" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-skara-brae.jpg" alt="Skara Brae"></div><div class="related-card-content"><h3>Skara Brae</h3></div></a>
+                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.webp" alt="Brittanicca" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
+                <a href="portrush" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-portrush.webp" alt="Portrush" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Portrush</h3></div></a>
+                <a href="inverness-gold" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-inverness-gold.webp" alt="Inverness Gold" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Inverness Gold</h3></div></a>
+                <a href="skara-brae" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-skara-brae.webp" alt="Skara Brae" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Skara Brae</h3></div></a>
             </div>
         </div>
     </section>

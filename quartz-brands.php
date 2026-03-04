@@ -1277,7 +1277,7 @@
     <!-- Hero Section -->
     <section class="brands-hero" id="main-content" role="region" aria-label="Premium Quartz Brands Hero">
         <div class="hero-background" aria-hidden="true">
-            <img src="images/hotel-lobby-white-marble-planters-tropical.webp" alt="" loading="eager">
+            <img src="images/hotel-lobby-white-marble-planters-tropical.webp" alt="" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-container">
@@ -1348,53 +1348,53 @@
             <div class="marquee-track">
                 <!-- First set of logos -->
                 <a href="cambria/" class="brand-logo-item" aria-label="View Cambria quartz countertops">
-                    <img src="images/logo-cambria.webp" alt="Cambria" loading="lazy">
+                    <img src="images/logo-cambria.webp" alt="Cambria" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#silestone" class="brand-logo-item" aria-label="View Silestone quartz countertops">
-                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone by Cosentino" loading="lazy">
+                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone by Cosentino" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#caesarstone" class="brand-logo-item" aria-label="View Caesarstone quartz countertops">
-                    <img src="images/logo-caesarstone.webp" alt="Caesarstone" loading="lazy">
+                    <img src="images/logo-caesarstone.webp" alt="Caesarstone" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#viatera" class="brand-logo-item" aria-label="View Viatera quartz countertops">
-                    <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera by LX Hausys" loading="lazy">
+                    <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera by LX Hausys" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#hanstone" class="brand-logo-item" aria-label="View HanStone quartz countertops">
-                    <img src="images/logo-hanstone-quartz.webp" alt="HanStone Quartz" loading="lazy">
+                    <img src="images/logo-hanstone-quartz.webp" alt="HanStone Quartz" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#compac" class="brand-logo-item" aria-label="View Compac quartz countertops">
-                    <img src="images/logo-compac-quartz.webp" alt="Compac Quartz" loading="lazy">
+                    <img src="images/logo-compac-quartz.webp" alt="Compac Quartz" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#corian" class="brand-logo-item" aria-label="View Corian quartz countertops">
-                    <img src="images/logo-corian-design.webp" alt="Corian Quartz" loading="lazy">
+                    <img src="images/logo-corian-design.webp" alt="Corian Quartz" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#wilsonart" class="brand-logo-item" aria-label="View Wilsonart quartz countertops">
-                    <img src="images/logo-wilsonart.webp" alt="Wilsonart Quartz" loading="lazy">
+                    <img src="images/logo-wilsonart.webp" alt="Wilsonart Quartz" loading="lazy" width="800" height="400">
                 </a>
                 <!-- Duplicate set for seamless loop -->
                 <a href="cambria/" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-cambria.webp" alt="" loading="lazy">
+                    <img src="images/logo-cambria.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#silestone" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-silestone-cosentino.webp" alt="" loading="lazy">
+                    <img src="images/logo-silestone-cosentino.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#caesarstone" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-caesarstone.webp" alt="" loading="lazy">
+                    <img src="images/logo-caesarstone.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#viatera" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-viatera-lx-hausys.webp" alt="" loading="lazy">
+                    <img src="images/logo-viatera-lx-hausys.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#hanstone" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-hanstone-quartz.webp" alt="" loading="lazy">
+                    <img src="images/logo-hanstone-quartz.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#compac" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-compac-quartz.webp" alt="" loading="lazy">
+                    <img src="images/logo-compac-quartz.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#corian" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-corian-design.webp" alt="" loading="lazy">
+                    <img src="images/logo-corian-design.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
                 <a href="#wilsonart" class="brand-logo-item" aria-hidden="true" tabindex="-1">
-                    <img src="images/logo-wilsonart.webp" alt="" loading="lazy">
+                    <img src="images/logo-wilsonart.webp" alt="" loading="lazy" width="800" height="400">
                 </a>
             </div>
         </div>
@@ -1448,7 +1448,7 @@
             <!-- Cambria - Featured Brand -->
             <a href="cambria/" class="brand-card" id="cambria" aria-label="Explore Cambria quartz countertops - American made with lifetime warranty">
                 <div class="brand-card-logo">
-                    <img src="images/logo-cambria-gold.webp" alt="Cambria - America's only family-owned quartz manufacturer">
+                    <img src="images/logo-cambria-gold.webp" alt="Cambria - America's only family-owned quartz manufacturer" width="800" height="400" loading="lazy">
                 </div>
                 <div class="brand-card-content">
                     <div class="brand-tagline">American Made | Family Owned</div>
@@ -1466,7 +1466,7 @@
             <!-- Silestone -->
             <article class="brand-card" id="silestone" aria-labelledby="silestone-heading">
                 <div class="brand-card-logo">
-                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone by Cosentino - World's leading quartz brand">
+                    <img src="images/logo-silestone-cosentino.webp" alt="Silestone by Cosentino - World's leading quartz brand" width="800" height="400" loading="lazy">
                 </div>
                 <div class="brand-card-content">
                     <div class="brand-tagline">N-Boost Technology | Global Leader</div>
@@ -1483,7 +1483,7 @@
             <!-- Caesarstone -->
             <article class="brand-card" id="caesarstone" aria-labelledby="caesarstone-heading">
                 <div class="brand-card-logo">
-                    <img src="images/logo-caesarstone.webp" alt="Caesarstone - The original engineered quartz since 1987">
+                    <img src="images/logo-caesarstone.webp" alt="Caesarstone - The original engineered quartz since 1987" width="800" height="400" loading="lazy">
                 </div>
                 <div class="brand-card-content">
                     <div class="brand-tagline">The Original | Since 1987</div>
@@ -1506,7 +1506,7 @@
                 <article class="brand-card-compact" id="viatera" role="listitem" aria-labelledby="viatera-heading">
                     <div class="brand-card-compact-header">
                         <div class="brand-card-compact-logo">
-                            <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera by LX Hausys - Premium Korean quartz">
+                            <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera by LX Hausys - Premium Korean quartz" width="800" height="400" loading="lazy">
                         </div>
                         <div>
                             <h4 id="viatera-heading">Viatera by LX Hausys</h4>
@@ -1520,7 +1520,7 @@
                 <article class="brand-card-compact" id="hanstone" role="listitem" aria-labelledby="hanstone-heading">
                     <div class="brand-card-compact-header">
                         <div class="brand-card-compact-logo">
-                            <img src="images/logo-hanstone-quartz.webp" alt="HanStone Quartz by Hyundai L&C">
+                            <img src="images/logo-hanstone-quartz.webp" alt="HanStone Quartz by Hyundai L&C" width="800" height="400" loading="lazy">
                         </div>
                         <div>
                             <h4 id="hanstone-heading">HanStone Quartz</h4>
@@ -1534,7 +1534,7 @@
                 <article class="brand-card-compact" id="compac" role="listitem" aria-labelledby="compac-heading">
                     <div class="brand-card-compact-header">
                         <div class="brand-card-compact-logo">
-                            <img src="images/logo-compac-quartz.webp" alt="Compac - Spanish sustainable quartz">
+                            <img src="images/logo-compac-quartz.webp" alt="Compac - Spanish sustainable quartz" width="800" height="400" loading="lazy">
                         </div>
                         <div>
                             <h4 id="compac-heading">Compac Quartz</h4>
@@ -1548,7 +1548,7 @@
                 <article class="brand-card-compact" id="corian" role="listitem" aria-labelledby="corian-heading">
                     <div class="brand-card-compact-header">
                         <div class="brand-card-compact-logo">
-                            <img src="images/logo-corian-design.webp" alt="Corian Quartz - DuPont legacy brand">
+                            <img src="images/logo-corian-design.webp" alt="Corian Quartz - DuPont legacy brand" width="800" height="400" loading="lazy">
                         </div>
                         <div>
                             <h4 id="corian-heading">Corian Quartz</h4>
@@ -1562,7 +1562,7 @@
                 <article class="brand-card-compact" id="wilsonart" role="listitem" aria-labelledby="wilsonart-heading">
                     <div class="brand-card-compact-header">
                         <div class="brand-card-compact-logo">
-                            <img src="images/logo-wilsonart.webp" alt="Wilsonart - American surfaces since 1956">
+                            <img src="images/logo-wilsonart.webp" alt="Wilsonart - American surfaces since 1956" width="800" height="400" loading="lazy">
                         </div>
                         <div>
                             <h4 id="wilsonart-heading">Wilsonart Quartz</h4>

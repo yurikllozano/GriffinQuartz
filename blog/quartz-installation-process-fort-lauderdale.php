@@ -124,7 +124,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/installation-team-penthouse-slab.webp" alt="Professional quartz countertop installation team working in Fort Lauderdale penthouse" class="blog-hero-image" loading="eager">
+            <img src="../images/installation-team-penthouse-slab.webp" alt="Professional quartz countertop installation team working in Fort Lauderdale penthouse" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team • Jan 7, 2025</span>

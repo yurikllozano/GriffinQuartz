@@ -172,7 +172,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Palm Beach Gardens Florida home" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Palm Beach Gardens Florida home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -258,19 +258,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Palm Beach Gardens estate" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Palm Beach Gardens estate" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Palm Beach Gardens kitchen</strong> into a culinary masterpiece. We specialize in expansive kitchen islands, elegant waterfall edges, full-height backsplashes, and seamless perimeter countertops with <strong>precision CNC fabrication</strong>.</p>
                     <a href="kitchen-countertops" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Palm Beach Gardens home" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Palm Beach Gardens home" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Palm Beach Gardens bathroom</strong> with elegant quartz vanity tops. From single sink powder rooms to expansive master bath configurations, we create custom pieces with the <strong>moisture resistance</strong> essential for spa-like retreats.</p>
                     <a href="bathroom-vanity-countertops" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Palm Beach Gardens" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Palm Beach Gardens" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Palm Beach Gardens businesses</strong> including Downtown at the Gardens restaurants, medical offices, hotels, and corporate spaces. Our commercial-grade quartz surfaces withstand heavy use while maintaining elegance.</p>
                     <a href="commercial-countertops" class="btn btn-outline">Commercial Services</a>

@@ -172,7 +172,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Aventura Florida high-rise condo" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Aventura Florida high-rise condo" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -258,19 +258,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Aventura high-rise condo" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Aventura high-rise condo" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Aventura condo kitchen</strong> with stunning quartz surfaces. We specialize in modern open-concept layouts, kitchen islands, waterfall edges, and integrated backsplashes. Our <strong>precision fabrication</strong> ensures seamless installation in even the most challenging high-rise spaces.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Aventura condo" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Aventura condo" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Aventura bathroom</strong> with elegant quartz vanity tops. From spa-inspired master baths to sleek powder rooms, we create custom pieces that combine luxury aesthetics with the <strong>moisture resistance</strong> essential for bathroom environments.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Aventura restaurant" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Aventura restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Aventura businesses</strong> including upscale restaurants, boutique hotels, medical offices, and retail spaces near Aventura Mall. Our commercial-grade quartz surfaces withstand heavy use while maintaining their luxurious appearance.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

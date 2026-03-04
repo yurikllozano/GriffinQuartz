@@ -21,7 +21,7 @@
 <?php $basePath = '..'; include '../includes/header.php'; ?>
     <article class="blog-article">
         <div class="blog-hero">
-            <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Luxury quartz slab samples with gold hardware accents" class="blog-hero-image" loading="eager">
+            <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Luxury quartz slab samples with gold hardware accents" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Sep 20, 2025</span>

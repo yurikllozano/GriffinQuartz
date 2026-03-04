@@ -154,7 +154,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/waterfront-marble-bar-illuminated-sunset.webp" alt="Luxury quartz countertops in South Florida waterfront home" loading="eager">
+            <img src="images/waterfront-marble-bar-illuminated-sunset.webp" alt="Luxury quartz countertops in South Florida waterfront home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -293,19 +293,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury South Florida kitchen with quartz countertops" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury South Florida kitchen with quartz countertops" loading="lazy" width="800" height="800">
                     <h3>Residential Kitchens</h3>
                     <p>From <strong>Boca Raton estates</strong> to <strong>Miami condos</strong>, we create stunning kitchen countertops that become the centerpiece of your home. Islands, perimeters, waterfall edges—all expertly crafted and installed.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Elegant bathroom vanity in South Florida home" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Elegant bathroom vanity in South Florida home" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>South Florida bathroom</strong> with moisture-resistant quartz vanities. Perfect for our humid climate—from powder rooms to luxurious master bath retreats.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Bathroom Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz installation in South Florida" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz installation in South Florida" loading="lazy" width="800" height="800">
                     <h3>Commercial Projects</h3>
                     <p>Griffin Quartz serves <strong>South Florida businesses</strong>: restaurants, hotels, medical offices, retail spaces, and more. Commercial-grade surfaces engineered for high traffic.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

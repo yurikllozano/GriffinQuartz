@@ -23,7 +23,7 @@
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero">
-            <img src="../images/installation-team-penthouse-slab.webp" alt="Professional quartz countertop installation" class="blog-hero-image" loading="eager">
+            <img src="../images/installation-team-penthouse-slab.webp" alt="Professional quartz countertop installation" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 22, 2026</span>

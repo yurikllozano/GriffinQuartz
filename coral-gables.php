@@ -173,7 +173,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Coral Gables Mediterranean estate with arched windows" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Coral Gables Mediterranean estate with arched windows" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -259,19 +259,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury Mediterranean kitchen with quartz countertops in Coral Gables estate" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury Mediterranean kitchen with quartz countertops in Coral Gables estate" loading="lazy" width="800" height="800">
                     <h3>Estate Kitchen Countertops</h3>
                     <p>Transform your <strong>Coral Gables kitchen</strong> into a Mediterranean masterpiece. We specialize in expansive islands, elegant perimeter countertops, dramatic waterfall edges, and integrated backsplashes that complement arched windows and ornate cabinetry. Our <strong>precision fabrication</strong> ensures seamless installations worthy of your estate.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Coral Gables Mediterranean home" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Coral Gables Mediterranean home" loading="lazy" width="800" height="800">
                     <h3>Luxurious Bathroom Vanities</h3>
                     <p>Elevate your <strong>Coral Gables bathroom</strong> with quartz vanity tops that evoke old-world elegance. From ornate single vanities to grand double configurations with decorative edges, we create custom pieces combining <strong>timeless beauty</strong> with modern moisture resistance.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Coral Gables Miracle Mile restaurant" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Coral Gables Miracle Mile restaurant" loading="lazy" width="800" height="800">
                     <h3>Miracle Mile Commercial</h3>
                     <p>Griffin Quartz serves <strong>Coral Gables businesses</strong> along Miracle Mile and throughout the city—upscale restaurants, boutique hotels, professional offices, and retail establishments. Our commercial-grade quartz surfaces withstand heavy use while maintaining the sophisticated appearance Coral Gables demands.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

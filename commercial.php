@@ -1206,7 +1206,7 @@
     <!-- Hero Section -->
     <section class="page-hero">
         <div class="hero-background">
-            <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops South Florida - restaurant bar hotel office medical countertop installation Boca Raton Fort Lauderdale Miami" loading="eager">
+            <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops South Florida - restaurant bar hotel office medical countertop installation Boca Raton Fort Lauderdale Miami" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -1526,7 +1526,7 @@
                     </li>
                 </ul>
                 <div class="benefits-image">
-                    <img src="images/commercial-office-lobby-modern.webp" alt="Modern commercial quartz countertop installation in South Florida office lobby">
+                    <img src="images/commercial-office-lobby-modern.webp" alt="Modern commercial quartz countertop installation in South Florida office lobby" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>
@@ -1548,28 +1548,28 @@
             <div class="gallery-grid" data-filter="all">
                 <!-- Restaurant/Bar Images -->
                 <div class="gallery-item" data-category="restaurant">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar quartz countertop installation South Florida restaurant" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar quartz countertop installation South Florida restaurant" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Upscale Restaurant Bar</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="restaurant">
-                    <img src="images/waterfront-bar-black-gold-quartz-palms.webp" alt="Waterfront bar quartz countertops Miami Beach commercial installation" loading="lazy">
+                    <img src="images/waterfront-bar-black-gold-quartz-palms.webp" alt="Waterfront bar quartz countertops Miami Beach commercial installation" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Waterfront Bar & Grill</h4>
                         <span>Miami Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="restaurant">
-                    <img src="images/tropical-restaurant-bar-black-quartz-beams.webp" alt="Tropical restaurant bar black quartz countertops Boca Raton" loading="lazy">
+                    <img src="images/tropical-restaurant-bar-black-quartz-beams.webp" alt="Tropical restaurant bar black quartz countertops Boca Raton" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Tropical Restaurant</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="restaurant">
-                    <img src="images/rooftop-bar-blue-marble-quartz-cityview.webp" alt="Rooftop bar marble-look quartz countertops Miami commercial" loading="lazy">
+                    <img src="images/rooftop-bar-blue-marble-quartz-cityview.webp" alt="Rooftop bar marble-look quartz countertops Miami commercial" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Rooftop Lounge</h4>
                         <span>Miami</span>
@@ -1578,28 +1578,28 @@
 
                 <!-- Hotel/Lobby Images -->
                 <div class="gallery-item" data-category="hotel">
-                    <img src="images/hotel-lobby-white-marble-reception-palms.webp" alt="Hotel lobby reception desk white marble quartz Palm Beach" loading="lazy">
+                    <img src="images/hotel-lobby-white-marble-reception-palms.webp" alt="Hotel lobby reception desk white marble quartz Palm Beach" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Luxury Hotel Lobby</h4>
                         <span>Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="hotel">
-                    <img src="images/commercial-beachfront-lobby-backlit.webp" alt="Beachfront hotel lobby backlit quartz reception Fort Lauderdale" loading="lazy">
+                    <img src="images/commercial-beachfront-lobby-backlit.webp" alt="Beachfront hotel lobby backlit quartz reception Fort Lauderdale" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Beachfront Resort</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="hotel">
-                    <img src="images/hotel-buffet-white-marble-counter-flowers.webp" alt="Hotel buffet white marble quartz counter Miami hospitality" loading="lazy">
+                    <img src="images/hotel-buffet-white-marble-counter-flowers.webp" alt="Hotel buffet white marble quartz counter Miami hospitality" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Hotel Buffet Area</h4>
                         <span>Miami</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="hotel">
-                    <img src="images/commercial-condo-lobby-palms.webp" alt="Condo lobby quartz reception desk Boca Raton commercial" loading="lazy">
+                    <img src="images/commercial-condo-lobby-palms.webp" alt="Condo lobby quartz reception desk Boca Raton commercial" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Luxury Condo Lobby</h4>
                         <span>Boca Raton</span>
@@ -1608,28 +1608,28 @@
 
                 <!-- Office/Medical Images -->
                 <div class="gallery-item" data-category="office">
-                    <img src="images/commercial-office-lobby-modern.webp" alt="Modern office lobby quartz reception counter West Palm Beach" loading="lazy">
+                    <img src="images/commercial-office-lobby-modern.webp" alt="Modern office lobby quartz reception counter West Palm Beach" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Corporate Office Lobby</h4>
                         <span>West Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="office">
-                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Office breakroom cafe quartz countertops Coral Springs commercial" loading="lazy">
+                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Office breakroom cafe quartz countertops Coral Springs commercial" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Office Break Room</h4>
                         <span>Coral Springs</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="office">
-                    <img src="images/commercial-office-coffee-bar-marble.webp" alt="Office coffee bar marble-look quartz Delray Beach installation" loading="lazy">
+                    <img src="images/commercial-office-coffee-bar-marble.webp" alt="Office coffee bar marble-look quartz Delray Beach installation" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Executive Coffee Bar</h4>
                         <span>Delray Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item" data-category="office">
-                    <img src="images/commercial-retail-marble-counter.webp" alt="Retail store marble quartz counter Hollywood FL commercial" loading="lazy">
+                    <img src="images/commercial-retail-marble-counter.webp" alt="Retail store marble quartz counter Hollywood FL commercial" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Medical Office Reception</h4>
                         <span>Hollywood</span>

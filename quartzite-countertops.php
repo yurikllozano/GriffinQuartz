@@ -581,7 +581,7 @@
     <!-- Hero Section -->
     <section class="material-hero">
         <div class="hero-background">
-            <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Beautiful quartzite countertops in modern South Florida kitchen" loading="eager">
+            <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Beautiful quartzite countertops in modern South Florida kitchen" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -648,7 +648,7 @@
 
             <div class="applications-grid">
                 <div class="application-card">
-                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="Quartzite kitchen countertops South Florida">
+                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="Quartzite kitchen countertops South Florida" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>Quartzite's heat resistance and hardness make it perfect for kitchen islands, perimeter counters, and busy cooking spaces.</p>
@@ -656,7 +656,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-spa-quartzite-floating-ocean.webp" alt="Quartzite bathroom vanity countertops">
+                    <img src="images/bathroom-spa-quartzite-floating-ocean.webp" alt="Quartzite bathroom vanity countertops" width="800" height="400" loading="lazy">
                     <div class="overlay">
                         <h3>Bathroom Vanities</h3>
                         <p>Create a spa-like retreat with quartzite vanity tops and shower surrounds that resist moisture and add natural elegance.</p>
@@ -664,7 +664,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/mediterranean-outdoor-kitchen-stone-arches.webp" alt="Outdoor quartzite countertops">
+                    <img src="images/mediterranean-outdoor-kitchen-stone-arches.webp" alt="Outdoor quartzite countertops" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Outdoor Kitchens</h3>
                         <p>Quartzite's UV resistance and durability make it an excellent choice for South Florida's outdoor living spaces.</p>
@@ -672,7 +672,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartzite waterfall island">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartzite waterfall island" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Waterfall Islands</h3>
                         <p>Showcase quartzite's dramatic veining with a stunning waterfall island that becomes the centerpiece of your kitchen.</p>

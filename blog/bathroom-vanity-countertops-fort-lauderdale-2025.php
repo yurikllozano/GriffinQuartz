@@ -178,7 +178,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/bathroom-spa-calacatta-walnut-tub.webp" alt="Luxury spa bathroom with Calacatta quartz vanity countertop in Fort Lauderdale" class="blog-hero-image" loading="eager">
+            <img src="../images/bathroom-spa-calacatta-walnut-tub.webp" alt="Luxury spa bathroom with Calacatta quartz vanity countertop in Fort Lauderdale" class="blog-hero-image" loading="eager" width="800" height="533">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 10, 2025</span>

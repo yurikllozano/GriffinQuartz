@@ -1225,7 +1225,7 @@
     <!-- Hero Section -->
     <section class="service-hero" id="quote-form">
         <div class="hero-background">
-            <img src="images/kitchen-miami-penthouse-brown-veined.webp" alt="Luxury kitchen with quartz countertops and island" loading="eager">
+            <img src="images/kitchen-miami-penthouse-brown-veined.webp" alt="Luxury kitchen with quartz countertops and island" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-container">
@@ -1316,22 +1316,22 @@
                         <h3>Select Your Kitchen Layout</h3>
                         <div class="option-grid">
                             <div class="option-card" data-value="island" data-price="0">
-                                <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Kitchen Island">
+                                <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Kitchen Island" width="800" height="448" loading="lazy">
                                 <h4>Island Only</h4>
                                 <p>Standalone kitchen island</p>
                             </div>
                             <div class="option-card" data-value="perimeter" data-price="0">
-                                <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Perimeter Counters">
+                                <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Perimeter Counters" width="800" height="603" loading="lazy">
                                 <h4>Perimeter Only</h4>
                                 <p>Wall-mounted countertops</p>
                             </div>
                             <div class="option-card selected" data-value="both" data-price="0">
-                                <img src="images/kitchen-penthouse-veined-walnut-ocean.webp" alt="Island and Perimeter">
+                                <img src="images/kitchen-penthouse-veined-walnut-ocean.webp" alt="Island and Perimeter" width="800" height="800" loading="lazy">
                                 <h4>Island + Perimeter</h4>
                                 <p>Complete kitchen coverage</p>
                             </div>
                             <div class="option-card" data-value="remodel" data-price="250">
-                                <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Full Kitchen Remodel">
+                                <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Full Kitchen Remodel" width="800" height="533" loading="lazy">
                                 <h4>Full Remodel</h4>
                                 <p>Counters, backsplash & more</p>
                                 <span class="price">+$250 design</span>
@@ -1404,35 +1404,35 @@
                         <p style="color: var(--color-text-secondary); margin-bottom: 1.5rem;">Select from our most popular kitchen colors. Premium selections may have additional costs.</p>
                         <div class="color-swatches">
                             <div class="color-swatch selected" data-color="Calacatta Luxe" data-price="75">
-                                <img src="images/swatch-calacatta-luxe.webp" alt="Calacatta Luxe">
+                                <img src="images/swatch-calacatta-luxe.webp" alt="Calacatta Luxe" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Calacatta Luxe</span>
                             </div>
                             <div class="color-swatch" data-color="Arctic White" data-price="55">
-                                <img src="images/swatch-arctic-white.webp" alt="Arctic White">
+                                <img src="images/swatch-arctic-white.webp" alt="Arctic White" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Arctic White</span>
                             </div>
                             <div class="color-swatch" data-color="Carrara Mist" data-price="70">
-                                <img src="images/swatch-carrara-mist.webp" alt="Carrara Mist">
+                                <img src="images/swatch-carrara-mist.webp" alt="Carrara Mist" width="800" height="603" loading="lazy">
                                 <span class="color-swatch-name">Carrara Mist</span>
                             </div>
                             <div class="color-swatch" data-color="Statuario" data-price="85">
-                                <img src="images/swatch-statuario.webp" alt="Statuario">
+                                <img src="images/swatch-statuario.webp" alt="Statuario" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Statuario</span>
                             </div>
                             <div class="color-swatch" data-color="Calacatta Gold" data-price="95">
-                                <img src="images/swatch-calacatta-gold.webp" alt="Calacatta Gold">
+                                <img src="images/swatch-calacatta-gold.webp" alt="Calacatta Gold" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Calacatta Gold</span>
                             </div>
                             <div class="color-swatch" data-color="Charcoal" data-price="65">
-                                <img src="images/swatch-charcoal.webp" alt="Charcoal">
+                                <img src="images/swatch-charcoal.webp" alt="Charcoal" width="800" height="449" loading="lazy">
                                 <span class="color-swatch-name">Charcoal</span>
                             </div>
                             <div class="color-swatch" data-color="Sahara Beige" data-price="60">
-                                <img src="images/swatch-sahara-beige.webp" alt="Sahara Beige">
+                                <img src="images/swatch-sahara-beige.webp" alt="Sahara Beige" width="800" height="800" loading="lazy">
                                 <span class="color-swatch-name">Sahara Beige</span>
                             </div>
                             <div class="color-swatch" data-color="Cafe Brown" data-price="70">
-                                <img src="images/swatch-cafe-brown.webp" alt="Cafe Brown">
+                                <img src="images/swatch-cafe-brown.webp" alt="Cafe Brown" width="800" height="603" loading="lazy">
                                 <span class="color-swatch-name">Cafe Brown</span>
                             </div>
                         </div>
@@ -1576,7 +1576,7 @@
         <div class="container">
             <div class="content-grid">
                 <div class="content-image">
-                    <img src="images/kitchen-penthouse-veined-gray-gloss.webp" alt="Modern kitchen with quartz island">
+                    <img src="images/kitchen-penthouse-veined-gray-gloss.webp" alt="Modern kitchen with quartz island" width="800" height="603" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Why Quartz is Perfect for Kitchen Countertops</h2>
@@ -1593,7 +1593,7 @@
 
             <div class="content-grid reverse" style="margin-top: 5rem;">
                 <div class="content-image">
-                    <img src="images/kitchen-penthouse-calacatta-walnut-ceiling.webp" alt="Luxury kitchen with waterfall island">
+                    <img src="images/kitchen-penthouse-calacatta-walnut-ceiling.webp" alt="Luxury kitchen with waterfall island" width="800" height="603" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Expert Fabrication for Every Kitchen</h2>
@@ -1618,28 +1618,28 @@
             </div>
             <div class="kitchen-types-grid">
                 <div class="kitchen-type-card">
-                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Kitchen island countertop">
+                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Kitchen island countertop" width="800" height="533" loading="lazy">
                     <div class="kitchen-type-card-content">
                         <h3>Kitchen Islands</h3>
                         <p>Statement-making islands with optional waterfall edges. Perfect for prep, dining, and entertaining.</p>
                     </div>
                 </div>
                 <div class="kitchen-type-card">
-                    <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Perimeter countertops">
+                    <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Perimeter countertops" width="800" height="603" loading="lazy">
                     <div class="kitchen-type-card-content">
                         <h3>Perimeter Counters</h3>
                         <p>Wall-mounted countertops that wrap around your kitchen for maximum workspace and storage.</p>
                     </div>
                 </div>
                 <div class="kitchen-type-card">
-                    <img src="images/kitchen-transitional-calacatta-tray-ceiling.webp" alt="Kitchen backsplash">
+                    <img src="images/kitchen-transitional-calacatta-tray-ceiling.webp" alt="Kitchen backsplash" width="800" height="533" loading="lazy">
                     <div class="kitchen-type-card-content">
                         <h3>Quartz Backsplashes</h3>
                         <p>Matching quartz backsplashes from 4" to full wall coverage for a seamless, easy-clean design.</p>
                     </div>
                 </div>
                 <div class="kitchen-type-card">
-                    <img src="images/kitchen-bar-calacatta-sage-stools.webp" alt="Breakfast bar countertop">
+                    <img src="images/kitchen-bar-calacatta-sage-stools.webp" alt="Breakfast bar countertop" width="800" height="533" loading="lazy">
                     <div class="kitchen-type-card-content">
                         <h3>Breakfast Bars</h3>
                         <p>Extended countertop overhangs for casual dining, homework stations, or morning coffee.</p>

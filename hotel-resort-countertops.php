@@ -164,7 +164,7 @@
 
     <section class="hero">
         <div class="hero-bg">
-            <img src="images/hotel-lobby-white-marble-reception-palms.webp" alt="Hotel lobby quartz countertops reception desk South Florida">
+            <img src="images/hotel-lobby-white-marble-reception-palms.webp" alt="Hotel lobby quartz countertops reception desk South Florida" width="800" height="800" loading="lazy">
         </div>
         <div class="hero-container">
             <div class="hero-content">
@@ -265,7 +265,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <img src="images/hotel-buffet-white-marble-counter-flowers.webp" alt="Hotel buffet quartz countertops">
+                    <img src="images/hotel-buffet-white-marble-counter-flowers.webp" alt="Hotel buffet quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>

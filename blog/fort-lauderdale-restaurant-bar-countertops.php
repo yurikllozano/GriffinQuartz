@@ -94,7 +94,7 @@
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero">
-            <img src="../images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with black and gold quartz countertop in Fort Lauderdale restaurant" class="blog-hero-image" loading="eager">
+            <img src="../images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with black and gold quartz countertop in Fort Lauderdale restaurant" class="blog-hero-image" loading="eager" width="800" height="800">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team • Jan 09, 2025</span>

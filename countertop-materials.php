@@ -767,7 +767,7 @@
     <!-- Hero Section -->
     <section class="materials-hero">
         <div class="hero-background">
-            <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Stunning stone countertops in a modern South Florida kitchen" loading="eager">
+            <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Stunning stone countertops in a modern South Florida kitchen" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -793,7 +793,7 @@
             <div class="materials-grid">
                 <!-- Quartz -->
                 <div class="material-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops in modern South Florida kitchen">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops in modern South Florida kitchen" width="800" height="800" loading="lazy">
                     <div class="card-overlay">
                         <span class="card-badge">Most Popular</span>
                         <h3>Quartz Countertops</h3>
@@ -809,7 +809,7 @@
 
                 <!-- Quartzite -->
                 <div class="material-card">
-                    <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Quartzite countertops with dramatic veining">
+                    <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Quartzite countertops with dramatic veining" width="800" height="603" loading="lazy">
                     <div class="card-overlay">
                         <span class="card-badge">Heat Resistant</span>
                         <h3>Quartzite Countertops</h3>
@@ -825,7 +825,7 @@
 
                 <!-- Marble -->
                 <div class="material-card">
-                    <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Luxurious marble countertops in South Florida home">
+                    <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Luxurious marble countertops in South Florida home" width="800" height="448" loading="lazy">
                     <div class="card-overlay">
                         <span class="card-badge">Timeless Luxury</span>
                         <h3>Marble Countertops</h3>
@@ -841,7 +841,7 @@
 
                 <!-- Granite -->
                 <div class="material-card">
-                    <img src="images/kitchen-coastal-oak-wicker-stools.webp" alt="Classic granite countertops in coastal kitchen">
+                    <img src="images/kitchen-coastal-oak-wicker-stools.webp" alt="Classic granite countertops in coastal kitchen" width="800" height="603" loading="lazy">
                     <div class="card-overlay">
                         <span class="card-badge">Best Value</span>
                         <h3>Granite Countertops</h3>
@@ -857,7 +857,7 @@
 
                 <!-- Semi-Precious Stone -->
                 <div class="material-card">
-                    <img src="images/commercial-beachfront-lobby-backlit.webp" alt="Backlit semi-precious stone countertop">
+                    <img src="images/commercial-beachfront-lobby-backlit.webp" alt="Backlit semi-precious stone countertop" width="800" height="800" loading="lazy">
                     <div class="card-overlay">
                         <span class="card-badge">Ultra Luxury</span>
                         <h3>Semi-Precious Stone</h3>

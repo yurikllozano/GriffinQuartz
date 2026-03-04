@@ -183,7 +183,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/kitchen-highrise-condo-intracoastal.webp" alt="Modern condo kitchen renovation with quartz countertops overlooking Fort Lauderdale Intracoastal" class="blog-hero-image" loading="eager">
+            <img src="../images/kitchen-highrise-condo-intracoastal.webp" alt="Modern condo kitchen renovation with quartz countertops overlooking Fort Lauderdale Intracoastal" class="blog-hero-image" loading="eager" width="800" height="533">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 13, 2025</span>

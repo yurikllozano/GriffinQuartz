@@ -172,7 +172,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/poolside-white-marble-island-palms-dusk.webp" alt="Luxury quartz countertops in Fort Lauderdale Florida waterfront home with palm trees" loading="eager">
+            <img src="images/poolside-white-marble-island-palms-dusk.webp" alt="Luxury quartz countertops in Fort Lauderdale Florida waterfront home with palm trees" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -258,19 +258,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Fort Lauderdale waterfront home" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Fort Lauderdale waterfront home" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Fort Lauderdale kitchen</strong> with stunning quartz surfaces. We specialize in expansive waterfall islands, integrated outdoor kitchen transitions, and <strong>precision fabrication</strong> for seamless results in yacht-access homes.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Fort Lauderdale condo" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Fort Lauderdale condo" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Fort Lauderdale bathroom</strong> with elegant quartz vanity tops. From spa-like master baths to guest powder rooms, our surfaces offer the <strong>moisture resistance</strong> essential for coastal living.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Fort Lauderdale restaurant on Las Olas" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Fort Lauderdale restaurant on Las Olas" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Serving <strong>Fort Lauderdale businesses</strong>—Las Olas restaurants, beach hotels, yacht clubs, and medical offices. Commercial-grade quartz that withstands heavy use while maintaining its luxurious appearance.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

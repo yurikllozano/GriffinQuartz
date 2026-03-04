@@ -172,7 +172,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white quartz kitchen countertops with gold fixtures in Miami Beach oceanfront condo" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white quartz kitchen countertops with gold fixtures in Miami Beach oceanfront condo" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -258,19 +258,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Miami Beach oceanfront condo" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Miami Beach oceanfront condo" loading="lazy" width="800" height="800">
                     <h3>Oceanfront Condo Kitchens</h3>
                     <p>Transform your <strong>Miami Beach condo kitchen</strong> with stunning quartz surfaces engineered for coastal living. We specialize in waterfall islands, integrated backsplashes, and seamless designs that maximize your oceanfront views. Our <strong>high-rise expertise</strong> ensures smooth installations in buildings from South Beach to Surfside.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Miami Beach penthouse" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Miami Beach penthouse" loading="lazy" width="800" height="800">
                     <h3>Luxury Bathroom Vanities</h3>
                     <p>Elevate your <strong>Miami Beach bathroom</strong> with elegant quartz vanity tops that resist humidity and salt air. From spa-inspired master baths to guest powder rooms, we create custom pieces that combine <strong>Art Deco glamour</strong> with coastal durability.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Miami Beach restaurant" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Miami Beach restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial & Hospitality</h3>
                     <p>Griffin Quartz serves <strong>Miami Beach's world-renowned hospitality industry</strong>. We install quartz surfaces in boutique hotels, Ocean Drive restaurants, nightclubs, and retail spaces. Our commercial-grade surfaces withstand heavy use while maintaining the luxury aesthetic Miami Beach demands.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

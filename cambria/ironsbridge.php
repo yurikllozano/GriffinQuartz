@@ -228,7 +228,7 @@
     <!-- Product Hero -->
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-ironsbridge-kitchen.webp" alt="Cambria Ironsbridge quartz countertop in transitional kitchen" loading="eager">
+            <img src="../images/cambria-ironsbridge-kitchen.webp" alt="Cambria Ironsbridge quartz countertop in transitional kitchen" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -268,7 +268,7 @@
 
             <div class="product-swatch-showcase">
                 <div class="main-swatch">
-                    <img src="../images/cambria-products/ironsbridge.jpg" alt="Cambria Ironsbridge quartz sample">
+                    <img src="../images/cambria-products/ironsbridge.webp" alt="Cambria Ironsbridge quartz sample" width="724" height="500" loading="lazy">
                 </div>
                 <div class="swatch-label">
                     <h3>Ironsbridge</h3>
@@ -349,7 +349,7 @@
             <div class="related-grid">
                 <a href="delgatie" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-delgatie.jpg" alt="Delgatie" loading="lazy">
+                        <img src="../images/cambria-products/swatch-delgatie.webp" alt="Delgatie" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Delgatie</h3>
@@ -357,7 +357,7 @@
                 </a>
                 <a href="weybourne" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-weybourne.jpg" alt="Weybourne" loading="lazy">
+                        <img src="../images/cambria-products/swatch-weybourne.webp" alt="Weybourne" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Weybourne</h3>
@@ -365,7 +365,7 @@
                 </a>
                 <a href="montgomery" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-montgomery.jpg" alt="Montgomery" loading="lazy">
+                        <img src="../images/cambria-products/swatch-montgomery.webp" alt="Montgomery" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Montgomery</h3>
@@ -373,7 +373,7 @@
                 </a>
                 <a href="summerhill" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-summerhill.jpg" alt="Summerhill" loading="lazy">
+                        <img src="../images/cambria-products/swatch-summerhill.webp" alt="Summerhill" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Summerhill</h3>

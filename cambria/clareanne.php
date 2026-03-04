@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-clareanne-kitchen.webp" alt="Cambria Clareanne quartz countertop" loading="eager">
+            <img src="../images/cambria-clareanne-kitchen.webp" alt="Cambria Clareanne quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/clareanne.jpg" alt="Cambria Clareanne sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/clareanne.webp" width="724" height="500" alt="Cambria Clareanne sample" loading="lazy"></div>
                 <div class="swatch-label"><h3>Clareanne</h3><p>Cambria Luxury Collection</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Luxury Designs</h2></div>
             <div class="related-grid">
-                <a href="brittanicca-gold" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca-gold.jpg" alt="Brittanicca Gold"></div><div class="related-card-content"><h3>Brittanicca Gold</h3></div></a>
-                <a href="portrush" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-portrush.jpg" alt="Portrush"></div><div class="related-card-content"><h3>Portrush</h3></div></a>
-                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.jpg" alt="Brittanicca"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
-                <a href="inverness-frost" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-inverness-frost.jpg" alt="Inverness Frost"></div><div class="related-card-content"><h3>Inverness Frost</h3></div></a>
+                <a href="brittanicca-gold" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca-gold.webp" alt="Brittanicca Gold" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca Gold</h3></div></a>
+                <a href="portrush" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-portrush.webp" alt="Portrush" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Portrush</h3></div></a>
+                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.webp" alt="Brittanicca" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
+                <a href="inverness-frost" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-inverness-frost.webp" alt="Inverness Frost" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Inverness Frost</h3></div></a>
             </div>
         </div>
     </section>

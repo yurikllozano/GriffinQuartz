@@ -128,7 +128,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with quartz countertops in Coconut Creek Florida" loading="eager">
+            <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with quartz countertops in Coconut Creek Florida" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -214,19 +214,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Bright kitchen with quartz countertops in Coconut Creek" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Bright kitchen with quartz countertops in Coconut Creek" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Coconut Creek kitchen</strong> with stunning quartz surfaces. From compact galley kitchens to open-concept layouts, we create beautiful, functional spaces tailored to your lifestyle and budget.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Modern bathroom vanity in Coconut Creek home" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Modern bathroom vanity in Coconut Creek home" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Upgrade your <strong>Coconut Creek bathroom</strong> with elegant quartz vanity tops. Our moisture-resistant surfaces are perfect for Florida's humidity, combining beauty with practical durability.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Bathroom Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen space in Coconut Creek" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen space in Coconut Creek" loading="lazy" width="800" height="533">
                     <h3>Outdoor Living</h3>
                     <p><strong>Coconut Creek outdoor kitchens</strong> deserve premium surfaces. Our UV-stable and weather-resistant quartz options create stunning outdoor entertainment spaces that last.</p>
                     <a href="our-services" class="btn btn-outline">Outdoor Options</a>

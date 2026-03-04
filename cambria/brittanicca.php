@@ -617,7 +617,7 @@
     <!-- Product Hero -->
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-brittanicca-kitchen.webp" alt="Cambria Brittanicca quartz countertop in modern kitchen" loading="eager">
+            <img src="../images/cambria-brittanicca-kitchen.webp" alt="Cambria Brittanicca quartz countertop in modern kitchen" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -657,7 +657,7 @@
 
             <div class="product-swatch-showcase">
                 <div class="main-swatch">
-                    <img src="../images/cambria-products/brittanicca.jpg" alt="Cambria Brittanicca quartz sample">
+                    <img src="../images/cambria-products/brittanicca.webp" alt="Cambria Brittanicca quartz sample" width="724" height="500" loading="lazy">
                 </div>
                 <div class="swatch-label">
                     <h3>Brittanicca</h3>
@@ -781,22 +781,22 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="../images/brittanicca-kitchen-island.webp" alt="Brittanicca quartz kitchen island" loading="lazy">
+                    <img src="../images/brittanicca-kitchen-island.webp" alt="Brittanicca quartz kitchen island" loading="lazy" width="800" height="533">
                 </div>
                 <div class="gallery-item">
-                    <img src="../images/brittanicca-waterfall.webp" alt="Brittanicca waterfall edge countertop" loading="lazy">
+                    <img src="../images/brittanicca-waterfall.webp" alt="Brittanicca waterfall edge countertop" loading="lazy" width="800" height="533">
                 </div>
                 <div class="gallery-item">
-                    <img src="../images/brittanicca-bathroom.webp" alt="Brittanicca bathroom vanity" loading="lazy">
+                    <img src="../images/brittanicca-bathroom.webp" alt="Brittanicca bathroom vanity" loading="lazy" width="800" height="533">
                 </div>
                 <div class="gallery-item">
-                    <img src="../images/brittanicca-backsplash.webp" alt="Brittanicca full height backsplash" loading="lazy">
+                    <img src="../images/brittanicca-backsplash.webp" alt="Brittanicca full height backsplash" loading="lazy" width="800" height="533">
                 </div>
                 <div class="gallery-item">
-                    <img src="../images/brittanicca-modern-kitchen.webp" alt="Brittanicca in modern white kitchen" loading="lazy">
+                    <img src="../images/brittanicca-modern-kitchen.webp" alt="Brittanicca in modern white kitchen" loading="lazy" width="800" height="533">
                 </div>
                 <div class="gallery-item">
-                    <img src="../images/brittanicca-detail.webp" alt="Brittanicca veining detail" loading="lazy">
+                    <img src="../images/brittanicca-detail.webp" alt="Brittanicca veining detail" loading="lazy" width="800" height="533">
                 </div>
             </div>
         </div>
@@ -813,7 +813,7 @@
             <div class="related-grid">
                 <a href="brittanicca-gold" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-brittanicca-gold.jpg" alt="Brittanicca Gold" loading="lazy">
+                        <img src="../images/cambria-products/swatch-brittanicca-gold.webp" alt="Brittanicca Gold" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Brittanicca Gold</h3>
@@ -821,7 +821,7 @@
                 </a>
                 <a href="brittanicca-warm" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-brittanicca-warm.jpg" alt="Brittanicca Warm" loading="lazy">
+                        <img src="../images/cambria-products/swatch-brittanicca-warm.webp" alt="Brittanicca Warm" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Brittanicca Warm</h3>
@@ -829,7 +829,7 @@
                 </a>
                 <a href="ella" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-ella.jpg" alt="Ella" loading="lazy">
+                        <img src="../images/cambria-products/swatch-ella.webp" alt="Ella" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Ella</h3>
@@ -837,7 +837,7 @@
                 </a>
                 <a href="swanbridge" class="related-card">
                     <div class="related-card-image">
-                        <img src="../images/cambria-products/swatch-swanbridge.jpg" alt="Swanbridge" loading="lazy">
+                        <img src="../images/cambria-products/swatch-swanbridge.webp" alt="Swanbridge" loading="lazy" width="724" height="500">
                     </div>
                     <div class="related-card-content">
                         <h3>Swanbridge</h3>

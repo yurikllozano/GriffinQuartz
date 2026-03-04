@@ -167,7 +167,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Coastal Fort Lauderdale kitchen with white Calacatta quartz countertops" class="blog-hero-image" loading="eager">
+            <img src="../images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Coastal Fort Lauderdale kitchen with white Calacatta quartz countertops" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 12, 2025</span>

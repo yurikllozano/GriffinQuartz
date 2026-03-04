@@ -179,7 +179,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Quartz and granite countertop samples comparison in Fort Lauderdale" class="blog-hero-image" loading="eager">
+            <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Quartz and granite countertop samples comparison in Fort Lauderdale" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 14, 2025</span>

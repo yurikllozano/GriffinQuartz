@@ -1253,7 +1253,7 @@
     <!-- Hero Section -->
     <section class="service-hero" id="quote-form">
         <div class="hero-background">
-            <img src="images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Luxury outdoor kitchen with quartz countertops by the pool at dusk" loading="eager">
+            <img src="images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Luxury outdoor kitchen with quartz countertops by the pool at dusk" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-container">
@@ -1344,29 +1344,29 @@
                         <h3>Select Your Outdoor Space Type</h3>
                         <div class="option-grid">
                             <div class="option-card" data-value="island" data-price="0">
-                                <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Outdoor Kitchen Island">
+                                <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Outdoor Kitchen Island" width="800" height="400" loading="lazy">
                                 <h4>Outdoor Kitchen Island</h4>
                                 <p>Single island with grill</p>
                             </div>
                             <div class="option-card" data-value="poolbar" data-price="200">
-                                <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Pool Bar">
+                                <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Pool Bar" width="800" height="533" loading="lazy">
                                 <h4>Pool Bar</h4>
                                 <p>Swim-up or poolside bar</p>
                                 <span class="price">+$200</span>
                             </div>
                             <div class="option-card" data-value="bbq" data-price="0">
-                                <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="BBQ Station">
+                                <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="BBQ Station" width="800" height="533" loading="lazy">
                                 <h4>BBQ Station</h4>
                                 <p>Compact grilling station</p>
                             </div>
                             <div class="option-card" data-value="full" data-price="400">
-                                <img src="images/outdoor-kitchen-led-underglow-pool.webp" alt="Full Outdoor Kitchen">
+                                <img src="images/outdoor-kitchen-led-underglow-pool.webp" alt="Full Outdoor Kitchen" width="800" height="533" loading="lazy">
                                 <h4>Full Outdoor Kitchen</h4>
                                 <p>Complete cooking & prep area</p>
                                 <span class="price">+$400</span>
                             </div>
                             <div class="option-card" data-value="lshaped" data-price="500">
-                                <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="L-Shaped Outdoor Kitchen">
+                                <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="L-Shaped Outdoor Kitchen" width="800" height="400" loading="lazy">
                                 <h4>L-Shaped Kitchen</h4>
                                 <p>Wraparound configuration</p>
                                 <span class="price">+$500</span>
@@ -1569,7 +1569,7 @@
         <div class="container">
             <div class="content-grid">
                 <div class="content-image">
-                    <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Modern outdoor kitchen with pool and glass pendant lights">
+                    <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Modern outdoor kitchen with pool and glass pendant lights" width="800" height="400" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Why Choose Premium Materials for Outdoor Living</h2>
@@ -1586,7 +1586,7 @@
 
             <div class="content-grid reverse" style="margin-top: 5rem;">
                 <div class="content-image">
-                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Outdoor bar with infinity pool at sunset">
+                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Outdoor bar with infinity pool at sunset" width="800" height="533" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Custom Fabrication for Every Outdoor Project</h2>
@@ -1629,7 +1629,7 @@
                     </ul>
                 </div>
                 <div class="content-image">
-                    <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="Covered outdoor kitchen with fireplace and wood ceiling">
+                    <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="Covered outdoor kitchen with fireplace and wood ceiling" width="800" height="533" loading="lazy">
                 </div>
             </div>
         </div>
@@ -1643,42 +1643,42 @@
             </div>
             <div class="project-types-grid">
                 <div class="project-type-card">
-                    <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Outdoor kitchen countertops">
+                    <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Outdoor kitchen countertops" width="800" height="400" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Outdoor Kitchens</h3>
                         <p>Complete outdoor cooking stations with counters for prep, serving, and dining. Built-in grills, refrigerators, and storage integrated seamlessly.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Pool bar countertops">
+                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Pool bar countertops" width="800" height="533" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Pool Bars</h3>
                         <p>Swim-up bars and poolside serving areas designed for entertaining. Water-resistant surfaces perfect for the pool environment.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="BBQ island countertops">
+                    <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="BBQ island countertops" width="800" height="533" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>BBQ Islands</h3>
                         <p>Dedicated grilling stations with heat-resistant counters. Custom cutouts for grills, side burners, and smokers.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/outdoor-kitchen-led-underglow-pool.webp" alt="Covered patio countertops">
+                    <img src="images/outdoor-kitchen-led-underglow-pool.webp" alt="Covered patio countertops" width="800" height="533" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Covered Patios</h3>
                         <p>Protected outdoor living spaces featuring bar counters, serving areas, and outdoor kitchen setups under pergolas or roofs.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Outdoor dining area countertops">
+                    <img src="images/outdoor-kitchen-pool-glass-pendants.webp" alt="Outdoor dining area countertops" width="800" height="400" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Outdoor Dining Areas</h3>
                         <p>Built-in dining counters and bar-height eating areas that extend your living space outdoors for al fresco entertaining.</p>
                     </div>
                 </div>
                 <div class="project-type-card">
-                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Fire pit seating countertops">
+                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Fire pit seating countertops" width="800" height="533" loading="lazy">
                     <div class="project-type-card-content">
                         <h3>Fire Pit Seating</h3>
                         <p>Integrated seating walls and serving ledges around fire features. Heat-resistant materials ensure lasting beauty.</p>

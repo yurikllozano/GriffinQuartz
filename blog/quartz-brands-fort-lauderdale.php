@@ -140,7 +140,7 @@
     <article class="blog-article">
         <!-- Hero Header -->
         <div class="blog-hero">
-            <img src="../images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Modern Fort Lauderdale kitchen featuring premium gray quartz countertops" class="blog-hero-image" loading="eager">
+            <img src="../images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Modern Fort Lauderdale kitchen featuring premium gray quartz countertops" class="blog-hero-image" loading="eager" width="800" height="800">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 6, 2025</span>

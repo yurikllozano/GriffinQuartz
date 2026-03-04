@@ -172,7 +172,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/tropical-outdoor-kitchen-teal-cabinets-rattan.webp" alt="Luxury quartz countertops in modern Miami Florida kitchen with tropical design" loading="eager">
+            <img src="images/tropical-outdoor-kitchen-teal-cabinets-rattan.webp" alt="Luxury quartz countertops in modern Miami Florida kitchen with tropical design" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -258,19 +258,19 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Miami home" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Miami home" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Miami kitchen</strong> with stunning quartz surfaces. Kitchen islands, waterfall edges, and integrated backsplashes with <strong>precision fabrication</strong> for seamless results.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Miami condo" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Miami condo" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Miami bathroom</strong> with elegant quartz vanity tops. From single sink vanities to double configurations with the <strong>moisture resistance</strong> Miami's climate demands.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Miami restaurant" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Miami restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Serving <strong>Miami businesses</strong>—restaurants, hotels, medical offices, and retail. Commercial-grade quartz that withstands heavy use while maintaining its luxurious appearance.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>

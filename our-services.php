@@ -756,7 +756,7 @@
     <!-- Hero Section -->
     <section class="services-hero">
         <div class="hero-background">
-            <img src="images/rooftop-outdoor-kitchen-sunset-skyline.webp" alt="Expert quartz countertop services in South Florida - residential and commercial installation" loading="eager">
+            <img src="images/rooftop-outdoor-kitchen-sunset-skyline.webp" alt="Expert quartz countertop services in South Florida - residential and commercial installation" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">

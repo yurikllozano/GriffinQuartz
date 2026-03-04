@@ -125,7 +125,7 @@
 
     <section class="hero">
         <div class="hero-bg">
-            <img src="images/commercial-condo-lobby-palms.webp" alt="Multi-unit residential quartz countertops South Florida">
+            <img src="images/commercial-condo-lobby-palms.webp" alt="Multi-unit residential quartz countertops South Florida" width="800" height="800" loading="lazy">
         </div>
         <div class="hero-container">
             <div class="hero-content">
@@ -226,7 +226,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Apartment kitchen quartz countertops">
+                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Apartment kitchen quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>

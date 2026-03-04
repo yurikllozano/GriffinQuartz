@@ -102,7 +102,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Sunny Isles Beach oceanfront condo" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Sunny Isles Beach oceanfront condo" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -155,19 +155,19 @@
             <h2 class="section-title">Quartz Countertop Services in Sunny Isles Beach</h2>
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Sunny Isles Beach condo" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Sunny Isles Beach condo" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Sunny Isles Beach kitchen</strong> with expansive quartz islands, waterfall edges, and seamless countertops designed for oceanfront living.</p>
                     <a href="kitchen-countertops" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Sunny Isles Beach" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Sunny Isles Beach" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
                     <p>Elevate your <strong>Sunny Isles bathroom</strong> with elegant quartz vanity tops that resist humidity in spa-like master baths.</p>
                     <a href="bathroom-vanity-countertops" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Sunny Isles Beach" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Sunny Isles Beach" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Sunny Isles Beach businesses</strong> including hotel lobbies, restaurants, and amenity spaces.</p>
                     <a href="commercial-countertops" class="btn btn-outline">Commercial Services</a>

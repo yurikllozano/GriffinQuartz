@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-blackpool-kitchen.webp" alt="Cambria Blackpool quartz countertop" loading="eager">
+            <img src="../images/cambria-blackpool-kitchen.webp" alt="Cambria Blackpool quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/blackpool.jpg" alt="Cambria Blackpool sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/blackpool.webp" width="724" height="500" alt="Cambria Blackpool sample" loading="lazy"></div>
                 <div class="swatch-label"><h3>Blackpool</h3><p>Cambria Luxury Series</p></div>
             </div>
         </div>
@@ -95,10 +95,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Dark Designs</h2></div>
             <div class="related-grid">
-                <a href="carrick" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-carrick.jpg" alt="Carrick"></div><div class="related-card-content"><h3>Carrick</h3></div></a>
-                <a href="portrush" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-portrush.jpg" alt="Portrush"></div><div class="related-card-content"><h3>Portrush</h3></div></a>
-                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.jpg" alt="Brittanicca"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
-                <a href="ironsbridge" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ironsbridge.jpg" alt="Ironsbridge"></div><div class="related-card-content"><h3>Ironsbridge</h3></div></a>
+                <a href="carrick" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-carrick.webp" alt="Carrick" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Carrick</h3></div></a>
+                <a href="portrush" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-portrush.webp" alt="Portrush" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Portrush</h3></div></a>
+                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.webp" alt="Brittanicca" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
+                <a href="ironsbridge" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ironsbridge.webp" alt="Ironsbridge" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Ironsbridge</h3></div></a>
             </div>
         </div>
     </section>

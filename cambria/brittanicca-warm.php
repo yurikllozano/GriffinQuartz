@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-brittanicca-warm-kitchen.webp" alt="Cambria Brittanicca Warm quartz countertop" loading="eager">
+            <img src="../images/cambria-brittanicca-warm-kitchen.webp" alt="Cambria Brittanicca Warm quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/brittanicca-warm.jpg" alt="Cambria Brittanicca Warm sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/brittanicca-warm.webp" alt="Cambria Brittanicca Warm sample" width="724" height="500" loading="lazy"></div>
                 <div class="swatch-label"><h3>Brittanicca Warm</h3><p>Cambria Brittanicca Collection</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>The Brittanicca Collection</h2></div>
             <div class="related-grid">
-                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.jpg" alt="Brittanicca"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
-                <a href="brittanicca-gold" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca-gold.jpg" alt="Brittanicca Gold"></div><div class="related-card-content"><h3>Brittanicca Gold</h3></div></a>
-                <a href="delgatie" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-delgatie.jpg" alt="Delgatie"></div><div class="related-card-content"><h3>Delgatie</h3></div></a>
-                <a href="sandgate" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-sandgate.jpg" alt="Sandgate"></div><div class="related-card-content"><h3>Sandgate</h3></div></a>
+                <a href="brittanicca" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca.webp" alt="Brittanicca" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca</h3></div></a>
+                <a href="brittanicca-gold" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca-gold.webp" alt="Brittanicca Gold" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca Gold</h3></div></a>
+                <a href="delgatie" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-delgatie.webp" alt="Delgatie" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Delgatie</h3></div></a>
+                <a href="sandgate" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-sandgate.webp" alt="Sandgate" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Sandgate</h3></div></a>
             </div>
         </div>
     </section>

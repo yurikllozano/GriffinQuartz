@@ -81,7 +81,7 @@
             <div class="blog-index-grid">
                 <!-- Fort Lauderdale Blog Posts -->
                 <a href="fort-lauderdale-waterfront-kitchen-countertops" class="blog-index-card">
-                    <img src="../images/kitchen-waterfront-palms-orchids.webp" alt="Kitchen countertops for Fort Lauderdale waterfront homes" loading="lazy">
+                    <img src="../images/kitchen-waterfront-palms-orchids.webp" alt="Kitchen countertops for Fort Lauderdale waterfront homes" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 15, 2025</span>
                         <h2>Best Kitchen Countertops for Fort Lauderdale Waterfront Homes</h2>
@@ -90,7 +90,7 @@
                 </a>
 
                 <a href="quartz-vs-granite-fort-lauderdale" class="blog-index-card">
-                    <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Quartz vs granite comparison Fort Lauderdale" loading="lazy">
+                    <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Quartz vs granite comparison Fort Lauderdale" loading="lazy" width="800" height="603">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 14, 2025</span>
                         <h2>Quartz vs Granite: Which Is Better for Fort Lauderdale's Climate?</h2>
@@ -99,7 +99,7 @@
                 </a>
 
                 <a href="fort-lauderdale-condo-kitchen-renovation" class="blog-index-card">
-                    <img src="../images/kitchen-highrise-condo-intracoastal.webp" alt="Fort Lauderdale condo kitchen renovation" loading="lazy">
+                    <img src="../images/kitchen-highrise-condo-intracoastal.webp" alt="Fort Lauderdale condo kitchen renovation" loading="lazy" width="800" height="533">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 13, 2025</span>
                         <h2>Fort Lauderdale Condo Kitchen Renovations: Complete Guide</h2>
@@ -108,7 +108,7 @@
                 </a>
 
                 <a href="quartz-colors-fort-lauderdale-coastal-homes" class="blog-index-card">
-                    <img src="../images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Quartz colors for Fort Lauderdale coastal homes" loading="lazy">
+                    <img src="../images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Quartz colors for Fort Lauderdale coastal homes" loading="lazy" width="800" height="603">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 12, 2025</span>
                         <h2>How to Choose Quartz Colors for Fort Lauderdale Coastal Homes</h2>
@@ -117,7 +117,7 @@
                 </a>
 
                 <a href="outdoor-kitchen-countertops-fort-lauderdale" class="blog-index-card">
-                    <img src="../images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Outdoor kitchen countertops Fort Lauderdale" loading="lazy">
+                    <img src="../images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Outdoor kitchen countertops Fort Lauderdale" loading="lazy" width="800" height="533">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 11, 2025</span>
                         <h2>Outdoor Kitchen Countertops for Fort Lauderdale Pool Areas</h2>
@@ -126,7 +126,7 @@
                 </a>
 
                 <a href="bathroom-vanity-countertops-fort-lauderdale-2025" class="blog-index-card">
-                    <img src="../images/bathroom-spa-calacatta-walnut-tub.webp" alt="Bathroom vanity countertops Fort Lauderdale 2025" loading="lazy">
+                    <img src="../images/bathroom-spa-calacatta-walnut-tub.webp" alt="Bathroom vanity countertops Fort Lauderdale 2025" loading="lazy" width="800" height="533">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 10, 2025</span>
                         <h2>Bathroom Vanity Countertops: Fort Lauderdale Design Trends 2025</h2>
@@ -135,7 +135,7 @@
                 </a>
 
                 <a href="fort-lauderdale-restaurant-bar-countertops" class="blog-index-card">
-                    <img src="../images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Restaurant and bar countertops Fort Lauderdale" loading="lazy">
+                    <img src="../images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Restaurant and bar countertops Fort Lauderdale" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 9, 2025</span>
                         <h2>Fort Lauderdale Restaurant & Bar Countertops: Commercial Guide</h2>
@@ -144,7 +144,7 @@
                 </a>
 
                 <a href="quartz-countertops-cost-fort-lauderdale-2025" class="blog-index-card">
-                    <img src="../images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops cost Fort Lauderdale 2025" loading="lazy">
+                    <img src="../images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops cost Fort Lauderdale 2025" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 8, 2025</span>
                         <h2>Cost of Quartz Countertops in Fort Lauderdale: 2025 Price Guide</h2>
@@ -153,7 +153,7 @@
                 </a>
 
                 <a href="quartz-installation-process-fort-lauderdale" class="blog-index-card">
-                    <img src="../images/installation-team-penthouse-slab.webp" alt="Quartz countertop installation process Fort Lauderdale" loading="lazy">
+                    <img src="../images/installation-team-penthouse-slab.webp" alt="Quartz countertop installation process Fort Lauderdale" loading="lazy" width="800" height="603">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 7, 2025</span>
                         <h2>Quartz Countertop Installation Process in Fort Lauderdale</h2>
@@ -162,7 +162,7 @@
                 </a>
 
                 <a href="quartz-brands-fort-lauderdale" class="blog-index-card">
-                    <img src="../images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Top quartz brands Fort Lauderdale" loading="lazy">
+                    <img src="../images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Top quartz brands Fort Lauderdale" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Griffin Quartz Team • Jan 6, 2025</span>
                         <h2>Top Quartz Brands Available in Fort Lauderdale</h2>
@@ -172,7 +172,7 @@
 
                 <!-- Existing Blog Posts -->
                 <a href="white-quartz-countertops" class="blog-index-card">
-                    <img src="../images/waterfront-patio-quartz-table-marina-sunset.webp" alt="White quartz countertops South Florida" loading="lazy">
+                    <img src="../images/waterfront-patio-quartz-table-marina-sunset.webp" alt="White quartz countertops South Florida" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Yurik Lozano • Aug 20, 2025</span>
                         <h2>White Quartz Countertops in South Florida</h2>
@@ -181,7 +181,7 @@
                 </a>
 
                 <a href="quartz-countertops-cost" class="blog-index-card">
-                    <img src="../images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops cost guide" loading="lazy">
+                    <img src="../images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops cost guide" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Yurik Lozano • Aug 18, 2025</span>
                         <h2>Quartz Countertops Cost: Complete Guide</h2>
@@ -190,7 +190,7 @@
                 </a>
 
                 <a href="quartz-pricing-guide" class="blog-index-card">
-                    <img src="../images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Quartz pricing guide" loading="lazy">
+                    <img src="../images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Quartz pricing guide" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Yurik Lozano • Aug 15, 2025</span>
                         <h2>Quartz Countertop Pricing Guide</h2>
@@ -199,7 +199,7 @@
                 </a>
 
                 <a href="top-10-countertop-installation" class="blog-index-card">
-                    <img src="../images/kitchen-white-gold-quartz-coffee-bar.webp" alt="Top countertop installation tips" loading="lazy">
+                    <img src="../images/kitchen-white-gold-quartz-coffee-bar.webp" width="800" height="533" alt="Top countertop installation tips" loading="lazy">
                     <div class="blog-index-card-content">
                         <span class="blog-meta">By Yurik Lozano • Aug 10, 2025</span>
                         <h2>Top 10 Countertop Installation Tips</h2>

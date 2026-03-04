@@ -23,7 +23,7 @@
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero">
-            <img src="../images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Modern luxury kitchen with quartz countertops" class="blog-hero-image" loading="eager">
+            <img src="../images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Modern luxury kitchen with quartz countertops" class="blog-hero-image" loading="eager" width="800" height="448">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 22, 2026</span>

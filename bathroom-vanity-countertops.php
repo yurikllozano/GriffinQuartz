@@ -1112,7 +1112,7 @@
     <!-- Hero Section -->
     <section class="service-hero" id="quote-form">
         <div class="hero-background">
-            <img src="images/bathroom-spa-calacatta-walnut-tub.webp" alt="Luxury bathroom with quartz vanity countertop" loading="eager">
+            <img src="images/bathroom-spa-calacatta-walnut-tub.webp" alt="Luxury bathroom with quartz vanity countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-container">
@@ -1203,24 +1203,24 @@
                         <h3>Select Your Vanity Type</h3>
                         <div class="option-grid">
                             <div class="option-card" data-value="single" data-price="0">
-                                <img src="images/bathroom-white-quartz-orchids-coastal.webp" alt="Single Vanity">
+                                <img src="images/bathroom-white-quartz-orchids-coastal.webp" alt="Single Vanity" width="800" height="533" loading="lazy">
                                 <h4>Single Vanity</h4>
                                 <p>One sink, perfect for powder rooms</p>
                             </div>
                             <div class="option-card" data-value="double" data-price="200">
-                                <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double Vanity">
+                                <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double Vanity" width="800" height="533" loading="lazy">
                                 <h4>Double Vanity</h4>
                                 <p>Two sinks for master bathrooms</p>
                                 <span class="price">+$200</span>
                             </div>
                             <div class="option-card" data-value="floating" data-price="150">
-                                <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Floating Vanity">
+                                <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Floating Vanity" width="800" height="533" loading="lazy">
                                 <h4>Floating Vanity</h4>
                                 <p>Modern wall-mounted design</p>
                                 <span class="price">+$150</span>
                             </div>
                             <div class="option-card" data-value="custom" data-price="300">
-                                <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Custom Vanity">
+                                <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Custom Vanity" width="800" height="533" loading="lazy">
                                 <h4>Custom Design</h4>
                                 <p>Unique shapes and configurations</p>
                                 <span class="price">+$300</span>
@@ -1273,35 +1273,35 @@
                         <p style="color: var(--color-text-secondary); margin-bottom: 1.5rem;">Select from our most popular bathroom colors. Premium selections may have additional costs.</p>
                         <div class="color-swatches">
                             <div class="color-swatch selected" data-color="Calacatta Luxe" data-price="75">
-                                <img src="images/swatch-calacatta-luxe.webp" alt="Calacatta Luxe">
+                                <img src="images/swatch-calacatta-luxe.webp" alt="Calacatta Luxe" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Calacatta Luxe</span>
                             </div>
                             <div class="color-swatch" data-color="Arctic White" data-price="55">
-                                <img src="images/swatch-arctic-white.webp" alt="Arctic White">
+                                <img src="images/swatch-arctic-white.webp" alt="Arctic White" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Arctic White</span>
                             </div>
                             <div class="color-swatch" data-color="Carrara Mist" data-price="70">
-                                <img src="images/swatch-carrara-mist.webp" alt="Carrara Mist">
+                                <img src="images/swatch-carrara-mist.webp" alt="Carrara Mist" width="800" height="603" loading="lazy">
                                 <span class="color-swatch-name">Carrara Mist</span>
                             </div>
                             <div class="color-swatch" data-color="Statuario" data-price="85">
-                                <img src="images/swatch-statuario.webp" alt="Statuario">
+                                <img src="images/swatch-statuario.webp" alt="Statuario" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Statuario</span>
                             </div>
                             <div class="color-swatch" data-color="Calacatta Gold" data-price="95">
-                                <img src="images/swatch-calacatta-gold.webp" alt="Calacatta Gold">
+                                <img src="images/swatch-calacatta-gold.webp" alt="Calacatta Gold" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Calacatta Gold</span>
                             </div>
                             <div class="color-swatch" data-color="Cotton White" data-price="50">
-                                <img src="images/swatch-cotton-white.webp" alt="Cotton White">
+                                <img src="images/swatch-cotton-white.webp" alt="Cotton White" width="800" height="533" loading="lazy">
                                 <span class="color-swatch-name">Cotton White</span>
                             </div>
                             <div class="color-swatch" data-color="Frost" data-price="55">
-                                <img src="images/swatch-frost.webp" alt="Frost">
+                                <img src="images/swatch-frost.webp" alt="Frost" width="600" height="800" loading="lazy">
                                 <span class="color-swatch-name">Frost</span>
                             </div>
                             <div class="color-swatch" data-color="Charcoal" data-price="65">
-                                <img src="images/swatch-charcoal.webp" alt="Charcoal">
+                                <img src="images/swatch-charcoal.webp" alt="Charcoal" width="800" height="449" loading="lazy">
                                 <span class="color-swatch-name">Charcoal</span>
                             </div>
                         </div>
@@ -1424,7 +1424,7 @@
         <div class="container">
             <div class="content-grid">
                 <div class="content-image">
-                    <img src="images/bathroom-penthouse-gray-quartz-ocean.webp" alt="Modern bathroom with quartz vanity">
+                    <img src="images/bathroom-penthouse-gray-quartz-ocean.webp" alt="Modern bathroom with quartz vanity" width="800" height="533" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Why Quartz is Perfect for Bathroom Vanities</h2>
@@ -1441,7 +1441,7 @@
 
             <div class="content-grid reverse" style="margin-top: 5rem;">
                 <div class="content-image">
-                    <img src="images/bathroom-calacatta-vessel-backlit.webp" alt="Luxury bathroom vanity with vessel sinks">
+                    <img src="images/bathroom-calacatta-vessel-backlit.webp" alt="Luxury bathroom vanity with vessel sinks" width="800" height="533" loading="lazy">
                 </div>
                 <div class="content-text">
                     <h2>Custom Fabrication for Every Bathroom</h2>
@@ -1466,21 +1466,21 @@
             </div>
             <div class="vanity-types-grid">
                 <div class="vanity-type-card">
-                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="Single vanity countertop">
+                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="Single vanity countertop" width="800" height="533" loading="lazy">
                     <div class="vanity-type-card-content">
                         <h3>Single Sink Vanities</h3>
                         <p>Perfect for guest bathrooms and powder rooms. Available from 24" to 48" widths with undermount or vessel sink options.</p>
                     </div>
                 </div>
                 <div class="vanity-type-card">
-                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double vanity countertop">
+                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double vanity countertop" width="800" height="533" loading="lazy">
                     <div class="vanity-type-card-content">
                         <h3>Double Sink Vanities</h3>
                         <p>Ideal for master bathrooms. Two sinks with ample counter space, typically 60" to 72" wide for comfortable dual use.</p>
                     </div>
                 </div>
                 <div class="vanity-type-card">
-                    <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Floating vanity countertop">
+                    <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Floating vanity countertop" width="800" height="533" loading="lazy">
                     <div class="vanity-type-card-content">
                         <h3>Floating Vanities</h3>
                         <p>Modern wall-mounted designs that create an open, airy feel. Perfect for contemporary bathrooms seeking clean lines.</p>

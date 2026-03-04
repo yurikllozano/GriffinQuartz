@@ -21,7 +21,7 @@
 <?php $basePath = '..'; include '../includes/header.php'; ?>
     <article class="blog-article">
         <div class="blog-hero">
-            <img src="../images/yacht-galley-white-quartz-ocean.webp" alt="Luxury yacht galley with white quartz countertops and ocean view" class="blog-hero-image" loading="eager">
+            <img src="../images/yacht-galley-white-quartz-ocean.webp" alt="Luxury yacht galley with white quartz countertops and ocean view" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Aug 19, 2025</span>

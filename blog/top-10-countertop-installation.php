@@ -23,7 +23,7 @@
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero">
-            <img src="../images/resort-poolside-outdoor-kitchen-blue-tile.webp" alt="Modern luxury kitchen with marble countertops" class="blog-hero-image" loading="eager">
+            <img src="../images/resort-poolside-outdoor-kitchen-blue-tile.webp" alt="Modern luxury kitchen with marble countertops" class="blog-hero-image" loading="eager" width="800" height="800">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Yurik Lozano • Aug 09, 2025</span>

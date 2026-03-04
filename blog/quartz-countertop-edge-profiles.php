@@ -23,7 +23,7 @@
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero">
-            <img src="../images/fabrication-hands-polishing-quartz.webp" alt="Polishing quartz countertop edge" class="blog-hero-image" loading="eager">
+            <img src="../images/fabrication-hands-polishing-quartz.webp" alt="Polishing quartz countertop edge" class="blog-hero-image" loading="eager" width="800" height="533">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Jan 22, 2026</span>

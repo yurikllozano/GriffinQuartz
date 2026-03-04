@@ -471,7 +471,7 @@
     <!-- Hero Section -->
     <section class="gallery-hero">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz countertop inspiration - kitchen, bathroom and outdoor designs in South Florida" loading="eager">
+            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz countertop inspiration - kitchen, bathroom and outdoor designs in South Florida" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -519,7 +519,7 @@
 
             <div class="featured-style-card">
                 <div class="featured-style-image">
-                    <img src="images/kitchen-beachfront-ocean-view-globes.webp" alt="Coastal beachfront kitchen with white quartz countertops and ocean view in South Florida" loading="lazy">
+                    <img src="images/kitchen-beachfront-ocean-view-globes.webp" alt="Coastal beachfront kitchen with white quartz countertops and ocean view in South Florida" loading="lazy" width="800" height="603">
                 </div>
                 <div class="featured-style-content">
                     <h3>Coastal Kitchen Design</h3>
@@ -537,70 +537,70 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item wide">
-                    <img src="images/kitchen-beachfront-pool-palms.webp" alt="Beachfront kitchen with pool view and palm trees - coastal quartz countertops" loading="lazy">
+                    <img src="images/kitchen-beachfront-pool-palms.webp" alt="Beachfront kitchen with pool view and palm trees - coastal quartz countertops" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Beachfront Paradise</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="Coastal kitchen with wicker bar stools and skylight - white quartz island" loading="lazy">
+                    <img src="images/kitchen-coastal-wicker-stools-skylight.webp" alt="Coastal kitchen with wicker bar stools and skylight - white quartz island" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Skylight Kitchen</h4>
                         <span>Delray Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-coastal-woven-pendants-wood.webp" alt="Coastal kitchen with woven pendant lights and wood cabinets" loading="lazy">
+                    <img src="images/kitchen-coastal-woven-pendants-wood.webp" alt="Coastal kitchen with woven pendant lights and wood cabinets" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Natural Textures</h4>
                         <span>Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Coastal bathroom with floating vanity and ocean view - quartz countertop" loading="lazy">
+                    <img src="images/bathroom-floating-vanity-ocean-view.webp" alt="Coastal bathroom with floating vanity and ocean view - quartz countertop" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Ocean View Bath</h4>
                         <span>Miami Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-coastal-blue-tile-backsplash.webp" alt="Coastal kitchen with blue tile backsplash and white quartz counters" loading="lazy">
+                    <img src="images/kitchen-coastal-blue-tile-backsplash.webp" alt="Coastal kitchen with blue tile backsplash and white quartz counters" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Blue Tile Accent</h4>
                         <span>Jupiter</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Coastal kitchen with Calacatta quartz and tropical plants" loading="lazy">
+                    <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Coastal kitchen with Calacatta quartz and tropical plants" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Tropical Elegance</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-coastal-oak-wicker-stools.webp" alt="Coastal kitchen with oak cabinets and wicker stools - quartz island" loading="lazy">
+                    <img src="images/kitchen-coastal-oak-wicker-stools.webp" alt="Coastal kitchen with oak cabinets and wicker stools - quartz island" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Oak & Wicker</h4>
                         <span>Hollywood</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-white-quartz-orchids-coastal.webp" alt="Coastal bathroom with white quartz vanity and orchids" loading="lazy">
+                    <img src="images/bathroom-white-quartz-orchids-coastal.webp" alt="Coastal bathroom with white quartz vanity and orchids" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Coastal Bath</h4>
                         <span>Coral Gables</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-beach-condo-woven-pendants.webp" alt="Beach condo kitchen with woven pendant lights and quartz counters" loading="lazy">
+                    <img src="images/kitchen-beach-condo-woven-pendants.webp" alt="Beach condo kitchen with woven pendant lights and quartz counters" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Beach Condo</h4>
                         <span>Sunny Isles</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/coastal-kitchen-marble-island-coffered-ceiling.webp" alt="Coastal kitchen with marble island and coffered ceiling" loading="lazy">
+                    <img src="images/coastal-kitchen-marble-island-coffered-ceiling.webp" alt="Coastal kitchen with marble island and coffered ceiling" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Coffered Elegance</h4>
                         <span>Palm Beach Gardens</span>
@@ -629,63 +629,63 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item wide">
-                    <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Penthouse kitchen with Calacatta Gold quartz and ocean view" loading="lazy">
+                    <img src="images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Penthouse kitchen with Calacatta Gold quartz and ocean view" loading="lazy" width="800" height="448">
                     <div class="gallery-item-overlay">
                         <h4>Oceanfront Penthouse</h4>
                         <span>Miami Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/kitchen-penthouse-crystal-chandelier.webp" alt="Penthouse kitchen with crystal chandelier and quartz island" loading="lazy">
+                    <img src="images/kitchen-penthouse-crystal-chandelier.webp" alt="Penthouse kitchen with crystal chandelier and quartz island" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Crystal Chandelier</h4>
                         <span>Aventura</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="High-rise condo kitchen with Intracoastal view and quartz counters" loading="lazy">
+                    <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="High-rise condo kitchen with Intracoastal view and quartz counters" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Intracoastal Views</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-highrise-marina-view-white.webp" alt="High-rise kitchen with marina view and white quartz" loading="lazy">
+                    <img src="images/kitchen-highrise-marina-view-white.webp" alt="High-rise kitchen with marina view and white quartz" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Marina Luxury</h4>
                         <span>West Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Penthouse kitchen with veined quartz and panoramic ocean view" loading="lazy">
+                    <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Penthouse kitchen with veined quartz and panoramic ocean view" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Panoramic Views</h4>
                         <span>Sunny Isles</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-penthouse-calacatta-walnut-ceiling.webp" alt="Penthouse kitchen with Calacatta quartz and walnut ceiling" loading="lazy">
+                    <img src="images/kitchen-penthouse-calacatta-walnut-ceiling.webp" alt="Penthouse kitchen with Calacatta quartz and walnut ceiling" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Walnut Ceiling</h4>
                         <span>Brickell</span>
                     </div>
                 </div>
                 <div class="gallery-item wide">
-                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with marble island and glass pendant lights" loading="lazy">
+                    <img src="images/modern-kitchen-marble-island-glass-pendants.webp" alt="Modern kitchen with marble island and glass pendant lights" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Glass Pendants</h4>
                         <span>Coral Gables</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-penthouse-blush-cream-arched.webp" alt="Penthouse kitchen with blush and cream tones and arched details" loading="lazy">
+                    <img src="images/kitchen-penthouse-blush-cream-arched.webp" alt="Penthouse kitchen with blush and cream tones and arched details" loading="lazy" width="800" height="400">
                     <div class="gallery-item-overlay">
                         <h4>Soft Blush Tones</h4>
                         <span>Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-condo-brittanicca-navy-stools.webp" alt="Condo kitchen with Brittanicca quartz and navy stools" loading="lazy">
+                    <img src="images/kitchen-condo-brittanicca-navy-stools.webp" alt="Condo kitchen with Brittanicca quartz and navy stools" loading="lazy" width="800" height="601">
                     <div class="gallery-item-overlay">
                         <h4>Navy Accents</h4>
                         <span>Boca Raton</span>
@@ -726,48 +726,48 @@
                     <a href="/#contact-form" class="btn btn-primary">Get This Look</a>
                 </div>
                 <div class="featured-style-image">
-                    <img src="images/mediterranean-kitchen-quartz-arched-window.webp" alt="Mediterranean kitchen with quartz countertops and arched windows" loading="lazy">
+                    <img src="images/mediterranean-kitchen-quartz-arched-window.webp" alt="Mediterranean kitchen with quartz countertops and arched windows" loading="lazy" width="800" height="800">
                 </div>
             </div>
 
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="images/kitchen-french-mediterranean-pink-gold.webp" alt="French Mediterranean kitchen with pink and gold accents" loading="lazy">
+                    <img src="images/kitchen-french-mediterranean-pink-gold.webp" alt="French Mediterranean kitchen with pink and gold accents" loading="lazy" width="800" height="400">
                     <div class="gallery-item-overlay">
                         <h4>French Provincial</h4>
                         <span>Coral Gables</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/kitchen-loft-thick-carrara-arched.webp" alt="Loft kitchen with thick Carrara quartz and arched details" loading="lazy">
+                    <img src="images/kitchen-loft-thick-carrara-arched.webp" alt="Loft kitchen with thick Carrara quartz and arched details" loading="lazy" width="710" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Arched Elegance</h4>
                         <span>Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-french-blue-gray-island.webp" alt="French kitchen with blue-gray island and quartz countertop" loading="lazy">
+                    <img src="images/kitchen-french-blue-gray-island.webp" alt="French kitchen with blue-gray island and quartz countertop" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>French Blue</h4>
                         <span>Delray Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item wide">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white kitchen with arched windows and gold fixtures" loading="lazy">
+                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white kitchen with arched windows and gold fixtures" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Arched Windows</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-blush-pink-gold-arched.webp" alt="Blush pink kitchen with gold accents and arched ceiling" loading="lazy">
+                    <img src="images/kitchen-blush-pink-gold-arched.webp" alt="Blush pink kitchen with gold accents and arched ceiling" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Blush & Gold</h4>
                         <span>Wellington</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/mediterranean-outdoor-kitchen-stone-arches.webp" alt="Mediterranean outdoor kitchen with stone arches and quartz" loading="lazy">
+                    <img src="images/mediterranean-outdoor-kitchen-stone-arches.webp" alt="Mediterranean outdoor kitchen with stone arches and quartz" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Stone Arches</h4>
                         <span>Jupiter</span>
@@ -796,56 +796,56 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item wide">
-                    <img src="images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Transitional kitchen with Calacatta gold quartz and wood cabinets" loading="lazy">
+                    <img src="images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Transitional kitchen with Calacatta gold quartz and wood cabinets" loading="lazy" width="533" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Calacatta & Wood</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-calacatta-walnut-leather-stools.webp" alt="Kitchen with Calacatta quartz, walnut cabinets and leather stools" loading="lazy">
+                    <img src="images/kitchen-calacatta-walnut-leather-stools.webp" alt="Kitchen with Calacatta quartz, walnut cabinets and leather stools" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Walnut & Leather</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-calacatta-walnut-orchids.webp" alt="Kitchen with Calacatta quartz, walnut island and orchids" loading="lazy">
+                    <img src="images/kitchen-calacatta-walnut-orchids.webp" alt="Kitchen with Calacatta quartz, walnut island and orchids" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Walnut Island</h4>
                         <span>Parkland</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/kitchen-transitional-calacatta-tray-ceiling.webp" alt="Transitional kitchen with Calacatta quartz and tray ceiling" loading="lazy">
+                    <img src="images/kitchen-transitional-calacatta-tray-ceiling.webp" alt="Transitional kitchen with Calacatta quartz and tray ceiling" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Tray Ceiling</h4>
                         <span>Weston</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Kitchen with Calacatta gold quartz and globe pendant lights" loading="lazy">
+                    <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Kitchen with Calacatta gold quartz and globe pendant lights" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Globe Pendants</h4>
                         <span>Coral Springs</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-sage-green-calacatta-gold.webp" alt="Kitchen with sage green cabinets and Calacatta gold quartz" loading="lazy">
+                    <img src="images/kitchen-sage-green-calacatta-gold.webp" alt="Kitchen with sage green cabinets and Calacatta gold quartz" loading="lazy" width="800" height="560">
                     <div class="gallery-item-overlay">
                         <h4>Sage Green</h4>
                         <span>Delray Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-green-cabinets-cream-quartz.webp" alt="Kitchen with green cabinets and cream quartz countertops" loading="lazy">
+                    <img src="images/kitchen-green-cabinets-cream-quartz.webp" alt="Kitchen with green cabinets and cream quartz countertops" loading="lazy" width="800" height="500">
                     <div class="gallery-item-overlay">
                         <h4>Green & Cream</h4>
                         <span>West Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-rustic-white-quartz-wood-beams.webp" alt="Rustic kitchen with white quartz and exposed wood beams" loading="lazy">
+                    <img src="images/kitchen-rustic-white-quartz-wood-beams.webp" alt="Rustic kitchen with white quartz and exposed wood beams" loading="lazy" width="679" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Wood Beams</h4>
                         <span>Jupiter</span>
@@ -874,49 +874,49 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item wide">
-                    <img src="images/kitchen-black-gold-veined-dramatic.webp" alt="Dramatic black kitchen with gold veined quartz countertops" loading="lazy">
+                    <img src="images/kitchen-black-gold-veined-dramatic.webp" alt="Dramatic black kitchen with gold veined quartz countertops" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Black & Gold Drama</h4>
                         <span>Miami Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/kitchen-black-marble-gold-herringbone.webp" alt="Black marble-look quartz kitchen with gold herringbone backsplash" loading="lazy">
+                    <img src="images/kitchen-black-marble-gold-herringbone.webp" alt="Black marble-look quartz kitchen with gold herringbone backsplash" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Herringbone Gold</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-black-white-calacatta-velvet.webp" alt="Black and white kitchen with Calacatta quartz and velvet seating" loading="lazy">
+                    <img src="images/kitchen-black-white-calacatta-velvet.webp" alt="Black and white kitchen with Calacatta quartz and velvet seating" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Black & White</h4>
                         <span>Aventura</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-artdeco-brass-navy-curved.webp" alt="Art Deco kitchen with brass accents and navy curved island" loading="lazy">
+                    <img src="images/kitchen-artdeco-brass-navy-curved.webp" alt="Art Deco kitchen with brass accents and navy curved island" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Art Deco Curves</h4>
                         <span>Coral Gables</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom with black marble quartz and gold fixtures" loading="lazy">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom with black marble quartz and gold fixtures" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Black & Gold Bath</h4>
                         <span>Brickell</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-black-white-hexagon-gold.webp" alt="Black and white bathroom with hexagon tile and gold accents" loading="lazy">
+                    <img src="images/bathroom-black-white-hexagon-gold.webp" alt="Black and white bathroom with hexagon tile and gold accents" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Hexagon Drama</h4>
                         <span>South Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item wide">
-                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with black and gold quartz countertops" loading="lazy">
+                    <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with black and gold quartz countertops" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Restaurant Bar</h4>
                         <span>Wynwood</span>
@@ -945,7 +945,7 @@
 
             <div class="featured-style-card">
                 <div class="featured-style-image">
-                    <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Spa bathroom with Calacatta quartz vanity, vessel sink and freestanding tub" loading="lazy">
+                    <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Spa bathroom with Calacatta quartz vanity, vessel sink and freestanding tub" loading="lazy" width="800" height="533">
                 </div>
                 <div class="featured-style-content">
                     <h3>Spa-Like Master Bath</h3>
@@ -963,70 +963,70 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="Spa bathroom with white quartz and wood accents" loading="lazy">
+                    <img src="images/bathroom-spa-white-quartz-wood.webp" alt="Spa bathroom with white quartz and wood accents" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Wood & White</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-spa-calacatta-walnut-tub.webp" alt="Spa bathroom with Calacatta quartz vanity and walnut tub surround" loading="lazy">
+                    <img src="images/bathroom-spa-calacatta-walnut-tub.webp" alt="Spa bathroom with Calacatta quartz vanity and walnut tub surround" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Walnut Accents</h4>
                         <span>Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/bathroom-calacatta-vessel-backlit.webp" alt="Bathroom with Calacatta quartz and backlit mirror" loading="lazy">
+                    <img src="images/bathroom-calacatta-vessel-backlit.webp" alt="Bathroom with Calacatta quartz and backlit mirror" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Backlit Luxury</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double vanity bathroom with Calacatta gold quartz" loading="lazy">
+                    <img src="images/bathroom-double-vanity-calacatta-gold.webp" alt="Double vanity bathroom with Calacatta gold quartz" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Double Vanity</h4>
                         <span>Coral Springs</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-zen-triple-vessel-terrazzo.webp" alt="Zen bathroom with triple vessel sinks and terrazzo accents" loading="lazy">
+                    <img src="images/bathroom-zen-triple-vessel-terrazzo.webp" alt="Zen bathroom with triple vessel sinks and terrazzo accents" loading="lazy" width="800" height="400">
                     <div class="gallery-item-overlay">
                         <h4>Triple Vessels</h4>
                         <span>Miami</span>
                     </div>
                 </div>
                 <div class="gallery-item wide">
-                    <img src="images/bathroom-spa-infinity-pool-orchids.webp" alt="Spa bathroom overlooking infinity pool with orchids" loading="lazy">
+                    <img src="images/bathroom-spa-infinity-pool-orchids.webp" alt="Spa bathroom overlooking infinity pool with orchids" loading="lazy" width="800" height="400">
                     <div class="gallery-item-overlay">
                         <h4>Pool View Spa</h4>
                         <span>Key Biscayne</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-penthouse-gray-quartz-ocean.webp" alt="Penthouse bathroom with gray quartz and ocean view" loading="lazy">
+                    <img src="images/bathroom-penthouse-gray-quartz-ocean.webp" alt="Penthouse bathroom with gray quartz and ocean view" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Ocean View</h4>
                         <span>Sunny Isles</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-resort-vessel-bowls-turquoise.webp" alt="Resort-style bathroom with vessel bowl sinks and turquoise accents" loading="lazy">
+                    <img src="images/bathroom-resort-vessel-bowls-turquoise.webp" alt="Resort-style bathroom with vessel bowl sinks and turquoise accents" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Resort Style</h4>
                         <span>Hollywood</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-minimalist-terrazzo-mountain.webp" alt="Minimalist bathroom with terrazzo accents" loading="lazy">
+                    <img src="images/bathroom-minimalist-terrazzo-mountain.webp" alt="Minimalist bathroom with terrazzo accents" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Minimalist Zen</h4>
                         <span>Aventura</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-blush-pink-terrazzo-gold.webp" alt="Blush pink bathroom with terrazzo and gold fixtures" loading="lazy">
+                    <img src="images/bathroom-blush-pink-terrazzo-gold.webp" alt="Blush pink bathroom with terrazzo and gold fixtures" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Blush & Terrazzo</h4>
                         <span>Delray Beach</span>
@@ -1055,77 +1055,77 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item wide">
-                    <img src="images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Outdoor kitchen with pool and firepit at dusk" loading="lazy">
+                    <img src="images/outdoor-kitchen-pool-firepit-dusk.webp" alt="Outdoor kitchen with pool and firepit at dusk" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Poolside Paradise</h4>
                         <span>Boca Raton</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen with marble quartz, fireplace and pool" loading="lazy">
+                    <img src="images/outdoor-kitchen-marble-fireplace-pool.webp" alt="Outdoor kitchen with marble quartz, fireplace and pool" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Fireplace Lounge</h4>
                         <span>Palm Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/outdoor-kitchen-white-marble-waterfall-modern.webp" alt="Modern outdoor kitchen with white marble waterfall island" loading="lazy">
+                    <img src="images/outdoor-kitchen-white-marble-waterfall-modern.webp" alt="Modern outdoor kitchen with white marble waterfall island" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Waterfall Island</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/outdoor-kitchen-led-underglow-pool.webp" alt="Outdoor kitchen with LED underglow lighting and pool" loading="lazy">
+                    <img src="images/outdoor-kitchen-led-underglow-pool.webp" alt="Outdoor kitchen with LED underglow lighting and pool" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>LED Underglow</h4>
                         <span>Weston</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/tropical-outdoor-kitchen-teal-cabinets-rattan.webp" alt="Tropical outdoor kitchen with teal cabinets and rattan seating" loading="lazy">
+                    <img src="images/tropical-outdoor-kitchen-teal-cabinets-rattan.webp" alt="Tropical outdoor kitchen with teal cabinets and rattan seating" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Tropical Teal</h4>
                         <span>Key Biscayne</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/outdoor-kitchen-pool-palms-dusk.webp" alt="Outdoor kitchen with pool and palm trees at dusk" loading="lazy">
+                    <img src="images/outdoor-kitchen-pool-palms-dusk.webp" alt="Outdoor kitchen with pool and palm trees at dusk" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Palm Paradise</h4>
                         <span>Miami Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item wide">
-                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Outdoor bar with infinity pool at sunset" loading="lazy">
+                    <img src="images/outdoor-bar-infinity-pool-sunset.webp" alt="Outdoor bar with infinity pool at sunset" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Infinity Sunset</h4>
                         <span>Jupiter</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="Outdoor kitchen with fireplace and wood ceiling" loading="lazy">
+                    <img src="images/outdoor-kitchen-fireplace-wood-ceiling.webp" alt="Outdoor kitchen with fireplace and wood ceiling" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Covered Kitchen</h4>
                         <span>Coral Gables</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/poolside-white-marble-island-palms-dusk.webp" alt="Poolside white marble island with palm trees at dusk" loading="lazy">
+                    <img src="images/poolside-white-marble-island-palms-dusk.webp" alt="Poolside white marble island with palm trees at dusk" loading="lazy" width="800" height="533">
                     <div class="gallery-item-overlay">
                         <h4>Dusk Entertaining</h4>
                         <span>Parkland</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/covered-patio-white-marble-island-pool.webp" alt="Covered patio with white marble island and pool view" loading="lazy">
+                    <img src="images/covered-patio-white-marble-island-pool.webp" alt="Covered patio with white marble island and pool view" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Covered Patio</h4>
                         <span>Wellington</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/outdoor-kitchen-desert-adobe-firepit.webp" alt="Desert-style outdoor kitchen with adobe and firepit" loading="lazy">
+                    <img src="images/outdoor-kitchen-desert-adobe-firepit.webp" alt="Desert-style outdoor kitchen with adobe and firepit" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Desert Vibes</h4>
                         <span>West Palm Beach</span>
@@ -1154,63 +1154,63 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item wide">
-                    <img src="images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Industrial loft kitchen with exposed brick and quartz island" loading="lazy">
+                    <img src="images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Industrial loft kitchen with exposed brick and quartz island" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Brick Loft</h4>
                         <span>Wynwood</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/rooftop-outdoor-kitchen-sunset-skyline.webp" alt="Rooftop outdoor kitchen with sunset skyline view" loading="lazy">
+                    <img src="images/rooftop-outdoor-kitchen-sunset-skyline.webp" alt="Rooftop outdoor kitchen with sunset skyline view" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Skyline Sunset</h4>
                         <span>Brickell</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/rooftop-bar-blue-marble-quartz-cityview.webp" alt="Rooftop bar with blue marble quartz and city view" loading="lazy">
+                    <img src="images/rooftop-bar-blue-marble-quartz-cityview.webp" alt="Rooftop bar with blue marble quartz and city view" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>City View Bar</h4>
                         <span>Downtown Miami</span>
                     </div>
                 </div>
                 <div class="gallery-item tall">
-                    <img src="images/bathroom-penthouse-black-white-city.webp" alt="Penthouse bathroom with black and white quartz and city view" loading="lazy">
+                    <img src="images/bathroom-penthouse-black-white-city.webp" alt="Penthouse bathroom with black and white quartz and city view" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>City Bath</h4>
                         <span>Miami</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/industrial-rooftop-bar-concrete-cityview.webp" alt="Industrial rooftop bar with concrete and city view" loading="lazy">
+                    <img src="images/industrial-rooftop-bar-concrete-cityview.webp" alt="Industrial rooftop bar with concrete and city view" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Concrete & Steel</h4>
                         <span>Fort Lauderdale</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/kitchen-miami-penthouse-brown-veined.webp" alt="Miami penthouse kitchen with brown veined quartz" loading="lazy">
+                    <img src="images/kitchen-miami-penthouse-brown-veined.webp" alt="Miami penthouse kitchen with brown veined quartz" loading="lazy" width="800" height="603">
                     <div class="gallery-item-overlay">
                         <h4>Miami Penthouse</h4>
                         <span>South Beach</span>
                     </div>
                 </div>
                 <div class="gallery-item wide">
-                    <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Rooftop outdoor kitchen with ocean view at sunset" loading="lazy">
+                    <img src="images/rooftop-outdoor-kitchen-ocean-sunset.webp" alt="Rooftop outdoor kitchen with ocean view at sunset" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Ocean Rooftop</h4>
                         <span>Sunny Isles</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/bathroom-penthouse-backlit-mirrors-city.webp" alt="Penthouse bathroom with backlit mirrors and city view" loading="lazy">
+                    <img src="images/bathroom-penthouse-backlit-mirrors-city.webp" alt="Penthouse bathroom with backlit mirrors and city view" loading="lazy" width="800" height="400">
                     <div class="gallery-item-overlay">
                         <h4>Backlit Mirrors</h4>
                         <span>Aventura</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Modern kitchen with gray quartz and wood slat accent wall" loading="lazy">
+                    <img src="images/modern-kitchen-gray-quartz-wood-slats.webp" alt="Modern kitchen with gray quartz and wood slat accent wall" loading="lazy" width="800" height="800">
                     <div class="gallery-item-overlay">
                         <h4>Wood Slats</h4>
                         <span>Coral Gables</span>

@@ -21,7 +21,7 @@
     <!-- Hero Section -->
     <section class="hero hero-small">
         <div class="hero-background">
-            <img src="images/poolside-white-marble-island-palms-dusk.webp" alt="About Griffin Quartz" loading="eager">
+            <img src="images/poolside-white-marble-island-palms-dusk.webp" alt="About Griffin Quartz" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">

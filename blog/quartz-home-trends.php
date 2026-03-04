@@ -18,7 +18,7 @@
 <?php $basePath = '..'; include '../includes/header.php'; ?>
     <article class="blog-article">
         <div class="blog-hero">
-            <img src="../images/kitchen-penthouse-veined-ocean-view.webp" alt="Modern kitchen with veined quartz countertops and ocean view" class="blog-hero-image" loading="eager">
+            <img src="../images/kitchen-penthouse-veined-ocean-view.webp" alt="Modern kitchen with veined quartz countertops and ocean view" class="blog-hero-image" loading="eager" width="800" height="603">
             <div class="blog-hero-overlay">
                 <div class="blog-hero-content">
                     <span class="blog-meta">By Griffin Quartz Team | Aug 9, 2025</span>

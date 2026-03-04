@@ -581,7 +581,7 @@
     <!-- Hero Section -->
     <section class="material-hero">
         <div class="hero-background">
-            <img src="images/bathroom-penthouse-marble-tub-city.webp" alt="Luxurious marble countertops in South Florida bathroom" loading="eager">
+            <img src="images/bathroom-penthouse-marble-tub-city.webp" alt="Luxurious marble countertops in South Florida bathroom" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -648,7 +648,7 @@
 
             <div class="applications-grid">
                 <div class="application-card">
-                    <img src="images/kitchen-white-marble-gold-hood-bright.webp" alt="Marble kitchen countertops South Florida">
+                    <img src="images/kitchen-white-marble-gold-hood-bright.webp" width="800" height="533" alt="Marble kitchen countertops South Florida" loading="lazy">
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>Create a stunning culinary space with marble's timeless beauty. Perfect for bakers who appreciate its cool surface for pastry work.</p>
@@ -656,7 +656,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-penthouse-white-marble-city.webp" alt="Marble bathroom vanity countertops">
+                    <img src="images/bathroom-penthouse-white-marble-city.webp" alt="Marble bathroom vanity countertops" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Bathroom Vanities</h3>
                         <p>Transform your bathroom into a spa-like retreat with elegant marble vanities, shower walls, and tub surrounds.</p>
@@ -664,7 +664,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Marble shower surrounds">
+                    <img src="images/bathroom-spa-calacatta-vessel-tub.webp" alt="Marble shower surrounds" width="800" height="533" loading="lazy">
                     <div class="overlay">
                         <h3>Shower Surrounds</h3>
                         <p>Create a luxurious shower experience with floor-to-ceiling marble slabs that eliminate grout lines and maximize elegance.</p>
@@ -672,7 +672,7 @@
                     </div>
                 </div>
                 <div class="application-card">
-                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Marble fireplace surrounds">
+                    <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Marble fireplace surrounds" width="800" height="800" loading="lazy">
                     <div class="overlay">
                         <h3>Fireplace Surrounds</h3>
                         <p>Make a dramatic statement with a marble fireplace surround that becomes the focal point of your living room.</p>

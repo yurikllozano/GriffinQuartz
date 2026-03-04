@@ -332,7 +332,7 @@
     <!-- Hero Section -->
     <section class="contact-hero">
         <div class="hero-background">
-            <img src="images/backyard-outdoor-kitchen-firepit-evening.webp" alt="Contact Griffin Quartz for quartz countertop installation in South Florida" loading="eager">
+            <img src="images/backyard-outdoor-kitchen-firepit-evening.webp" alt="Contact Griffin Quartz for quartz countertop installation in South Florida" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">

@@ -512,7 +512,7 @@
     <!-- Hero Section -->
     <section class="locations-hero">
         <div class="hero-background">
-            <img src="images/kitchen-miami-penthouse-brown-veined.webp" alt="Luxury quartz countertop installation across South Florida" loading="eager">
+            <img src="images/kitchen-miami-penthouse-brown-veined.webp" alt="Luxury quartz countertop installation across South Florida" loading="eager" width="800" height="603">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -548,7 +548,7 @@
             <div class="locations-grid">
                 <a href="boca-raton" class="location-card headquarters">
                     <div class="location-card-image">
-                        <img src="images/kitchen-penthouse-calacatta-gold-bay.webp" alt="Luxury quartz countertops in Boca Raton" loading="lazy">
+                        <img src="images/kitchen-penthouse-calacatta-gold-bay.webp" alt="Luxury quartz countertops in Boca Raton" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Boca Raton</h3>
@@ -559,7 +559,7 @@
 
                 <a href="west-palm-beach" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Quartz countertops in West Palm Beach" loading="lazy">
+                        <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Quartz countertops in West Palm Beach" loading="lazy" width="800" height="533">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> West Palm Beach</h3>
@@ -570,7 +570,7 @@
 
                 <a href="delray-beach" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Quartz countertops in Delray Beach" loading="lazy">
+                        <img src="images/kitchen-coastal-calacatta-palms-flowers.webp" alt="Quartz countertops in Delray Beach" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Delray Beach</h3>
@@ -581,7 +581,7 @@
 
                 <a href="boynton-beach" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-coastal-woven-pendants-wood.webp" alt="Quartz countertops in Boynton Beach" loading="lazy">
+                        <img src="images/kitchen-coastal-woven-pendants-wood.webp" alt="Quartz countertops in Boynton Beach" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Boynton Beach</h3>
@@ -604,7 +604,7 @@
             <div class="locations-grid">
                 <a href="fort-lauderdale" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-beachfront-walnut-pool-ocean.webp" alt="Quartz countertops in Fort Lauderdale" loading="lazy">
+                        <img src="images/kitchen-beachfront-walnut-pool-ocean.webp" alt="Quartz countertops in Fort Lauderdale" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Fort Lauderdale</h3>
@@ -615,7 +615,7 @@
 
                 <a href="hollywood" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-beach-condo-woven-pendants.webp" alt="Quartz countertops in Hollywood FL" loading="lazy">
+                        <img src="images/kitchen-beach-condo-woven-pendants.webp" alt="Quartz countertops in Hollywood FL" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Hollywood</h3>
@@ -626,7 +626,7 @@
 
                 <a href="pompano-beach" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-coastal-oak-wicker-stools.webp" alt="Quartz countertops in Pompano Beach" loading="lazy">
+                        <img src="images/kitchen-coastal-oak-wicker-stools.webp" alt="Quartz countertops in Pompano Beach" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Pompano Beach</h3>
@@ -637,7 +637,7 @@
 
                 <a href="coral-springs" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-transitional-calacatta-tray-ceiling.webp" alt="Quartz countertops in Coral Springs" loading="lazy">
+                        <img src="images/kitchen-transitional-calacatta-tray-ceiling.webp" alt="Quartz countertops in Coral Springs" loading="lazy" width="800" height="533">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Coral Springs</h3>
@@ -648,7 +648,7 @@
 
                 <a href="parkland" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-calacatta-walnut-orchids.webp" alt="Quartz countertops in Parkland FL" loading="lazy">
+                        <img src="images/kitchen-calacatta-walnut-orchids.webp" alt="Quartz countertops in Parkland FL" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Parkland</h3>
@@ -659,7 +659,7 @@
 
                 <a href="deerfield-beach" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-coastal-blue-tile-backsplash.webp" alt="Quartz countertops in Deerfield Beach" loading="lazy">
+                        <img src="images/kitchen-coastal-blue-tile-backsplash.webp" alt="Quartz countertops in Deerfield Beach" loading="lazy" width="800" height="800">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Deerfield Beach</h3>
@@ -670,7 +670,7 @@
 
                 <a href="coconut-creek" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-zen-cream-quartz-wood-slats.webp" alt="Quartz countertops in Coconut Creek" loading="lazy">
+                        <img src="images/kitchen-zen-cream-quartz-wood-slats.webp" alt="Quartz countertops in Coconut Creek" loading="lazy" width="800" height="533">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Coconut Creek</h3>
@@ -693,7 +693,7 @@
             <div class="locations-grid">
                 <a href="miami" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-artdeco-brass-navy-curved.webp" alt="Quartz countertops in Miami" loading="lazy">
+                        <img src="images/kitchen-artdeco-brass-navy-curved.webp" alt="Quartz countertops in Miami" loading="lazy" width="800" height="533">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Miami</h3>
@@ -704,7 +704,7 @@
 
                 <a href="miami-beach" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Quartz countertops in Miami Beach" loading="lazy">
+                        <img src="images/kitchen-penthouse-veined-ocean-view.webp" alt="Quartz countertops in Miami Beach" loading="lazy" width="800" height="603">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Miami Beach</h3>
@@ -715,7 +715,7 @@
 
                 <a href="aventura" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-penthouse-crystal-chandelier.webp" alt="Quartz countertops in Aventura" loading="lazy">
+                        <img src="images/kitchen-penthouse-crystal-chandelier.webp" alt="Quartz countertops in Aventura" loading="lazy" width="800" height="533">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Aventura</h3>
@@ -726,7 +726,7 @@
 
                 <a href="coral-gables" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-french-mediterranean-pink-gold.webp" alt="Quartz countertops in Coral Gables" loading="lazy">
+                        <img src="images/kitchen-french-mediterranean-pink-gold.webp" alt="Quartz countertops in Coral Gables" loading="lazy" width="800" height="400">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Coral Gables</h3>
@@ -737,7 +737,7 @@
 
                 <a href="hialeah" class="location-card">
                     <div class="location-card-image">
-                        <img src="images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Quartz countertops in Hialeah" loading="lazy">
+                        <img src="images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Quartz countertops in Hialeah" loading="lazy" width="533" height="800">
                     </div>
                     <div class="location-card-content">
                         <h3><i class="bi bi-geo-alt"></i> Hialeah</h3>
@@ -769,7 +769,7 @@
             </div>
 
             <div class="map-image">
-                <img src="images/map-miami-beach-area.webp" alt="Griffin Quartz service area map of South Florida" loading="lazy">
+                <img src="images/map-miami-beach-area.webp" alt="Griffin Quartz service area map of South Florida" loading="lazy" width="800" height="798">
             </div>
         </div>
     </section>

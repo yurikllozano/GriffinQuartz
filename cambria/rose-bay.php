@@ -27,7 +27,7 @@
 
     <section class="product-hero">
         <div class="hero-background">
-            <img src="../images/cambria-rose-bay-kitchen.webp" alt="Cambria Rose Bay quartz countertop" loading="eager">
+            <img src="../images/cambria-rose-bay-kitchen.webp" alt="Cambria Rose Bay quartz countertop" loading="eager" width="800" height="533">
             <div class="hero-overlay"></div>
         </div>
         <div class="product-hero-container">
@@ -49,7 +49,7 @@
                 </div>
             </div>
             <div class="product-swatch-showcase" style="position:relative">
-                <div class="main-swatch"><img src="../images/cambria-products/rose-bay.jpg" alt="Cambria Rose Bay sample"></div>
+                <div class="main-swatch"><img src="../images/cambria-products/rose-bay.webp" alt="Cambria Rose Bay sample" width="724" height="500" loading="lazy"></div>
                 <div class="swatch-label"><h3>Rose Bay</h3><p>Cambria Unique Collection</p></div>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="container">
             <div class="related-header"><h2>Other Unique Warm Designs</h2></div>
             <div class="related-grid">
-                <a href="brittanicca-warm" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca-warm.jpg" alt="Brittanicca Warm"></div><div class="related-card-content"><h3>Brittanicca Warm</h3></div></a>
-                <a href="sandgate" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-sandgate.jpg" alt="Sandgate"></div><div class="related-card-content"><h3>Sandgate</h3></div></a>
-                <a href="delgatie" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-delgatie.jpg" alt="Delgatie"></div><div class="related-card-content"><h3>Delgatie</h3></div></a>
-                <a href="ella" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ella.jpg" alt="Ella"></div><div class="related-card-content"><h3>Ella</h3></div></a>
+                <a href="brittanicca-warm" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-brittanicca-warm.webp" alt="Brittanicca Warm" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Brittanicca Warm</h3></div></a>
+                <a href="sandgate" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-sandgate.webp" alt="Sandgate" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Sandgate</h3></div></a>
+                <a href="delgatie" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-delgatie.webp" alt="Delgatie" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Delgatie</h3></div></a>
+                <a href="ella" class="related-card"><div class="related-card-image"><img src="../images/cambria-products/swatch-ella.webp" alt="Ella" width="724" height="500" loading="lazy"></div><div class="related-card-content"><h3>Ella</h3></div></a>
             </div>
         </div>
     </section>

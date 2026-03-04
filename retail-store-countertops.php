@@ -164,7 +164,7 @@
 
     <section class="hero">
         <div class="hero-bg">
-            <img src="images/commercial-retail-marble-counter.webp" alt="Retail store quartz countertops South Florida">
+            <img src="images/commercial-retail-marble-counter.webp" alt="Retail store quartz countertops South Florida" width="800" height="800" loading="lazy">
         </div>
         <div class="hero-container">
             <div class="hero-content">
@@ -265,7 +265,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <img src="images/commercial-condo-lobby-palms.webp" alt="Retail display quartz countertops">
+                    <img src="images/commercial-condo-lobby-palms.webp" alt="Retail display quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>
