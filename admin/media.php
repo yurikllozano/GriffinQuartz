@@ -7,6 +7,9 @@ require_once __DIR__ . '/includes/admin-auth.php';
 require_admin_login();
 require_once dirname(__DIR__) . '/includes/config/cloudflare.php';
 
+// Client identifier — only images with this metadata are shown/managed
+define('CLIENT_ID', 'griffinquartz');
+
 /**
  * Make Cloudflare API request
  */
@@ -61,6 +64,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($result['success'] ?? false) {
             $images = [];
             foreach ($result['result']['images'] ?? [] as $img) {
+                // Only show images belonging to this client
+                $meta = $img['meta'] ?? [];
+                if (($meta['client'] ?? '') !== CLIENT_ID) continue;
+
                 $images[] = [
                     'id' => $img['id'],
                     'url' => getImageUrl($img['id']),
@@ -85,7 +92,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         $data = [
             'file' => new CURLFile($file['tmp_name'], $file['type'], $file['name']),
-            'metadata' => json_encode(['source' => 'admin'])
+            'metadata' => json_encode(['source' => 'admin', 'client' => CLIENT_ID])
         ];
 
         $result = cfRequest('POST', '', $data, true);
@@ -161,7 +168,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             $uploadData = [
                 'file' => new CURLFile($tempFile, $mimeType, $newFilename),
-                'metadata' => json_encode(['source' => 'admin'])
+                'metadata' => json_encode(['source' => 'admin', 'client' => CLIENT_ID])
             ];
 
             $uploadResult = cfRequest('POST', '', $uploadData, true);
@@ -214,7 +221,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             $uploadData = [
                 'file' => new CURLFile($tempFile, $mimeType, $newFilename),
-                'metadata' => json_encode(['source' => 'admin'])
+                'metadata' => json_encode(['source' => 'admin', 'client' => CLIENT_ID])
             ];
 
             $uploadResult = cfRequest('POST', '', $uploadData, true);
