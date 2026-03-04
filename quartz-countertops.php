@@ -368,6 +368,7 @@
         }
         .brands-grid img {
             height: 50px;
+            width: auto;
             opacity: 0.8;
             transition: opacity 0.3s ease;
             filter: brightness(0) invert(1);
