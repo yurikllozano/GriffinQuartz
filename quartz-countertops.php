@@ -675,8 +675,8 @@
             <div class="brands-grid">
                 <img src="images/logo-cambria.webp" alt="Cambria Quartz" width="800" height="400" loading="lazy">
                 <img src="images/logo-caesarstone.webp" alt="Caesarstone" width="800" height="400" loading="lazy">
-                <img src="images/logo-silestone.webp" alt="Silestone" width="200" height="60" loading="lazy">
-                <img src="images/logo-viatera.webp" alt="Viatera" width="200" height="60" loading="lazy">
+                <img src="images/logo-silestone-cosentino.webp" alt="Silestone" width="800" height="400" loading="lazy">
+                <img src="images/logo-viatera-lx-hausys.webp" alt="Viatera" width="800" height="400" loading="lazy">
                 <img src="images/logo-compac-quartz.webp" alt="Compac" width="800" height="400" loading="lazy">
             </div>
         </div>
