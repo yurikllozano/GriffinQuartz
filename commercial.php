@@ -461,13 +461,19 @@
         }
 
         .application-card-image {
-            height: 180px;
-            background-color: #f0f0f0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 3.5rem;
-            color: #FDB913;
+            height: 200px;
+            overflow: hidden;
+        }
+
+        .application-card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .application-card:hover .application-card-image img {
+            transform: scale(1.05);
         }
 
         .application-card-content {
@@ -1297,7 +1303,7 @@
             <div class="applications-grid">
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-cup-straw"></i>
+                        <img src="images/commercial-restaurant-bar.webp" alt="Restaurant bar with premium quartz countertop" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Restaurants & Bars</h3>
@@ -1313,7 +1319,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-building"></i>
+                        <img src="images/commercial-hotel-lobby.webp" alt="Hotel lobby with luxury quartz reception desk" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Hotels & Hospitality</h3>
@@ -1329,7 +1335,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-hospital"></i>
+                        <img src="images/commercial-medical-office.webp" alt="Medical office with clean white quartz reception desk" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Medical & Healthcare</h3>
@@ -1345,7 +1351,7 @@
 
                 <div class="application-card">
                     <div class="application-card-image">
-                        <i class="bi bi-briefcase"></i>
+                        <img src="images/commercial-office-corporate.webp" alt="Corporate office break room with quartz countertops" width="800" height="600" loading="lazy">
                     </div>
                     <div class="application-card-content">
                         <h3>Offices & Corporate</h3>
