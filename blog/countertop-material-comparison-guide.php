@@ -602,7 +602,7 @@
                     <li><strong>Quartzite:</strong> Similar to granite — professional sealing every 1-2 years at $200-$400 per application. Over 15 years, add approximately $1,500 to $3,000.</li>
                 </ul>
 
-                <p>When you combine initial cost with lifetime maintenance, <strong>quartz consistently delivers the best long-term value</strong> for indoor installations. Use our <a href="../tools/quote-calculator">online quote calculator</a> to estimate your specific project cost, or <a href="../#contact-form">request a free in-home estimate</a>.</p>
+                <p>When you combine initial cost with lifetime maintenance, <strong>quartz consistently delivers the best long-term value</strong> for indoor installations. Use our <a href="../quote-calculator">online quote calculator</a> to estimate your specific project cost, or <a href="../#contact-form">request a free in-home estimate</a>.</p>
 
                 <h2>How South Florida's Climate Affects Your Decision</h2>
 

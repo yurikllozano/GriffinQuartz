@@ -34,7 +34,7 @@
         "@context": "https://schema.org",
         "@type": "Service",
         "serviceType": "Financial Institution Quartz Countertop Installation",
-        "provider": {"@type": "LocalBusiness", "name": "Griffin Quartz", "telephone": "+1-720-324-1436"},
+        "provider": {"@type": "LocalBusiness", "name": "Griffin Quartz", "telephone": "+1-720-324-1436", "address": {"@type": "PostalAddress", "streetAddress": "1021 S Rogers Cir #18", "addressLocality": "Boca Raton", "addressRegion": "FL", "postalCode": "33487", "addressCountry": "US"}},
         "areaServed": {"@type": "State", "name": "Florida"}
     }
     </script>

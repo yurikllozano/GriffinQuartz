@@ -424,7 +424,7 @@
 
                 <p>Beyond stone looks, quartz is available in designs that replicate polished concrete, industrial surfaces, and pure solid colors. These options are popular in modern, minimalist, and industrial-style kitchens. Solid-color quartz is also widely used in commercial applications like restaurants, hotels, and office spaces where a clean, uniform look is desired.</p>
 
-                <p>With hundreds of options available across all the major brands, seeing samples in person is essential. Colors and patterns can look very different on a screen than they do in your actual kitchen lighting. Griffin Quartz carries a wide selection of quartz samples at our <a href="../boca-raton">Boca Raton showroom</a>, and we also offer a <a href="../tools/color-visualizer">Color Visualizer tool</a> on our website to help you explore options and see how different quartz designs look in realistic kitchen settings before you visit.</p>
+                <p>With hundreds of options available across all the major brands, seeing samples in person is essential. Colors and patterns can look very different on a screen than they do in your actual kitchen lighting. Griffin Quartz carries a wide selection of quartz samples at our <a href="../boca-raton">Boca Raton showroom</a>, and we also offer a <a href="../color-visualizer">Color Visualizer tool</a> on our website to help you explore options and see how different quartz designs look in realistic kitchen settings before you visit.</p>
 
                 <h2>Top Quartz Countertop Brands</h2>
 
@@ -495,7 +495,7 @@
                     <li><strong>Bathroom vanity (10-20 sq ft):</strong> $500 to $2,400 installed</li>
                 </ul>
 
-                <p>For a personalized estimate based on your specific layout and material preferences, try our <a href="../tools/quote-calculator">online quote calculator</a> or call us at (720) 324-1436. For a more detailed cost breakdown, visit our <a href="quartz-countertops-cost">quartz countertops cost guide</a>.</p>
+                <p>For a personalized estimate based on your specific layout and material preferences, try our <a href="../quote-calculator">online quote calculator</a> or call us at (720) 324-1436. For a more detailed cost breakdown, visit our <a href="quartz-countertops-cost">quartz countertops cost guide</a>.</p>
 
                 <h2>Quartz vs Other Countertop Materials</h2>
 
@@ -630,7 +630,7 @@
 
                 <h3>Step 6: Get a Professional Estimate</h3>
 
-                <p>Every kitchen is different. A professional estimate accounts for your specific layout, cutouts, edge lengths, and installation requirements. At Griffin Quartz, we provide free, no-obligation estimates — visit our <a href="../tools/quote-calculator">quote calculator</a> for an instant online estimate or call us for an in-home consultation.</p>
+                <p>Every kitchen is different. A professional estimate accounts for your specific layout, cutouts, edge lengths, and installation requirements. At Griffin Quartz, we provide free, no-obligation estimates — visit our <a href="../quote-calculator">quote calculator</a> for an instant online estimate or call us for an in-home consultation.</p>
 
             </div>
 

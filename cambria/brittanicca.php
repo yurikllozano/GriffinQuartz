@@ -60,14 +60,17 @@
         "material": "Natural Quartz",
         "countryOfOrigin": "United States",
         "offers": {
-            "@type": "Offer",
+            "@type": "AggregateOffer",
             "priceCurrency": "USD",
-            "priceRange": "$75-$125 per sq ft installed",
+            "lowPrice": "75",
+            "highPrice": "125",
+            "offerCount": "1",
             "availability": "https://schema.org/InStock",
             "seller": {
                 "@type": "LocalBusiness",
                 "name": "Griffin Quartz",
-                "telephone": "+1-720-324-1436"
+                "telephone": "+1-720-324-1436",
+                "address": {"@type": "PostalAddress", "streetAddress": "1021 S Rogers Cir #18", "addressLocality": "Boca Raton", "addressRegion": "FL", "postalCode": "33487", "addressCountry": "US"}
             }
         },
         "aggregateRating": {

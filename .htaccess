@@ -104,6 +104,29 @@ RewriteRule ^products/?$ /quartz-brands [R=301,L]
 RewriteRule ^products/(.+)/?$ /quartz-brands [R=301,L]
 RewriteRule ^pages/(.+)/?$ / [R=301,L]
 
+# ============================================================
+# 301 Redirects: Internal broken link fixes
+# ============================================================
+
+# Location pages that don't exist yet — redirect to nearest city
+RewriteRule ^sunny-isles-beach/?$ /sunny-isles [R=301,L]
+RewriteRule ^north-miami-beach/?$ /miami-beach [R=301,L]
+RewriteRule ^hallandale-beach/?$ /hollywood [R=301,L]
+RewriteRule ^coconut-grove/?$ /coral-gables [R=301,L]
+RewriteRule ^south-miami/?$ /miami [R=301,L]
+RewriteRule ^pinecrest/?$ /coral-gables [R=301,L]
+RewriteRule ^miami-springs/?$ /hialeah [R=301,L]
+RewriteRule ^miami-lakes/?$ /hialeah [R=301,L]
+
+# Cambria designs without individual pages
+RewriteRule ^cambria/fairbourne/?$ /cambria [R=301,L]
+RewriteRule ^cambria/carrick/?$ /cambria [R=301,L]
+
+# Wrong paths
+RewriteRule ^tools/quote-calculator/?$ /quote-calculator [R=301,L]
+RewriteRule ^tools/color-visualizer/?$ /color-visualizer [R=301,L]
+RewriteRule ^bathroom-countertops/?$ /bathroom-vanity-countertops [R=301,L]
+
 # 301 Redirect .html URLs to clean URLs (SEO-friendly)
 # Example: /quartz-brands.html redirects to /quartz-brands
 RewriteCond %{THE_REQUEST} \s/(.+)\.html[\s?] [NC]

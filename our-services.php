@@ -823,7 +823,7 @@
                         <li>Moisture-resistant and easy-to-clean surfaces</li>
                         <li>Custom sizes for any bathroom layout</li>
                     </ul>
-                    <a href="bathroom-countertops" class="service-link">Explore Bathroom Vanities <i class="bi bi-arrow-right"></i></a>
+                    <a href="bathroom-vanity-countertops" class="service-link">Explore Bathroom Vanities <i class="bi bi-arrow-right"></i></a>
                 </div>
 
                 <!-- Shower Surrounds & Tub Decks -->
