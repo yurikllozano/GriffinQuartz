@@ -162,6 +162,24 @@ $source_files = [
     __DIR__ . '/../blog-content/gq-blog-posts-47-50.txt',
 ];
 
+// Fallback: also check /tmp/ if blog-content dir doesn't exist
+$tmp_files = [
+    '/tmp/gq-blog-posts-23-28.txt',
+    '/tmp/gq-blog-posts-29-34.txt',
+    '/tmp/gq-blog-posts-35-40.txt',
+    '/tmp/gq-blog-posts-41-46.txt',
+    '/tmp/gq-blog-posts-47-50.txt',
+];
+
+// Also try document root path
+$docroot_files = [
+    $_SERVER['DOCUMENT_ROOT'] . '/blog-content/gq-blog-posts-23-28.txt',
+    $_SERVER['DOCUMENT_ROOT'] . '/blog-content/gq-blog-posts-29-34.txt',
+    $_SERVER['DOCUMENT_ROOT'] . '/blog-content/gq-blog-posts-35-40.txt',
+    $_SERVER['DOCUMENT_ROOT'] . '/blog-content/gq-blog-posts-41-46.txt',
+    $_SERVER['DOCUMENT_ROOT'] . '/blog-content/gq-blog-posts-47-50.txt',
+];
+
 // ============================================================
 // Parser: Extract posts from text files (same as Batch 1)
 // ============================================================
@@ -252,13 +270,29 @@ function parse_blog_posts_file($filepath) {
     return $posts;
 }
 
+// Determine which set of files to use
+$files_to_use = $source_files;
+$using_tmp = false;
+$using_docroot = false;
+
+// Check if blog-content files exist, fall back to docroot then /tmp/
+if (!file_exists($source_files[0])) {
+    if (file_exists($docroot_files[0])) {
+        $files_to_use = $docroot_files;
+        $using_docroot = true;
+    } elseif (file_exists($tmp_files[0])) {
+        $files_to_use = $tmp_files;
+        $using_tmp = true;
+    }
+}
+
 // Parse all files
 $all_posts = [];
 $parse_errors = [];
 
-foreach ($source_files as $file) {
+foreach ($files_to_use as $file) {
     if (!file_exists($file)) {
-        $parse_errors[] = "File not found: " . basename($file);
+        $parse_errors[] = "File not found: " . basename($file) . " (tried: " . $file . ")";
         continue;
     }
     $parsed = parse_blog_posts_file($file);
