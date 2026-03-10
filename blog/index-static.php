@@ -79,6 +79,16 @@
             </div>
 
             <div class="blog-index-grid">
+                <!-- Quartz vs Quartzite -->
+                <a href="quartz-vs-quartzite" class="blog-index-card">
+                    <img src="../images/quartz-vs-quartzite-comparison.webp" alt="Quartz vs quartzite countertop comparison for South Florida homes" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Mar 14, 2026</span>
+                        <h2>Quartz vs Quartzite: What Is the Difference and Which Should You Choose?</h2>
+                        <p>The definitive comparison of quartz and quartzite countertops: durability, cost, maintenance, and which is best for South Florida homes.</p>
+                    </div>
+                </a>
+
                 <!-- Fort Lauderdale Blog Posts -->
                 <a href="fort-lauderdale-waterfront-kitchen-countertops" class="blog-index-card">
                     <img src="../images/kitchen-waterfront-palms-orchids.webp" alt="Kitchen countertops for Fort Lauderdale waterfront homes" loading="lazy" width="800" height="800">
