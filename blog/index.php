@@ -5,7 +5,15 @@
  */
 
 $basePath = '..';
-require_once dirname(__DIR__) . '/api/config.php';
+
+// Try database-driven blog, fallback to static if config or DB unavailable
+$configFile = dirname(__DIR__) . '/api/config.php';
+if (!file_exists($configFile)) {
+    include 'index-static.php';
+    exit();
+}
+
+require_once $configFile;
 
 // Database connection
 try {
@@ -218,7 +226,7 @@ $page_title = $category_name ? "$category_name - Blog" : "Quartz Countertop Blog
                         $excerpt = $post['excerpt'] ?: substr(strip_tags($post['content']), 0, 150) . '...';
                     ?>
                     <a href="/blog/<?= htmlspecialchars($post['slug']) ?>" class="blog-index-card">
-                        <img src="<?= htmlspecialchars($image) ? loading="lazy">" alt="<?= htmlspecialchars($post['featured_image_alt'] ?: $post['title']) ?>" loading="lazy">
+                        <img src="<?= htmlspecialchars($image) ?>" alt="<?= htmlspecialchars($post['featured_image_alt'] ?: $post['title']) ?>" loading="lazy">
                         <div class="blog-index-card-content">
                             <span class="blog-meta">By <?= htmlspecialchars($post['author']) ?> &bull; <?= $date ?></span>
                             <h2><?= htmlspecialchars($post['title']) ?></h2>
