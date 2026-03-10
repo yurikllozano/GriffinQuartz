@@ -79,6 +79,26 @@
             </div>
 
             <div class="blog-index-grid">
+                <!-- Pillar: Material Comparison Guide -->
+                <a href="countertop-material-comparison-guide" class="blog-index-card">
+                    <img src="../images/countertop-material-comparison.webp" alt="Quartz, granite, marble, and quartzite countertop materials compared" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Mar 28, 2026</span>
+                        <h2>Countertop Material Comparison: Quartz vs Granite vs Marble vs Quartzite</h2>
+                        <p>The definitive guide comparing all four premium countertop materials — durability, cost, maintenance, and best uses for South Florida.</p>
+                    </div>
+                </a>
+
+                <!-- Pillar: Complete Guide to Quartz -->
+                <a href="quartz-countertops-complete-guide" class="blog-index-card">
+                    <img src="../images/quartz-countertops-complete-guide.webp" alt="Complete guide to quartz countertops for South Florida homes" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Mar 21, 2026</span>
+                        <h2>The Complete Guide to Quartz Countertops: Everything You Need to Know</h2>
+                        <p>Everything about quartz countertops: how they are made, pros and cons, costs, brands, colors, maintenance, and South Florida considerations.</p>
+                    </div>
+                </a>
+
                 <!-- Quartz vs Quartzite -->
                 <a href="quartz-vs-quartzite" class="blog-index-card">
                     <img src="../images/quartz-vs-quartzite-comparison.webp" alt="Quartz vs quartzite countertop comparison for South Florida homes" loading="lazy" width="800" height="533">
