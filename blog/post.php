@@ -5,7 +5,6 @@
  */
 
 $basePath = '..';
-require_once dirname(__DIR__) . '/api/config.php';
 
 // Get slug from URL
 $slug = $_GET['slug'] ?? '';
@@ -21,6 +20,16 @@ if (file_exists($static_file)) {
     include $static_file;
     exit();
 }
+
+// Try database-driven post if config exists
+$configFile = dirname(__DIR__) . '/api/config.php';
+if (!file_exists($configFile)) {
+    header('HTTP/1.0 404 Not Found');
+    echo '<h1>Post not found</h1>';
+    exit();
+}
+
+require_once $configFile;
 
 // Database connection for dynamic posts
 try {
@@ -330,7 +339,7 @@ function stripRelatedArticles($content) {
     <article class="blog-article">
         <!-- Full-width Hero -->
         <div class="blog-hero" style="display: flex; align-items: center; justify-content: center;">
-            <img src="<?= e($featured_image) ? loading="lazy">" alt="<?= e($post['featured_image_alt'] ?: $post['title']) ?>" class="blog-hero-image" loading="eager">
+            <img src="<?= e($featured_image) ?>" alt="<?= e($post['featured_image_alt'] ?: $post['title']) ?>" class="blog-hero-image" loading="eager">
             <div class="blog-hero-overlay" style="align-items: center; justify-content: center; text-align: center;">
                 <div class="blog-hero-content" style="text-align: center; padding-bottom: 0;">
                     <span class="blog-meta">By <?= e($post['author']) ?> | <?= date('M j, Y', strtotime($publish_date)) ?></span>
@@ -395,7 +404,7 @@ function stripRelatedArticles($content) {
                         $rel_date = $rel['publish_date'] ? date('M j, Y', strtotime($rel['publish_date'])) : '';
                     ?>
                     <a href="/blog/<?= e($rel['slug']) ?>" class="blog-related__card">
-                        <img src="<?= e($rel_image) ? loading="lazy">" alt="<?= e($rel['title']) ?>" class="blog-related__image" loading="lazy">
+                        <img src="<?= e($rel_image) ?>" alt="<?= e($rel['title']) ?>" class="blog-related__image" loading="lazy">
                         <div class="blog-related__content">
                             <h3 class="blog-related__title"><?= e($rel['title']) ?></h3>
                             <?php if ($rel_date): ?>
