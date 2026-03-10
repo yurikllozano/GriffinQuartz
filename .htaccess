@@ -176,6 +176,6 @@ Options -Indexes
     Header set X-XSS-Protection "1; mode=block"
 </IfModule>
 
-# Custom error pages (optional - create these files if needed)
-# ErrorDocument 404 /404.php
+# Custom error pages
+ErrorDocument 404 /404.php
 # ErrorDocument 500 /500.php
