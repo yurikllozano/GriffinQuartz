@@ -79,7 +79,8 @@
             </div>
 
             <div class="blog-index-grid">
-                <!-- Pillar: Material Comparison Guide -->
+                <!-- === 2026 Pillar Pages & New Posts === -->
+
                 <a href="countertop-material-comparison-guide" class="blog-index-card">
                     <img src="../images/countertop-material-comparison.webp" alt="Quartz, granite, marble, and quartzite countertop materials compared" loading="lazy" width="800" height="533">
                     <div class="blog-index-card-content">
@@ -89,7 +90,6 @@
                     </div>
                 </a>
 
-                <!-- Pillar: Complete Guide to Quartz -->
                 <a href="quartz-countertops-complete-guide" class="blog-index-card">
                     <img src="../images/quartz-countertops-complete-guide.webp" alt="Complete guide to quartz countertops for South Florida homes" loading="lazy" width="800" height="533">
                     <div class="blog-index-card-content">
@@ -99,7 +99,6 @@
                     </div>
                 </a>
 
-                <!-- Quartz vs Quartzite -->
                 <a href="quartz-vs-quartzite" class="blog-index-card">
                     <img src="../images/quartz-vs-quartzite-comparison.webp" alt="Quartz vs quartzite countertop comparison for South Florida homes" loading="lazy" width="800" height="533">
                     <div class="blog-index-card-content">
@@ -109,7 +108,194 @@
                     </div>
                 </a>
 
-                <!-- Fort Lauderdale Blog Posts -->
+                <!-- === January 2026 Posts === -->
+
+                <a href="quartz-countertops-cost-guide" class="blog-index-card">
+                    <img src="../images/kitchen-penthouse-calacatta-gold-ocean.webp" alt="Modern luxury kitchen with quartz countertops" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>How Much Do Quartz Countertops Cost? Complete 2026 Pricing Guide</h2>
+                        <p>Quartz countertops cost in 2026. Pricing per square foot, brand comparisons, and factors affecting your quote.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-countertop-colors-guide" class="blog-index-card">
+                    <img src="../images/kitchen-calacatta-walnut-leather-stools.webp" alt="Beautiful quartz countertop colors" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>Quartz Countertop Colors: Your Complete Selection Guide for 2026</h2>
+                        <p>Stunning quartz countertop colors from white to black. Find quartz that looks like marble for your South Florida home.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-countertop-edge-profiles" class="blog-index-card">
+                    <img src="../images/fabrication-hands-polishing-quartz.webp" alt="Polishing quartz countertop edge" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>Quartz Countertop Edge Profiles: The Complete Guide</h2>
+                        <p>Countertop edge profiles from eased to waterfall. Which quartz countertop edges work best for your kitchen.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-countertop-installation-guide" class="blog-index-card">
+                    <img src="../images/installation-team-penthouse-slab.webp" alt="Professional quartz countertop installation" loading="lazy" width="800" height="603">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>Quartz Countertop Installation: What to Expect from Start to Finish</h2>
+                        <p>Planning a kitchen countertop replacement? What to expect during professional quartz installation, from template to final reveal.</p>
+                    </div>
+                </a>
+
+                <a href="how-to-clean-quartz-countertops" class="blog-index-card">
+                    <img src="../images/kitchen-calacatta-gold-globe-pendants.webp" alt="Beautiful quartz countertops in modern kitchen" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>How to Clean Quartz Countertops: The Complete Care Guide</h2>
+                        <p>How to clean quartz countertops the right way. Expert tips on daily care, stain removal and the best cleaner products.</p>
+                    </div>
+                </a>
+
+                <a href="best-quartz-countertop-brands" class="blog-index-card">
+                    <img src="../images/fabrication-shop-polishing-slab.webp" alt="Quartz countertop fabrication" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>Best Quartz Countertop Brands in 2026: Complete Comparison Guide</h2>
+                        <p>Best quartz countertops from Cambria, Silestone, Caesarstone, MSI and Hanstone. Brand reviews, pricing and pros/cons.</p>
+                    </div>
+                </a>
+
+                <a href="affordable-quartz-countertops" class="blog-index-card">
+                    <img src="../images/kitchen-coastal-wicker-stools-skylight.webp" alt="Beautiful affordable quartz kitchen countertops" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>Affordable Quartz Countertops: How to Get Premium Quality on a Budget</h2>
+                        <p>Premium quartz kitchen countertops on a budget. Remnants, discount options, and affordable countertop alternatives.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-vs-granite-marble-comparison" class="blog-index-card">
+                    <img src="../images/kitchen-penthouse-veined-ocean-view.webp" alt="Quartz countertops in modern kitchen" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Jan 22, 2026</span>
+                        <h2>Quartz vs Granite vs Marble: Which Countertop Material is Best?</h2>
+                        <p>Key differences between quartz vs granite countertops. Compare durability, cost, maintenance and appearance.</p>
+                    </div>
+                </a>
+
+                <!-- === September 2025 Posts === -->
+
+                <a href="countertop-thickness-guide" class="blog-index-card">
+                    <img src="../images/kitchen-calacatta-gold-wood-cabinets.webp" alt="Elegant kitchen with Calacatta Gold quartz countertops" loading="lazy" width="533" height="800">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Sep 20, 2025</span>
+                        <h2>Choosing the Right Countertop Thickness: A Complete Guide</h2>
+                        <p>Standard countertop thickness options for kitchens and bathrooms. Compare 2cm vs 3cm quartz, granite and marble.</p>
+                    </div>
+                </a>
+
+                <a href="onyx-countertops-care-guide" class="blog-index-card">
+                    <img src="../images/bathroom-spa-calacatta-vessel-tub.webp" alt="Luxurious spa-style bathroom with Calacatta stone countertops" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Sep 20, 2025</span>
+                        <h2>Step-by-Step Guide to Clean and Polish Onyx Countertops</h2>
+                        <p>How to clean and polish onyx countertops. Step-by-step guide on sealing, daily care and professional polishing.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-slabs-buying-guide" class="blog-index-card">
+                    <img src="../images/quartz-samples-gold-hardware-luxury.webp" alt="Luxury quartz slab samples with gold hardware accents" loading="lazy" width="800" height="800">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Sep 20, 2025</span>
+                        <h2>Quartz Slabs for Sale: The Ultimate 2025 Buying Guide</h2>
+                        <p>Our ultimate buying guide covers types, costs, where to buy, and how to choose the perfect slab for your home.</p>
+                    </div>
+                </a>
+
+                <!-- === August 2025 Posts === -->
+
+                <a href="white-quartz-countertops" class="blog-index-card">
+                    <img src="../images/waterfront-patio-quartz-table-marina-sunset.webp" alt="White quartz countertops South Florida" loading="lazy" width="800" height="800">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Yurik Lozano • Aug 20, 2025</span>
+                        <h2>White Quartz Countertops in South Florida</h2>
+                        <p>Explore popular white quartz styles and why they're perfect for coastal living.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-countertops-yachts" class="blog-index-card">
+                    <img src="../images/yacht-galley-white-quartz-ocean.webp" alt="Luxury yacht galley with white quartz countertops and ocean view" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Aug 19, 2025</span>
+                        <h2>Quartz Countertops for Yachts: The Perfect Blend of Luxury and Durability</h2>
+                        <p>Quartz countertops for yachts: luxury and durability for marine environments. Lightweight options and marine-grade installation.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-countertops-cost" class="blog-index-card">
+                    <img src="../images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops cost guide" loading="lazy" width="800" height="800">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Yurik Lozano • Aug 18, 2025</span>
+                        <h2>Quartz Countertops Cost: Complete Guide</h2>
+                        <p>Everything you need to know about quartz countertop pricing and budgeting.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-pricing-guide" class="blog-index-card">
+                    <img src="../images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Quartz pricing guide" loading="lazy" width="800" height="800">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Yurik Lozano • Aug 15, 2025</span>
+                        <h2>Quartz Countertop Pricing Guide</h2>
+                        <p>Detailed breakdown of quartz pricing by brand, color, and installation factors.</p>
+                    </div>
+                </a>
+
+                <a href="top-10-countertop-installation" class="blog-index-card">
+                    <img src="../images/kitchen-white-gold-quartz-coffee-bar.webp" width="800" height="533" alt="Top countertop installation tips" loading="lazy">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Yurik Lozano • Aug 10, 2025</span>
+                        <h2>Top 10 Countertop Installation Tips</h2>
+                        <p>Expert tips for a successful countertop installation project.</p>
+                    </div>
+                </a>
+
+                <a href="quartz-home-trends" class="blog-index-card">
+                    <img src="../images/kitchen-penthouse-veined-ocean-view.webp" alt="Modern kitchen with veined quartz countertops and ocean view" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Aug 9, 2025</span>
+                        <h2>Quartz Home Trends That Are Defining Modern Living</h2>
+                        <p>Discover the top quartz home trends defining modern living. From waterfall edges to outdoor surfaces.</p>
+                    </div>
+                </a>
+
+                <a href="most-realistic-quartz-countertops" class="blog-index-card">
+                    <img src="../images/kitchen-calacatta-walnut-orchids.webp" alt="Realistic Calacatta quartz countertop in a modern kitchen" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Aug 8, 2025</span>
+                        <h2>The Ultimate Guide to the Most Realistic Quartz Countertops in 2025</h2>
+                        <p>Most realistic quartz countertops that look like marble. Compare Silestone, Cambria, Caesarstone and MSI.</p>
+                    </div>
+                </a>
+
+                <a href="granite-fabricators-near-me" class="blog-index-card">
+                    <img src="../images/fabrication-shop-polishing-slab.webp" alt="Granite countertop fabrication shop" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Aug 9, 2025</span>
+                        <h2>Top Granite Countertops Fabricators Near Me</h2>
+                        <p>Top granite fabricators in South Florida. What to look for in a fabricator and why Griffin Quartz is the #1 choice.</p>
+                    </div>
+                </a>
+
+                <a href="stone-fabricator-near-me" class="blog-index-card">
+                    <img src="../images/fabrication-hands-polishing-quartz.webp" alt="Skilled fabricator polishing a quartz countertop slab" loading="lazy" width="800" height="533">
+                    <div class="blog-index-card-content">
+                        <span class="blog-meta">By Griffin Quartz Team • Aug 9, 2025</span>
+                        <h2>Discover the Best Stone Fabricator Near Me</h2>
+                        <p>Best stone fabricator near you? What stone fabrication involves and what to look for.</p>
+                    </div>
+                </a>
+
+                <!-- === Fort Lauderdale Series (Jan 2025) === -->
+
                 <a href="fort-lauderdale-waterfront-kitchen-countertops" class="blog-index-card">
                     <img src="../images/kitchen-waterfront-palms-orchids.webp" alt="Kitchen countertops for Fort Lauderdale waterfront homes" loading="lazy" width="800" height="800">
                     <div class="blog-index-card-content">
@@ -197,43 +383,6 @@
                         <span class="blog-meta">By Griffin Quartz Team • Jan 6, 2025</span>
                         <h2>Top Quartz Brands Available in Fort Lauderdale</h2>
                         <p>Compare premium quartz brands available through Fort Lauderdale installers.</p>
-                    </div>
-                </a>
-
-                <!-- Existing Blog Posts -->
-                <a href="white-quartz-countertops" class="blog-index-card">
-                    <img src="../images/waterfront-patio-quartz-table-marina-sunset.webp" alt="White quartz countertops South Florida" loading="lazy" width="800" height="800">
-                    <div class="blog-index-card-content">
-                        <span class="blog-meta">By Yurik Lozano • Aug 20, 2025</span>
-                        <h2>White Quartz Countertops in South Florida</h2>
-                        <p>Explore popular white quartz styles and why they're perfect for coastal living.</p>
-                    </div>
-                </a>
-
-                <a href="quartz-countertops-cost" class="blog-index-card">
-                    <img src="../images/luxury-white-kitchen-arched-windows-gold.webp" alt="Quartz countertops cost guide" loading="lazy" width="800" height="800">
-                    <div class="blog-index-card-content">
-                        <span class="blog-meta">By Yurik Lozano • Aug 18, 2025</span>
-                        <h2>Quartz Countertops Cost: Complete Guide</h2>
-                        <p>Everything you need to know about quartz countertop pricing and budgeting.</p>
-                    </div>
-                </a>
-
-                <a href="quartz-pricing-guide" class="blog-index-card">
-                    <img src="../images/industrial-loft-kitchen-brick-quartz-island.webp" alt="Quartz pricing guide" loading="lazy" width="800" height="800">
-                    <div class="blog-index-card-content">
-                        <span class="blog-meta">By Yurik Lozano • Aug 15, 2025</span>
-                        <h2>Quartz Countertop Pricing Guide</h2>
-                        <p>Detailed breakdown of quartz pricing by brand, color, and installation factors.</p>
-                    </div>
-                </a>
-
-                <a href="top-10-countertop-installation" class="blog-index-card">
-                    <img src="../images/kitchen-white-gold-quartz-coffee-bar.webp" width="800" height="533" alt="Top countertop installation tips" loading="lazy">
-                    <div class="blog-index-card-content">
-                        <span class="blog-meta">By Yurik Lozano • Aug 10, 2025</span>
-                        <h2>Top 10 Countertop Installation Tips</h2>
-                        <p>Expert tips for a successful countertop installation project.</p>
                     </div>
                 </a>
             </div>
