@@ -22,6 +22,55 @@ RewriteRule ^(.*)$ https://griffinquartz.com/$1 [R=301,L]
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+# ============================================================
+# 301 Redirects: Old Shopify /blogs/news/ URLs → Current blog
+# These preserve SEO equity from the old soflocountertops Shopify site
+# ============================================================
+
+# Specific old Shopify blog post redirects (slug changed)
+RewriteRule ^blogs/news/how-much-is-quartz-countertops-2025-pricing-guide/?$ /blog/quartz-countertops-cost [R=301,L]
+RewriteRule ^blogs/news/the-ultimate-guide-to-the-most-realistic-quartz-countertops-in-2025[^/]*/?$ /blog/most-realistic-quartz-countertops [R=301,L]
+RewriteRule ^blogs/news/how-to-clean-quartz-countertops[^/]*/?$ /blog/how-to-clean-quartz-countertops [R=301,L]
+RewriteRule ^blogs/news/.*white-quartz-countertops[^/]*/?$ /blog/white-quartz-countertops [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertop-edge-profiles[^/]*/?$ /blog/quartz-countertop-edge-profiles [R=301,L]
+RewriteRule ^blogs/news/.*quartz-vs-granite[^/]*/?$ /blog/quartz-vs-granite-marble-comparison [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertop-installation[^/]*/?$ /blog/quartz-countertop-installation-guide [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertop-colors[^/]*/?$ /blog/quartz-countertop-colors-guide [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertop-brands[^/]*/?$ /blog/best-quartz-countertop-brands [R=301,L]
+RewriteRule ^blogs/news/.*affordable-quartz[^/]*/?$ /blog/affordable-quartz-countertops [R=301,L]
+RewriteRule ^blogs/news/.*outdoor-kitchen-countertops[^/]*/?$ /blog/outdoor-kitchen-countertops-fort-lauderdale [R=301,L]
+RewriteRule ^blogs/news/.*bathroom-vanity-countertops[^/]*/?$ /blog/bathroom-vanity-countertops-fort-lauderdale-2025 [R=301,L]
+RewriteRule ^blogs/news/.*quartz-slabs[^/]*/?$ /blog/quartz-slabs-buying-guide [R=301,L]
+RewriteRule ^blogs/news/.*countertop-thickness[^/]*/?$ /blog/countertop-thickness-guide [R=301,L]
+RewriteRule ^blogs/news/.*quartz-home-trends[^/]*/?$ /blog/quartz-home-trends [R=301,L]
+RewriteRule ^blogs/news/.*onyx-countertops[^/]*/?$ /blog/onyx-countertops-care-guide [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertops-yachts[^/]*/?$ /blog/quartz-countertops-yachts [R=301,L]
+RewriteRule ^blogs/news/.*granite-fabricators[^/]*/?$ /blog/granite-fabricators-near-me [R=301,L]
+RewriteRule ^blogs/news/.*stone-fabricator[^/]*/?$ /blog/stone-fabricator-near-me [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertops-cost[^/]*/?$ /blog/quartz-countertops-cost [R=301,L]
+RewriteRule ^blogs/news/.*top-10-countertop[^/]*/?$ /blog/top-10-countertop-installation [R=301,L]
+RewriteRule ^blogs/news/.*quartz-pricing[^/]*/?$ /blog/quartz-pricing-guide [R=301,L]
+RewriteRule ^blogs/news/.*quartz-vs-quartzite[^/]*/?$ /blog/quartz-vs-quartzite [R=301,L]
+RewriteRule ^blogs/news/.*fort-lauderdale.*condo.*kitchen[^/]*/?$ /blog/fort-lauderdale-condo-kitchen-renovation [R=301,L]
+RewriteRule ^blogs/news/.*fort-lauderdale.*waterfront[^/]*/?$ /blog/fort-lauderdale-waterfront-kitchen-countertops [R=301,L]
+RewriteRule ^blogs/news/.*fort-lauderdale.*restaurant[^/]*/?$ /blog/fort-lauderdale-restaurant-bar-countertops [R=301,L]
+RewriteRule ^blogs/news/.*quartz-colors.*fort-lauderdale[^/]*/?$ /blog/quartz-colors-fort-lauderdale-coastal-homes [R=301,L]
+RewriteRule ^blogs/news/.*quartz-installation.*fort-lauderdale[^/]*/?$ /blog/quartz-installation-process-fort-lauderdale [R=301,L]
+RewriteRule ^blogs/news/.*quartz-brands.*fort-lauderdale[^/]*/?$ /blog/quartz-brands-fort-lauderdale [R=301,L]
+RewriteRule ^blogs/news/.*quartz-countertops-cost.*fort-lauderdale[^/]*/?$ /blog/quartz-countertops-cost-fort-lauderdale-2025 [R=301,L]
+
+# Catch-all: Any other old Shopify blog URL → blog index
+RewriteRule ^blogs/news/?$ /blog/ [R=301,L]
+RewriteRule ^blogs/news/(.+)/?$ /blog/ [R=301,L]
+
+# Old Shopify collection/page URLs → relevant current pages
+RewriteRule ^collections/?$ / [R=301,L]
+RewriteRule ^collections/(.+)/?$ / [R=301,L]
+RewriteRule ^pages/contact[^/]*/?$ /contact [R=301,L]
+RewriteRule ^pages/about[^/]*/?$ /about [R=301,L]
+RewriteRule ^pages/gallery[^/]*/?$ /gallery [R=301,L]
+RewriteRule ^pages/(.+)/?$ / [R=301,L]
+
 # 301 Redirect .html URLs to clean URLs (SEO-friendly)
 # Example: /quartz-brands.html redirects to /quartz-brands
 RewriteCond %{THE_REQUEST} \s/(.+)\.html[\s?] [NC]
