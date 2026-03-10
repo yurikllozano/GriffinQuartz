@@ -1,33 +1,12 @@
 <?php
 /**
  * Griffin Quartz - Blog Index
- * Database-driven blog listing with pagination
+ * Uses static blog listing (all posts are static PHP files)
+ * Database-driven version is disabled until all posts are migrated to the DB
  */
 
-$basePath = '..';
-
-// Try database-driven blog, fallback to static if config or DB unavailable
-$configFile = dirname(__DIR__) . '/api/config.php';
-if (!file_exists($configFile)) {
-    include 'index-static.php';
-    exit();
-}
-
-require_once $configFile;
-
-// Database connection
-try {
-    $pdo = new PDO(
-        "mysql:host=" . DB_BLOG_HOST . ";dbname=" . DB_BLOG_NAME . ";charset=utf8mb4",
-        DB_BLOG_USER,
-        DB_BLOG_PASS,
-        [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC]
-    );
-} catch (PDOException $e) {
-    // Fallback to static page if database fails
-    include 'index-static.php';
-    exit();
-}
+include 'index-static.php';
+exit();
 
 // Pagination
 $per_page = 12;
