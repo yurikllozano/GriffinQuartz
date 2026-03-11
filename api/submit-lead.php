@@ -168,15 +168,15 @@ try {
 }
 
 /**
- * Send email notification to admin
+ * Send email notification to admin via Mailgun
  */
 function sendEmailNotification($formType, $name, $email, $phone, $project, $message, $leadId) {
     $to = ADMIN_EMAIL;
     $subject = "[" . SITE_NAME . "] New " . ucfirst($formType) . " Lead #$leadId";
-    $fromEmail = defined('FROM_EMAIL') ? FROM_EMAIL : 'noreply@griffinquartz.com';
+    $fromEmail = defined('FROM_EMAIL') ? FROM_EMAIL : 'noreply@mg.griffinquartz.com';
     $fromName = defined('FROM_NAME') ? FROM_NAME : SITE_NAME;
 
-    // Build HTML email for better deliverability
+    // Build HTML email
     $body = "<!DOCTYPE html><html><head><meta charset='UTF-8'></head><body>";
     $body .= "<h2>New Lead Submission</h2>";
     $body .= "<table style='border-collapse: collapse; width: 100%; max-width: 600px;'>";
@@ -195,14 +195,31 @@ function sendEmailNotification($formType, $name, $email, $phone, $project, $mess
     $body .= "</table>";
     $body .= "</body></html>";
 
-    // Headers for better deliverability
-    $headers = "From: $fromName <$fromEmail>\r\n";
-    $headers .= "Reply-To: $name <$email>\r\n";
-    $headers .= "Return-Path: $fromEmail\r\n";
-    $headers .= "MIME-Version: 1.0\r\n";
-    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
-    $headers .= "X-Mailer: PHP/" . phpversion() . "\r\n";
-    $headers .= "X-Priority: 1\r\n";
+    // Send via Mailgun API
+    if (!defined('MAILGUN_API_KEY') || !defined('MAILGUN_DOMAIN')) {
+        error_log("Mailgun not configured — skipping email for lead #$leadId");
+        return;
+    }
 
-    @mail($to, $subject, $body, $headers, "-f$fromEmail");
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://api.mailgun.net/v3/' . MAILGUN_DOMAIN . '/messages');
+    curl_setopt($ch, CURLOPT_USERPWD, 'api:' . MAILGUN_API_KEY);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, [
+        'from'       => "$fromName <$fromEmail>",
+        'to'         => $to,
+        'subject'    => $subject,
+        'html'       => $body,
+        'h:Reply-To' => "$name <$email>"
+    ]);
+
+    $result = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    if ($httpCode !== 200) {
+        error_log("Mailgun send failed (HTTP $httpCode) for lead #$leadId: $result");
+    }
+
+    curl_close($ch);
 }

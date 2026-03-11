@@ -23,6 +23,14 @@ define('SITE_NAME', 'Griffin Quartz');
 define('ADMIN_EMAIL', 'your@email.com');
 
 /**
+ * Mailgun
+ */
+define('MAILGUN_API_KEY', 'your-mailgun-api-key');
+define('MAILGUN_DOMAIN', 'mg.griffinquartz.com');
+define('FROM_EMAIL', 'noreply@mg.griffinquartz.com');
+define('FROM_NAME', 'Griffin Quartz');
+
+/**
  * Security
  */
 define('ALLOWED_ORIGINS', [
