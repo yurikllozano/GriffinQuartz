@@ -39,3 +39,4 @@ Sitemap: https://griffinquartz.com/sitemap.xml
 
 # LLM Context
 # For AI assistants, see: https://griffinquartz.com/llms.txt
+# Full version: https://griffinquartz.com/llms-full.txt
