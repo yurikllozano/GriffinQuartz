@@ -146,7 +146,7 @@
         .hero-form .btn-full { width: 100%; padding: 14px; font-size: 1rem; }
         @media (max-width: 900px) {
             .hero-container { grid-template-columns: 1fr; }
-            .hero-form { order: -1; max-width: 450px; margin: 0 auto; }
+            .hero-form { order: 1; max-width: 450px; margin: 0 auto; }
             .hero-content { text-align: center; }
         }
 
