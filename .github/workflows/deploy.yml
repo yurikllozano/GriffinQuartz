@@ -12,19 +12,65 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Deploy via FTP
+      - name: Deploy changed files via FTP
         run: |
           sudo apt-get install -y lftp
-          lftp -u "${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }}" "${{ secrets.FTP_SERVER }}" <<EOF
+
+          # Get list of changed files (compared to previous commit)
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD 2>/dev/null || echo "ALL")
+
+          if [ "$CHANGED_FILES" = "ALL" ]; then
+            echo "First deploy or can't diff — uploading all files"
+            lftp -u "${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }}" "${{ secrets.FTP_SERVER }}" <<EOF
           set ssl:verify-certificate no
-          mirror --reverse --delete --verbose \
+          set net:max-retries 3
+          set net:timeout 30
+          mirror --reverse --only-newer --parallel=5 --verbose \
             --exclude .git/ \
             --exclude .github/ \
             --exclude README.md \
             --exclude .gitignore \
             --exclude node_modules/ \
             --exclude api/config.php \
+            --exclude minify.js \
             ./ ./
           bye
           EOF
+          else
+            echo "Uploading only changed files:"
+            echo "$CHANGED_FILES"
+
+            # Build lftp commands to upload only changed files
+            LFTP_CMDS=""
+            for file in $CHANGED_FILES; do
+              # Skip excluded files
+              case "$file" in
+                .git/*|.github/*|README.md|.gitignore|node_modules/*|api/config.php|minify.js)
+                  continue
+                  ;;
+              esac
+
+              if [ -f "$file" ]; then
+                DIR=$(dirname "$file")
+                if [ "$DIR" != "." ]; then
+                  LFTP_CMDS="${LFTP_CMDS}mkdir -p -f ${DIR};"
+                fi
+                LFTP_CMDS="${LFTP_CMDS}put -O ${DIR}/ ${file};"
+              fi
+            done
+
+            if [ -n "$LFTP_CMDS" ]; then
+              lftp -u "${{ secrets.FTP_USERNAME }},${{ secrets.FTP_PASSWORD }}" "${{ secrets.FTP_SERVER }}" <<EOF
+          set ssl:verify-certificate no
+          set net:max-retries 3
+          set net:timeout 30
+          ${LFTP_CMDS}
+          bye
+          EOF
+            else
+              echo "No deployable files changed"
+            fi
+          fi

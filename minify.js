@@ -1,0 +1,10 @@
+const fs = require('fs');
+let css = fs.readFileSync('/Users/yuriklozano/GriffinQuartz/styles.css', 'utf8');
+const original = css.length;
+css = css.replace(/\/\*[\s\S]*?\*\//g, '');
+css = css.replace(/\s+/g, ' ');
+css = css.replace(/\s*([{}:;,])\s*/g, '$1');
+css = css.replace(/;}/g, '}');
+css = css.trim();
+fs.writeFileSync('/Users/yuriklozano/GriffinQuartz/styles.min.css', css);
+console.log(`Minified: ${original} -> ${css.length} bytes (${(100 - (css.length/original*100)).toFixed(1)}% reduction)`);
