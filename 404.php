@@ -13,7 +13,7 @@ $pageDescription = 'The page you were looking for could not be found. Explore Gr
     <meta name="robots" content="noindex, follow">
     <link rel="canonical" href="https://griffinquartz.com/">
     <link rel="icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/styles.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <style>
         .error-page {
@@ -115,7 +115,7 @@ $pageDescription = 'The page you were looking for could not be found. Explore Gr
             <i class="bi bi-house"></i>
             <span>Homepage</span>
         </a>
-        <a href="/kitchen-countertops" class="error-link-card">
+        <a href="/kitchen-bath" class="error-link-card">
             <i class="bi bi-grid-3x3"></i>
             <span>Kitchen Countertops</span>
         </a>

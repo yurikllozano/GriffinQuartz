@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Quartz countertops for yachts: luxury and durability for marine environments. Lightweight options and marine-grade installation for yacht interiors.">
     <title>Quartz Countertops for Yachts | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Countertops for Yachts | Griffin Quartz">
+    <meta name="twitter:description" content="Quartz countertops for yachts: luxury and durability for marine environments. Lightweight options and marine-grade installation for yacht interiors.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
@@ -12,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are quartz countertops good for yachts?","acceptedAnswer":{"@type":"Answer","text":"Yes, quartz countertops are an excellent choice for yachts. They are durable, non-porous, and resistant to stains, scratches, and moisture — making them ideal for the demanding marine environment where surfaces are exposed to salt, humidity, and constant use."}},{"@type":"Question","name":"Is quartz too heavy for marine use?","acceptedAnswer":{"@type":"Answer","text":"No, quartz is not too heavy for marine use. Lightweight and thin-panel options are specifically designed for marine and aviation applications, reducing overall weight while still delivering the premium look and performance of full-thickness quartz."}},{"@type":"Question","name":"How do quartz countertops compare to granite on yachts?","acceptedAnswer":{"@type":"Answer","text":"Quartz outperforms granite in several key areas for yacht use. Quartz is non-porous so it never needs sealing, it offers more consistent patterns for a cohesive design, and it is more resistant to cracking from the vibrations and movement common on vessels."}},{"@type":"Question","name":"Can quartz withstand salt and humidity?","acceptedAnswer":{"@type":"Answer","text":"Yes, quartz is engineered to resist salt, humidity, and temperature changes. Its non-porous surface will not absorb moisture or salt residue, making it the ideal countertop material for coastal and marine environments."}},{"@type":"Question","name":"Where can I get quartz installed for my yacht in South Florida?","acceptedAnswer":{"@type":"Answer","text":"Griffin Quartz offers marine-grade quartz fabrication and installation across South Florida. Our team specializes in custom yacht solutions with precision craftsmanship and the largest selection of premium quartz brands in the region."}}]}
     </script>
@@ -123,6 +130,9 @@
                 <p>Contact our team for a free consultation on marine-grade quartz countertops for your vessel.</p>
                 <a href="../#contact-form" class="btn btn-primary">Get a Free Quote</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
     <?php include '../includes/footer.php'; ?>

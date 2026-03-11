@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Complete 2025 quartz countertop pricing guide. Learn about costs per square foot, installation fees, and how to budget for your quartz countertop project.">
     <title>Quartz Countertops Pricing Guide | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Countertops Pricing Guide | Griffin Quartz">
+    <meta name="twitter:description" content="Complete 2025 quartz countertop pricing guide. Learn about costs per square foot, installation fees, and how to budget for your quartz countertop project.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
@@ -14,7 +21,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 </head>
 <body>
 <?php $basePath = '..'; include '../includes/header.php'; ?>
@@ -98,6 +105,9 @@
                 <p>Every project is unique. Contact Griffin Quartz for a free, no-obligation estimate tailored to your specific needs.</p>
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
 

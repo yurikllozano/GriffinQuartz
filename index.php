@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -100,8 +100,8 @@
         "sameAs": [],
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "6",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5",
             "worstRating": "1"
         },
@@ -151,8 +151,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "6"
+            "ratingValue": "4.9",
+            "reviewCount": "127"
         },
         "review": [
             {
@@ -495,7 +495,7 @@
 
         <div class="luxury-showcase-grid">
             <!-- Kitchen Countertops -->
-            <a href="kitchen-countertops" class="luxury-showcase-card">
+            <a href="kitchen-bath" class="luxury-showcase-card">
                 <div class="luxury-showcase-image">
                     <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Modern kitchen with quartz countertops and gold fixtures" loading="lazy" width="800" height="800">
                     <div class="luxury-showcase-overlay"></div>
@@ -552,7 +552,7 @@
             </a>
 
             <!-- Commercial Countertops -->
-            <a href="commercial-countertops" class="luxury-showcase-card">
+            <a href="commercial" class="luxury-showcase-card">
                 <div class="luxury-showcase-image">
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial bar with quartz countertops" loading="lazy" width="800" height="800">
                     <div class="luxury-showcase-overlay"></div>

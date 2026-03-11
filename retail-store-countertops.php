@@ -27,6 +27,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Retail Store Quartz Countertops | Retail Specialists | Griffin Quartz">
+    <meta name="twitter:description" content="Premium quartz surfaces for retail stores throughout South Florida. Checkout counters, displays, and customer service areas.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/commercial-retail-marble-counter.webp">
+
     <!-- Geo Meta Tags -->
     <meta name="geo.region" content="US-FL">
     <meta name="geo.placename" content="Boca Raton">

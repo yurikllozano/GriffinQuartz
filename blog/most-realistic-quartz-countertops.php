@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Most realistic quartz countertops that look like marble in 2025. Compare Silestone, Cambria, Caesarstone &amp; MSI. Expert guide.">
     <title>Most Realistic Quartz Countertops Guide | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Most Realistic Quartz Countertops Guide | Griffin Quartz">
+    <meta name="twitter:description" content="Most realistic quartz countertops that look like marble in 2025. Compare Silestone, Cambria, Caesarstone &amp; MSI. Expert guide.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
@@ -12,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the most realistic marble look quartz?","acceptedAnswer":{"@type":"Answer","text":"The most realistic marble-look quartz countertops in 2025 include Cambria Brittanicca Gold, Silestone Calacatta Gold, and Vadara Marbella. These lines feature advanced veining technology that closely mimics the depth and movement of natural marble."}},{"@type":"Question","name":"How much do quartz countertops cost in South Florida?","acceptedAnswer":{"@type":"Answer","text":"Quartz countertops in South Florida typically cost between $60 and $150 per square foot installed, depending on the brand, style, and complexity of the project."}},{"@type":"Question","name":"Is quartz good for outdoor kitchens in coastal climates?","acceptedAnswer":{"@type":"Answer","text":"Yes, quartz can be an excellent choice for outdoor kitchens in coastal climates. Look for UV-resistant options such as MSI's outdoor-approved lines, which are engineered to withstand sun exposure and humidity."}},{"@type":"Question","name":"What's the difference between polished and honed quartz?","acceptedAnswer":{"@type":"Answer","text":"Polished quartz has a glossy, reflective finish that enhances color depth and veining. Honed quartz has a matte, soft-touch finish that offers a more understated, natural stone look. Both are equally durable."}},{"@type":"Question","name":"Do quartz countertops add value to my home?","acceptedAnswer":{"@type":"Answer","text":"Yes, quartz countertops are one of the top upgrades that add value to a home. Marble-look quartz is especially desirable because it delivers the luxury aesthetic buyers love without the maintenance concerns of natural marble."}},{"@type":"Question","name":"Which brands offer the longest warranties?","acceptedAnswer":{"@type":"Answer","text":"Cambria and Caesarstone both offer lifetime warranties on their quartz countertops, giving homeowners long-term peace of mind and protection on their investment."}},{"@type":"Question","name":"Can I get quartz with continuous veining?","acceptedAnswer":{"@type":"Answer","text":"Yes, many premium brands now offer book-matched and continuous veining options. This means the veining pattern flows seamlessly across multiple slabs, creating a dramatic and cohesive look across large surfaces like waterfall islands."}},{"@type":"Question","name":"How long does installation take?","acceptedAnswer":{"@type":"Answer","text":"After templating, installation typically takes 7 to 10 business days. Griffin Quartz coordinates every step of the process to ensure a smooth and timely installation."}},{"@type":"Question","name":"Are all quartz slabs identical?","acceptedAnswer":{"@type":"Answer","text":"No, each quartz slab has slight variations in veining and pattern, much like natural stone. This means your countertops will have a unique character while still maintaining the consistency quartz is known for."}}]}
     </script>
@@ -176,6 +183,9 @@
                 <p>Explore our gallery of realistic quartz countertops and schedule a free consultation with our expert team.</p>
                 <a href="../gallery" class="btn btn-primary">Browse Our Gallery</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
     <?php include '../includes/footer.php'; ?>

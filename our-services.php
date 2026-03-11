@@ -44,7 +44,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -97,8 +97,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }
@@ -806,7 +806,7 @@
                         <li>200+ colors from Cambria, Caesarstone, and Silestone</li>
                         <li>Precise 3D laser templating for perfect fit</li>
                     </ul>
-                    <a href="kitchen-countertops" class="service-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
+                    <a href="kitchen-bath" class="service-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
                 </div>
 
                 <!-- Bathroom Vanity Fabrication -->

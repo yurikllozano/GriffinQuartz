@@ -27,6 +27,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Office Building Quartz Countertops | Professional Installation | Griffin Quartz">
+    <meta name="twitter:description" content="Premium quartz surfaces for corporate offices throughout South Florida. Reception desks, break rooms, and executive suites.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/commercial-office-lobby-modern.webp">
+
     <!-- Geo Meta Tags -->
     <meta name="geo.region" content="US-FL">
     <meta name="geo.placename" content="Boca Raton">
@@ -74,7 +80,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <style>
 

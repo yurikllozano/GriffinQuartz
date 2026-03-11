@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Looking to buy quartz slabs? Our ultimate 2025 buying guide covers types, costs, where to buy, and how to choose the perfect slab for your home.">
     <title>Quartz Slabs for Sale: Buying Guide | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Slabs for Sale: Buying Guide | Griffin Quartz">
+    <meta name="twitter:description" content="Looking to buy quartz slabs? Our ultimate 2025 buying guide covers types, costs, where to buy, and how to choose the perfect slab for your home.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
@@ -12,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are quartz slabs better than granite?","acceptedAnswer":{"@type":"Answer","text":"Yes — quartz slabs are non-porous, require no sealing, and offer more consistent designs compared to granite. They are also more hygienic and easier to maintain over time."}},{"@type":"Question","name":"How long do quartz slabs last?","acceptedAnswer":{"@type":"Answer","text":"With proper care, quartz slabs can last 25+ years. Their engineered composition makes them extremely durable and resistant to chips, cracks, and staining."}},{"@type":"Question","name":"Can quartz be used outdoors?","acceptedAnswer":{"@type":"Answer","text":"Some UV-resistant quartz products can be used outdoors, but not all quartz is suitable for direct sunlight exposure. Check with your installer to confirm which slabs are rated for outdoor use."}},{"@type":"Question","name":"What's the best quartz brand?","acceptedAnswer":{"@type":"Answer","text":"Caesarstone, Silestone, and Cambria are among the leading quartz brands known for quality, design variety, and durability. The best brand for you depends on your budget and design preferences."}},{"@type":"Question","name":"Where can I buy quartz slabs in South Florida?","acceptedAnswer":{"@type":"Answer","text":"Griffin Quartz offers a wide selection of premium quartz slabs along with expert fabrication and professional installation services throughout South Florida."}}]}
     </script>
@@ -141,6 +148,9 @@
                 <p>From premium slab selection to expert installation, Griffin Quartz delivers results that blend beauty, durability, and value.</p>
                 <a href="../#contact-form" class="btn btn-primary">Get a Free Consultation</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
     <?php include '../includes/footer.php'; ?>

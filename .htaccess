@@ -68,13 +68,13 @@ RewriteRule ^pages/quartz-countertop-installation-in-aventura-fl-south-florida-q
 RewriteRule ^pages/lowest-pricing-on-quartz-countertops-in-south-florida/?$ /blog/quartz-countertops-cost [R=301,L]
 RewriteRule ^pages/quartz-installation-across-south-florida/?$ /our-services [R=301,L]
 RewriteRule ^pages/quartz-countertop-installation-pompano-beach-fl-south-florida-quartz/?$ /pompano-beach [R=301,L]
-RewriteRule ^pages/kitchen-and-bath-quartz-countertops-in-south-florida/?$ /kitchen-countertops [R=301,L]
+RewriteRule ^pages/kitchen-and-bath-quartz-countertops-in-south-florida/?$ /kitchen-bath [R=301,L]
 RewriteRule ^pages/quartz-kitchens-and-baths-inspiration-photo-gallery/?$ /gallery [R=301,L]
 RewriteRule ^pages/quartz-countertop-installation-west-palm-beach-fl-south-florida-quartz/?$ /west-palm-beach [R=301,L]
 RewriteRule ^pages/our-services/?$ /our-services [R=301,L]
 RewriteRule ^pages/quartz-countertop-installation-delray-beach-fl-south-florida-quartz/?$ /delray-beach [R=301,L]
 RewriteRule ^pages/quartz-countertop-installation-in-coral-gables-fl-south-florida-quartz/?$ /coral-gables [R=301,L]
-RewriteRule ^pages/commercial-quartz-countertops-south-florida-south-florida-quartz/?$ /commercial-countertops [R=301,L]
+RewriteRule ^pages/commercial-quartz-countertops-south-florida-south-florida-quartz/?$ /commercial [R=301,L]
 RewriteRule ^pages/frequently-asked-questions/?$ /about [R=301,L]
 RewriteRule ^pages/blogs/?$ /blog [R=301,L]
 RewriteRule ^pages/contact/?$ /contact [R=301,L]
@@ -126,6 +126,12 @@ RewriteRule ^cambria/carrick/?$ /cambria [R=301,L]
 RewriteRule ^tools/quote-calculator/?$ /quote-calculator [R=301,L]
 RewriteRule ^tools/color-visualizer/?$ /color-visualizer [R=301,L]
 RewriteRule ^bathroom-countertops/?$ /bathroom-vanity-countertops [R=301,L]
+
+# ============================================================
+# 301 Redirects: Page cannibalization fixes
+# ============================================================
+RewriteRule ^commercial-countertops/?$ /commercial [R=301,L]
+RewriteRule ^kitchen-countertops/?$ /kitchen-bath [R=301,L]
 
 # 301 Redirect .html URLs to clean URLs (SEO-friendly)
 # Example: /quartz-brands.html redirects to /quartz-brands

@@ -30,12 +30,18 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Countertop Installation Process in Fort Lauderdale | Griffin Quartz">
+    <meta name="twitter:description" content="Complete guide to quartz countertop installation in Fort Lauderdale. Learn about our step-by-step process from consultation to final inspection.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/installation-team-penthouse-slab.webp">
+
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Article Structured Data -->
     <script type="application/ld+json">
@@ -305,6 +311,8 @@
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
             </div>
 
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
 

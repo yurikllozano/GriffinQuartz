@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -87,8 +87,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "200",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }
@@ -270,7 +270,7 @@
                     <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Wellington equestrian estate" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Wellington kitchen</strong> into a culinary masterpiece. We specialize in expansive kitchen islands, elegant waterfall edges, full-height backsplashes, and seamless perimeter countertops with <strong>precision CNC fabrication</strong>.</p>
-                    <a href="kitchen-countertops" class="btn btn-outline">Explore Kitchen Options</a>
+                    <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Wellington home" loading="lazy" width="800" height="800">
@@ -282,7 +282,7 @@
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Wellington" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Wellington businesses</strong> including equestrian facilities, restaurants at Wellington Green, medical offices, and corporate spaces. Our commercial-grade quartz surfaces withstand heavy use while maintaining elegance.</p>
-                    <a href="commercial-countertops" class="btn btn-outline">Commercial Services</a>
+                    <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>
         </div>

@@ -27,12 +27,18 @@
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Cambria Ironsbridge Quartz | Versatile Neutral | Griffin Quartz">
+    <meta name="twitter:description" content="Warm honey accents blend with cool gray for a design that works with any decor style.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-ironsbridge-hero.webp">
+
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -71,6 +77,20 @@
             {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
             {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://griffinquartz.com/cambria"},
             {"@type": "ListItem", "position": 3, "name": "Ironsbridge", "item": "https://griffinquartz.com/cambria/ironsbridge"}
+        ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "What makes Ironsbridge so versatile?", "acceptedAnswer": {"@type": "Answer", "text": "Ironsbridge contains both warm honey tones and cool gray undertones in a subtle, tone-on-tone pattern. This unique blend means it coordinates with virtually any cabinet color, from warm wood tones to cool grays to crisp whites. It's the ideal choice when you want a neutral that works with existing elements or future decor changes."}},
+            {"@type": "Question", "name": "Is Ironsbridge good for resale?", "acceptedAnswer": {"@type": "Answer", "text": "Ironsbridge is an excellent choice for resale. Its universal appeal means it attracts buyers with different style preferences. The neutral palette doesn't limit design choices, making your home appealing to the broadest possible audience."}},
+            {"@type": "Question", "name": "Does Ironsbridge come in matte finish?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Ironsbridge is available in both high gloss and Cambria Matte finishes. The matte finish offers a softer, more contemporary look with a velvety feel, while the high gloss provides a traditional polished appearance. Both finishes are equally durable and maintenance-free."}},
+            {"@type": "Question", "name": "How much does Cambria Ironsbridge cost installed?", "acceptedAnswer": {"@type": "Answer", "text": "Cambria Ironsbridge typically ranges from $70-$115 per square foot installed in South Florida. The final price depends on your project's complexity, edge profile, and number of cutouts needed. Contact us for a free personalized estimate."}},
+            {"@type": "Question", "name": "What cabinet colors work best with Ironsbridge?", "acceptedAnswer": {"@type": "Answer", "text": "Ironsbridge works with virtually any cabinet color, which is what makes it so popular. It pairs beautifully with white, cream, gray, navy, natural wood, and even black cabinetry. Its unique blend of warm and cool tones means it bridges different color temperatures seamlessly."}}
         ]
     }
     </script>
@@ -391,6 +411,24 @@
         </div>
     </section>
 
+    <!-- Gallery Section -->
+    <section class="product-gallery" style="padding:5rem 0;background:var(--color-light)">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:3rem">
+                <h2 style="font-family:'Playfair Display',serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Ironsbridge in Beautiful Spaces</h2>
+                <p style="color:var(--color-gray)">See how Cambria Ironsbridge transforms kitchens and living spaces</p>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem">
+                <div style="border-radius:12px;overflow:hidden;aspect-ratio:4/3">
+                    <img src="../images/cambria-ironsbridge-kitchen.webp" alt="Cambria Ironsbridge quartz kitchen countertop" loading="lazy" width="800" height="533" style="width:100%;height:100%;object-fit:cover">
+                </div>
+                <div style="border-radius:12px;overflow:hidden;aspect-ratio:4/3">
+                    <img src="../images/cambria-products/ironsbridge.webp" alt="Cambria Ironsbridge quartz swatch close-up" loading="lazy" width="724" height="500" style="width:100%;height:100%;object-fit:cover">
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section class="faq-section">
         <div class="container">
@@ -426,8 +464,37 @@
                             <p>Yes, Ironsbridge is available in both high gloss and Cambria Matte finishes. The matte finish offers a softer, more contemporary look with a velvety feel, while the high gloss provides a traditional polished appearance. Both finishes are equally durable and maintenance-free.</p>
                         </div>
                     </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How much does Cambria Ironsbridge cost installed?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Cambria Ironsbridge typically ranges from $70-$115 per square foot installed in South Florida. The final price depends on your project's complexity, edge profile, and number of cutouts needed. Contact us for a free personalized estimate.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What cabinet colors work best with Ironsbridge?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Ironsbridge works with virtually any cabinet color, which is what makes it so popular. It pairs beautifully with white, cream, gray, navy, natural wood, and even black cabinetry. Its unique blend of warm and cool tones means it bridges different color temperatures seamlessly.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <script>
+            document.querySelectorAll('.accordion-header').forEach(button => {
+                button.addEventListener('click', () => {
+                    const item = button.parentElement;
+                    const content = item.querySelector('.accordion-content');
+                    const isActive = item.classList.contains('active');
+                    document.querySelectorAll('.accordion-item').forEach(i => { i.classList.remove('active'); i.querySelector('.accordion-content').style.maxHeight = null; });
+                    if (!isActive) { item.classList.add('active'); content.style.maxHeight = content.scrollHeight + 'px'; }
+                });
+            });
+            </script>
         </div>
     </section>
 

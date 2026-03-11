@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops South Florida | Griffin Quartz</title>
+    <title>Quartz Countertop Installation Across South Florida | Griffin Quartz</title>
     <meta name="description" content="South Florida's premier quartz countertop installers. Palm Beach, Broward & Miami-Dade. 200+ colors, factory-direct pricing. Call (720) 324-1436.">
     <meta name="keywords" content="quartz countertops South Florida, countertop installation South Florida, kitchen countertops Palm Beach County, bathroom countertops Broward County, quartz fabrication Miami-Dade, granite countertops South Florida, marble countertops Florida, countertop company near me, quartz installer Florida">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -99,8 +99,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }

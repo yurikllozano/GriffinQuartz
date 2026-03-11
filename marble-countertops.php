@@ -44,7 +44,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -94,8 +94,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100"
+            "ratingValue": "4.9",
+            "reviewCount": "127"
         }
     }
     </script>
@@ -135,6 +135,30 @@
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Marble requires regular maintenance: seal upon installation and reseal every 6-12 months. Clean daily with pH-neutral cleaners and soft cloths. Wipe up spills immediately, especially acidic substances like wine, citrus, or tomatoes that can etch the surface. Use cutting boards and trivets. Many homeowners embrace the natural patina marble develops, viewing it as part of its character and charm."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can marble be used outdoors in South Florida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Marble is not ideal for outdoor horizontal surfaces like countertops due to Florida's rain, humidity, and potential for biological growth. However, it's stunning for covered outdoor accent walls, fireplace surrounds, and decorative elements. For outdoor countertops, consider granite or quartzite instead."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How often should marble be sealed in South Florida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Due to South Florida's higher humidity, we recommend sealing marble countertops every 6-9 months, slightly more frequently than in drier climates. A simple water drop test (place a few drops on the surface — if they absorb within 5 minutes, it's time to reseal) helps you determine when sealing is needed."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is marble worth the investment?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Absolutely. Despite higher maintenance requirements, marble adds significant value to your home and creates an atmosphere of luxury that no other material can match. Many South Florida homeowners choose marble for primary bathrooms and baking areas where its cool surface and timeless beauty are most appreciated, while using quartz in high-traffic kitchen areas."
                 }
             }
         ]
@@ -562,6 +586,298 @@
             }
         }
 
+        /* Marble Types Deep Dive */
+        .marble-types-section {
+            padding: 5rem 0;
+        }
+        .marble-types-section .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+        .marble-comparison-intro {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem;
+            margin-bottom: 2.5rem;
+        }
+        @media (max-width: 768px) {
+            .marble-comparison-intro {
+                grid-template-columns: 1fr;
+            }
+        }
+        .marble-type-detail {
+            background: #fff;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+            border: 1px solid #eee;
+        }
+        .marble-type-detail h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--color-primary);
+            margin-bottom: 0.75rem;
+        }
+        .marble-type-detail p {
+            font-size: 0.9375rem;
+            color: var(--color-gray);
+            line-height: 1.7;
+            margin-bottom: 0.5rem;
+        }
+        .marble-type-detail .price-tag {
+            display: inline-block;
+            margin-top: 0.5rem;
+            background: rgba(253, 185, 19, 0.12);
+            color: var(--color-primary);
+            padding: 0.35rem 0.85rem;
+            border-radius: 6px;
+            font-size: 0.8125rem;
+            font-weight: 600;
+        }
+        .other-marbles {
+            background: var(--color-light);
+            border-radius: 12px;
+            padding: 2rem;
+        }
+        .other-marbles h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--color-primary);
+            margin-bottom: 1rem;
+        }
+        .other-marbles ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .other-marbles ul li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--color-gray);
+            font-size: 0.9375rem;
+            line-height: 1.6;
+        }
+        .other-marbles ul li::before {
+            content: "\f26a";
+            font-family: "bootstrap-icons";
+            position: absolute;
+            left: 0;
+            color: var(--color-accent);
+            font-size: 0.75rem;
+        }
+        .other-marbles ul li strong {
+            color: var(--color-primary);
+        }
+
+        /* Maintenance & Sealing Section */
+        .maintenance-section {
+            padding: 5rem 0;
+            background: var(--color-light);
+        }
+        .maintenance-section .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+        .maintenance-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+        }
+        @media (max-width: 768px) {
+            .maintenance-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .maintenance-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+        }
+        .maintenance-card h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--color-primary);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        .maintenance-card h3 i {
+            color: var(--color-accent);
+            font-size: 1.25rem;
+        }
+        .maintenance-card p {
+            font-size: 0.9375rem;
+            color: var(--color-gray);
+            line-height: 1.7;
+            margin-bottom: 0.75rem;
+        }
+        .maintenance-card p:last-child {
+            margin-bottom: 0;
+        }
+        .maintenance-card ol {
+            padding-left: 1.25rem;
+            margin: 0;
+        }
+        .maintenance-card ol li {
+            padding: 0.35rem 0;
+            color: var(--color-gray);
+            font-size: 0.9375rem;
+            line-height: 1.6;
+        }
+        .maintenance-card ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .maintenance-card ul li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            color: var(--color-gray);
+            font-size: 0.9375rem;
+        }
+        .maintenance-card ul li::before {
+            content: "\f26a";
+            font-family: "bootstrap-icons";
+            position: absolute;
+            left: 0;
+            color: var(--color-accent);
+            font-size: 0.75rem;
+        }
+
+        /* Marble vs Quartz Comparison Table */
+        .comparison-section {
+            padding: 5rem 0;
+        }
+        .comparison-section .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+        .comparison-table-wrapper {
+            overflow-x: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            font-size: 0.9375rem;
+        }
+        .comparison-table thead th {
+            background: var(--color-primary);
+            color: #fff;
+            font-family: 'Playfair Display', serif;
+            font-weight: 500;
+            font-size: 1.125rem;
+            padding: 1.25rem 1.5rem;
+            text-align: left;
+        }
+        .comparison-table thead th:first-child {
+            border-top-left-radius: 12px;
+        }
+        .comparison-table thead th:last-child {
+            border-top-right-radius: 12px;
+        }
+        .comparison-table tbody td {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid #eee;
+            color: var(--color-gray);
+            line-height: 1.5;
+        }
+        .comparison-table tbody td:first-child {
+            font-weight: 600;
+            color: var(--color-primary);
+            white-space: nowrap;
+        }
+        .comparison-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+        .comparison-table tbody tr:hover {
+            background: rgba(253, 185, 19, 0.04);
+        }
+
+        /* South Florida Climate Section */
+        .climate-section {
+            padding: 5rem 0;
+            background: var(--color-primary);
+        }
+        .climate-section .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+        .climate-section h2 {
+            font-family: 'Playfair Display', serif;
+            color: #fff;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+        .climate-section .section-subtitle {
+            color: rgba(255,255,255,0.7);
+            text-align: center;
+            margin-bottom: 3rem;
+            font-size: 1.125rem;
+            max-width: 750px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .climate-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+        }
+        @media (max-width: 968px) {
+            .climate-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media (max-width: 640px) {
+            .climate-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .climate-card {
+            background: rgba(255,255,255,0.08);
+            border-radius: 12px;
+            padding: 1.75rem;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .climate-card .climate-icon {
+            width: 48px;
+            height: 48px;
+            background: rgba(253, 185, 19, 0.15);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1rem;
+        }
+        .climate-card .climate-icon i {
+            font-size: 1.25rem;
+            color: var(--color-accent);
+        }
+        .climate-card h4 {
+            color: #fff;
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            margin-bottom: 0.75rem;
+        }
+        .climate-card p {
+            color: rgba(255,255,255,0.75);
+            font-size: 0.875rem;
+            line-height: 1.6;
+        }
+
         /* Compare Materials Grid Responsive */
         @media (max-width: 968px) {
             .benefits-grid[style*="grid-template-columns: repeat(4, 1fr)"] {
@@ -652,7 +968,7 @@
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>Create a stunning culinary space with marble's timeless beauty. Perfect for bakers who appreciate its cool surface for pastry work.</p>
-                        <a href="kitchen-countertops" class="btn-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
+                        <a href="kitchen-bath" class="btn-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="application-card">
@@ -743,6 +1059,198 @@
         </div>
     </section>
 
+    <!-- Marble Types Deep Dive Section -->
+    <section class="marble-types-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Marble Varieties: A Detailed Comparison</h2>
+                <p>All three of Italy's most celebrated white marbles originate from the Apuan Alps in Tuscany, yet each offers a distinctly different aesthetic and price point. Understanding these differences helps you choose the perfect marble for your South Florida home.</p>
+            </div>
+
+            <div class="marble-comparison-intro">
+                <div class="marble-type-detail">
+                    <h3>Carrara vs Calacatta vs Statuario</h3>
+                    <p>Carrara marble comes from the largest and most accessible quarries in the Apuan Alps, which is why it remains the most affordable Italian white marble. Its soft gray background with delicate, feathery veining makes it a versatile choice for everything from kitchen countertops to bathroom floors. Carrara is the marble you see in classic Italian architecture and sculpture, including many of Michelangelo's works.</p>
+                    <p>Calacatta marble is quarried from deeper, more limited deposits in the same mountain range. Its whiter background and bold, dramatic veining in gold or dark gray make it instantly recognizable as a premium material. Because fewer slabs are extracted each year, Calacatta commands significantly higher prices and is often reserved for statement pieces like kitchen islands and feature walls.</p>
+                    <p>Statuario is the rarest of the three. Quarried from the most inaccessible veins deep within the mountains, Statuario features a brilliant white base with striking, well-defined gray veining that often appears almost architectural in its patterns. It is the most expensive Italian marble and is typically chosen for master bathrooms, grand foyers, and luxury commercial spaces where its visual impact justifies the investment.</p>
+                    <span class="price-tag">Carrara: $60-$100/sq ft</span>
+                    <span class="price-tag">Calacatta: $150-$250+/sq ft</span>
+                    <span class="price-tag">Statuario: $150-$300+/sq ft</span>
+                </div>
+                <div class="marble-type-detail">
+                    <h3>Emperador & Crema Marfil</h3>
+                    <p><strong>Emperador marble</strong> is a rich, dark brown marble quarried primarily in southeastern Spain. Available in both light and dark varieties, Emperador features warm brown tones interlaced with fine white and golden veining. It is an excellent choice for accent walls, flooring, and bathroom vanities where you want depth and warmth rather than the classic white marble look. Emperador pairs beautifully with gold fixtures and warm wood tones, making it popular in South Florida's Mediterranean and transitional-style homes.</p>
+                    <p><strong>Crema Marfil</strong> is one of the world's most popular marbles, also quarried in Spain. Its warm, creamy beige background with subtle veining in soft yellow and white tones makes it incredibly versatile and forgiving. Crema Marfil works in virtually any design style and is more affordable than Italian white marbles, making it an outstanding value for large-scale projects like full bathroom renovations or expansive kitchen countertops.</p>
+                    <span class="price-tag">Emperador: $50-$120/sq ft</span>
+                    <span class="price-tag">Crema Marfil: $40-$80/sq ft</span>
+                </div>
+            </div>
+
+            <div class="other-marbles">
+                <h3>Other Notable Marble Varieties</h3>
+                <ul>
+                    <li><strong>Thassos White</strong> -- A pure, crystalline white marble from the Greek island of Thassos. One of the whitest natural stones available, Thassos is prized for its minimal veining and luminous surface. Ideal for modern, minimalist designs.</li>
+                    <li><strong>Nero Marquina</strong> -- A dramatic black marble from the Basque region of Spain with distinctive white veining. Nero Marquina makes a bold design statement and is stunning as accent countertops, backsplashes, and flooring borders.</li>
+                    <li><strong>Danby Marble</strong> -- Quarried in Vermont, Danby is one of the finest American marbles. With a warm white background and soft gray or gold veining, it offers a domestic alternative to Italian varieties and was famously used in the U.S. Supreme Court building.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Maintenance & Sealing Reality Section -->
+    <section class="maintenance-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Maintenance & Sealing in South Florida</h2>
+                <p>South Florida's subtropical climate presents unique considerations for marble care. Higher humidity levels mean moisture interacts with your stone more frequently, requiring a proactive approach to sealing and maintenance.</p>
+            </div>
+
+            <div class="maintenance-grid">
+                <div class="maintenance-card">
+                    <h3><i class="bi bi-droplet-half"></i> Humidity & Sealing Guide</h3>
+                    <p>South Florida's average humidity ranges from 60-80%, which means marble absorbs ambient moisture more readily than in drier climates. We recommend sealing every 6-9 months rather than the standard 12-month interval. Here is the step-by-step process for sealing your marble:</p>
+                    <ol>
+                        <li><strong>Clean thoroughly</strong> -- Remove all debris, oils, and residue with a pH-neutral stone cleaner. Allow the surface to dry completely (at least 24 hours in humid conditions).</li>
+                        <li><strong>Test absorption</strong> -- Place a few drops of water on the surface. If they soak in within 5 minutes, sealing is overdue. If they bead up, your existing seal is still effective.</li>
+                        <li><strong>Apply impregnating sealer</strong> -- Use a high-quality impregnating stone sealer (not a topical coating). Apply in thin, even coats using a clean cloth or applicator pad.</li>
+                        <li><strong>Let cure</strong> -- Allow 24-48 hours for the sealer to fully cure before using the surface. Avoid placing anything on the countertop during this period.</li>
+                    </ol>
+                </div>
+                <div class="maintenance-card">
+                    <h3><i class="bi bi-calendar-check"></i> Maintenance Checklist</h3>
+                    <p><strong>Monthly tasks:</strong></p>
+                    <ul>
+                        <li>Inspect sealer effectiveness with the water drop test</li>
+                        <li>Check for new etch marks or stains that need attention</li>
+                        <li>Deep clean with a stone-specific cleaner (not vinegar or bleach)</li>
+                        <li>Inspect caulk lines around sinks and backsplashes for mold</li>
+                    </ul>
+                    <p><strong>Yearly tasks:</strong></p>
+                    <ul>
+                        <li>Professional inspection of seams and joints</li>
+                        <li>Re-evaluate sealing frequency based on usage patterns</li>
+                        <li>Consider professional polishing if dull spots have developed</li>
+                    </ul>
+                </div>
+                <div class="maintenance-card">
+                    <h3><i class="bi bi-telephone-outbound"></i> When to Call a Professional</h3>
+                    <p>Some marble issues require professional restoration rather than DIY fixes. Contact a stone care specialist if you notice deep etching that does not respond to marble polishing powder, stains that have penetrated beyond the surface (especially oil-based stains), chips or cracks along edges or seams, or significant dulling across large areas. Professional marble polishing and restoration in South Florida typically costs $3-$8 per square foot depending on the severity of damage and the level of finish required.</p>
+                </div>
+                <div class="maintenance-card">
+                    <h3><i class="bi bi-shield-check"></i> Prevention Is Key</h3>
+                    <p>The best maintenance strategy is prevention. Keep a small spray bottle of pH-neutral stone cleaner and a microfiber cloth near your marble countertops for instant spill cleanup. Consider placing decorative trays under frequently used items like soap dispensers and coffee makers to protect the surface below. In bathrooms, ensure proper ventilation to minimize humidity buildup that can compromise your sealer over time. These simple habits dramatically reduce the need for costly professional restoration.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Marble vs Quartz Comparison Table Section -->
+    <section class="comparison-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Marble vs Quartz: Side-by-Side Comparison</h2>
+                <p>Choosing between marble and quartz? This detailed comparison helps you understand the trade-offs so you can select the best material for your lifestyle and design goals.</p>
+            </div>
+
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Feature</th>
+                            <th>Marble</th>
+                            <th>Quartz</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Material Type</td>
+                            <td>Natural stone</td>
+                            <td>Engineered stone</td>
+                        </tr>
+                        <tr>
+                            <td>Maintenance</td>
+                            <td>Seal every 6-12 months</td>
+                            <td>None required</td>
+                        </tr>
+                        <tr>
+                            <td>Heat Resistance</td>
+                            <td>Good (use trivets)</td>
+                            <td>Good (use trivets)</td>
+                        </tr>
+                        <tr>
+                            <td>Stain Resistance</td>
+                            <td>Low -- porous surface</td>
+                            <td>High -- non-porous surface</td>
+                        </tr>
+                        <tr>
+                            <td>Scratch Resistance</td>
+                            <td>Low -- soft stone</td>
+                            <td>High -- very hard surface</td>
+                        </tr>
+                        <tr>
+                            <td>Cost Range</td>
+                            <td>$60-$250+/sq ft installed</td>
+                            <td>$50-$150/sq ft installed</td>
+                        </tr>
+                        <tr>
+                            <td>Appearance</td>
+                            <td>Unique veining, one-of-a-kind</td>
+                            <td>Consistent patterns, wide variety</td>
+                        </tr>
+                        <tr>
+                            <td>Lifespan</td>
+                            <td>Lifetime with proper care</td>
+                            <td>Lifetime</td>
+                        </tr>
+                        <tr>
+                            <td>Best For</td>
+                            <td>Luxury baths, baking areas, accent pieces</td>
+                            <td>Busy kitchens, low-maintenance homes</td>
+                        </tr>
+                        <tr>
+                            <td>UV Resistance</td>
+                            <td>Excellent -- will not fade</td>
+                            <td>Some varieties may discolor outdoors</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p style="text-align: center; margin-top: 1.5rem; font-size: 0.9375rem; color: var(--color-gray);">Many South Florida homeowners choose marble for bathrooms and baking stations while using <a href="quartz-countertops" style="color: var(--color-accent);">quartz in high-traffic kitchens</a> -- the best of both worlds.</p>
+        </div>
+    </section>
+
+    <!-- South Florida Climate Considerations Section -->
+    <section class="climate-section">
+        <div class="container">
+            <h2>Marble in South Florida's Climate</h2>
+            <p class="section-subtitle">Understanding how our subtropical environment affects marble helps you make informed decisions and maintain your investment for decades to come.</p>
+
+            <div class="climate-grid">
+                <div class="climate-card">
+                    <div class="climate-icon"><i class="bi bi-water"></i></div>
+                    <h4>Salt Air Considerations</h4>
+                    <p>Coastal South Florida properties face salt air exposure that can affect stone over time. Marble is naturally resistant to salt damage, but consistent sealing creates an additional barrier. For homes within a mile of the coast, we recommend the more frequent 6-month sealing schedule to maintain optimal protection against salt-laden humidity.</p>
+                </div>
+                <div class="climate-card">
+                    <div class="climate-icon"><i class="bi bi-sun"></i></div>
+                    <h4>UV Fade Resistance</h4>
+                    <p>Unlike some engineered materials, natural marble will not fade or discolor from prolonged sun exposure. South Florida homes with large windows and sun-drenched interiors benefit from marble's excellent UV stability. Your marble countertops will look just as vibrant in year ten as they did on installation day, regardless of sunlight exposure.</p>
+                </div>
+                <div class="climate-card">
+                    <div class="climate-icon"><i class="bi bi-house-door"></i></div>
+                    <h4>Indoor vs Outdoor Use</h4>
+                    <p>Marble excels indoors but is not recommended for outdoor horizontal surfaces in South Florida. Rain, humidity, and biological growth (mold and algae) can deteriorate unprotected marble quickly. However, marble is stunning for covered outdoor accent walls, fireplace surrounds, and decorative vertical elements where water does not pool.</p>
+                </div>
+                <div class="climate-card">
+                    <div class="climate-icon"><i class="bi bi-thermometer-sun"></i></div>
+                    <h4>Naturally Cool Surface</h4>
+                    <p>In Florida's heat, marble's naturally cool temperature is a genuine advantage. Marble stays noticeably cooler than engineered materials, making it comfortable to touch even in warm kitchens and bathrooms. This thermal property is why bakers have prized marble for centuries and why it feels luxurious underfoot in South Florida master bathrooms.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section class="faq-section">
         <div class="container">
@@ -793,6 +1301,39 @@
                     <div class="faq-answer">
                         <div class="faq-answer-content">
                             <p>Seal every 6-12 months, clean with pH-neutral cleaners, wipe spills immediately (especially acidic substances), and use cutting boards and trivets. Many embrace the natural patina that develops.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h3><i class="bi bi-question-circle faq-icon"></i>Can marble be used outdoors in South Florida?</h3>
+                        <span class="faq-toggle"><i class="bi bi-chevron-down"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Marble is not ideal for outdoor horizontal surfaces like countertops due to Florida's rain, humidity, and potential for biological growth. However, it's stunning for covered outdoor accent walls, fireplace surrounds, and decorative elements. For outdoor countertops, consider <a href="granite-countertops">granite</a> or <a href="quartzite-countertops">quartzite</a> instead.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h3><i class="bi bi-question-circle faq-icon"></i>How often should marble be sealed in South Florida?</h3>
+                        <span class="faq-toggle"><i class="bi bi-chevron-down"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Due to South Florida's higher humidity, we recommend sealing marble countertops every 6-9 months, slightly more frequently than in drier climates. A simple water drop test (place a few drops on the surface -- if they absorb within 5 minutes, it's time to reseal) helps you determine when sealing is needed.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h3><i class="bi bi-question-circle faq-icon"></i>Is marble worth the investment?</h3>
+                        <span class="faq-toggle"><i class="bi bi-chevron-down"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Absolutely. Despite higher maintenance requirements, marble adds significant value to your home and creates an atmosphere of luxury that no other material can match. Many South Florida homeowners choose marble for primary bathrooms and baking areas where its cool surface and timeless beauty are most appreciated, while using <a href="quartz-countertops">quartz</a> in high-traffic kitchen areas.</p>
                         </div>
                     </div>
                 </div>

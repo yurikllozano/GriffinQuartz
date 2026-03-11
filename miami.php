@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -87,8 +87,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "150",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }
@@ -269,19 +269,19 @@
                 <div class="service-detail-card">
                     <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Miami home" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
-                    <p>Transform your <strong>Miami kitchen</strong> with stunning quartz surfaces. Kitchen islands, waterfall edges, and integrated backsplashes with <strong>precision fabrication</strong> for seamless results.</p>
+                    <p>From sleek Brickell penthouse kitchens to bold Design District-inspired spaces, Griffin Quartz creates show-stopping surfaces for <strong>Miami's luxury condo market</strong>. Dramatic waterfall islands, integrated backsplashes, and statement edges with <strong>precision fabrication</strong> tailored to high-rise and single-family layouts alike.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Miami condo" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
-                    <p>Elevate your <strong>Miami bathroom</strong> with elegant quartz vanity tops. From single sink vanities to double configurations with the <strong>moisture resistance</strong> Miami's climate demands.</p>
+                    <p>Elevate master baths in Coconut Grove estates or refresh Art Deco powder rooms in South Beach with elegant quartz vanity tops. From floating modern vanities to double-sink configurations, our surfaces deliver the <strong>moisture resistance</strong> Miami's tropical humidity demands.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Miami restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
-                    <p>Serving <strong>Miami businesses</strong>—restaurants, hotels, medical offices, and retail. Commercial-grade quartz that withstands heavy use while maintaining its luxurious appearance.</p>
+                    <p>Serving <strong>Miami's thriving business scene</strong>—Wynwood boutique bars, Brickell office towers, Design District showrooms, and waterfront hotel lobbies. Commercial-grade quartz that withstands heavy foot traffic while matching Miami's world-class design standards.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>

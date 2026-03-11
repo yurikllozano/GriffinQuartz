@@ -44,7 +44,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -94,8 +94,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100"
+            "ratingValue": "4.9",
+            "reviewCount": "127"
         }
     }
     </script>
@@ -135,6 +135,30 @@
                 "acceptedAnswer": {
                     "@type": "Answer",
                     "text": "Yes, granite is highly heat-resistant and can handle hot pots and pans without damage. As an igneous rock formed from cooled magma, granite withstands high temperatures better than most countertop materials. However, using trivets is still recommended to protect the sealant and avoid potential thermal shock from extreme temperature changes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is granite good for outdoor kitchens in South Florida?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Granite is one of the best choices for outdoor kitchens in South Florida. Its natural UV resistance means it won't fade in our intense sunlight, and its heat resistance makes it perfect for grill areas. Dark, dense granites like Absolute Black or Ubatuba perform best outdoors. Just seal more frequently (every 6-12 months) due to rain exposure."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What is the difference between granite and quartzite?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Granite is an igneous rock formed from cooled magma, while quartzite is a metamorphic rock formed from sandstone under heat and pressure. Both are natural stones, but quartzite is generally harder and more resistant to etching. Granite offers a wider variety of colors and patterns and is typically more affordable. Both are excellent choices for countertops."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How long do granite countertops last?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Granite countertops can last a lifetime — literally hundreds of years. As one of the hardest natural materials on earth, granite won't wear down from normal kitchen use. The key to longevity is proper sealing and basic care. Many granite countertops in historic buildings are still in perfect condition after 100+ years."
                 }
             }
         ]
@@ -562,6 +586,198 @@
             }
         }
 
+        /* Geology & Content Sections */
+        .geology-section .content-text,
+        .sealing-section .content-text,
+        .sourcing-section .content-text,
+        .outdoor-section .content-text {
+            max-width: 900px;
+            margin: 0 auto;
+            font-size: 1rem;
+            color: var(--color-gray);
+            line-height: 1.8;
+        }
+        .geology-section .content-text h3,
+        .sealing-section .content-text h3,
+        .sourcing-section .content-text h3,
+        .outdoor-section .content-text h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 500;
+            color: var(--color-primary);
+            margin: 1.75rem 0 0.75rem;
+        }
+        .geology-section .content-text p,
+        .sealing-section .content-text p,
+        .sourcing-section .content-text p,
+        .outdoor-section .content-text p {
+            margin-bottom: 1rem;
+        }
+        .geology-section .content-text strong,
+        .sealing-section .content-text strong,
+        .sourcing-section .content-text strong,
+        .outdoor-section .content-text strong {
+            color: var(--color-primary);
+        }
+        .mineral-highlights {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        @media (max-width: 768px) {
+            .mineral-highlights {
+                grid-template-columns: 1fr;
+            }
+        }
+        .mineral-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+            border: 1px solid #eee;
+        }
+        .mineral-card .mineral-icon {
+            font-size: 2rem;
+            margin-bottom: 0.75rem;
+            color: var(--color-accent);
+        }
+        .mineral-card h4 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.0625rem;
+            color: var(--color-primary);
+            margin-bottom: 0.5rem;
+        }
+        .mineral-card p {
+            font-size: 0.875rem;
+            color: var(--color-gray);
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        /* Granite vs Quartz Comparison Table */
+        .comparison-table-wrapper {
+            max-width: 900px;
+            margin: 0 auto;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+        .comparison-table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            font-size: 0.9375rem;
+        }
+        .comparison-table thead th {
+            background: var(--color-primary);
+            color: #fff;
+            font-family: 'Playfair Display', serif;
+            font-weight: 500;
+            font-size: 1.0625rem;
+            padding: 1.25rem 1.5rem;
+            text-align: left;
+        }
+        .comparison-table thead th:first-child {
+            border-top-left-radius: 12px;
+        }
+        .comparison-table thead th:last-child {
+            border-top-right-radius: 12px;
+        }
+        .comparison-table thead th.highlight-col {
+            background: var(--color-accent);
+            color: var(--color-primary);
+        }
+        .comparison-table tbody tr {
+            transition: background 0.2s ease;
+        }
+        .comparison-table tbody tr:nth-child(even) {
+            background: var(--color-light);
+        }
+        .comparison-table tbody tr:hover {
+            background: rgba(253, 185, 19, 0.08);
+        }
+        .comparison-table td {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid #eee;
+            color: var(--color-gray);
+            line-height: 1.5;
+        }
+        .comparison-table td:first-child {
+            font-weight: 600;
+            color: var(--color-primary);
+            white-space: nowrap;
+        }
+        .comparison-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+        .comparison-table tbody tr:last-child td:first-child {
+            border-bottom-left-radius: 12px;
+        }
+        .comparison-table tbody tr:last-child td:last-child {
+            border-bottom-right-radius: 12px;
+        }
+        @media (max-width: 640px) {
+            .comparison-table {
+                font-size: 0.8125rem;
+            }
+            .comparison-table thead th,
+            .comparison-table td {
+                padding: 0.75rem 1rem;
+            }
+        }
+
+        /* Sourcing Origins Grid */
+        .origins-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        @media (max-width: 968px) {
+            .origins-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media (max-width: 640px) {
+            .origins-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        .origin-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 1.75rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+            border: 1px solid #eee;
+            transition: all 0.3s ease;
+        }
+        .origin-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+        }
+        .origin-card h4 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.125rem;
+            color: var(--color-primary);
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .origin-card h4 .flag {
+            font-size: 1.25rem;
+        }
+        .origin-card p {
+            font-size: 0.9375rem;
+            color: var(--color-gray);
+            line-height: 1.6;
+            margin: 0;
+        }
+
         /* Compare Materials Grid Responsive */
         @media (max-width: 968px) {
             .benefits-grid[style*="grid-template-columns: repeat(4, 1fr)"] {
@@ -652,7 +868,7 @@
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>Granite's heat resistance and durability make it perfect for busy kitchens. Handle hot pots, prep food, and enjoy worry-free cooking.</p>
-                        <a href="kitchen-countertops" class="btn-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
+                        <a href="kitchen-bath" class="btn-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="application-card">
@@ -722,6 +938,209 @@
                     <h4>Tan Brown</h4>
                     <p>Rich brown with black and tan crystals</p>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Geology Deep Dive Section -->
+    <section class="material-section geology-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>The Geology Behind Granite</h2>
+                <p>Understanding how granite forms helps explain why it performs so well as a countertop surface</p>
+            </div>
+
+            <div class="content-text">
+                <p>Granite is a <strong>plutonic igneous rock</strong>, meaning it formed from magma that cooled slowly deep beneath the Earth's surface over millions of years. Unlike volcanic rocks that cool quickly at the surface, granite's slow crystallization process is what gives it that distinctive coarse-grained texture with visible mineral crystals. This gradual cooling, occurring at depths of several miles underground, allowed large interlocking crystals to develop, creating the incredibly hard and durable material we use for countertops today.</p>
+
+                <h3>Mineral Composition</h3>
+                <p>Every granite slab is a unique blend of minerals, and it is this composition that determines both its appearance and its physical properties. <strong>Quartz</strong> makes up 20-60% of most granites and contributes the glassy, translucent crystals you often see. <strong>Feldspar</strong>, comprising 10-65% of the stone, is responsible for much of granite's color range. <strong>Mica</strong> and accessory minerals like hornblende and biotite add the dark flecks, shimmering highlights, and subtle color variations that make each slab a natural work of art.</p>
+            </div>
+
+            <div class="mineral-highlights">
+                <div class="mineral-card">
+                    <div class="mineral-icon"><i class="bi bi-snow2"></i></div>
+                    <h4>Quartz Crystals</h4>
+                    <p>Creates white, gray, and translucent areas. Contributes to granite's exceptional hardness and scratch resistance.</p>
+                </div>
+                <div class="mineral-card">
+                    <div class="mineral-icon"><i class="bi bi-palette"></i></div>
+                    <h4>Feldspar Minerals</h4>
+                    <p>Potassium feldspar produces pink and salmon hues. Plagioclase feldspar creates white and gray tones throughout the stone.</p>
+                </div>
+                <div class="mineral-card">
+                    <div class="mineral-icon"><i class="bi bi-stars"></i></div>
+                    <h4>Mica &amp; Hornblende</h4>
+                    <p>Biotite mica adds dark black flecks. Muscovite mica creates golden shimmer. Hornblende contributes deep black to dark green crystals.</p>
+                </div>
+            </div>
+
+            <div class="content-text">
+                <h3>Why No Two Slabs Are Identical</h3>
+                <p>Because granite forms deep underground over geological timescales, the exact mineral distribution varies throughout every quarry. Temperature fluctuations during cooling, the presence of trace minerals, and tectonic pressures all influence how crystals arrange themselves. Even slabs cut from the same block will have subtle differences in veining, crystal size, and color distribution. This is what makes natural granite so special compared to manufactured alternatives -- your countertops are genuinely one of a kind.</p>
+
+                <h3>Hardness and Durability</h3>
+                <p>On the <strong>Mohs hardness scale</strong>, granite rates between 6 and 7, placing it among the hardest natural countertop materials available. For comparison, marble scores just 3 on the Mohs scale, making granite roughly twice as resistant to scratching. Engineered quartz countertops rate at about 7, putting them on par with granite. This hardness, combined with granite's interlocking crystal structure, is what gives it the remarkable resistance to scratching, chipping, and everyday wear that has made it a countertop favorite for generations.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sealing & Porosity Section -->
+    <section class="material-section sealing-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Sealing &amp; Porosity Explained</h2>
+                <p>Not all granite is created equal when it comes to porosity -- understanding your stone helps you maintain it properly</p>
+            </div>
+
+            <div class="content-text">
+                <p>One of the most common questions about granite countertops is about sealing, and the answer depends largely on the specific type of granite you choose. Granite is a <strong>naturally porous material</strong>, but porosity levels vary dramatically between different types. Understanding where your granite falls on the porosity spectrum helps you determine the right maintenance schedule.</p>
+
+                <h3>Dense vs. Porous Granites</h3>
+                <p><strong>Dark, dense granites</strong> like Absolute Black, Ubatuba, and Black Pearl have tightly packed mineral structures that absorb very little moisture. These stones are naturally more resistant to staining and may only need sealing every 2-3 years, or in some cases, not at all. On the other hand, <strong>lighter granites</strong> such as Colonial White, Bianco Romano, and Giallo Ornamental tend to have a more open crystal structure, making them more porous and requiring more attentive sealing schedules -- typically every 12 months.</p>
+
+                <h3>The Water Drop Absorption Test</h3>
+                <p>The simplest way to check if your granite needs resealing is the water drop test. Place a few drops of water on the surface and observe. If the water beads up and sits on top after 15 minutes, your sealer is still working effectively. If the water begins to absorb into the stone and you notice a darkening of the surface, it is time to reseal. This test takes just minutes and can save you from potential staining issues down the road.</p>
+
+                <h3>Penetrating vs. Topical Sealers</h3>
+                <p>When it comes to sealing granite, <strong>penetrating sealers</strong> (also called impregnating sealers) are the recommended choice over topical sealers. Penetrating sealers absorb into the stone's pores and create an invisible barrier below the surface without changing the granite's natural appearance or feel. Topical sealers sit on top of the stone and can create a plastic-like film that may peel, scratch, or dull over time. For South Florida homeowners, we recommend resealing every <strong>12-18 months</strong> depending on your stone's density and usage, using a high-quality penetrating sealer designed specifically for natural granite.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Granite vs Quartz Comparison Table Section -->
+    <section class="material-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Granite vs. Quartz: Head-to-Head</h2>
+                <p>See how natural granite stacks up against engineered quartz across every important category</p>
+            </div>
+
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Feature</th>
+                            <th class="highlight-col">Granite</th>
+                            <th>Quartz</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Material</td>
+                            <td>100% natural stone</td>
+                            <td>90% quartz + 10% resin</td>
+                        </tr>
+                        <tr>
+                            <td>Heat Resistance</td>
+                            <td>Excellent -- handles hot pans</td>
+                            <td>Good -- use trivets for safety</td>
+                        </tr>
+                        <tr>
+                            <td>Maintenance</td>
+                            <td>Seal every 1-2 years</td>
+                            <td>None required</td>
+                        </tr>
+                        <tr>
+                            <td>Stain Resistance</td>
+                            <td>Good when sealed</td>
+                            <td>Excellent -- non-porous</td>
+                        </tr>
+                        <tr>
+                            <td>Scratch Resistance</td>
+                            <td>Very good (Mohs 6-7)</td>
+                            <td>Very good (Mohs 7)</td>
+                        </tr>
+                        <tr>
+                            <td>Cost Range</td>
+                            <td>$40-$150/sq ft</td>
+                            <td>$50-$150/sq ft</td>
+                        </tr>
+                        <tr>
+                            <td>Appearance</td>
+                            <td>Unique natural patterns</td>
+                            <td>Consistent, many options</td>
+                        </tr>
+                        <tr>
+                            <td>UV Resistance</td>
+                            <td>Excellent -- won't fade</td>
+                            <td>Some may yellow in direct sun</td>
+                        </tr>
+                        <tr>
+                            <td>Outdoor Use</td>
+                            <td>Yes -- excellent choice</td>
+                            <td>No -- resin can degrade</td>
+                        </tr>
+                        <tr>
+                            <td>Eco-Friendly</td>
+                            <td>Natural, minimal processing</td>
+                            <td>Manufactured product</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sourcing & Origins Section -->
+    <section class="material-section sourcing-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Where the World's Finest Granite Comes From</h2>
+                <p>The most popular granite varieties are quarried from some of the most geologically rich regions on the planet</p>
+            </div>
+
+            <div class="content-text">
+                <p>Granite is quarried on every continent, but certain regions have become renowned for producing the most sought-after varieties. The geological history of each region gives its granite unique characteristics in color, pattern, and mineral density. At Griffin Quartz, we source from top quarries worldwide to bring South Florida homeowners the widest selection of premium granite available.</p>
+            </div>
+
+            <div class="origins-grid">
+                <div class="origin-card">
+                    <h4><span class="flag">&#127463;&#127479;</span> Brazil</h4>
+                    <p>The world's largest granite exporter. Home to Giallo Ornamental, Santa Cecilia, Blue Bahia, and dozens of exotic varieties prized for their rich colors and dramatic movement.</p>
+                </div>
+                <div class="origin-card">
+                    <h4><span class="flag">&#127470;&#127475;</span> India</h4>
+                    <p>Known for producing some of the most popular granites worldwide, including Absolute Black, Tan Brown, Colonial Gold, and the stunning Black Pearl with its iridescent flecks.</p>
+                </div>
+                <div class="origin-card">
+                    <h4><span class="flag">&#127470;&#127481;</span> Italy</h4>
+                    <p>Famous for premium stone, Italy produces elegant granites like Bianco Sardo and Rosa Beta that bring European sophistication to any kitchen or bathroom design.</p>
+                </div>
+                <div class="origin-card">
+                    <h4><span class="flag">&#127482;&#127480;</span> United States</h4>
+                    <p>American granite from Vermont, Georgia, and Minnesota offers domestically sourced options with unique regional characteristics and reduced shipping distances.</p>
+                </div>
+                <div class="origin-card">
+                    <h4><span class="flag">&#127487;&#127462;</span> Africa</h4>
+                    <p>South Africa's Nero Impala and other African granites are known for their dense composition, deep coloring, and excellent durability in demanding applications.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- South Florida Outdoor Durability Section -->
+    <section class="material-section outdoor-section" style="background: var(--color-light);">
+        <div class="container">
+            <div class="section-header">
+                <h2>Granite for South Florida Outdoor Kitchens</h2>
+                <p>Why granite is the top choice for outdoor countertops in our unique climate</p>
+            </div>
+
+            <div class="content-text">
+                <p>South Florida's outdoor lifestyle demands countertop materials that can stand up to intense sun, tropical rain, salt air, and the heat of grilling. Granite checks every box, making it one of the <strong>best-performing materials for outdoor kitchens</strong> in our region.</p>
+
+                <h3>UV Resistance That Lasts</h3>
+                <p>Unlike some engineered materials that can yellow or degrade under prolonged UV exposure, natural granite is <strong>completely unaffected by sunlight</strong>. Whether your outdoor kitchen faces direct south Florida sun all day or sits under partial shade, your granite countertops will maintain their original color and vibrancy for decades. This UV stability is a natural property of the stone itself, not a coating that wears off over time.</p>
+
+                <h3>Built for the Heat</h3>
+                <p>Granite's volcanic origins mean it handles extreme heat without flinching. Place searing hot grill grates, smoker racks, or cast iron pans directly on the surface without worry. No other countertop material handles the thermal demands of an outdoor grill station quite like natural granite.</p>
+
+                <h3>Salt Air and Tropical Weather</h3>
+                <p>For coastal South Florida homes, salt air corrosion is a real concern with many building materials. Granite is <strong>naturally resistant to salt air</strong>, performing significantly better than marble or certain quartz products in coastal environments. The mineral composition of granite does not react with salt the way sofite stones and calcium-based materials do.</p>
+
+                <h3>Best Outdoor Choices</h3>
+                <p>For outdoor installations, we recommend <strong>darker, denser granite varieties</strong> such as Absolute Black, Ubatuba, Black Pearl, and Nero Impala. These dense stones absorb less moisture from rain and humidity, reducing the risk of water damage and biological growth. Because outdoor countertops face more exposure to the elements, plan on sealing them more frequently -- every <strong>6-12 months</strong> rather than the typical 12-18 months recommended for indoor granite. With this straightforward maintenance routine, your outdoor granite countertops will look stunning season after season.</p>
             </div>
         </div>
     </section>
@@ -811,6 +1230,39 @@
                     <div class="faq-answer">
                         <div class="faq-answer-content">
                             <p>Yes, granite is highly heat-resistant and handles hot pots and pans well. However, using trivets is recommended to protect the sealant and avoid potential thermal shock from extreme temperature changes.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h3><i class="bi bi-question-circle faq-icon"></i>Is granite good for outdoor kitchens in South Florida?</h3>
+                        <span class="faq-toggle"><i class="bi bi-chevron-down"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Granite is one of the best choices for outdoor kitchens in South Florida. Its natural UV resistance means it won't fade in our intense sunlight, and its heat resistance makes it perfect for grill areas. Dark, dense granites like Absolute Black or Ubatuba perform best outdoors. Just seal more frequently (every 6-12 months) due to rain exposure.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h3><i class="bi bi-question-circle faq-icon"></i>What is the difference between granite and quartzite?</h3>
+                        <span class="faq-toggle"><i class="bi bi-chevron-down"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Granite is an igneous rock formed from cooled magma, while <a href="quartzite-countertops">quartzite</a> is a metamorphic rock formed from sandstone under heat and pressure. Both are natural stones, but quartzite is generally harder and more resistant to etching. Granite offers a wider variety of colors and patterns and is typically more affordable. Both are excellent choices for countertops.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question" aria-expanded="false">
+                        <h3><i class="bi bi-question-circle faq-icon"></i>How long do granite countertops last?</h3>
+                        <span class="faq-toggle"><i class="bi bi-chevron-down"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <div class="faq-answer-content">
+                            <p>Granite countertops can last a lifetime -- literally hundreds of years. As one of the hardest natural materials on earth, granite won't wear down from normal kitchen use. The key to longevity is proper sealing and basic care. Many granite countertops in historic buildings are still in perfect condition after 100+ years.</p>
                         </div>
                     </div>
                 </div>

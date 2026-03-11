@@ -27,6 +27,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Restaurant & Cafe Quartz Countertops | Food Service Specialists | Griffin Quartz">
+    <meta name="twitter:description" content="NSF certified quartz surfaces for restaurants and cafes throughout South Florida. Bar tops, kitchens, and food prep areas.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/commercial-bar-black-gold-quartz-restaurant.webp">
+
     <!-- Geo Meta Tags -->
     <meta name="geo.region" content="US-FL">
     <meta name="geo.placename" content="Boca Raton">

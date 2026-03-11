@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -87,8 +87,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }
@@ -181,7 +181,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Aventura Florida high-rise condo" loading="eager" width="800" height="800">
+            <img src="images/kitchen-highrise-condo-intracoastal.webp" alt="Contemporary quartz kitchen countertops in Aventura Florida high-rise condo with Intracoastal view" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -201,7 +201,7 @@
     <section class="content-section">
         <div class="container">
             <h2 class="section-title">Aventura's Premier High-Rise Countertop Experts</h2>
-            <p class="section-description">Griffin Quartz brings <strong>luxury quartz countertops</strong> to <strong>Aventura's</strong> most prestigious high-rise condominiums and residences. As South Florida's premier quartz fabricator and installer, we combine <strong>factory-direct pricing</strong> with specialized <strong>high-rise building expertise</strong> to deliver stunning surfaces that elevate your modern living space. From waterfront towers to exclusive communities near Aventura Mall, our team provides white-glove service with <strong>full COI compliance and elevator coordination</strong>.</p>
+            <p class="section-description">Aventura is defined by its <strong>iconic luxury towers, international residents, and modern contemporary style</strong>. Griffin Quartz is the area's go-to countertop specialist for high-rise condo renovations—whether you are a local homeowner refreshing your Turnberry unit, an international buyer completing a turnkey renovation, or a property manager upgrading units near Aventura Mall. We combine <strong>factory-direct pricing</strong> with specialized <strong>high-rise building expertise</strong>, handling <strong>full COI compliance and elevator coordination</strong> so your project runs smoothly from start to finish.</p>
 
             <div class="features-grid">
                 <div class="feature-card">
@@ -267,21 +267,21 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Aventura high-rise condo" loading="lazy" width="800" height="800">
+                    <img src="images/kitchen-condo-brittanicca-navy-stools.webp" alt="Modern quartz kitchen countertops in Aventura high-rise condo" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
-                    <p>Transform your <strong>Aventura condo kitchen</strong> with stunning quartz surfaces. We specialize in modern open-concept layouts, kitchen islands, waterfall edges, and integrated backsplashes. Our <strong>precision fabrication</strong> ensures seamless installation in even the most challenging high-rise spaces.</p>
+                    <p>Designed for <strong>Aventura's modern high-rise living</strong>—clean-lined quartz islands in Turnberry Ocean Colony, sleek waterfall edges in Williams Island kitchens, and contemporary surfaces for turnkey renovations near Aventura Mall. Our <strong>precision fabrication</strong> ensures seamless installation in even the most space-conscious condo floor plans, and we handle all building coordination so you don't have to.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Aventura condo" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
-                    <p>Elevate your <strong>Aventura bathroom</strong> with elegant quartz vanity tops. From spa-inspired master baths to sleek powder rooms, we create custom pieces that combine luxury aesthetics with the <strong>moisture resistance</strong> essential for bathroom environments.</p>
+                    <p>Popular with <strong>Aventura's international buyers</strong> upgrading their residences, our quartz vanity tops deliver the modern contemporary look that defines the city's aesthetic. From floating vanities in Porto Vita master baths to minimalist powder rooms in Mystic Pointe, we create custom pieces that combine <strong>luxury design</strong> with the moisture resistance high-rise bathrooms demand.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Aventura restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
-                    <p>Griffin Quartz serves <strong>Aventura businesses</strong> including upscale restaurants, boutique hotels, medical offices, and retail spaces near Aventura Mall. Our commercial-grade quartz surfaces withstand heavy use while maintaining their luxurious appearance.</p>
+                    <p>Griffin Quartz serves <strong>Aventura's thriving commercial corridor</strong>—upscale restaurants steps from Aventura Mall, medical and dental offices along Biscayne Boulevard, spa reception desks, and the lobby bars of the area's luxury hotels. Our commercial-grade quartz withstands constant use while maintaining the sleek, contemporary appearance that Aventura's international clientele expect.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>

@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -87,8 +87,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "125",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }
@@ -269,19 +269,19 @@
                 <div class="service-detail-card">
                     <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Fort Lauderdale waterfront home" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
-                    <p>Transform your <strong>Fort Lauderdale kitchen</strong> with stunning quartz surfaces. We specialize in expansive waterfall islands, integrated outdoor kitchen transitions, and <strong>precision fabrication</strong> for seamless results in yacht-access homes.</p>
+                    <p>Designed for <strong>Fort Lauderdale's waterfront lifestyle</strong>—from Las Olas Boulevard chef's kitchens to Intracoastal canal-front homes with indoor-outdoor flow. We specialize in expansive waterfall islands, coastal-modern finishes, and <strong>salt-air-resistant surfaces</strong> perfect for yacht club residences and Harbor Beach estates.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Fort Lauderdale condo" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
-                    <p>Elevate your <strong>Fort Lauderdale bathroom</strong> with elegant quartz vanity tops. From spa-like master baths to guest powder rooms, our surfaces offer the <strong>moisture resistance</strong> essential for coastal living.</p>
+                    <p>Create a spa-like retreat in your <strong>Coral Ridge master bath</strong> or refresh a guest powder room in your Rio Vista bungalow. Our quartz vanity tops pair beautifully with the coastal-modern design Fort Lauderdale homeowners love, offering <strong>superior moisture resistance</strong> for the Venice of America's humid waterfront climate.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Fort Lauderdale restaurant on Las Olas" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
-                    <p>Serving <strong>Fort Lauderdale businesses</strong>—Las Olas restaurants, beach hotels, yacht clubs, and medical offices. Commercial-grade quartz that withstands heavy use while maintaining its luxurious appearance.</p>
+                    <p>Serving <strong>Fort Lauderdale's vibrant commercial scene</strong>—Las Olas Boulevard restaurants, Lauderdale Beach resort bars, Intracoastal yacht club galleys, and Flagler Village creative offices. Commercial-grade quartz engineered for heavy daily use while maintaining the polished coastal aesthetic Broward County businesses demand.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>

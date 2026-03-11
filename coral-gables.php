@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -87,8 +87,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         },
         "knowsLanguage": ["English", "Spanish"]
@@ -182,7 +182,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury quartz kitchen countertops in Coral Gables Mediterranean estate with arched windows" loading="eager" width="800" height="800">
+            <img src="images/kitchen-calacatta-gold-globe-pendants.webp" alt="Elegant Calacatta quartz kitchen countertops with globe pendants in Coral Gables Mediterranean estate" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -268,21 +268,21 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury Mediterranean kitchen with quartz countertops in Coral Gables estate" loading="lazy" width="800" height="800">
+                    <img src="images/kitchen-french-mediterranean-pink-gold.webp" alt="Luxury Mediterranean kitchen with quartz countertops in Coral Gables estate" loading="lazy" width="800" height="800">
                     <h3>Estate Kitchen Countertops</h3>
-                    <p>Transform your <strong>Coral Gables kitchen</strong> into a Mediterranean masterpiece. We specialize in expansive islands, elegant perimeter countertops, dramatic waterfall edges, and integrated backsplashes that complement arched windows and ornate cabinetry. Our <strong>precision fabrication</strong> ensures seamless installations worthy of your estate.</p>
+                    <p>Craft a kitchen worthy of <strong>Coral Gables' legendary architecture</strong>—warm Calacatta veining beneath arched windows in a Cocoplum estate, or timeless cream quartz framing a Gables Estates chef's kitchen. We match edge profiles and surface finishes to your home's Mediterranean, Spanish Colonial, or Italian Renaissance details with <strong>precision fabrication</strong> that honors every architectural element.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Coral Gables Mediterranean home" loading="lazy" width="800" height="800">
                     <h3>Luxurious Bathroom Vanities</h3>
-                    <p>Elevate your <strong>Coral Gables bathroom</strong> with quartz vanity tops that evoke old-world elegance. From ornate single vanities to grand double configurations with decorative edges, we create custom pieces combining <strong>timeless beauty</strong> with modern moisture resistance.</p>
+                    <p>From Biltmore Section master suites to University Park guest baths near the UM campus, our quartz vanity tops capture the <strong>old-world elegance</strong> Coral Gables homeowners expect. Ornate ogee edges for a Granada Boulevard estate or clean eased profiles for a renovated Crafts Section bungalow—each piece is custom-shaped to complement your home's architectural period.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Coral Gables Miracle Mile restaurant" loading="lazy" width="800" height="800">
                     <h3>Miracle Mile Commercial</h3>
-                    <p>Griffin Quartz serves <strong>Coral Gables businesses</strong> along Miracle Mile and throughout the city—upscale restaurants, boutique hotels, professional offices, and retail establishments. Our commercial-grade quartz surfaces withstand heavy use while maintaining the sophisticated appearance Coral Gables demands.</p>
+                    <p>Griffin Quartz serves <strong>Coral Gables businesses</strong> along Miracle Mile, Ponce de Leon Boulevard, and the Shops at Merrick Park—upscale restaurants, law offices, medical practices, and the boutique hotels that define The City Beautiful. Our commercial-grade quartz meets the city's strict aesthetic requirements while withstanding the demands of high-traffic commercial environments.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>

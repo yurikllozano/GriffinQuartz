@@ -27,12 +27,18 @@
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Cambria Brittanicca Gold Quartz | Warm Luxury | Griffin Quartz">
+    <meta name="twitter:description" content="Flowing copper-gold and greige veins on a warm white backdrop. Luxurious warmth for your kitchen or bathroom.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-brittanicca-gold-hero.webp">
+
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -71,6 +77,20 @@
             {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
             {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://griffinquartz.com/cambria"},
             {"@type": "ListItem", "position": 3, "name": "Brittanicca Gold", "item": "https://griffinquartz.com/cambria/brittanicca-gold"}
+        ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "What's the difference between Brittanicca and Brittanicca Gold?", "acceptedAnswer": {"@type": "Answer", "text": "While both designs feature dramatic veining on a white background, Brittanicca has cool gray veining while Brittanicca Gold features warm copper-gold, fog, and greige tones. Brittanicca Gold creates a warmer, more inviting atmosphere, making it ideal for spaces with warm wood tones or gold hardware."}},
+            {"@type": "Question", "name": "Does Brittanicca Gold work with white cabinets?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Brittanicca Gold works beautifully with white cabinets, especially cream or warm white tones. The gold and warm veining adds depth and interest to white kitchens while maintaining a cohesive, elegant look. It pairs particularly well with off-white, ivory, or warm-toned white cabinetry."}},
+            {"@type": "Question", "name": "Is Brittanicca Gold suitable for bathrooms?", "acceptedAnswer": {"@type": "Answer", "text": "Brittanicca Gold is excellent for bathroom vanities. Like all Cambria quartz, it's 100% nonporous, making it ideal for humid bathroom environments. The warm tones create a spa-like atmosphere and complement both modern and traditional bathroom designs."}},
+            {"@type": "Question", "name": "How much does Cambria Brittanicca Gold cost?", "acceptedAnswer": {"@type": "Answer", "text": "Cambria Brittanicca Gold typically ranges from $75-$125 per square foot installed in South Florida. The final cost depends on your project's complexity, edge profile selection, and cutouts needed. Contact us for a personalized quote."}},
+            {"@type": "Question", "name": "What hardware finishes pair best with Brittanicca Gold?", "acceptedAnswer": {"@type": "Answer", "text": "Brittanicca Gold pairs exceptionally well with brass, gold, and champagne bronze hardware finishes that echo its warm copper-gold veining. Brushed nickel and satin nickel also work beautifully by complementing the greige tones in the design."}}
         ]
     }
     </script>
@@ -472,6 +492,24 @@
         </div>
     </section>
 
+    <!-- Gallery Section -->
+    <section class="product-gallery" style="padding:5rem 0;background:var(--color-light)">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:3rem">
+                <h2 style="font-family:'Playfair Display',serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Brittanicca Gold in Beautiful Spaces</h2>
+                <p style="color:var(--color-gray)">See how Cambria Brittanicca Gold transforms kitchens and living spaces</p>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem">
+                <div style="border-radius:12px;overflow:hidden;aspect-ratio:4/3">
+                    <img src="../images/cambria-brittanicca-gold-kitchen.webp" alt="Cambria Brittanicca Gold quartz kitchen countertop" loading="lazy" width="800" height="533" style="width:100%;height:100%;object-fit:cover">
+                </div>
+                <div style="border-radius:12px;overflow:hidden;aspect-ratio:4/3">
+                    <img src="../images/cambria-products/brittanicca-gold.webp" alt="Cambria Brittanicca Gold quartz swatch close-up" loading="lazy" width="724" height="500" style="width:100%;height:100%;object-fit:cover">
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section class="faq-section">
         <div class="container">
@@ -507,8 +545,37 @@
                             <p>Brittanicca Gold is excellent for bathroom vanities. Like all Cambria quartz, it's 100% nonporous, making it ideal for humid bathroom environments. The warm tones create a spa-like atmosphere and complement both modern and traditional bathroom designs.</p>
                         </div>
                     </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How much does Cambria Brittanicca Gold cost?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Cambria Brittanicca Gold typically ranges from $75-$125 per square foot installed in South Florida. The final cost depends on your project's complexity, edge profile selection, and cutouts needed. Contact us for a personalized quote.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What hardware finishes pair best with Brittanicca Gold?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Brittanicca Gold pairs exceptionally well with brass, gold, and champagne bronze hardware finishes that echo its warm copper-gold veining. Brushed nickel and satin nickel also work beautifully by complementing the greige tones in the design.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <script>
+            document.querySelectorAll('.accordion-header').forEach(button => {
+                button.addEventListener('click', () => {
+                    const item = button.parentElement;
+                    const content = item.querySelector('.accordion-content');
+                    const isActive = item.classList.contains('active');
+                    document.querySelectorAll('.accordion-item').forEach(i => { i.classList.remove('active'); i.querySelector('.accordion-content').style.maxHeight = null; });
+                    if (!isActive) { item.classList.add('active'); content.style.maxHeight = content.scrollHeight + 'px'; }
+                });
+            });
+            </script>
         </div>
     </section>
 

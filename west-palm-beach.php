@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -87,8 +87,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100",
+            "ratingValue": "4.9",
+            "reviewCount": "127",
             "bestRating": "5"
         }
     }
@@ -181,7 +181,7 @@
     <!-- Hero Section -->
     <section class="hero-location">
         <div class="hero-background">
-            <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury white quartz kitchen countertops with gold fixtures in West Palm Beach Florida home" loading="eager" width="800" height="800">
+            <img src="images/kitchen-penthouse-calacatta-gold-bay.webp" alt="Modern quartz kitchen countertops with gold pendants and bay view in West Palm Beach Florida home" loading="eager" width="800" height="800">
             <div class="hero-overlay"></div>
         </div>
         <div class="hero-content">
@@ -201,7 +201,7 @@
     <section class="content-section">
         <div class="container">
             <h2 class="section-title">West Palm Beach's Trusted Quartz Countertop Experts</h2>
-            <p class="section-description">Griffin Quartz brings <strong>luxury quartz countertops</strong> to <strong>West Palm Beach</strong> homeowners and businesses. As the <strong>seat of Palm Beach County</strong>, West Palm Beach blends historic charm with modern waterfront living. Our team delivers <strong>factory-direct pricing</strong> combined with <strong>master craftsmanship</strong> to create stunning surfaces worthy of this prestigious community. From downtown condos overlooking the Intracoastal to historic estates in El Cid, we provide personalized service and <strong>installation in as little as one week</strong>.</p>
+            <p class="section-description">West Palm Beach is a city of contrasts—<strong>1920s Mediterranean Revival cottages</strong> in Flamingo Park sit minutes from gleaming Intracoastal high-rises, and the <strong>world-renowned estates of Palm Beach Island</strong> are just across the bridge. Griffin Quartz serves every corner of this dynamic market with <strong>factory-direct pricing</strong> and <strong>master craftsmanship</strong>. Whether you are renovating a Northwood bungalow, upgrading a CityPlace condo, or outfitting a new build in the growing Rosemary Square district, we deliver <strong>installation in as little as one week</strong>.</p>
 
             <div class="features-grid">
                 <div class="feature-card">
@@ -267,21 +267,21 @@
 
             <div class="services-detail-grid">
                 <div class="service-detail-card">
-                    <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in West Palm Beach" loading="lazy" width="800" height="800">
+                    <img src="images/kitchen-white-marble-gold-hood-bright.webp" alt="Luxury kitchen quartz countertops in West Palm Beach historic home" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
-                    <p>Transform your <strong>West Palm Beach kitchen</strong> with stunning quartz surfaces. We specialize in kitchen islands, perimeter countertops, waterfall edges, and integrated backsplashes. Our <strong>precision fabrication</strong> ensures seamless seams and perfect cutouts for sinks and cooktops—ideal for both historic home renovations and new construction.</p>
+                    <p>From renovating charming 1920s kitchens in <strong>El Cid and Flamingo Park</strong> to outfitting modern condos overlooking the Intracoastal at Rosemary Square, we craft quartz surfaces for every style West Palm Beach offers. Our <strong>precision fabrication</strong> handles the unique challenges of historic home layouts and new downtown construction alike—seamless seams, perfect cutouts, and finishes worthy of Palm Beach Island.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in West Palm Beach" loading="lazy" width="800" height="800">
                     <h3>Bathroom Vanities</h3>
-                    <p>Elevate your <strong>West Palm Beach bathroom</strong> with elegant quartz vanity tops. From single sink vanities in guest baths to expansive double sink configurations in master suites, we create custom pieces that combine beauty with the <strong>moisture resistance</strong> essential for bathroom environments.</p>
+                    <p>Whether refreshing a vintage master bath in <strong>Northwood or Grandview Heights</strong> or installing sleek floating vanities in a new downtown high-rise, we create custom quartz pieces that respect your home's character. Our surfaces combine timeless elegance with the <strong>moisture resistance</strong> essential for South Florida's diverse West Palm Beach neighborhoods.</p>
                     <a href="kitchen-bath" class="btn btn-outline">Explore Bath Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in West Palm Beach restaurant" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
-                    <p>Griffin Quartz serves <strong>West Palm Beach businesses</strong> including restaurants along Clematis Street, hotels on the waterfront, medical offices, and retail spaces in CityPlace and Rosemary Square. Our commercial-grade quartz surfaces withstand heavy use while maintaining their luxurious appearance.</p>
+                    <p>Griffin Quartz supports <strong>West Palm Beach's downtown revitalization</strong>—from Clematis Street restaurants and Rosemary Square retail to waterfront hotel bars and Palm Beach Island boutique offices. Our commercial-grade quartz withstands heavy daily use while delivering the upscale aesthetic that matches the area's growing reputation as a cultural destination.</p>
                     <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>

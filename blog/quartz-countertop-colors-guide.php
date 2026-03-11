@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Stunning quartz countertop colors from white to black. Find quartz that looks like marble for your South Florida home. Free consultation!">
     <title>Quartz Countertop Colors: Selection Guide | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Countertop Colors: Selection Guide | Griffin Quartz">
+    <meta name="twitter:description" content="Stunning quartz countertop colors from white to black. Find quartz that looks like marble for your South Florida home. Free consultation!">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
@@ -14,7 +21,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 </head>
 <body>
 <?php $basePath = '..'; include '../includes/header.php'; ?>
@@ -150,6 +157,9 @@
                 <p>Visit our South Florida showroom to explore hundreds of quartz countertop colors in person. See full slabs, compare options, and take home samples.</p>
                 <a href="../#contact-form" class="btn btn-primary">Schedule Consultation</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
 

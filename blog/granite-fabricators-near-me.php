@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Top granite fabricators in South Florida. What to look for in a fabricator and why Griffin Quartz is the #1 choice for countertops.">
     <title>Top Granite Countertop Fabricators Near Me | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Top Granite Countertop Fabricators Near Me | Griffin Quartz">
+    <meta name="twitter:description" content="Top granite fabricators in South Florida. What to look for in a fabricator and why Griffin Quartz is the #1 choice for countertops.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
@@ -12,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 </head>
 <body>
 <?php $basePath = '..'; include '../includes/header.php'; ?>
@@ -121,6 +128,9 @@
                 <p>Whether you choose granite or quartz, our team delivers expert fabrication and installation across South Florida.</p>
                 <a href="../#contact-form" class="btn btn-primary">Get a Free Estimate</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
     <?php include '../includes/footer.php'; ?>

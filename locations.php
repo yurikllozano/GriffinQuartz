@@ -6,6 +6,7 @@
     <meta name="description" content="Griffin Quartz serves South Florida with quartz countertop installation. Service areas in Miami-Dade, Broward & Palm Beach counties.">
     <meta name="keywords" content="quartz countertops South Florida, countertop installation Miami, Fort Lauderdale quartz, Boca Raton countertops, West Palm Beach kitchen counters">
     <title>Service Areas in South Florida | Griffin Quartz</title>
+    <link rel="canonical" href="https://griffinquartz.com/locations">
 
     <!-- Open Graph -->
     <meta property="og:title" content="South Florida Quartz Countertop Installation | Griffin Quartz Service Areas">
@@ -15,6 +16,12 @@
     <meta property="og:image" content="https://griffinquartz.com/images/map-miami-beach-area.webp">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="South Florida Quartz Countertop Installation | Griffin Quartz Service Areas">
+    <meta name="twitter:description" content="Premium quartz countertop installation across Miami-Dade, Broward, and Palm Beach counties. Expert fabrication and installation for your home or business.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/map-miami-beach-area.webp">
 
     <!-- Fonts & Styles -->
     <!-- Favicon -->
@@ -26,7 +33,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">

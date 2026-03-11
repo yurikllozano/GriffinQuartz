@@ -27,12 +27,18 @@
     <meta property="og:image:height" content="630">
     <meta property="og:locale" content="en_US">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Cambria Ella Quartz | Timeless Elegance | Griffin Quartz">
+    <meta name="twitter:description" content="Soft white base with delicate gray veining. The perfect choice for classic and timeless kitchen designs.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-ella-hero.webp">
+
     <!-- Fonts & Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -71,6 +77,20 @@
             {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://griffinquartz.com/"},
             {"@type": "ListItem", "position": 2, "name": "Cambria", "item": "https://griffinquartz.com/cambria"},
             {"@type": "ListItem", "position": 3, "name": "Ella", "item": "https://griffinquartz.com/cambria/ella"}
+        ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": "How does Ella compare to Brittanicca?", "acceptedAnswer": {"@type": "Answer", "text": "While both are white marble-look designs, they offer different aesthetics. Brittanicca features bold, dramatic gray veining that makes a statement, while Ella has softer, more delicate veining for a subtler, more understated look. Ella is ideal for those who prefer refined simplicity, while Brittanicca suits those who want a bolder focal point."}},
+            {"@type": "Question", "name": "Is Ella a good choice for busy kitchens?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, Ella is excellent for busy kitchens. Like all Cambria quartz, it's nonporous, stain-resistant, and incredibly durable. It won't harbor bacteria, never needs sealing, and is easy to clean. The light color and subtle veining also help mask everyday wear and minor imperfections."}},
+            {"@type": "Question", "name": "Does Ella work with gray cabinets?", "acceptedAnswer": {"@type": "Answer", "text": "Ella pairs beautifully with gray cabinets. The delicate gray veining in Ella creates a cohesive look with gray cabinetry while providing contrast with the soft white background. It's a popular choice for transitional kitchens combining white and gray elements."}},
+            {"@type": "Question", "name": "How much does Cambria Ella cost installed?", "acceptedAnswer": {"@type": "Answer", "text": "Cambria Ella typically ranges from $70-$115 per square foot installed in South Florida. The total cost depends on your project's complexity, edge profile, and cutouts needed. Contact us for a free personalized quote."}},
+            {"@type": "Question", "name": "Is Ella better than natural marble for countertops?", "acceptedAnswer": {"@type": "Answer", "text": "For most homeowners, yes. Ella offers the soft, elegant look of natural marble but with significant practical advantages. It never needs sealing, won't stain from wine or citrus, resists scratches, and won't etch from acidic foods. It's a durable, maintenance-free alternative backed by a full lifetime warranty."}}
         ]
     }
     </script>
@@ -392,6 +412,24 @@
         </div>
     </section>
 
+    <!-- Gallery Section -->
+    <section class="product-gallery" style="padding:5rem 0;background:var(--color-light)">
+        <div class="container">
+            <div style="text-align:center;margin-bottom:3rem">
+                <h2 style="font-family:'Playfair Display',serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Ella in Beautiful Spaces</h2>
+                <p style="color:var(--color-gray)">See how Cambria Ella transforms kitchens and living spaces</p>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem">
+                <div style="border-radius:12px;overflow:hidden;aspect-ratio:4/3">
+                    <img src="../images/cambria-ella-kitchen.webp" alt="Cambria Ella quartz kitchen countertop" loading="lazy" width="800" height="533" style="width:100%;height:100%;object-fit:cover">
+                </div>
+                <div style="border-radius:12px;overflow:hidden;aspect-ratio:4/3">
+                    <img src="../images/cambria-products/ella.webp" alt="Cambria Ella quartz swatch close-up" loading="lazy" width="724" height="500" style="width:100%;height:100%;object-fit:cover">
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section class="faq-section">
         <div class="container">
@@ -427,8 +465,37 @@
                             <p>Ella pairs beautifully with gray cabinets. The delicate gray veining in Ella creates a cohesive look with gray cabinetry while providing contrast with the soft white background. It's a popular choice for transitional kitchens combining white and gray elements.</p>
                         </div>
                     </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How much does Cambria Ella cost installed?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Cambria Ella typically ranges from $70-$115 per square foot installed in South Florida. The total cost depends on your project's complexity, edge profile, and cutouts needed. Contact us for a free personalized quote.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Is Ella better than natural marble for countertops?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>For most homeowners, yes. Ella offers the soft, elegant look of natural marble but with significant practical advantages. It never needs sealing, won't stain from wine or citrus, resists scratches, and won't etch from acidic foods. It's a durable, maintenance-free alternative backed by a full lifetime warranty.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
+            <script>
+            document.querySelectorAll('.accordion-header').forEach(button => {
+                button.addEventListener('click', () => {
+                    const item = button.parentElement;
+                    const content = item.querySelector('.accordion-content');
+                    const isActive = item.classList.contains('active');
+                    document.querySelectorAll('.accordion-item').forEach(i => { i.classList.remove('active'); i.querySelector('.accordion-content').style.maxHeight = null; });
+                    if (!isActive) { item.classList.add('active'); content.style.maxHeight = content.scrollHeight + 'px'; }
+                });
+            });
+            </script>
         </div>
     </section>
 

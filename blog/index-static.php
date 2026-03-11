@@ -30,12 +30,18 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Countertop Blog | Expert Tips & Guides | Griffin Quartz">
+    <meta name="twitter:description" content="Expert guides on quartz countertops for South Florida homes. Learn about installation, costs, colors, and design trends.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">

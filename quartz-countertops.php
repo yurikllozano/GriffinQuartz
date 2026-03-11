@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary SEO Meta Tags -->
-    <title>Quartz Countertops South Florida | Griffin Quartz</title>
+    <title>Premium Quartz Countertops | Colors, Brands &amp; Pricing | Griffin Quartz</title>
     <meta name="description" content="Premium quartz countertops in South Florida. Cambria, Caesarstone & Silestone. Non-porous, stain-resistant, low maintenance. FREE estimates.">
     <meta name="keywords" content="quartz countertops, engineered quartz, quartz kitchen countertops, quartz bathroom vanity, Cambria quartz, Caesarstone, Silestone, quartz countertops South Florida, quartz countertops Boca Raton, quartz countertops Miami, quartz countertops Fort Lauderdale">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -44,7 +44,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -95,8 +95,8 @@
         },
         "aggregateRating": {
             "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "100"
+            "ratingValue": "4.9",
+            "reviewCount": "127"
         }
     }
     </script>
@@ -638,7 +638,7 @@
                     <div class="overlay">
                         <h3>Kitchen Countertops</h3>
                         <p>The most popular application for quartz. Create stunning kitchen islands, perimeter counters, and breakfast bars that withstand daily cooking demands.</p>
-                        <a href="kitchen-countertops" class="btn-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
+                        <a href="kitchen-bath" class="btn-link">Explore Kitchen Countertops <i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="application-card">

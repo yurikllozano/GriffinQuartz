@@ -46,7 +46,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Structured Data - BlogPosting -->
     <script type="application/ld+json">
@@ -431,6 +431,9 @@
                 <p>Photos and descriptions can only take you so far. During your free in-home consultation, the Griffin Quartz team will bring edge profile samples so you can hold them against your cabinets, feel the comfort of each shape, and see how they interact with your kitchen lighting. We serve homeowners throughout Palm Beach, Broward, and Miami-Dade counties. Call (720) 324-1436 or request a free estimate online.</p>
                 <a href="/contact" class="btn btn-primary">Schedule Free Consultation</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div><!-- end blog-body -->
     </article>
 

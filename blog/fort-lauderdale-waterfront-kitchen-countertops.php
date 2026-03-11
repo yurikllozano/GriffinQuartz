@@ -32,12 +32,18 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Best Kitchen Countertops for Fort Lauderdale Waterfront Homes">
+    <meta name="twitter:description" content="Discover the best kitchen countertops for Fort Lauderdale waterfront homes. Expert tips on humidity-resistant quartz and granite for coastal living.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/kitchen-waterfront-palms-orchids.webp">
+
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org - BlogPosting -->
     <script type="application/ld+json">
@@ -164,7 +170,7 @@
 
                 <h3>Quartz Countertops: The Ideal Choice for Coastal Living</h3>
 
-                <p>Engineered quartz has emerged as the premier choice for waterfront <a href="../kitchen-countertops">kitchen countertop services</a> in Fort Lauderdale, and for excellent reasons. This material combines approximately 93% natural quartz crystals with polymer resins to create a surface that is completely non-porous. This means humidity, salt air, and spills cannot penetrate the surface, eliminating concerns about moisture damage and staining.</p>
+                <p>Engineered quartz has emerged as the premier choice for waterfront <a href="../kitchen-bath">kitchen countertop services</a> in Fort Lauderdale, and for excellent reasons. This material combines approximately 93% natural quartz crystals with polymer resins to create a surface that is completely non-porous. This means humidity, salt air, and spills cannot penetrate the surface, eliminating concerns about moisture damage and staining.</p>
 
                 <p>Quartz countertops require zero sealing and minimal maintenance, a significant advantage in the demanding coastal environment. Simply wipe them down with mild soap and water, and they will maintain their beauty for decades. Leading brands like Cambria, Silestone, and Caesarstone offer colors specifically designed to complement coastal aesthetics, from crisp whites reminiscent of sandy beaches to soft grays that echo the morning ocean mist.</p>
 
@@ -263,6 +269,9 @@
                 <p>Get a free consultation and quote for your waterfront home countertop project.</p>
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
 

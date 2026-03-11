@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Commercial quartz countertops for Fort Lauderdale restaurants, bars and cafes. NSF certified, durable designs for high-traffic venues.">
     <title>Restaurant & Bar Countertops Ft Lauderdale | Griffin Quartz</title>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Restaurant & Bar Countertops Ft Lauderdale | Griffin Quartz">
+    <meta name="twitter:description" content="Commercial quartz countertops for Fort Lauderdale restaurants, bars and cafes. NSF certified, durable designs for high-traffic venues.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
@@ -14,7 +21,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Blog Post Schema -->
     <script type="application/ld+json">
@@ -236,6 +243,9 @@
                 <p>Get commercial-grade countertops that impress customers and withstand daily use.</p>
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
 

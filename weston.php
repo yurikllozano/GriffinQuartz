@@ -34,12 +34,18 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Quartz Countertops Weston FL | Installation & Showroom | Griffin Quartz">
+    <meta name="twitter:description" content="Premium quartz countertops in Weston. Serving Weston Hills, Windmill Ranch & luxury communities. 200+ colors, FREE estimates, factory-direct pricing.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/luxury-white-kitchen-arched-windows-gold.webp">
+
     <!-- Fonts and Styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <!-- Schema.org Structured Data -->
     <script type="application/ld+json">
@@ -158,7 +164,7 @@
                     <img src="images/luxury-white-kitchen-arched-windows-gold.webp" alt="Luxury kitchen quartz countertops in Weston" loading="lazy" width="800" height="800">
                     <h3>Kitchen Countertops</h3>
                     <p>Transform your <strong>Weston kitchen</strong> into a culinary masterpiece with expansive islands, waterfall edges, and seamless perimeter countertops.</p>
-                    <a href="kitchen-countertops" class="btn btn-outline">Explore Kitchen Options</a>
+                    <a href="kitchen-bath" class="btn btn-outline">Explore Kitchen Options</a>
                 </div>
                 <div class="service-detail-card">
                     <img src="images/luxury-bathroom-black-marble-gold-fixtures.webp" alt="Luxury bathroom quartz vanity in Weston" loading="lazy" width="800" height="800">
@@ -170,7 +176,7 @@
                     <img src="images/commercial-bar-black-gold-quartz-restaurant.webp" alt="Commercial quartz countertops in Weston" loading="lazy" width="800" height="800">
                     <h3>Commercial Surfaces</h3>
                     <p>Griffin Quartz serves <strong>Weston businesses</strong> including Cleveland Clinic facilities, restaurants, and offices.</p>
-                    <a href="commercial-countertops" class="btn btn-outline">Commercial Services</a>
+                    <a href="commercial" class="btn btn-outline">Commercial Services</a>
                 </div>
             </div>
         </div>

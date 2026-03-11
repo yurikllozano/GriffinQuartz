@@ -13,7 +13,14 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://griffinquartz.com/space-design-tool">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Space Design Tool | Blueprint Maker | Griffin Quartz">
+    <meta name="twitter:description" content="Design your dream countertop space with our interactive Blueprint Maker. Create professional blueprints with measurements and get instant estimates.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <title>Space Design Tool | Blueprint Maker | Griffin Quartz</title>
+    <link rel="canonical" href="https://griffinquartz.com/space-design-tool">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
@@ -24,7 +31,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.min.css">
     <style>
         /* Space Design Tool - On-Brand Styles */
         .tool-hero {

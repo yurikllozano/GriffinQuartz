@@ -45,7 +45,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles.min.css">
 
     <!-- Schema.org Structured Data - BlogPosting -->
     <script type="application/ld+json">
@@ -695,6 +695,9 @@
                 <p>Visit our Boca Raton showroom to see hundreds of quartz samples in person, or schedule a free in-home consultation with our countertop experts. We will help you select the ideal color, brand, and edge profile for your project. Call (720) 324-1436 or request a free estimate online.</p>
                 <a href="/#contact-form" class="btn btn-primary">Get FREE Estimate</a>
             </div>
+
+            <?php include '../includes/blog-author.php'; ?>
+            <?php include '../includes/blog-related.php'; ?>
         </div>
     </article>
 
