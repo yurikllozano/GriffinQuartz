@@ -41,9 +41,6 @@
     <meta name="twitter:image:alt" content="Premium quartz countertop brands at Griffin Quartz">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -369,7 +366,7 @@
         }
 
         .brands-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 3.75rem);
             font-weight: 500;
             color: #fff;
@@ -378,7 +375,7 @@
         }
 
         .brands-hero .hero-tagline {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.375rem;
             font-style: italic;
             color: rgba(255, 255, 255, 0.9);
@@ -441,7 +438,7 @@
         }
 
         .hero-stat-item .stat-number {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.5rem;
             font-weight: 600;
             color: var(--color-accent);
@@ -475,7 +472,7 @@
         }
 
         .hero-form-card h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.625rem;
             color: var(--color-primary);
             text-align: center;
@@ -597,7 +594,7 @@
         }
 
         .brand-logos-strip h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-gray);
@@ -748,7 +745,7 @@
         }
 
         .why-quartz-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             color: var(--color-primary);
             margin-bottom: 0.75rem;
@@ -822,7 +819,7 @@
         }
 
         .brand-card-content h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.5rem;
             color: var(--color-primary);
             margin-bottom: 0.5rem;
@@ -939,7 +936,7 @@
         }
 
         .brand-card-compact-header h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             color: var(--color-primary);
             margin: 0;
@@ -1026,7 +1023,7 @@
         }
 
         .style-category-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             margin-bottom: 0.25rem;
         }
@@ -1069,7 +1066,7 @@
         }
 
         .showroom-cta-box h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.5rem;
             color: var(--color-primary);
             margin-bottom: 1rem;
@@ -1180,7 +1177,7 @@
         }
 
         .faq-question {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             color: var(--color-primary);
             background: #fff;
@@ -1498,7 +1495,7 @@
             </article>
 
             <!-- Additional Brands Grid -->
-            <h3 id="more-brands-heading" style="font-family: 'Playfair Display', serif; font-size: 1.5rem; margin-top: 3rem; margin-bottom: 0.5rem;">More Premium Brands We Carry</h3>
+            <h3 id="more-brands-heading" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1.5rem; margin-top: 3rem; margin-bottom: 0.5rem;">More Premium Brands We Carry</h3>
             <p style="color: var(--color-gray); margin-bottom: 2rem;">Complete your vision with these exceptional quartz options—all available at our South Florida showroom.</p>
 
             <div class="brands-grid" role="list" aria-labelledby="more-brands-heading">

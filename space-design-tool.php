@@ -27,9 +27,6 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.min.css">
     <style>
@@ -41,7 +38,7 @@
         }
 
         .tool-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 48px;
             color: #fff;
             margin-bottom: 20px;
@@ -108,7 +105,7 @@
         }
 
         .tool-section-title {
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 11px;
             font-weight: 700;
             text-transform: uppercase;
@@ -136,7 +133,7 @@
             border: 2px solid #e8e8e8;
             border-radius: 8px;
             color: #333;
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 14px;
             font-weight: 500;
             cursor: pointer;
@@ -318,7 +315,7 @@
         }
 
         .panel-title {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 22px;
             color: #000;
         }
@@ -498,7 +495,7 @@
         }
 
         .quick-estimate-row.total .quick-estimate-value {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 18px;
             color: #000;
         }
@@ -553,7 +550,7 @@
         }
 
         .cost-estimate-value {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 36px;
             color: #FDB913;
             margin-bottom: 6px;
@@ -601,7 +598,7 @@
             color: #000;
             border: none;
             border-radius: 8px;
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 15px;
             font-weight: 700;
             cursor: pointer;
@@ -623,7 +620,7 @@
             color: #333;
             border: 2px solid #e0e0e0;
             border-radius: 8px;
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 14px;
             font-weight: 600;
             cursor: pointer;
@@ -716,7 +713,7 @@
             border-radius: 8px;
             color: #000;
             font-size: 15px;
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             transition: all 0.2s ease;
         }
 
@@ -1043,7 +1040,7 @@
         }
 
         .cost-range-value {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 28px;
             color: #000;
             margin-bottom: 6px;
@@ -1098,7 +1095,7 @@
 
         .summary-value {
             display: block;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 24px;
             color: #FDB913;
             font-weight: 700;
@@ -1190,7 +1187,7 @@
         }
 
         .tier-estimate {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 16px;
             color: #000;
             font-weight: 600;
@@ -1226,7 +1223,7 @@
         }
 
         .material-total span:last-child {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 18px;
             color: #000;
         }
@@ -1329,7 +1326,7 @@
         }
 
         .scenario-total {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 36px;
             color: #FDB913;
             font-weight: 700;
@@ -1394,7 +1391,7 @@
         }
 
         .fab-install-value {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 24px;
             color: #FDB913;
         }
@@ -1459,7 +1456,7 @@
         }
 
         .total-row.total-final span:last-child {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 24px;
             color: #FDB913;
         }
@@ -2440,7 +2437,7 @@
         ctx.setLineDash([]);
 
         // Draw dimension labels for each completed edge
-        ctx.font = 'bold 11px Montserrat';
+        ctx.font = 'bold 11px Helvetica Neue';
         for (let i = 0; i < state.polygonPoints.length - 1; i++) {
             const p1 = state.polygonPoints[i];
             const p2 = state.polygonPoints[i + 1];
@@ -2466,7 +2463,7 @@
 
         // Show instruction text
         ctx.fillStyle = '#000';
-        ctx.font = '12px Montserrat';
+        ctx.font = '12px Helvetica Neue';
         ctx.fillText('Click to add points. Click green dot to finish.', 10, 20);
         if (state.polygonPoints.length >= 3) {
             ctx.fillText('Press ESC to cancel.', 10, 35);
@@ -2490,7 +2487,7 @@
         const perpY = dx / length * 15;
 
         // Draw background for readability
-        ctx.font = isPreview ? 'bold 14px Montserrat' : 'bold 11px Montserrat';
+        ctx.font = isPreview ? 'bold 14px Helvetica Neue' : 'bold 11px Helvetica Neue';
         const metrics = ctx.measureText(text);
         ctx.fillStyle = isPreview ? '#FDB913' : 'rgba(255,255,255,0.9)';
         ctx.fillRect(midX + perpX - metrics.width/2 - 3, midY + perpY - 10, metrics.width + 6, 16);
@@ -2512,10 +2509,10 @@
         ctx.fillStyle = '#000';
         ctx.fillRect(canvas.width - 180, canvas.height - 50, 178, 48);
         ctx.fillStyle = '#FDB913';
-        ctx.font = 'bold 12px Montserrat';
+        ctx.font = 'bold 12px Helvetica Neue';
         ctx.fillText('GRIFFIN QUARTZ', canvas.width - 170, canvas.height - 32);
         ctx.fillStyle = '#fff';
-        ctx.font = '9px Montserrat';
+        ctx.font = '9px Helvetica Neue';
         ctx.fillText('Space Design Blueprint', canvas.width - 170, canvas.height - 18);
         ctx.fillText('Scale: 1" = ' + state.pixelsPerInch + 'px', canvas.width - 170, canvas.height - 8);
     }
@@ -2603,7 +2600,7 @@
         }
 
         ctx.fillStyle = '#000';
-        ctx.font = 'bold 10px Montserrat';
+        ctx.font = 'bold 10px Helvetica Neue';
         const label = shape.label || shape.type.toUpperCase();
         ctx.fillText(label, shape.x + 6, shape.y + 16);
     }
@@ -2624,7 +2621,7 @@
         ctx.stroke();
 
         ctx.fillStyle = '#000';
-        ctx.font = 'bold 10px Montserrat';
+        ctx.font = 'bold 10px Helvetica Neue';
         ctx.fillText('L-SHAPE', shape.x + 6, shape.y + 16);
     }
 
@@ -2650,7 +2647,7 @@
         ctx.stroke();
 
         ctx.fillStyle = '#000';
-        ctx.font = 'bold 10px Montserrat';
+        ctx.font = 'bold 10px Helvetica Neue';
         ctx.fillText('U-SHAPE', shape.x + 6, shape.y + 16);
     }
 
@@ -2680,11 +2677,11 @@
         ctx.restore();
 
         ctx.fillStyle = '#000';
-        ctx.font = 'bold 10px Montserrat';
+        ctx.font = 'bold 10px Helvetica Neue';
         ctx.fillText('CUSTOM', shape.x + 6, shape.y + 16);
 
         // Draw dimension for each edge
-        ctx.font = '8px Montserrat';
+        ctx.font = '8px Helvetica Neue';
         ctx.fillStyle = '#666';
         for (let i = 0; i < shape.points.length; i++) {
             const p1 = shape.points[i];
@@ -2734,7 +2731,7 @@
 
         // Helper to draw a dimension label
         function drawDimLabel(text, x, y, isBlue = false) {
-            ctx.font = '9px Montserrat';
+            ctx.font = '9px Helvetica Neue';
             const metrics = ctx.measureText(text);
             ctx.fillStyle = isBlue ? '#0088ff' : '#000';
             ctx.fillText(text, x - metrics.width/2, y);
@@ -2782,7 +2779,7 @@
 
         if (isDrawing) {
             // Large, prominent labels while drawing
-            ctx.font = 'bold 14px Montserrat';
+            ctx.font = 'bold 14px Helvetica Neue';
             const widthText = widthInches + '"';
             const heightText = heightInches + '"';
             const sqFt = ((widthInches * heightInches) / 144).toFixed(1);
@@ -2803,7 +2800,7 @@
             ctx.fillStyle = '#000';
             ctx.fillText(heightText, heightLabelX, heightLabelY + 4);
 
-            ctx.font = 'bold 16px Montserrat';
+            ctx.font = 'bold 16px Helvetica Neue';
             const sqFtText = sqFt + ' sq ft';
             const sqFtMetrics = ctx.measureText(sqFtText);
             const centerX = shape.x + shape.width/2;
@@ -4366,9 +4363,9 @@
         ectx.drawImage(canvas, 0, 0);
 
         ectx.fillStyle = '#000';
-        ectx.font = 'bold 14px Montserrat';
+        ectx.font = 'bold 14px Helvetica Neue';
         ectx.fillText('COUNTERTOP BLUEPRINT', 16, 24);
-        ectx.font = '11px Montserrat';
+        ectx.font = '11px Helvetica Neue';
         ectx.fillText('Generated by Griffin Quartz', 16, 42);
         ectx.fillText('Color: ' + state.selectedColor.name + ' | Edge: ' + state.selectedEdge.name, 16, 58);
         ectx.fillText('Estimate: ' + document.getElementById('totalEstimate').textContent, 16, 74);

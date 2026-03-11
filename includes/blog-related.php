@@ -1,6 +1,6 @@
 <!-- Related Posts -->
 <div class="blog-related-posts" style="margin-top:3rem;padding-top:2rem;border-top:1px solid #eee">
-    <h3 style="font-family:'Playfair Display',serif;font-size:1.25rem;color:var(--color-primary);margin-bottom:1.5rem">Popular Articles</h3>
+    <h3 style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:1.25rem;color:var(--color-primary);margin-bottom:1.5rem">Popular Articles</h3>
     <div style="display:grid;gap:1rem">
         <a href="<?php echo isset($basePath) ? $basePath : '..'; ?>/blog/quartz-countertops-cost" style="display:flex;align-items:center;gap:1rem;padding:1rem;background:#fff;border-radius:8px;text-decoration:none;border:1px solid #eee;transition:box-shadow 0.2s ease">
             <span style="flex-shrink:0;width:40px;height:40px;background:var(--color-accent);border-radius:8px;display:flex;align-items:center;justify-content:center"><i class="bi bi-currency-dollar" style="color:var(--color-primary);font-size:1.125rem"></i></span>

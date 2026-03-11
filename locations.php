@@ -29,9 +29,6 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -118,7 +115,7 @@
         }
 
         .locations-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 4rem);
             font-weight: 600;
             color: #fff;
@@ -151,7 +148,7 @@
         }
 
         .hero-stat-number {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 3rem;
             font-weight: 600;
             color: var(--color-accent);
@@ -182,7 +179,7 @@
         }
 
         .county-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -250,7 +247,7 @@
         }
 
         .location-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.375rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -326,7 +323,7 @@
         }
 
         .map-content h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.5rem;
             font-weight: 500;
             margin-bottom: 1.5rem;
@@ -388,7 +385,7 @@
         }
 
         .why-choose-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -416,7 +413,7 @@
         }
 
         .why-choose-item h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -437,7 +434,7 @@
         }
 
         .locations-cta h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: var(--color-primary);

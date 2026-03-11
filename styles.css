@@ -18,8 +18,8 @@
     --color-light-gray: #e0e0e0;
     
     /* Typography */
-    --font-heading: 'Playfair Display', Georgia, serif;
-    --font-body: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-heading: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-body: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     
     /* Spacing */
     --spacing-xs: 0.5rem;

@@ -34,9 +34,6 @@
     <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-ella-hero.webp">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="../styles.min.css">
 
@@ -141,7 +138,7 @@
             margin-bottom: 1rem;
         }
         .product-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 3.5rem);
             font-weight: 600;
             color: #fff;
@@ -175,7 +172,7 @@
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
             text-align: center;
         }
-        .swatch-label h3 { font-family: 'Playfair Display', serif; font-size: 1.125rem; color: var(--color-primary); margin: 0; }
+        .swatch-label h3 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1.125rem; color: var(--color-primary); margin: 0; }
         .swatch-label p { font-size: 0.75rem; color: var(--color-gray); margin: 0.25rem 0 0; }
         @media (max-width: 968px) {
             .product-hero-container { grid-template-columns: 1fr; text-align: center; }
@@ -188,7 +185,7 @@
         .product-details { padding: 5rem 0; background: #fff; }
         .product-details-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start; }
         .product-specs h2, .product-applications h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -212,7 +209,7 @@
         @media (max-width: 768px) { .product-details-grid { grid-template-columns: 1fr; gap: 3rem; } }
         .related-designs { padding: 5rem 0; background: var(--color-light); }
         .related-header { text-align: center; margin-bottom: 3rem; }
-        .related-header h2 { font-family: 'Playfair Display', serif; font-size: clamp(2rem, 4vw, 2.5rem); font-weight: 500; color: var(--color-primary); }
+        .related-header h2 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: clamp(2rem, 4vw, 2.5rem); font-weight: 500; color: var(--color-primary); }
         .related-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.5rem; }
         .related-card {
             background: #fff;
@@ -225,11 +222,11 @@
         .related-card-image { aspect-ratio: 1; overflow: hidden; }
         .related-card-image img { width: 100%; height: 100%; object-fit: cover; }
         .related-card-content { padding: 1rem; text-align: center; }
-        .related-card h3 { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 500; color: var(--color-primary); margin: 0; }
+        .related-card h3 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1rem; font-weight: 500; color: var(--color-primary); margin: 0; }
         @media (max-width: 768px) { .related-grid { grid-template-columns: repeat(2, 1fr); } }
         .quote-section { padding: 5rem 0; background: var(--color-primary); }
         .quote-container { max-width: 600px; margin: 0 auto; text-align: center; }
-        .quote-container h2 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 500; color: #fff; margin-bottom: 1rem; }
+        .quote-container h2 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 2.25rem; font-weight: 500; color: #fff; margin-bottom: 1rem; }
         .quote-container > p { color: rgba(255, 255, 255, 0.85); margin-bottom: 2rem; }
         .quote-form { background: #fff; padding: 2rem; border-radius: 12px; }
         .quote-form .form-group { margin-bottom: 1rem; text-align: left; }
@@ -246,7 +243,7 @@
         .quote-form input:focus, .quote-form select:focus, .quote-form textarea:focus { outline: none; border-color: var(--color-accent); }
         .faq-section { padding: 5rem 0; background: #fff; }
         .faq-header { text-align: center; margin-bottom: 3rem; }
-        .faq-header h2 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 500; color: var(--color-primary); }
+        .faq-header h2 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 2.25rem; font-weight: 500; color: var(--color-primary); }
         .faq-container { max-width: 800px; margin: 0 auto; }
     </style>
 </head>
@@ -416,7 +413,7 @@
     <section class="product-gallery" style="padding:5rem 0;background:var(--color-light)">
         <div class="container">
             <div style="text-align:center;margin-bottom:3rem">
-                <h2 style="font-family:'Playfair Display',serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Ella in Beautiful Spaces</h2>
+                <h2 style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Ella in Beautiful Spaces</h2>
                 <p style="color:var(--color-gray)">See how Cambria Ella transforms kitchens and living spaces</p>
             </div>
             <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem">

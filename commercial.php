@@ -241,9 +241,6 @@
     </script>
 
     <!-- Fonts and Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -292,7 +289,7 @@
         }
 
         .page-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 4rem);
             font-weight: 700;
             margin-bottom: 1rem;
@@ -351,7 +348,7 @@
         }
 
         .stat-item h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 3rem;
             color: #FDB913;
             margin-bottom: 8px;
@@ -369,7 +366,7 @@
         }
 
         .section-intro h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2rem, 4vw, 3rem);
             color: #000;
             margin-bottom: 1rem;
@@ -420,7 +417,7 @@
         }
 
         .value-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             color: #000;
             margin-bottom: 8px;
@@ -490,7 +487,7 @@
         }
 
         .application-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.35rem;
             color: #000;
             margin-bottom: 12px;
@@ -550,7 +547,7 @@
         }
 
         .split-content h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.5rem);
             margin-bottom: 1.5rem;
         }
@@ -666,7 +663,7 @@
         }
 
         .why-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.15rem;
             color: #000;
             margin-bottom: 8px;
@@ -873,7 +870,7 @@
             border-radius: 50%;
             background: #FDB913;
             color: #000;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.5rem;
             font-weight: 700;
             display: flex;
@@ -955,7 +952,7 @@
         }
 
         .cta-section-full h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2rem, 4vw, 3rem);
             color: #000;
             margin-bottom: 1rem;
@@ -1021,7 +1018,7 @@
         }
 
         .contact-content h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2rem, 4vw, 2.5rem);
             color: #FDB913;
             margin-bottom: 1rem;
@@ -1065,7 +1062,7 @@
         }
 
         .contact-form h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.5rem;
             color: #000;
             margin-bottom: 1.5rem;
@@ -1156,7 +1153,7 @@
         }
 
         .service-areas-content h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.5rem;
             color: #000;
             margin-bottom: 1rem;

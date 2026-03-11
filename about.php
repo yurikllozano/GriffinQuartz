@@ -40,9 +40,6 @@
     <meta name="ICBM" content="26.3683, -80.1289">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -256,7 +253,7 @@
             margin-bottom: 1.5rem;
         }
         .material-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 4rem);
             font-weight: 500;
             color: #fff;
@@ -293,7 +290,7 @@
             margin-bottom: 3.5rem;
         }
         .section-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -334,7 +331,7 @@
             }
         }
         .stat-item .stat-number {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.5rem;
             font-weight: 700;
             color: var(--color-accent);
@@ -389,7 +386,7 @@
             color: var(--color-primary);
         }
         .benefit-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -440,13 +437,13 @@
             align-items: center;
             justify-content: center;
             margin: 0 auto 1.25rem;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 700;
             color: var(--color-primary);
         }
         .process-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -502,7 +499,7 @@
             color: var(--color-primary);
         }
         .cert-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -525,7 +522,7 @@
             padding: 0 1.5rem;
         }
         .showroom-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.5rem);
             color: #fff;
             text-align: center;
@@ -568,7 +565,7 @@
         }
         .showroom-card h4 {
             color: #fff;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             margin-bottom: 0.75rem;
         }
@@ -640,7 +637,7 @@
             background: #fafafa;
         }
         .faq-question h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -706,7 +703,7 @@
             max-width: 700px;
         }
         .cta-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.25rem);
             color: #fff;
             margin-bottom: 1rem;

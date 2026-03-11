@@ -40,9 +40,6 @@
     <meta name="ICBM" content="26.3683, -80.1289">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -258,7 +255,7 @@
         }
 
         .services-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 4rem);
             font-weight: 500;
             color: #fff;
@@ -401,7 +398,7 @@
         }
 
         .services-section-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -468,7 +465,7 @@
         }
 
         .service-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -529,7 +526,7 @@
         }
 
         .section-cta h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.5rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -570,7 +567,7 @@
         }
 
         .service-areas-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.25rem);
             color: var(--color-white);
             text-align: center;
@@ -661,7 +658,7 @@
         }
 
         .faq-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -690,7 +687,7 @@
         }
 
         .faq-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -723,7 +720,7 @@
         }
 
         .final-cta-section h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.25rem);
             font-weight: 500;
             color: var(--color-white);

@@ -34,9 +34,6 @@
     <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-brittanicca-hero.webp">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="../styles.min.css">
 
@@ -212,7 +209,7 @@
         }
 
         .product-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 3.5rem);
             font-weight: 600;
             color: #fff;
@@ -291,7 +288,7 @@
         }
 
         .swatch-label h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             color: var(--color-primary);
             margin: 0;
@@ -346,7 +343,7 @@
         }
 
         .product-specs h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -377,7 +374,7 @@
         }
 
         .product-applications h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -424,7 +421,7 @@
         }
 
         .gallery-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2rem, 4vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -472,7 +469,7 @@
         }
 
         .related-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2rem, 4vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -514,7 +511,7 @@
         }
 
         .related-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -540,7 +537,7 @@
         }
 
         .quote-container h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: #fff;
@@ -602,7 +599,7 @@
         }
 
         .faq-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: var(--color-primary);

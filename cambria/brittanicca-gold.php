@@ -34,9 +34,6 @@
     <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-brittanicca-gold-hero.webp">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="../styles.min.css">
 
@@ -156,7 +153,7 @@
             margin-bottom: 1rem;
         }
         .product-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 3.5rem);
             font-weight: 600;
             color: #fff;
@@ -212,7 +209,7 @@
             text-align: center;
         }
         .swatch-label h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             color: var(--color-primary);
             margin: 0;
@@ -234,7 +231,7 @@
             align-items: start;
         }
         .product-specs h2, .product-applications h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -261,7 +258,7 @@
         .related-designs { padding: 5rem 0; background: var(--color-light); }
         .related-header { text-align: center; margin-bottom: 3rem; }
         .related-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2rem, 4vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -279,7 +276,7 @@
         .related-card-image img { width: 100%; height: 100%; object-fit: cover; }
         .related-card-content { padding: 1rem; text-align: center; }
         .related-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -291,7 +288,7 @@
         .quote-section { padding: 5rem 0; background: var(--color-primary); }
         .quote-container { max-width: 600px; margin: 0 auto; text-align: center; }
         .quote-container h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: #fff;
@@ -323,7 +320,7 @@
         .faq-section { padding: 5rem 0; background: #fff; }
         .faq-header { text-align: center; margin-bottom: 3rem; }
         .faq-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 2.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -496,7 +493,7 @@
     <section class="product-gallery" style="padding:5rem 0;background:var(--color-light)">
         <div class="container">
             <div style="text-align:center;margin-bottom:3rem">
-                <h2 style="font-family:'Playfair Display',serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Brittanicca Gold in Beautiful Spaces</h2>
+                <h2 style="font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:clamp(2rem,4vw,2.5rem);font-weight:500;color:var(--color-primary);margin-bottom:.5rem">Brittanicca Gold in Beautiful Spaces</h2>
                 <p style="color:var(--color-gray)">See how Cambria Brittanicca Gold transforms kitchens and living spaces</p>
             </div>
             <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem">

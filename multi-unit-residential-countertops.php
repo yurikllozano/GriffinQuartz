@@ -87,9 +87,6 @@
     </script>
 
     <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -102,10 +99,10 @@
         .hero-container { position: relative; z-index: 2; display: grid; grid-template-columns: 1fr 400px; gap: 50px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 20px; width: 100%; }
         .hero-content { color: #fff; text-align: left; }
         .hero-badge { display: inline-block; background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); color: #fff; padding: 10px 20px; border-radius: 50px; font-weight: 600; font-size: 0.9rem; margin-bottom: 20px; border: 1px solid rgba(255,255,255,0.25); }
-        .hero h1 { font-family: 'Playfair Display', serif; font-size: 2.75rem; margin-bottom: 20px; line-height: 1.2; }
+        .hero h1 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 2.75rem; margin-bottom: 20px; line-height: 1.2; }
         .hero p { font-size: 1.1rem; margin-bottom: 25px; opacity: 0.9; line-height: 1.7; }
         .hero-form { background: #fff; padding: 30px; border-radius: 16px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
-        .hero-form h3 { font-family: 'Playfair Display', serif; font-size: 1.4rem; color: #000; margin-bottom: 5px; text-align: center; }
+        .hero-form h3 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1.4rem; color: #000; margin-bottom: 5px; text-align: center; }
         .hero-form .form-subtitle { text-align: center; color: #666; margin-bottom: 20px; font-size: 0.95rem; }
         .hero-form .form-subtitle a { color: #FDB913; font-weight: 600; text-decoration: none; }
         .hero-form .form-group { margin-bottom: 15px; }
@@ -120,7 +117,7 @@
         }
 
         /* Section Styles */
-        .section-title { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 1rem; }
+        .section-title { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 2.5rem; color: #000; margin-bottom: 1rem; }
 
         /* Applications Section */
         .applications-section { padding: 80px 0; background: #f8f8f8; }
@@ -134,7 +131,7 @@
         /* Benefits Section */
         .benefits-section { padding: 80px 0; background: #fff; }
         .benefits-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; margin-top: 40px; }
-        .benefits-content h3 { font-family: 'Playfair Display', serif; font-size: 1.8rem; color: #000; margin-bottom: 1rem; }
+        .benefits-content h3 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1.8rem; color: #000; margin-bottom: 1rem; }
         .benefits-content p { color: #666; margin-bottom: 1.5rem; }
         .benefits-list { list-style: none; }
         .benefits-list li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 15px; color: #333; }
@@ -152,7 +149,7 @@
 
         /* CTA Section */
         .cta-section { padding: 80px 0; background: linear-gradient(135deg, #FDB913 0%, #e5a811 100%); text-align: center; }
-        .cta-section h2 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
+        .cta-section h2 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
         .cta-section p { color: #000; font-size: 1.1rem; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; }
         .cta-section .btn { background: #000; color: #fff; }
 

@@ -40,9 +40,6 @@
     <meta name="ICBM" content="26.3683, -80.1289">
 
     <!-- Fonts & Styles -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.min.css">
 
@@ -210,7 +207,7 @@
             margin-bottom: 1.5rem;
         }
         .material-hero h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(2.5rem, 5vw, 4rem);
             font-weight: 500;
             color: #fff;
@@ -247,7 +244,7 @@
             margin-bottom: 3.5rem;
         }
         .section-header h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.5rem);
             font-weight: 500;
             color: var(--color-primary);
@@ -303,7 +300,7 @@
             color: var(--color-primary);
         }
         .benefit-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -350,7 +347,7 @@
             padding: 2rem;
         }
         .application-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.5rem;
             color: #fff;
             margin-bottom: 0.5rem;
@@ -374,7 +371,7 @@
             background: var(--color-primary);
         }
         .varieties-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             color: #fff;
             text-align: center;
             margin-bottom: 1rem;
@@ -405,7 +402,7 @@
         }
         .variety-card h4 {
             color: var(--color-accent);
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             margin-bottom: 0.75rem;
         }
@@ -432,7 +429,7 @@
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
         }
         .care-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             color: var(--color-primary);
             margin-bottom: 1rem;
@@ -499,7 +496,7 @@
             background: #fafafa;
         }
         .faq-question h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.125rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -564,7 +561,7 @@
             max-width: 700px;
         }
         .cta-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: clamp(1.75rem, 3vw, 2.25rem);
             color: #fff;
             margin-bottom: 1rem;
@@ -614,7 +611,7 @@
             border: 1px solid #eee;
         }
         .marble-type-detail h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -642,7 +639,7 @@
             padding: 2rem;
         }
         .other-marbles h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -700,7 +697,7 @@
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
         }
         .maintenance-card h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.25rem;
             font-weight: 500;
             color: var(--color-primary);
@@ -776,7 +773,7 @@
         .comparison-table thead th {
             background: var(--color-primary);
             color: #fff;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-weight: 500;
             font-size: 1.125rem;
             padding: 1.25rem 1.5rem;
@@ -817,7 +814,7 @@
             padding: 0 1.5rem;
         }
         .climate-section h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             color: #fff;
             text-align: center;
             margin-bottom: 1rem;
@@ -868,7 +865,7 @@
         }
         .climate-card h4 {
             color: #fff;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             font-size: 1.1rem;
             margin-bottom: 0.75rem;
         }
