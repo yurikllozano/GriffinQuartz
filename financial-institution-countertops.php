@@ -24,6 +24,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Financial Institution Quartz Countertops | Bank Specialists | Griffin Quartz">
+    <meta name="twitter:description" content="Premium quartz surfaces for banks and credit unions throughout South Florida.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <!-- Geo Meta Tags -->
     <meta name="geo.region" content="US-FL">
     <meta name="geo.placename" content="Boca Raton">
@@ -39,28 +45,59 @@
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What countertop material is best for bank teller lines?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Quartz is the top choice for bank teller counters. It's extremely durable for daily transaction activity, easy to clean, and projects the professional image banks require. We recommend solid colors or subtle veining for a clean, authoritative look that aligns with financial branding."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you work around bank security requirements?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we regularly work in secure environments including banks, credit unions, and investment offices. Our team undergoes background checks, follows building security protocols, and can work after-hours or on weekends to install without disrupting banking operations or compromising security."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do you handle installation in active bank branches?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We specialize in zero-downtime installations for financial institutions. We can work overnight or on weekends, installing section by section. Teller lines can typically be completed in a single weekend. We coordinate closely with branch managers to ensure banking operations continue uninterrupted."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What's the lifespan of quartz in a bank environment?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Commercial quartz countertops in financial settings typically last 25-30 years. Bank teller lines see consistent but not abusive use, making quartz an excellent investment. It won't show wear patterns, resists pen marks, and cleans easily — maintaining that professional appearance for decades."
+                }
+            }
+        ]
+    }
+    </script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; color: #333; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-        .header { background: #000; padding: 15px 0; position: sticky; top: 0; z-index: 1000; }
-        .header-container { display: flex; justify-content: space-between; align-items: center; }
-        .logo { height: 50px; }
-        .nav { display: flex; gap: 30px; align-items: center; }
-        .nav a { color: #fff; text-decoration: none; font-size: 0.95rem; transition: color 0.3s; }
-        .nav a:hover { color: #FDB913; }
-        .btn { padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.3s; display: inline-block; }
-        .btn-primary { background: #FDB913; color: #000; }
-        .btn-primary:hover { background: #e5a811; }
         /* Hero */
         .hero { position: relative; min-height: 600px; display: flex; align-items: center; overflow: hidden; padding: 60px 0; }
-        .hero-bg { position: absolute; inset: 0; background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); }
+        .hero-bg { position: absolute; inset: 0; }
+        .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
         .hero-bg::after { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.5) 100%); }
         .hero-container { position: relative; z-index: 2; display: grid; grid-template-columns: 1fr 400px; gap: 50px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 20px; width: 100%; }
         .hero-content { color: #fff; text-align: left; }
@@ -96,8 +133,7 @@
         .benefits-list { list-style: none; }
         .benefits-list li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 15px; color: #333; }
         .benefits-list li i { color: #FDB913; font-size: 1.2rem; margin-top: 2px; }
-        .benefits-image { background: linear-gradient(135deg, #134e5e 0%, #71b280 100%); border-radius: 16px; height: 400px; display: flex; align-items: center; justify-content: center; }
-        .benefits-image i { font-size: 8rem; color: rgba(255,255,255,0.3); }
+        .benefits-image img { width: 100%; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.1); }
         .why-section { padding: 80px 0; background: #000; color: #fff; }
         .why-section .section-title { color: #fff; }
         .why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin-top: 40px; }
@@ -109,22 +145,17 @@
         .cta-section h2 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
         .cta-section p { color: #000; font-size: 1.1rem; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; }
         .cta-section .btn { background: #000; color: #fff; }
-        .footer { background: #000; color: #fff; padding: 60px 0 30px; }
-        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
-        .footer h4 { font-size: 1.1rem; margin-bottom: 20px; color: #FDB913; }
-        .footer p, .footer a { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
-        .footer a { text-decoration: none; display: block; margin-bottom: 10px; transition: color 0.3s; }
-        .footer a:hover { color: #FDB913; }
-        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 30px; text-align: center; color: rgba(255,255,255,0.5); }
-        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid, .footer-grid { grid-template-columns: 1fr; } }
-        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } .nav { display: none; } }
+        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
 <?php $basePath = ''; include 'includes/header.php'; ?>
 
     <section class="hero">
-        <div class="hero-bg"></div>
+        <div class="hero-bg">
+            <img src="images/commercial-lobby-white-marble-reception.webp" alt="Financial institution quartz countertops reception desk" width="800" height="800" loading="lazy">
+        </div>
         <div class="hero-container">
             <div class="hero-content">
                 <div class="hero-badge">Financial Institution Specialists</div>
@@ -135,7 +166,7 @@
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
                 <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
-                <form action="/#contact-form" method="post">
+                <form id="heroQuoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
@@ -224,7 +255,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <i class="bi bi-bank"></i>
+                    <img src="images/commercial-office-corporate.webp" alt="Financial institution corporate office quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>
@@ -263,6 +294,52 @@
                     <i class="bi bi-geo-alt"></i>
                     <h3>Local Service</h3>
                     <p>Quick response for any warranty needs from our South Florida headquarters.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section" style="padding: 80px 0; background: #f8f8f8;">
+        <div class="container">
+            <h2 class="section-title" style="text-align: center;">Frequently Asked Questions</h2>
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What countertop material is best for bank teller lines?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Quartz is the top choice for bank teller counters. It's extremely durable for daily transaction activity, easy to clean, and projects the professional image banks require. We recommend solid colors or subtle veining for a clean, authoritative look that aligns with financial branding.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Can you work around bank security requirements?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we regularly work in secure environments including banks, credit unions, and investment offices. Our team undergoes background checks, follows building security protocols, and can work after-hours or on weekends to install without disrupting banking operations or compromising security.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How do you handle installation in active bank branches?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>We specialize in zero-downtime installations for financial institutions. We can work overnight or on weekends, installing section by section. Teller lines can typically be completed in a single weekend. We coordinate closely with branch managers to ensure banking operations continue uninterrupted.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What's the lifespan of quartz in a bank environment?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Commercial quartz countertops in financial settings typically last 25-30 years. Bank teller lines see consistent but not abusive use, making quartz an excellent investment. It won't show wear patterns, resists pen marks, and cleans easily — maintaining that professional appearance for decades.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

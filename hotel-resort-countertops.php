@@ -72,25 +72,55 @@
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "How long does hotel countertop installation take?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Timeline depends on scope. Individual room vanities take 1-2 days per floor. Full hotel renovations are done in phased rollouts, typically 2-4 weeks depending on the number of rooms. We work after-hours to minimize guest disruption."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you match countertops across 100+ hotel rooms?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Absolutely. Quartz is manufactured to exact specifications, ensuring identical color and pattern across every room — unlike natural stone where each slab varies. This is why major hotel chains prefer quartz for brand consistency."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you offer volume pricing for hotels?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we offer competitive volume discounts for projects of 50+ rooms. Multi-property deals receive additional pricing benefits. Contact us for a custom quote based on your project scope."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What quartz is best for hotel bathrooms?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We recommend solid white or light-veined quartz for hotel vanities. They photograph well for marketing, hide water spots between cleanings, and maintain a fresh, luxurious look. Cambria and Caesarstone both offer excellent hospitality-grade options."
+                }
+            }
+        ]
+    }
+    </script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; color: #333; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-        .header { background: #000; padding: 15px 0; position: sticky; top: 0; z-index: 1000; }
-        .header-container { display: flex; justify-content: space-between; align-items: center; }
-        .logo { height: 50px; }
-        .nav { display: flex; gap: 30px; align-items: center; }
-        .nav a { color: #fff; text-decoration: none; font-size: 0.95rem; transition: color 0.3s; }
-        .nav a:hover { color: #FDB913; }
-        .btn { padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.3s; display: inline-block; }
-        .btn-primary { background: #FDB913; color: #000; }
-        .btn-primary:hover { background: #e5a811; }
         /* Hero */
         .hero { position: relative; min-height: 600px; display: flex; align-items: center; overflow: hidden; padding: 60px 0; }
         .hero-bg { position: absolute; inset: 0; }
@@ -115,8 +145,12 @@
             .hero-form { order: -1; max-width: 450px; margin: 0 auto; }
             .hero-content { text-align: center; }
         }
+
+        /* Section Styles */
         .section-title { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 1rem; }
         .section-description { color: #666; font-size: 1.1rem; margin-bottom: 2rem; }
+
+        /* Applications Section */
         .applications-section { padding: 80px 0; background: #f8f8f8; }
         .applications-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; margin-top: 40px; }
         .application-card { background: #fff; padding: 30px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s, box-shadow 0.3s; }
@@ -124,6 +158,8 @@
         .application-card i { font-size: 2.5rem; color: #FDB913; margin-bottom: 15px; }
         .application-card h4 { font-size: 1.1rem; color: #000; margin-bottom: 10px; }
         .application-card p { font-size: 0.9rem; color: #666; }
+
+        /* Benefits Section */
         .benefits-section { padding: 80px 0; background: #fff; }
         .benefits-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; margin-top: 40px; }
         .benefits-content h3 { font-family: 'Playfair Display', serif; font-size: 1.8rem; color: #000; margin-bottom: 1rem; }
@@ -132,6 +168,8 @@
         .benefits-list li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 15px; color: #333; }
         .benefits-list li i { color: #FDB913; font-size: 1.2rem; margin-top: 2px; }
         .benefits-image img { width: 100%; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.1); }
+
+        /* Why Choose Section */
         .why-section { padding: 80px 0; background: #000; color: #fff; }
         .why-section .section-title { color: #fff; }
         .why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin-top: 40px; }
@@ -139,29 +177,23 @@
         .why-card i { font-size: 2rem; color: #FDB913; margin-bottom: 15px; }
         .why-card h3 { font-size: 1.2rem; margin-bottom: 10px; }
         .why-card p { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
+
+        /* CTA Section */
         .cta-section { padding: 80px 0; background: linear-gradient(135deg, #FDB913 0%, #e5a811 100%); text-align: center; }
         .cta-section h2 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
         .cta-section p { color: #000; font-size: 1.1rem; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; }
         .cta-section .btn { background: #000; color: #fff; }
         .cta-section .btn:hover { background: #333; }
-        .footer { background: #000; color: #fff; padding: 60px 0 30px; }
-        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
-        .footer h4 { font-size: 1.1rem; margin-bottom: 20px; color: #FDB913; }
-        .footer p, .footer a { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
-        .footer a { text-decoration: none; display: block; margin-bottom: 10px; transition: color 0.3s; }
-        .footer a:hover { color: #FDB913; }
-        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 30px; text-align: center; color: rgba(255,255,255,0.5); font-size: 0.9rem; }
+
+        /* Responsive */
         @media (max-width: 900px) {
             .applications-grid { grid-template-columns: repeat(2, 1fr); }
             .benefits-grid { grid-template-columns: 1fr; }
             .why-grid { grid-template-columns: 1fr; }
-            .footer-grid { grid-template-columns: 1fr 1fr; }
         }
         @media (max-width: 600px) {
             .hero h1 { font-size: 2rem; }
             .applications-grid { grid-template-columns: 1fr; }
-            .nav { display: none; }
-            .footer-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -182,7 +214,7 @@
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
                 <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
-                <form action="/#contact-form" method="post">
+                <form id="heroQuoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
@@ -310,6 +342,52 @@
                     <i class="bi bi-geo-alt"></i>
                     <h3>Local Expertise</h3>
                     <p>Based in Boca Raton, we serve hotels from Palm Beach to Miami with fast response times.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section" style="padding: 80px 0; background: #f8f8f8;">
+        <div class="container">
+            <h2 class="section-title" style="text-align: center;">Frequently Asked Questions</h2>
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How long does hotel countertop installation take?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Timeline depends on scope. Individual room vanities take 1-2 days per floor. Full hotel renovations are done in phased rollouts, typically 2-4 weeks depending on the number of rooms. We work after-hours to minimize guest disruption.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Can you match countertops across 100+ hotel rooms?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Absolutely. Quartz is manufactured to exact specifications, ensuring identical color and pattern across every room — unlike natural stone where each slab varies. This is why major hotel chains prefer quartz for brand consistency.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Do you offer volume pricing for hotels?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we offer competitive volume discounts for projects of 50+ rooms. Multi-property deals receive additional pricing benefits. Contact us for a custom quote based on your project scope.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What quartz is best for hotel bathrooms?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>We recommend solid white or light-veined quartz for hotel vanities. They photograph well for marketing, hide water spots between cleanings, and maintain a fresh, luxurious look. Cambria and Caesarstone both offer excellent hospitality-grade options.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

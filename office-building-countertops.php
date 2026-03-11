@@ -75,6 +75,47 @@
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Can you install countertops in occupied office buildings?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we specialize in low-disruption installation for occupied buildings. We work after-hours, on weekends, and can phase installations floor by floor. Our team follows building security protocols and protects all surrounding finishes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What's the best countertop for a reception desk?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Reception desks benefit from dramatic, high-contrast quartz like Cambria Brittanicca or bold solid colors. The countertop is the first thing visitors see, so we recommend a statement piece that reflects your brand. Waterfall edges add a modern, premium look."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How long do quartz countertops last in office buildings?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Commercial-grade quartz countertops last 20-30 years with minimal maintenance. They resist scratches from office supplies, stains from coffee and markers, and don't require periodic sealing or refinishing — making them cost-effective for commercial properties."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you work with general contractors on office build-outs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we regularly coordinate with GCs, architects, and interior designers on office build-outs. We can template off existing cabinets or work from architectural drawings. We're familiar with commercial building requirements and timelines."
+                }
+            }
+        ]
+    }
+    </script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -178,7 +219,7 @@
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
                 <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
-                <form action="/#contact-form" method="post">
+                <form id="heroQuoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
@@ -309,6 +350,53 @@
                     <i class="bi bi-tools"></i>
                     <h3>Expert Installation</h3>
                     <p>Experienced commercial installers who understand the unique requirements of office environments.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section" style="padding: 80px 0; background: #f8f8f8;">
+        <div class="container">
+            <h2 class="section-title" style="text-align: center;">Frequently Asked Questions</h2>
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Can you install countertops in occupied office buildings?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we specialize in low-disruption installation for occupied buildings. We work after-hours, on weekends, and can phase installations floor by floor. Our team follows building security protocols and protects all surrounding finishes.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What's the best countertop for a reception desk?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Reception desks benefit from dramatic, high-contrast quartz like Cambria Brittanicca or bold solid colors. The countertop is the first thing visitors see, so we recommend a statement piece that reflects your brand. Waterfall edges add a modern, premium look.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How long do quartz countertops last in office buildings?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Commercial-grade quartz countertops last 20-30 years with minimal maintenance. They resist scratches from office supplies, stains from coffee and markers, and don't require periodic sealing or refinishing — making them cost-effective for commercial properties.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Do you work with general contractors on office build-outs?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we regularly coordinate with GCs, architects, and interior designers on office build-outs. We can template off existing cabinets or work from architectural drawings. We're familiar with commercial building requirements and timelines.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

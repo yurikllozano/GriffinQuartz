@@ -24,6 +24,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Educational Facility Quartz Countertops | School Specialists | Griffin Quartz">
+    <meta name="twitter:description" content="Durable, chemical-resistant quartz surfaces for schools and universities throughout South Florida.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <!-- Geo Meta Tags -->
     <meta name="geo.region" content="US-FL">
     <meta name="geo.placename" content="Boca Raton">
@@ -39,28 +45,59 @@
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Are quartz countertops safe for school science labs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Quartz is non-porous and resists most common laboratory chemicals used in K-12 and university settings. It won't harbor bacteria, is easy to decontaminate, and doesn't require the regular sealing that natural stone needs. For advanced chemistry labs, we can recommend specific quartz formulations rated for chemical resistance."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How durable are quartz countertops in high-traffic school environments?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Quartz is engineered to withstand heavy daily use. It resists scratches from textbooks and equipment, won't chip from dropped items, and maintains its appearance for 20+ years. School cafeterias, libraries, and administrative offices all benefit from its virtually maintenance-free surface."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you install during summer break?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Absolutely — summer and holiday breaks are our most popular times for educational projects. We can plan and template in spring, then complete full installation during summer recess so everything is ready for the new school year. We also handle phased installs during shorter breaks."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you work with school district procurement processes?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we're experienced with institutional procurement requirements, including providing detailed quotes for bid processes, meeting specification requirements, and coordinating with facilities managers and general contractors on timelines and building access."
+                }
+            }
+        ]
+    }
+    </script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; color: #333; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-        .header { background: #000; padding: 15px 0; position: sticky; top: 0; z-index: 1000; }
-        .header-container { display: flex; justify-content: space-between; align-items: center; }
-        .logo { height: 50px; }
-        .nav { display: flex; gap: 30px; align-items: center; }
-        .nav a { color: #fff; text-decoration: none; font-size: 0.95rem; transition: color 0.3s; }
-        .nav a:hover { color: #FDB913; }
-        .btn { padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.3s; display: inline-block; }
-        .btn-primary { background: #FDB913; color: #000; }
-        .btn-primary:hover { background: #e5a811; }
         /* Hero */
         .hero { position: relative; min-height: 600px; display: flex; align-items: center; overflow: hidden; padding: 60px 0; }
-        .hero-bg { position: absolute; inset: 0; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); }
+        .hero-bg { position: absolute; inset: 0; }
+        .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
         .hero-bg::after { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.5) 100%); }
         .hero-container { position: relative; z-index: 2; display: grid; grid-template-columns: 1fr 400px; gap: 50px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 20px; width: 100%; }
         .hero-content { color: #fff; text-align: left; }
@@ -81,7 +118,11 @@
             .hero-form { order: -1; max-width: 450px; margin: 0 auto; }
             .hero-content { text-align: center; }
         }
+
+        /* Section Styles */
         .section-title { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 1rem; }
+
+        /* Applications Section */
         .applications-section { padding: 80px 0; background: #f8f8f8; }
         .applications-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; margin-top: 40px; }
         .application-card { background: #fff; padding: 30px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: transform 0.3s; }
@@ -89,6 +130,8 @@
         .application-card i { font-size: 2.5rem; color: #FDB913; margin-bottom: 15px; }
         .application-card h4 { font-size: 1.1rem; color: #000; margin-bottom: 10px; }
         .application-card p { font-size: 0.9rem; color: #666; }
+
+        /* Benefits Section */
         .benefits-section { padding: 80px 0; background: #fff; }
         .benefits-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; margin-top: 40px; }
         .benefits-content h3 { font-family: 'Playfair Display', serif; font-size: 1.8rem; color: #000; margin-bottom: 1rem; }
@@ -96,8 +139,9 @@
         .benefits-list { list-style: none; }
         .benefits-list li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 15px; color: #333; }
         .benefits-list li i { color: #FDB913; font-size: 1.2rem; margin-top: 2px; }
-        .benefits-image { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; height: 400px; display: flex; align-items: center; justify-content: center; }
-        .benefits-image i { font-size: 8rem; color: rgba(255,255,255,0.3); }
+        .benefits-image img { width: 100%; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.1); }
+
+        /* Why Choose Section */
         .why-section { padding: 80px 0; background: #000; color: #fff; }
         .why-section .section-title { color: #fff; }
         .why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin-top: 40px; }
@@ -105,26 +149,32 @@
         .why-card i { font-size: 2rem; color: #FDB913; margin-bottom: 15px; }
         .why-card h3 { font-size: 1.2rem; margin-bottom: 10px; }
         .why-card p { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
+
+        /* CTA Section */
         .cta-section { padding: 80px 0; background: linear-gradient(135deg, #FDB913 0%, #e5a811 100%); text-align: center; }
         .cta-section h2 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
         .cta-section p { color: #000; font-size: 1.1rem; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; }
         .cta-section .btn { background: #000; color: #fff; }
-        .footer { background: #000; color: #fff; padding: 60px 0 30px; }
-        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
-        .footer h4 { font-size: 1.1rem; margin-bottom: 20px; color: #FDB913; }
-        .footer p, .footer a { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
-        .footer a { text-decoration: none; display: block; margin-bottom: 10px; transition: color 0.3s; }
-        .footer a:hover { color: #FDB913; }
-        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 30px; text-align: center; color: rgba(255,255,255,0.5); }
-        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid, .footer-grid { grid-template-columns: 1fr; } }
-        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } .nav { display: none; } }
+
+        /* Responsive */
+        @media (max-width: 900px) {
+            .applications-grid { grid-template-columns: repeat(2, 1fr); }
+            .benefits-grid { grid-template-columns: 1fr; }
+            .why-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 2rem; }
+            .applications-grid { grid-template-columns: 1fr; }
+        }
     </style>
 </head>
 <body>
 <?php $basePath = ''; include 'includes/header.php'; ?>
 
     <section class="hero">
-        <div class="hero-bg"></div>
+        <div class="hero-bg">
+            <img src="images/commercial-office-lobby-modern.webp" alt="Educational facility quartz countertops South Florida" width="800" height="800" loading="lazy">
+        </div>
         <div class="hero-container">
             <div class="hero-content">
                 <div class="hero-badge">Education Specialists</div>
@@ -135,7 +185,7 @@
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
                 <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
-                <form action="/#contact-form" method="post">
+                <form id="heroQuoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
@@ -224,7 +274,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <i class="bi bi-mortarboard"></i>
+                    <img src="images/commercial-office-breakroom-cafe.webp" alt="Educational facility break room quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>
@@ -263,6 +313,52 @@
                     <i class="bi bi-tools"></i>
                     <h3>Warranty Support</h3>
                     <p>Long-term warranty and responsive local service for any issues.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section" style="padding: 80px 0; background: #f8f8f8;">
+        <div class="container">
+            <h2 class="section-title" style="text-align: center;">Frequently Asked Questions</h2>
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Are quartz countertops safe for school science labs?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes. Quartz is non-porous and resists most common laboratory chemicals used in K-12 and university settings. It won't harbor bacteria, is easy to decontaminate, and doesn't require the regular sealing that natural stone needs. For advanced chemistry labs, we can recommend specific quartz formulations rated for chemical resistance.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How durable are quartz countertops in high-traffic school environments?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Quartz is engineered to withstand heavy daily use. It resists scratches from textbooks and equipment, won't chip from dropped items, and maintains its appearance for 20+ years. School cafeterias, libraries, and administrative offices all benefit from its virtually maintenance-free surface.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Can you install during summer break?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Absolutely — summer and holiday breaks are our most popular times for educational projects. We can plan and template in spring, then complete full installation during summer recess so everything is ready for the new school year. We also handle phased installs during shorter breaks.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Do you work with school district procurement processes?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we're experienced with institutional procurement requirements, including providing detailed quotes for bid processes, meeting specification requirements, and coordinating with facilities managers and general contractors on timelines and building access.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -45,29 +45,59 @@
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What types of specialty installations do you handle?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We handle unique quartz projects that go beyond standard kitchens and bathrooms — yacht galleys, private jet interiors, jewelry store displays, wine cellars, home bars, outdoor kitchens, shower walls, fireplace surrounds, and custom furniture pieces. If it can be fabricated from quartz, we can install it."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you install quartz countertops on a yacht?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, marine installations are one of our specialties. Quartz is ideal for yacht galleys and heads because it's non-porous (resists saltwater and moisture), lightweight compared to natural stone, and maintains its beauty in marine environments. We work with marine contractors and can accommodate tight spaces and custom layouts."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How do you handle difficult access for specialty projects?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We're experienced with challenging access situations — narrow doorways, elevators, multi-story buildings, dock-side installations, and confined spaces. We can fabricate pieces on-site when necessary, use specialized rigging equipment, and coordinate with building management for crane access when needed."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What makes specialty installations different from standard countertops?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Specialty projects require advanced templating, custom fabrication techniques, and often non-standard mounting solutions. Our fabricators have experience with unusual angles, curved surfaces, vertical applications, and ultra-thin profiles. Each specialty project gets a dedicated project manager to ensure every detail is perfect."
+                }
+            }
+        ]
+    }
+    </script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; color: #333; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-        .header { background: #000; padding: 15px 0; position: sticky; top: 0; z-index: 1000; }
-        .header-container { display: flex; justify-content: space-between; align-items: center; }
-        .logo { height: 50px; }
-        .nav { display: flex; gap: 30px; align-items: center; }
-        .nav a { color: #fff; text-decoration: none; font-size: 0.95rem; transition: color 0.3s; }
-        .nav a:hover { color: #FDB913; }
-        .btn { padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.3s; display: inline-block; }
-        .btn-primary { background: #FDB913; color: #000; }
-        .btn-primary:hover { background: #e5a811; }
         /* Hero */
         .hero { position: relative; min-height: 600px; display: flex; align-items: center; overflow: hidden; padding: 60px 0; }
-        .hero-bg { position: absolute; inset: 0; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%); }
-        .hero-bg::before { content: ''; position: absolute; inset: 0; background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23FDB913' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
+        .hero-bg { position: absolute; inset: 0; }
+        .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
         .hero-bg::after { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.5) 100%); }
         .hero-container { position: relative; z-index: 2; display: grid; grid-template-columns: 1fr 400px; gap: 50px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 20px; width: 100%; }
         .hero-content { color: #fff; text-align: left; }
@@ -103,8 +133,7 @@
         .benefits-list { list-style: none; }
         .benefits-list li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 15px; color: #333; }
         .benefits-list li i { color: #FDB913; font-size: 1.2rem; margin-top: 2px; }
-        .benefits-image { background: linear-gradient(135deg, #8E2DE2 0%, #4A00E0 100%); border-radius: 16px; height: 400px; display: flex; align-items: center; justify-content: center; }
-        .benefits-image i { font-size: 8rem; color: rgba(255,255,255,0.2); }
+        .benefits-image img { width: 100%; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.1); }
         .why-section { padding: 80px 0; background: #000; color: #fff; }
         .why-section .section-title { color: #fff; }
         .why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin-top: 40px; }
@@ -116,22 +145,17 @@
         .cta-section h2 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
         .cta-section p { color: #000; font-size: 1.1rem; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; }
         .cta-section .btn { background: #000; color: #fff; }
-        .footer { background: #000; color: #fff; padding: 60px 0 30px; }
-        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
-        .footer h4 { font-size: 1.1rem; margin-bottom: 20px; color: #FDB913; }
-        .footer p, .footer a { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
-        .footer a { text-decoration: none; display: block; margin-bottom: 10px; transition: color 0.3s; }
-        .footer a:hover { color: #FDB913; }
-        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 30px; text-align: center; color: rgba(255,255,255,0.5); }
-        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid, .footer-grid { grid-template-columns: 1fr; } }
-        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } .nav { display: none; } }
+        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
 <?php $basePath = ''; include 'includes/header.php'; ?>
 
     <section class="hero">
-        <div class="hero-bg"></div>
+        <div class="hero-bg">
+            <img src="images/yacht-galley-white-marble-porthole.webp" alt="Specialty quartz installation yacht galley South Florida" width="800" height="800" loading="lazy">
+        </div>
         <div class="hero-container">
             <div class="hero-content">
                 <div class="hero-badge">Custom Project Specialists</div>
@@ -142,7 +166,7 @@
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
                 <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
-                <form action="/#contact-form" method="post">
+                <form id="heroQuoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
@@ -231,7 +255,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <i class="bi bi-gem"></i>
+                    <img src="images/jewelry-store-white-marble-display-counter.webp" alt="Specialty quartz installation custom display counter" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>
@@ -270,6 +294,52 @@
                     <i class="bi bi-truck"></i>
                     <h3>Difficult Access</h3>
                     <p>Expertise in installations with challenging access—elevators, docks, and remote locations.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section" style="padding: 80px 0; background: #f8f8f8;">
+        <div class="container">
+            <h2 class="section-title" style="text-align: center;">Frequently Asked Questions</h2>
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What types of specialty installations do you handle?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>We handle unique quartz projects that go beyond standard kitchens and bathrooms — yacht galleys, private jet interiors, jewelry store displays, wine cellars, home bars, outdoor kitchens, shower walls, fireplace surrounds, and custom furniture pieces. If it can be fabricated from quartz, we can install it.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Can you install quartz countertops on a yacht?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, marine installations are one of our specialties. Quartz is ideal for yacht galleys and heads because it's non-porous (resists saltwater and moisture), lightweight compared to natural stone, and maintains its beauty in marine environments. We work with marine contractors and can accommodate tight spaces and custom layouts.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How do you handle difficult access for specialty projects?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>We're experienced with challenging access situations — narrow doorways, elevators, multi-story buildings, dock-side installations, and confined spaces. We can fabricate pieces on-site when necessary, use specialized rigging equipment, and coordinate with building management for crane access when needed.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What makes specialty installations different from standard countertops?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Specialty projects require advanced templating, custom fabrication techniques, and often non-standard mounting solutions. Our fabricators have experience with unusual angles, curved surfaces, vertical applications, and ultra-thin profiles. Each specialty project gets a dedicated project manager to ensure every detail is perfect.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

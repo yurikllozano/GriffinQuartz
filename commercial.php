@@ -1770,7 +1770,7 @@
                 </div>
                 <div class="contact-form">
                     <h3>Request Your Free Commercial Quote</h3>
-                    <form action="/#contact-form" method="post">
+                    <form id="heroQuoteForm">
                         <div class="form-row">
                             <div class="form-group">
                                 <label for="contact_name">Name *</label>

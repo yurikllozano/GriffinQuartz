@@ -24,6 +24,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Griffin Quartz">
 
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Conference Center Quartz Countertops | Event Venue Specialists | Griffin Quartz">
+    <meta name="twitter:description" content="Premium quartz surfaces for conference centers and event venues throughout South Florida.">
+    <meta name="twitter:image" content="https://griffinquartz.com/images/griffin-quartz-showroom.webp">
+
     <!-- Geo Meta Tags -->
     <meta name="geo.region" content="US-FL">
     <meta name="geo.placename" content="Boca Raton">
@@ -39,28 +45,59 @@
     }
     </script>
 
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What quartz surfaces work best for conference centers?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Conference centers benefit from versatile, durable quartz in registration areas, catering kitchens, bar stations, and breakout room service counters. We recommend neutral tones that complement various event themes — whites, grays, and warm beiges are popular because they serve as elegant backdrops for any event."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Can you install without disrupting scheduled events?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we coordinate closely with event calendars to schedule installation during dark periods or off-season windows. For venues with tight schedules, we can do overnight or sectional installations. Our team is experienced with convention center protocols and loading requirements."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How does quartz hold up in catering and bar environments?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Quartz is ideal for food and beverage service areas. It's non-porous (won't absorb spills), resists staining from wine, coffee, and food, and cleans easily between events. It handles the heavy use of catering operations — from chafing dishes to bar setups — far better than marble or granite."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you offer custom fabrication for unique installations?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we specialize in custom fabrication for conference and event spaces. From curved bar tops and oversized registration desks to built-in buffet stations and display surfaces, we can create virtually any shape or size. We template on-site and fabricate to your exact specifications."
+                }
+            }
+        ]
+    }
+    </script>
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="styles.min.css">
 
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Inter', sans-serif; color: #333; line-height: 1.6; }
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-        .header { background: #000; padding: 15px 0; position: sticky; top: 0; z-index: 1000; }
-        .header-container { display: flex; justify-content: space-between; align-items: center; }
-        .logo { height: 50px; }
-        .nav { display: flex; gap: 30px; align-items: center; }
-        .nav a { color: #fff; text-decoration: none; font-size: 0.95rem; transition: color 0.3s; }
-        .nav a:hover { color: #FDB913; }
-        .btn { padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; transition: all 0.3s; display: inline-block; }
-        .btn-primary { background: #FDB913; color: #000; }
-        .btn-primary:hover { background: #e5a811; }
         /* Hero */
         .hero { position: relative; min-height: 600px; display: flex; align-items: center; overflow: hidden; padding: 60px 0; }
-        .hero-bg { position: absolute; inset: 0; background: linear-gradient(135deg, #232526 0%, #414345 100%); }
+        .hero-bg { position: absolute; inset: 0; }
+        .hero-bg img { width: 100%; height: 100%; object-fit: cover; }
         .hero-bg::after { content: ''; position: absolute; inset: 0; background: linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.5) 100%); }
         .hero-container { position: relative; z-index: 2; display: grid; grid-template-columns: 1fr 400px; gap: 50px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 20px; width: 100%; }
         .hero-content { color: #fff; text-align: left; }
@@ -96,8 +133,7 @@
         .benefits-list { list-style: none; }
         .benefits-list li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 15px; color: #333; }
         .benefits-list li i { color: #FDB913; font-size: 1.2rem; margin-top: 2px; }
-        .benefits-image { background: linear-gradient(135deg, #434343 0%, #000000 100%); border-radius: 16px; height: 400px; display: flex; align-items: center; justify-content: center; }
-        .benefits-image i { font-size: 8rem; color: rgba(255,255,255,0.2); }
+        .benefits-image img { width: 100%; border-radius: 16px; box-shadow: 0 10px 40px rgba(0,0,0,0.1); }
         .why-section { padding: 80px 0; background: #000; color: #fff; }
         .why-section .section-title { color: #fff; }
         .why-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin-top: 40px; }
@@ -109,22 +145,17 @@
         .cta-section h2 { font-family: 'Playfair Display', serif; font-size: 2.5rem; color: #000; margin-bottom: 15px; }
         .cta-section p { color: #000; font-size: 1.1rem; margin-bottom: 30px; max-width: 600px; margin-left: auto; margin-right: auto; }
         .cta-section .btn { background: #000; color: #fff; }
-        .footer { background: #000; color: #fff; padding: 60px 0 30px; }
-        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
-        .footer h4 { font-size: 1.1rem; margin-bottom: 20px; color: #FDB913; }
-        .footer p, .footer a { color: rgba(255,255,255,0.7); font-size: 0.95rem; }
-        .footer a { text-decoration: none; display: block; margin-bottom: 10px; transition: color 0.3s; }
-        .footer a:hover { color: #FDB913; }
-        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 30px; text-align: center; color: rgba(255,255,255,0.5); }
-        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid, .footer-grid { grid-template-columns: 1fr; } }
-        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } .nav { display: none; } }
+        @media (max-width: 900px) { .applications-grid, .why-grid { grid-template-columns: repeat(2, 1fr); } .benefits-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 600px) { .hero h1 { font-size: 2rem; } .applications-grid, .why-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
 <?php $basePath = ''; include 'includes/header.php'; ?>
 
     <section class="hero">
-        <div class="hero-bg"></div>
+        <div class="hero-bg">
+            <img src="images/commercial-beachfront-lobby-backlit.webp" alt="Conference center quartz countertops lobby South Florida" width="800" height="800" loading="lazy">
+        </div>
         <div class="hero-container">
             <div class="hero-content">
                 <div class="hero-badge">Event Venue Specialists</div>
@@ -135,7 +166,7 @@
             <div class="hero-form">
                 <h3>Get Your FREE Quote</h3>
                 <p class="form-subtitle">Or call <a href="tel:+17203241436">(720) 324-1436</a></p>
-                <form action="/#contact-form" method="post">
+                <form id="heroQuoteForm">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
@@ -224,7 +255,7 @@
                     </ul>
                 </div>
                 <div class="benefits-image">
-                    <i class="bi bi-people"></i>
+                    <img src="images/commercial-hotel-lobby.webp" alt="Conference center event venue quartz countertops" width="800" height="800" loading="lazy">
                 </div>
             </div>
         </div>
@@ -263,6 +294,52 @@
                     <i class="bi bi-geo-alt"></i>
                     <h3>Local Expertise</h3>
                     <p>Based in Boca Raton, serving event venues throughout South Florida.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section" style="padding: 80px 0; background: #f8f8f8;">
+        <div class="container">
+            <h2 class="section-title" style="text-align: center;">Frequently Asked Questions</h2>
+            <div style="max-width: 800px; margin: 0 auto;">
+                <div class="accordion">
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>What quartz surfaces work best for conference centers?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Conference centers benefit from versatile, durable quartz in registration areas, catering kitchens, bar stations, and breakout room service counters. We recommend neutral tones that complement various event themes — whites, grays, and warm beiges are popular because they serve as elegant backdrops for any event.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Can you install without disrupting scheduled events?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we coordinate closely with event calendars to schedule installation during dark periods or off-season windows. For venues with tight schedules, we can do overnight or sectional installations. Our team is experienced with convention center protocols and loading requirements.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>How does quartz hold up in catering and bar environments?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Quartz is ideal for food and beverage service areas. It's non-porous (won't absorb spills), resists staining from wine, coffee, and food, and cleans easily between events. It handles the heavy use of catering operations — from chafing dishes to bar setups — far better than marble or granite.</p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            <span>Do you offer custom fabrication for unique installations?</span>
+                            <i class="bi bi-plus"></i>
+                        </button>
+                        <div class="accordion-content">
+                            <p>Yes, we specialize in custom fabrication for conference and event spaces. From curved bar tops and oversized registration desks to built-in buffet stations and display surfaces, we can create virtually any shape or size. We template on-site and fabricate to your exact specifications.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
