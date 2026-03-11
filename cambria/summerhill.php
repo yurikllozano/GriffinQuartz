@@ -20,6 +20,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../styles.min.css">
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Product","name":"Cambria Summerhill Quartz Countertop","description":"Cambria Summerhill features a cream backdrop with soft gray veining, black flecks, and natural shimmer - a stunning low-maintenance granite alternative.","image":"https://griffinquartz.com/images/cambria-products/summerhill.webp","brand":{"@type":"Brand","name":"Cambria"},"category":"Quartz Countertops","countryOfOrigin":"United States","offers":{"@type":"AggregateOffer","priceCurrency":"USD","lowPrice":"70","highPrice":"115","offerCount":"1","availability":"https://schema.org/InStock"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"127","bestRating":"5"}}

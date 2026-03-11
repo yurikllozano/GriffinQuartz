@@ -25,6 +25,7 @@
     <meta name="twitter:image" content="https://griffinquartz.com/images/cambria-products/swanbridge.webp">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../styles.min.css">
     <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"Product","name":"Cambria Swanbridge Quartz","description":"Soft, gentle movement makes Swanbridge perfect for any room.","image":"https://griffinquartz.com/images/cambria-products/swanbridge.webp","brand":{"@type":"Brand","name":"Cambria"},"offers":{"@type":"AggregateOffer","priceCurrency":"USD","lowPrice":"70","highPrice":"115","offerCount":"1","availability":"https://schema.org/InStock"}}

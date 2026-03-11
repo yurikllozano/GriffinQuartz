@@ -15,6 +15,7 @@ $pageDescription = 'The page you were looking for could not be found. Explore Gr
     <link rel="icon" href="/favicon.ico">
     <link rel="stylesheet" href="/styles.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
     <style>
         .error-page {
             text-align: center;
