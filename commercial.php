@@ -1774,7 +1774,7 @@
                         <div class="form-row">
                             <div class="form-group">
                                 <label for="contact_name">Name *</label>
-                                <input type="text" id="contact_name" name="contact_name" placeholder="Your full name" required>
+                                <input type="text" id="contact_name" name="name" placeholder="Your full name" required>
                             </div>
                             <div class="form-group">
                                 <label for="company_name">Company Name *</label>
