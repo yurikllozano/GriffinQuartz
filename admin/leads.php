@@ -31,6 +31,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
             $updateFields[] = "source = ?";
             $updateParams[] = $_POST['source'];
         }
+        if (isset($_POST['name'])) {
+            $updateFields[] = "name = ?";
+            $updateParams[] = $_POST['name'];
+        }
+        if (isset($_POST['phone'])) {
+            $updateFields[] = "phone = ?";
+            $updateParams[] = $_POST['phone'];
+        }
 
         if (!empty($updateFields)) {
             $updateParams[] = (int) $_POST['lead_id'];
@@ -43,8 +51,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
     }
 
     if ($_POST['action'] === 'add_lead') {
-        $firstName = trim($_POST['first_name'] ?? '');
-        $lastName = trim($_POST['last_name'] ?? '');
+        $name = trim($_POST['first_name'] ?? '') . ' ' . trim($_POST['last_name'] ?? '');
+        $name = trim($name);
         $email = trim($_POST['email'] ?? '');
         $phone = trim($_POST['phone'] ?? '');
         $source = trim($_POST['source'] ?? '');
@@ -52,8 +60,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
         $smsConsent = isset($_POST['sms_consent']) ? 1 : 0;
 
         if ($email !== '') {
-            $stmt = $pdo->prepare("INSERT INTO leads (first_name, last_name, email, phone, source, sms_consent, notes, status, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, 'new', NOW(), NOW())");
-            $stmt->execute([$firstName, $lastName, $email, $phone, $source, $smsConsent, $notes]);
+            $stmt = $pdo->prepare("INSERT INTO leads (form_type, name, email, phone, source, message, created_at) VALUES ('manual', ?, ?, ?, ?, ?, NOW())");
+            $stmt->execute([$name, $email, $phone, $source, $notes]);
         }
         header('Location: leads.php');
         exit();
@@ -61,7 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
 }
 
 // Get filter parameters
-$statusFilter = isset($_GET['status']) ? $_GET['status'] : '';
+$formType = isset($_GET['type']) ? $_GET['type'] : '';
 $sourceFilter = isset($_GET['source']) ? $_GET['source'] : '';
 $search = isset($_GET['search']) ? $_GET['search'] : '';
 
@@ -69,9 +77,9 @@ $search = isset($_GET['search']) ? $_GET['search'] : '';
 $sql = "SELECT * FROM leads WHERE 1=1";
 $params = [];
 
-if ($statusFilter) {
-    $sql .= " AND status = :status";
-    $params[':status'] = $statusFilter;
+if ($formType) {
+    $sql .= " AND form_type = :form_type";
+    $params[':form_type'] = $formType;
 }
 
 if ($sourceFilter) {
@@ -80,12 +88,11 @@ if ($sourceFilter) {
 }
 
 if ($search) {
-    $sql .= " AND (first_name LIKE :search OR last_name LIKE :search2 OR email LIKE :search3 OR phone LIKE :search4 OR notes LIKE :search5)";
+    $sql .= " AND (name LIKE :search OR email LIKE :search2 OR phone LIKE :search3 OR message LIKE :search4)";
     $params[':search'] = "%$search%";
     $params[':search2'] = "%$search%";
     $params[':search3'] = "%$search%";
     $params[':search4'] = "%$search%";
-    $params[':search5'] = "%$search%";
 }
 
 $sql .= " ORDER BY created_at DESC";
@@ -94,8 +101,8 @@ $stmt = $pdo->prepare($sql);
 $stmt->execute($params);
 $leads = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
-// Get statuses for filter
-$statuses = $pdo->query("SELECT DISTINCT status FROM leads ORDER BY status")->fetchAll(PDO::FETCH_COLUMN);
+// Get form types for filter
+$types = $pdo->query("SELECT DISTINCT form_type FROM leads ORDER BY form_type")->fetchAll(PDO::FETCH_COLUMN);
 
 // Get lead sources for dropdowns
 $leadSources = $pdo->query("SELECT * FROM lead_sources WHERE is_active = 1 ORDER BY sort_order ASC, name ASC")->fetchAll(PDO::FETCH_ASSOC);
@@ -113,11 +120,13 @@ $page_title = 'Leads Manager';
 // Additional styles for leads page
 $extra_head = '
 <style>
-    .badge-new { background: #e3f2fd; color: #1976d2; }
-    .badge-contacted { background: #fff3e0; color: #f57c00; }
-    .badge-qualified { background: #e8f5e9; color: #388e3c; }
-    .badge-converted { background: #f3e5f5; color: #7b1fa2; }
-    .badge-unsubscribed { background: #fce4ec; color: #c2185b; }
+    .badge-quote { background: #e3f2fd; color: #1976d2; }
+    .badge-contact { background: #e8f5e9; color: #388e3c; }
+    .badge-newsletter { background: #fff3e0; color: #f57c00; }
+    .badge-service_quote { background: #f3e5f5; color: #7b1fa2; }
+    .badge-product_quote { background: #fce4ec; color: #c2185b; }
+    .badge-samples_request { background: #e0f7fa; color: #0097a7; }
+    .badge-manual { background: #e8eaf6; color: #3949ab; }
     .message-preview { max-width: 250px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer; }
 
     /* Modal overlay (shared) */
@@ -201,11 +210,11 @@ include __DIR__ . '/includes/admin-header.php';
 </div>
 
 <form class="filters" method="GET">
-    <select name="status">
-        <option value="">All Statuses</option>
-        <?php foreach ($statuses as $s): ?>
-            <option value="<?= htmlspecialchars($s) ?>" <?= $statusFilter === $s ? 'selected' : '' ?>>
-                <?= ucfirst($s) ?>
+    <select name="type">
+        <option value="">All Types</option>
+        <?php foreach ($types as $type): ?>
+            <option value="<?= htmlspecialchars($type) ?>" <?= $formType === $type ? 'selected' : '' ?>>
+                <?= ucfirst(str_replace('_', ' ', $type)) ?>
             </option>
         <?php endforeach; ?>
     </select>
@@ -219,7 +228,7 @@ include __DIR__ . '/includes/admin-header.php';
     </select>
     <input type="text" name="search" placeholder="Search name, email, phone..." value="<?= htmlspecialchars($search) ?>">
     <button type="submit" class="btn btn-primary">Filter</button>
-    <?php if ($statusFilter || $search || $sourceFilter): ?>
+    <?php if ($formType || $search || $sourceFilter): ?>
         <a href="leads.php" class="btn btn-secondary">Clear</a>
     <?php endif; ?>
 </form>
@@ -235,24 +244,24 @@ include __DIR__ . '/includes/admin-header.php';
                 <thead>
                     <tr>
                         <th>Date</th>
-                        <th>Status</th>
+                        <th>Type</th>
                         <th>Source</th>
                         <th>Name</th>
                         <th>Email</th>
                         <th>Phone</th>
-                        <th>Notes</th>
+                        <th>Message</th>
                     </tr>
                 </thead>
                 <tbody>
                     <?php foreach ($leads as $lead): ?>
                         <tr style="cursor: pointer;" onclick="openLead(<?= htmlspecialchars(json_encode($lead), ENT_QUOTES) ?>)">
                             <td><?= date('M j, g:ia', strtotime($lead['created_at'])) ?></td>
-                            <td><span class="badge badge-<?= htmlspecialchars($lead['status']) ?>"><?= ucfirst($lead['status']) ?></span></td>
+                            <td><span class="badge badge-<?= htmlspecialchars($lead['form_type']) ?>"><?= ucfirst(str_replace('_', ' ', $lead['form_type'])) ?></span></td>
                             <td><?php if (!empty($lead['source'])): ?><span class="source-badge"><?= htmlspecialchars($lead['source']) ?></span><?php else: ?>-<?php endif; ?></td>
-                            <td><?= htmlspecialchars(trim(($lead['first_name'] ?? '') . ' ' . ($lead['last_name'] ?? '')) ?: '-') ?></td>
+                            <td><?= htmlspecialchars($lead['name'] ?: '-') ?></td>
                             <td><a href="mailto:<?= htmlspecialchars($lead['email']) ?>" onclick="event.stopPropagation()"><?= htmlspecialchars($lead['email']) ?></a></td>
                             <td><a href="tel:<?= htmlspecialchars($lead['phone']) ?>" onclick="event.stopPropagation()"><?= htmlspecialchars($lead['phone'] ?: '-') ?></a></td>
-                            <td class="message-preview"><?= htmlspecialchars($lead['notes'] ?: '-') ?></td>
+                            <td class="message-preview"><?= htmlspecialchars($lead['message'] ?: '-') ?></td>
                         </tr>
                     <?php endforeach; ?>
                 </tbody>
@@ -327,8 +336,8 @@ include __DIR__ . '/includes/admin-header.php';
                 <div class="value" id="modalDate"></div>
             </div>
             <div class="lead-detail">
-                <label>Status</label>
-                <div class="value" id="modalStatus"></div>
+                <label>Type</label>
+                <div class="value" id="modalType"></div>
             </div>
             <div class="lead-detail">
                 <label>Name</label>
@@ -343,10 +352,6 @@ include __DIR__ . '/includes/admin-header.php';
                 <div class="value" id="modalPhone"></div>
             </div>
             <div class="lead-detail">
-                <label>SMS Consent</label>
-                <div class="value" id="modalSmsConsent"></div>
-            </div>
-            <div class="lead-detail">
                 <label>Source</label>
                 <select name="source" id="modalSource" style="padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; font-size: 0.875rem; width: 100%;">
                     <option value="">-- No Source --</option>
@@ -355,9 +360,17 @@ include __DIR__ . '/includes/admin-header.php';
                     <?php endforeach; ?>
                 </select>
             </div>
-            <div class="lead-detail" id="modalNotesRow">
-                <label>Notes</label>
-                <div class="value message-full" id="modalNotes"></div>
+            <div class="lead-detail" id="modalProjectRow">
+                <label>Project</label>
+                <div class="value" id="modalProject"></div>
+            </div>
+            <div class="lead-detail" id="modalMessageRow">
+                <label>Message</label>
+                <div class="value message-full" id="modalMessage"></div>
+            </div>
+            <div class="lead-detail" id="modalPageRow">
+                <label>Submitted From</label>
+                <div class="value" id="modalPage"></div>
             </div>
 
             <div style="display: flex; gap: 0.5rem; justify-content: flex-end; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #eee;">
@@ -427,14 +440,12 @@ function openAddLeadModal() {
 // ===== LEAD DETAIL / EDIT MODAL =====
 function openLead(lead) {
     closeAllModals();
-    var fullName = ((lead.first_name || '') + ' ' + (lead.last_name || '')).trim() || 'Lead';
     document.getElementById('editLeadId').value = lead.id;
-    document.getElementById('modalTitle').textContent = fullName;
+    document.getElementById('modalTitle').textContent = (lead.name || 'Lead') + ' \u2014 ' + (lead.form_type || '').replace(/_/g, ' ');
     document.getElementById('modalDate').textContent = lead.created_at || '-';
-    document.getElementById('modalStatus').innerHTML = '<span class="badge badge-' + escHtml(lead.status || 'new') + '">' + escHtml(ucfirst(lead.status || 'new')) + '</span>';
-    document.getElementById('modalName').textContent = fullName;
+    document.getElementById('modalType').textContent = (lead.form_type || '-').replace(/_/g, ' ');
+    document.getElementById('modalName').textContent = lead.name || '-';
     document.getElementById('modalEmail').innerHTML = lead.email ? '<a href="mailto:' + escHtml(lead.email) + '">' + escHtml(lead.email) + '</a>' : '-';
-    document.getElementById('modalSmsConsent').textContent = lead.sms_consent == 1 ? 'Yes' : 'No';
 
     var phoneRow = document.getElementById('modalPhoneRow');
     if (lead.phone) {
@@ -467,12 +478,28 @@ function openLead(lead) {
         sourceSelect.appendChild(legacyOpt);
     }
 
-    var notesRow = document.getElementById('modalNotesRow');
-    if (lead.notes) {
-        notesRow.style.display = '';
-        document.getElementById('modalNotes').textContent = lead.notes;
+    var projectRow = document.getElementById('modalProjectRow');
+    if (lead.project) {
+        projectRow.style.display = '';
+        document.getElementById('modalProject').textContent = lead.project;
     } else {
-        notesRow.style.display = 'none';
+        projectRow.style.display = 'none';
+    }
+
+    var messageRow = document.getElementById('modalMessageRow');
+    if (lead.message) {
+        messageRow.style.display = '';
+        document.getElementById('modalMessage').textContent = lead.message;
+    } else {
+        messageRow.style.display = 'none';
+    }
+
+    var pageRow = document.getElementById('modalPageRow');
+    if (lead.page_title || lead.page_url) {
+        pageRow.style.display = '';
+        document.getElementById('modalPage').textContent = (lead.page_title || '') + (lead.page_url ? ' (' + lead.page_url + ')' : '');
+    } else {
+        pageRow.style.display = 'none';
     }
 
     document.getElementById('leadModal').classList.add('active');
@@ -482,10 +509,6 @@ function escHtml(str) {
     var div = document.createElement('div');
     div.textContent = str;
     return div.innerHTML;
-}
-
-function ucfirst(str) {
-    return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
 // ===== MANAGE SOURCES MODAL =====

@@ -1,8 +1,11 @@
 -- =====================================================
 -- Griffin Quartz - Lead Sources Migration
 -- Run this in cPanel phpMyAdmin
--- (The `source` column already exists on the leads table)
 -- =====================================================
+
+-- Add source column to leads table
+-- (Run this first — if column already exists, it will error harmlessly)
+ALTER TABLE leads ADD COLUMN source VARCHAR(100) DEFAULT NULL AFTER form_type;
 
 -- Create managed lead sources table
 CREATE TABLE IF NOT EXISTS lead_sources (
